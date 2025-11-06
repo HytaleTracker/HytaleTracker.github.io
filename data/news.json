@@ -1,0 +1,8 @@
+[
+    {
+        "type": "tweet",
+        "Sumarry": "this is an example",
+        "main-text": "wow, more example text, I should have used lorem ipsum",
+        "link": "https://google.com"
+    }
+]

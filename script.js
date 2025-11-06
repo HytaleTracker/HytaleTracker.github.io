@@ -7,6 +7,10 @@ document.addEventListener("DOMContentLoaded", function() {
             let side = 'right';
             data.forEach(item => {
                 const container = document.getElementById(side);
+                const link = document.createElement('a');
+                link.href = item.link;
+                link.target = "_blank";
+                link.classList.add("invisible-link");
                 const newsItem = document.createElement('div');
                 const mainText = document.createElement('p');
                 const summary = document.createElement('h2');
@@ -17,6 +21,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     const hr = document.createElement('hr');
                     hr.className = side;
                     date.textContent = item.date;
+                    date.className = "date-header";
                     lastDate = item.date;
                     container.appendChild(date);
                     container.appendChild(hr);
@@ -38,11 +43,19 @@ document.addEventListener("DOMContentLoaded", function() {
 
                 summary.textContent = item.summary;
                 summary.className = "summary";
-                newsItem.appendChild(summary);
+                logospan.appendChild(summary);
 
+                mainText.textContent = item.mainText;
+                mainText.className = "main-text";
+                newsItem.appendChild(mainText);
 
                 newsItem.className = "news-item";
-                container.appendChild(newsItem);
+                link.appendChild(newsItem);
+                container.appendChild(link);
+
+                
+
+                side = (side === 'right') ? 'left' : 'right';
 
             });
         });

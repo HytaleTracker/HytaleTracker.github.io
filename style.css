@@ -5,15 +5,33 @@ hr.right{
 hr.left{
     width: 30%;
     float: right;
+    margin-right: 5px;
+}
+#left .date-header{
+    margin-right: 5px;
 }
 
 #news{
     width: 100%;
     height: 100%;
 }
+a.invisible-link{
+    text-decoration: none;
+    color: inherit;
+}
 .logo{
     width: 50px;
     height: 50px;
+}
+.logospan{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+#left .news-item {
+    margin-left: auto;
+    margin-right: 15px;
+    text-align: left;
 }
 .news-item{
     border: 5px solid rgb(85, 85, 85);
@@ -22,17 +40,13 @@ hr.left{
     border-radius: 10px;
     width: 50%;
     height: 20%;
-
-    display: flex;
-    align-items: flex-start;
-    gap: 10px;
 }
-.summary{
-    top: 10px;
-    left: 10px;
+a.invisible-link + a.invisible-link{
+    margin: 10px;
+}
 
-    flex-grow: 1;
-    margin-top: 10px;
+.main-text{
+    margin-top: 0px;
 }
 #left{
     display: inline-block;
@@ -40,6 +54,7 @@ hr.left{
     width: 49%;
     height: 100vh;
     text-align: right;
+    padding-top: 75px;
 }
 #right{
     vertical-align: top;

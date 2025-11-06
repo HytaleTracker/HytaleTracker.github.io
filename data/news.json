@@ -2,8 +2,24 @@
     {
         "type": "tweet",
         "summary": "this is an example",
-        "main-text": "wow, more example text, I should have used lorem ipsum",
+        "mainText": "wow, more example text, I should have used lorem ipsum",
         "date": "August 28 2025",
+        "link": "https://google.com",
+        "tags": ["example", "lorem ipsum"]
+    },
+    {
+        "type": "tweet",
+        "summary": "this is an example",
+        "mainText": "wow, more example text, I should have used lorem ipsum",
+        "date": "August 27 2025",
+        "link": "https://google.com",
+        "tags": ["example", "lorem ipsum"]
+    },
+    {
+        "type": "tweet",
+        "summary": "this is an example",
+        "mainText": "wow, more example text, I should have used lorem ipsum",
+        "date": "August 27 2025",
         "link": "https://google.com",
         "tags": ["example", "lorem ipsum"]
     }

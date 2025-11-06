@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 const container = document.getElementById(side);
                 const newsItem = document.createElement('div');
                 const mainText = document.createElement('p');
-                const sumarry = document.createElement('h2');
+                const summary = document.createElement('h2');
                 const logo = document.createElement('img');
                 
                 if(item.date !== lastDate) {
@@ -36,9 +36,9 @@ document.addEventListener("DOMContentLoaded", function() {
                 logospan.appendChild(logo);
                 newsItem.appendChild(logospan);
 
-                sumarry.textContent = item.sumarry;
-                sumarry.className = "summary";
-                newsItem.appendChild(sumarry);
+                summary.textContent = item.summary;
+                summary.className = "summary";
+                newsItem.appendChild(summary);
 
 
                 newsItem.className = "news-item";

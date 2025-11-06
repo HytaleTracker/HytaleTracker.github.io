@@ -1,7 +1,7 @@
 [
     {
         "type": "tweet",
-        "sumarry": "this is an example",
+        "summary": "this is an example",
         "main-text": "wow, more example text, I should have used lorem ipsum",
         "date": "August 28 2025",
         "link": "https://google.com",

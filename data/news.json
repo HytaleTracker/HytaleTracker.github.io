@@ -10,7 +10,7 @@
     {
         "type": "tweet",
         "summary": "this is an example",
-        "mainText": "wow, more example text, I should have used lorem ipsum",
+        "mainText": "wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now. wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now.",
         "date": "August 27 2025",
         "link": "https://google.com",
         "tags": ["example", "lorem ipsum"]

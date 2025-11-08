@@ -39,7 +39,19 @@
     .sourcesHeader{
         float: top;
     }
-    
+}
+#filters{
+    display: none;
+    background-color: #c5c5c5;
+    width: fit-content;
+    height: fit-content;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 10px;
+}
+#filter{
+    position: absolute;
+    z-index: 100000;
 }
 .date{
         text-align: center;

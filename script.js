@@ -1,60 +1,79 @@
 //load the uh uh uh the uh um uh the uh news from the uh uh uh the uh um uh the uh JSON file
 const newsContainer = document.getElementById("news");
-document.addEventListener("DOMContentLoaded", function() {
+function createNewsElements(filters){
     fetch('./data/news.json')
         .then(response => response.json())
         .then(data => {
             let index = 0;
             data.forEach(item => {
-                const container = document.getElementById("news");
-                const newsItem = document.createElement('div');
-                const mainText = document.createElement('p');
-                const summary = document.createElement('h2');
-                const logo = document.createElement('img');
-
-                const hr = document.createElement('hr');
-                const date = document.createElement("h3");
-                date.className = "date";
-                date.textContent = item.date;
-                container.appendChild(date);
-                hr.className = "divider";
-                container.appendChild(hr);
-
-                if(item.mainPlatform == "tweet"){
-                    logo.src = "./assets/twitter.png";
+                let createDiv = true;
+                if(filters != "null"){
+                    filters.forEach(filter => {
+                        console.log(filter);
+                        if(!item.tags.includes(filter)){
+                            createDiv = false;
+                            console.log(filter);
+                        }
+                    })
+                } else{
+                    createDiv = true;
                 }
-                else if(item.mainPlatform == "blog" | item.mainPlatform == "update"){
-                    logo.src = "./assets/hytale.jpeg";
-                }
+                    if(createDiv == true){
+                        const container = document.getElementById("news");
+                        const newsItem = document.createElement('div');
+                        const mainText = document.createElement('p');
+                        const summary = document.createElement('h2');
+                        const logo = document.createElement('img');
 
-                const logospan = document.createElement('span');
-                logospan.className = "logospan";
-                logo.className = "logo";
-                logospan.appendChild(logo);
-                newsItem.appendChild(logospan);
+                        const hr = document.createElement('hr');
+                        const date = document.createElement("h3");
+                        date.className = "date";
+                        date.textContent = item.date;
+                        container.appendChild(date);
+                        hr.className = "divider";
+                        container.appendChild(hr);
 
-                summary.textContent = item.summary;
-                summary.className = "summary";
-                logospan.appendChild(summary);
+                        if(item.mainPlatform == "tweet"){
+                            logo.src = "./assets/twitter.png";
+                        }
+                        else if(item.mainPlatform == "blog" | item.mainPlatform == "update"){
+                            logo.src = "./assets/hytale.jpeg";
+                        }
 
-                mainText.textContent = item.mainText;
-                mainText.className = "main-text";
-                newsItem.appendChild(mainText);
+                        const logospan = document.createElement('span');
+                        logospan.className = "logospan";
+                        logo.className = "logo";
+                        logospan.appendChild(logo);
+                        newsItem.appendChild(logospan);
 
-                item.tags.forEach(tagText => {
-                    const tag = document.createElement('span');
-                    tag.className = "tag";
-                    tag.textContent = tagText;
-                    newsItem.appendChild(tag);
+                        summary.textContent = item.summary;
+                        summary.className = "summary";
+                        logospan.appendChild(summary);
+
+                        mainText.textContent = item.mainText;
+                        mainText.className = "main-text";
+                        newsItem.appendChild(mainText);
+
+                        item.tags.forEach(tagText => {
+                            const tag = document.createElement('span');
+                            tag.className = "tag";
+                            tag.textContent = tagText;
+                            newsItem.appendChild(tag);
+                        });
+
+                        newsItem.className = "news-item";
+                        newsItem.id = index;
+                        container.appendChild(newsItem);
+                        index += 1;
+                    }
                 });
+            })
+}
 
-                newsItem.className = "news-item";
-                newsItem.id = index;
-                container.appendChild(newsItem);
-                index += 1;
-            });
-        })
+document.addEventListener("DOMContentLoaded", function() {
+    createNewsElements("null");
 });
+//desktop sources
 if(innerWidth > innerHeight){
     newsContainer.addEventListener("click", function(event) {
         try {
@@ -121,3 +140,39 @@ if(innerWidth > innerHeight){
         document.body.appendChild(sourcesDiv);
     });
 }
+//filtering
+const filterSubmitButton = document.getElementById("filter-submit-button");
+filterSubmitButton.addEventListener("click", () => {
+    const form = document.getElementById("filterForm");
+    const children = form.children;
+    let selectedTags = [];
+    console.log(children);
+    for(let child of children){
+        if(child.nodeName == "INPUT"){
+            console.log(child.id);
+            if(child.checked){
+                selectedTags.push(child.id);
+            }
+        }
+    }
+    console.log(selectedTags);
+    const newsItemsToRemove = document.getElementsByClassName("news-item");
+    const dividersToRemove = document.getElementsByClassName("divider");
+    const datesToRemove = document.getElementsByClassName("date");
+    while(newsItemsToRemove[0]){
+        newsItemsToRemove[0].remove();
+    }
+    while(dividersToRemove[0]){
+        dividersToRemove[0].remove();
+    }
+    while(datesToRemove[0]){
+        datesToRemove[0].remove();
+    }
+    if(selectedTags.length == 0){
+        createNewsElements("null");
+    }
+    else{
+        console.log("creating news elements with filter");
+        createNewsElements(selectedTags);
+    }
+})

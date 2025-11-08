@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
             form.appendChild(input);
             form.appendChild(label);
             form.appendChild(document.createElement("br"));
+            clickingLabelClicksBox(input, label);
         });
     })
 })
@@ -31,3 +32,14 @@ filterDropdown.addEventListener("click", () => {
     }
 })
 filterDropdown.click();
+
+function clickingLabelClicksBox(input, label){
+    label.addEventListener("click", () => {
+        if(input.checked == false){
+            input.checked = true;
+        }
+        else{
+            input.checked = false;
+        }
+    })
+}

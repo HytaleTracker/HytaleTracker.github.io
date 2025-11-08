@@ -1,14 +1,30 @@
 //load the uh uh uh the uh um uh the uh news from the uh uh uh the uh um uh the uh JSON file
+const currentDate = new Date();
+let yearToGetJson = currentDate.getFullYear();
+//setting up cache (only for visit so fetching multiple times doesn't actually fetch the file like 100 times but like if the json is updated the user sees it next time because it's not cached between visits :))
+caches.open("jsonCache").then((cache) => {
+    cache.add(`./data/news/${yearToGetJson}.json`);
+})
+
 const newsContainer = document.getElementById("news");
 const scrollWatcher = document.createElement("div");
+
 let itemsCreated = 0;
 function createNewsElements(filters, minDate, maxDate){
-    fetch('./data/news.json', {cache: "no-store"})
+    caches.open("jsonCache").then((cache) => {
+        return cache.match(`./data/news/${yearToGetJson}.json`);
+    })
         .then(response => response.json())
         .then(data => {
             for(var i = itemsCreated; i < itemsCreated + 5; i++){
-                item = data[i];
+                if (i >= data.length) {
+                    throw new Error("NEXT_YEAR");
+                }
+                console.log(i);
+                console.log(data[i]);
+                let item = data[i];
                     if(filterItems(item, filters, minDate, maxDate)){
+                        console.log("passed filter");
                         const container = document.getElementById("news");
                         const newsItem = document.createElement('div');
                         const mainText = document.createElement('p');
@@ -55,7 +71,7 @@ function createNewsElements(filters, minDate, maxDate){
                         });
 
                         newsItem.className = "news-item";
-                        newsItem.id = i + itemsCreated;
+                        newsItem.id = `${i + itemsCreated}-${yearToGetJson}`;
                         container.appendChild(newsItem);
                     }
                 };
@@ -63,10 +79,29 @@ function createNewsElements(filters, minDate, maxDate){
                 console.log(itemsCreated);
                 newsContainer.appendChild(scrollWatcher);
 
-                scrollOvserver.unobserve(scrollWatcher);
-                scrollOvserver.observe(scrollWatcher);
+                scrollObvserver.unobserve(scrollWatcher);
+                scrollObvserver.observe(scrollWatcher);
             })
-            
+            .catch(error => {
+                if(error.message == "NEXT_YEAR"){
+                    console.error(error);
+                    console.log(`ran out of items in ${yearToGetJson}.json`);
+                    yearToGetJson -= 1;
+                    
+                    if(yearToGetJson > 2015){
+                        caches.open("jsonCache").then((cache) => {
+                            cache.add(`./data/news/${yearToGetJson}.json`);
+                        })
+                        itemsCreated = 0;
+                        createNewsElements(filters, minDate, maxDate);
+                    }else{
+                        console.log("ran out of items to load", yearToGetJson);
+                    }
+                }
+                else{
+                    console.error(error);
+                }
+            })    
 }
 function filterItems(item, filters, minDate, maxDate){
     let createDiv = true;
@@ -122,7 +157,7 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 
 //load more when scrollWatcher is in view
-const scrollOvserver = new IntersectionObserver(entries => {
+const scrollObvserver = new IntersectionObserver(entries => {
     entries.forEach(entry => {
             if (entry.isIntersecting) {
                 const form = document.getElementById("filterForm");
@@ -146,7 +181,7 @@ const scrollOvserver = new IntersectionObserver(entries => {
         rootMargin: '200px'
 })
 
-scrollOvserver.observe(scrollWatcher);
+scrollObvserver.observe(scrollWatcher);
 
 //sources
 newsContainer.addEventListener("click", function(event) {
@@ -194,8 +229,13 @@ newsContainer.addEventListener("click", function(event) {
     }
 
 
-    jsonIndex = clickedDiv.id;
-    fetch("data/news.json")
+    const jsonInfo = clickedDiv.id;
+    const jsonIndex = jsonInfo.split("-")[0];
+    const jsonYear= jsonInfo.split("-")[1];
+    
+    caches.open("jsonCache").then((cache) => {
+        return cache.match(`./data/news/${yearToGetJson}.json`);
+    })
     .then(response => response.json())
     .then(data => {
         try {
@@ -224,8 +264,10 @@ newsContainer.addEventListener("click", function(event) {
 
 
 //filtering
+
 const filterSubmitButton = document.getElementById("filter-submit-button");
 filterSubmitButton.addEventListener("click", () => {
+    yearToGetJson = currentDate.getFullYear();
     const form = document.getElementById("filterForm");
     const children = form.children;
     let selectedTags = [];
@@ -261,4 +303,18 @@ filterSubmitButton.addEventListener("click", () => {
         console.log("creating news elements with filter");
         createNewsElements(selectedTags, minDate, maxDate);
     }
+})
+
+//delete cache before page unload
+
+window.addEventListener("beforeunload", () => {
+caches.delete('my-cache').then((deleted) => {
+    if (deleted) {
+        console.log('Cache deleted successfully.');
+    } else {
+        console.log('Cache not found or could not be deleted.');
+    }
+}).catch((error) => {
+    console.error('Error deleting cache:', error);
+});
 })

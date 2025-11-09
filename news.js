@@ -269,8 +269,8 @@ newsContainer.addEventListener("click", function(event) {
                 const indexIndicator = document.createElement("i");
                 indexIndicator.textContent = `[${source}] `;
                 const a = document.createElement('a');
-                a.href = url;
-                a.textContent = url;
+                a.href = url[1];
+                a.textContent = url[0];
                 a.target = '_blank';
                 sourcesDiv.appendChild(indexIndicator);
                 sourcesDiv.appendChild(a);

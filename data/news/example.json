@@ -1,0 +1,26 @@
+[
+    {
+        "mainPlatform": "tweet",
+        "summary": "this is the summary",
+        "mainText": "this is the main text",
+        "date": "8 28 2025",
+        "tags": ["example", "lorem ipsum"],
+        "sources": [{
+            "1": "https://source1.com",
+            "2": "https://source2.com",
+            "3": "https://source3.com"
+        }]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "this is the summary",
+        "mainText": "this is the main text",
+        "date": "8 27 2025",
+        "tags": ["example", "lorem ipsum"],
+        "sources": [{
+            "1": "https://source1.com",
+            "2": "https://source2.com",
+            "3": "https://source3.com"
+        }]
+    }
+]

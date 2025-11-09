@@ -1,0 +1,18 @@
+[
+    {
+        "image": "./assets/Hytale.jpg",
+        "mainText": "This is the main text",
+        "summary": "this is the summary",
+        "link": "https://google.com",
+        "date": "8 28 2025",
+        "tags": ["example", "lorem ipsum"]
+    },
+    {
+        "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa%2FAGF-l7-xp0giyumiqYpM3wf1YZ-yU_MPehOgzHQKxA%3Ds900-mo-c-c0xffffffff-rj-k-no&f=1&nofb=1&ipt=32cd31f92698adc6b693e8fccd123111e48bedaabf808f42d71b74503b79bc4c",
+        "mainText": "This is the main text",
+        "summary": "this is the summary",
+        "link": "https://google.com",
+        "date": "8 28 2025",
+        "tags": ["example", "lorem ipsum"]
+    }
+]

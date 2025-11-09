@@ -1,6 +1,27 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon's discusses potential of 'saving' Hytale.",
+        "mainText": "When asked if he thought it'd be worth looking into saving Hytale, Simon says he hasn't seen the game since '19, and it would be difficult financially - likely requiring parts of the game/tools to be open source.",
+        "date": "6 26 2025",
+        "tags": ["Simon", "Post-Cancellation"],
+        "sources": [{
+            "1": ["Difficult financially", "https://xcancel.com/Simon_Hypixel/status/1938289247829582311"],
+            "2": ["Open sourcing", "https://xcancel.com/Simon_Hypixel/status/1938291591543665117"]
+        }]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon considers saving Hytale, discusses what it would take.",
+        "mainText": "Simon says he'd be willing to put $25M by himself to finish Hytale - saying it would be raw passion, high pressure, high risk, and would require a reduced scope with the legacy engine, be PC only, and require unfinished features to be cut to get the game into the hands of players ASAP. He admits he is considering trying to save Hytale.",
+        "date": "6 26 2025",
+        "tags": ["Simon", "Post-Cancellation"],
+        "sources": [{
+            "1": ["What would be required", "https://xcancel.com/Simon_Hypixel/status/1938326713433268576"]
+        }]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon's first statement on Hytale, post-cancellation",
         "mainText": "During Simon's time working on Hytale ('16-'19), Hytale was <= 2 years from PC release. Simon states that the team was locked in and momentum was insane, with the game shaping up fast towards release. The attention and pressure that the Riot Games label + the trailer put pressure on the team, and Simon felt he couldn't live up to the new expectations - and thus left the team. Simon says Riot was good to him when he left, and gave freedom to the team, and he even turned down 'way more' money from a different company at the last moment because he truly believed Riot Games gave the team/game the best chance of success.",
         "date": "6 25 2025",

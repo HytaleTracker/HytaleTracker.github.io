@@ -7,7 +7,9 @@ const scrollWatcher = document.createElement("div");
 scrollWatcher.id = "scrollWatcher";
 
 let itemsCreated = 0;
+let lastDay = null;
 function createNewsElements(filters, minDate, maxDate){
+    
     caches.open("jsonCache").then((cache) => {
         return cache.match(`./data/news/${yearToGetJson}.json`);
     })
@@ -32,13 +34,16 @@ function createNewsElements(filters, minDate, maxDate){
                         var months = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ];
                         var dateArray = item.date.split(" ");
 
-                        const hr = document.createElement('hr');
-                        const date = document.createElement("h3");
-                        date.className = "date";
-                        date.textContent = `${months[dateArray[0] - 1]} ${dateArray[1]} ${dateArray[2]}`;
-                        container.appendChild(date);
-                        hr.className = "divider";
-                        container.appendChild(hr);
+                        if(item.date != lastDay){
+                            const hr = document.createElement('hr');
+                            const date = document.createElement("h3");
+                            date.className = "date";
+                            date.textContent = `${months[dateArray[0] - 1]} ${dateArray[1]} ${dateArray[2]}`;
+                            container.appendChild(date);
+                            hr.className = "divider";
+                            container.appendChild(hr);
+                            lastDay = item.date;
+                        }
 
                         if(item.mainPlatform == "tweet"){
                             logo.src = "./assets/twitter.png";

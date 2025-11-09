@@ -1,13 +1,13 @@
 [
     {
-        "news": ["example"]
+        "news": ["Statement", "Simon", "Post-Cancellation"]
     },
     {
         "community": ["example"]
     },
     {
         "colors": [{
-            "example": "green"
+            "Statement": "red"
         }]
     }
 ]

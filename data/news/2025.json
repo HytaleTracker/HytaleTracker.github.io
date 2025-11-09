@@ -1,14 +1,12 @@
 [
     {
         "mainPlatform": "tweet",
-        "summary": "this is an example",
-        "mainText": "wow, more example text, I should have used lorem ipsum",
-        "date": "8 28 2025",
-        "tags": ["example", "lorem ipsum", "ugly stupid annoying div"],
+        "summary": "Simon's first statement on Hytale, post-cancellation",
+        "mainText": "During Simon's time working on Hytale ('16-'19), Hytale was <= 2 years from PC release. Simon states that the team was locked in and momentum was insane, with the game shaping up fast towards release. The attention and pressure that the Riot Games label + the trailer put pressure on the team, and Simon felt he couldn't live up to the new expectations - and thus left the team. Simon says Riot was good to him when he left, and gave freedom to the team, and he even turned down 'way more' money from a different company at the last moment because he truly believed Riot Games gave the team/game the best chance of success.",
+        "date": "6 25 2025",
+        "tags": ["Statement", "Simon", "Post-Cancellation"],
         "sources": [{
-            "1": "https://source1.com",
-            "2": "https://source2.com",
-            "3": "https://source3.com"
+            "1": "https://xcancel.com/Simon_Hypixel/status/1937845322039873916"
         }]
     }
 ]

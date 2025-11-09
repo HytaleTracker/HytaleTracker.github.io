@@ -1,24 +1,43 @@
 const form = document.getElementById("filterForm");
+const currentURL = window.location.pathname;
 document.addEventListener("DOMContentLoaded", () => {
     const h3 = document.createElement("h3");
     h3.textContent = "Tags: ";
     form.appendChild(h3);
-    fetch("/data/tags.json", {cache: "no-store"})
+    fetch("/data/tags.json")
     .then(response => response.json())
     .then(data => {
-        data.forEach(tag => {
-            const input = document.createElement("input");
-            input.type = "checkbox";
-            input.id = tag;
-            input.name = tag;
-            const label = document.createElement("label");
-            label.for = tag;
-            label.textContent = tag;
-            form.appendChild(input);
-            form.appendChild(label);
-            form.appendChild(document.createElement("br"));
-            clickingLabelClicksBox(input, label);
-        });
+        console.log(currentURL);
+        if(currentURL == "/community.html" || currentURL == "/community"){
+            data[1].community.forEach(tag => {
+                const input = document.createElement("input");
+                input.type = "checkbox";
+                input.id = tag;
+                input.name = tag;
+                const label = document.createElement("label");
+                label.for = tag;
+                label.textContent = tag;
+                form.appendChild(input);
+                form.appendChild(label);
+                form.appendChild(document.createElement("br"));
+                clickingLabelClicksBox(input, label);
+            });
+        }
+        if(currentURL == "/" || currentURL == "/index" || currentURL == "/index.html"){
+            data[0].news.forEach(tag => {
+                const input = document.createElement("input");
+                input.type = "checkbox";
+                input.id = tag;
+                input.name = tag;
+                const label = document.createElement("label");
+                label.for = tag;
+                label.textContent = tag;
+                form.appendChild(input);
+                form.appendChild(label);
+                form.appendChild(document.createElement("br"));
+                clickingLabelClicksBox(input, label);
+            });
+        }
     })
 })
 const filterDropdown = document.getElementById("filterDropdown");

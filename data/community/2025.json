@@ -1,7 +1,7 @@
 [
     {
-        "image": "/link/to/image.jpeg",
-        "Text": "lorem ipsum",
+        "image": "./assets/Hytale.jpg",
+        "main-text": "lorem ipsum",
         "link": "google.com",
         "tags": ["example", "lorem ipsum"]
     }

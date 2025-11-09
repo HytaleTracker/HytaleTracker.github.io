@@ -1,14 +1,15 @@
+//loading elements
 //load the uh uh uh the uh um uh the uh news from the uh uh uh the uh um uh the uh JSON file
 const currentDate = new Date();
 let yearToGetJson = currentDate.getFullYear();
 
-const newsContainer = document.getElementById("news");
+const communityContainer = document.getElementById("grid");
 const scrollWatcher = document.createElement("div");
 
 let itemsCreated = 0;
-function createNewsElements(filters, minDate, maxDate){
-    caches.open("jsonCache").then((cache) => {
-        return cache.match(`./data/news/${yearToGetJson}.json`);
+function createCommunityElements(filters, minDate, maxDate){
+    caches.open("communityJsonCache").then((cache) => {
+        return cache.match(`./data/community/${yearToGetJson}.json`);
     })
         .then(response => response.json())
         .then(data => {
@@ -21,59 +22,41 @@ function createNewsElements(filters, minDate, maxDate){
                 let item = data[i];
                     if(filterItems(item, filters, minDate, maxDate)){
                         console.log("passed filter");
-                        const container = document.getElementById("news");
-                        const newsItem = document.createElement('div');
+                        const container = document.getElementById("grid");
+                        const communityItem = document.createElement('div');
                         const mainText = document.createElement('p');
                         const summary = document.createElement('h2');
-                        const logo = document.createElement('img');
+                        const image = document.createElement('img');
 
                         var months = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ];
                         var dateArray = item.date.split(" ");
 
-                        const hr = document.createElement('hr');
-                        const date = document.createElement("h3");
-                        date.className = "date";
-                        date.textContent = `${months[dateArray[0] - 1]} ${dateArray[1]} ${dateArray[2]}`;
-                        container.appendChild(date);
-                        hr.className = "divider";
-                        container.appendChild(hr);
-
-                        if(item.mainPlatform == "tweet"){
-                            logo.src = "./assets/twitter.png";
-                        }
-                        else if(item.mainPlatform == "blog" || item.mainPlatform == "update"){
-                            logo.src = "./assets/hytale.jpeg";
-                        }
-
-                        const logospan = document.createElement('span');
-                        logospan.className = "logospan";
-                        logo.className = "logo";
-                        logospan.appendChild(logo);
-                        newsItem.appendChild(logospan);
+                        image.className = "community-image";
+                        communityItem.appendChild(image);
 
                         summary.textContent = item.summary;
                         summary.className = "summary";
-                        logospan.appendChild(summary);
+                        communityItem.appendChild(summary);
 
                         mainText.textContent = item.mainText;
                         mainText.className = "main-text";
-                        newsItem.appendChild(mainText);
+                        communityItem.appendChild(mainText);
 
                         item.tags.forEach(tagText => {
                             const tag = document.createElement('span');
                             tag.className = "tag";
                             tag.textContent = tagText;
-                            newsItem.appendChild(tag);
+                            communityItem.appendChild(tag);
                         });
 
-                        newsItem.className = "news-item";
-                        newsItem.id = `${i}-${yearToGetJson}`;
-                        container.appendChild(newsItem);
+                        communityItem.className = "community-item";
+                        communityItem.id = `${i}-${yearToGetJson}`;
+                        container.appendChild(communityItem);
                     }
                 };
                 itemsCreated += 5;
                 console.log(itemsCreated);
-                newsContainer.appendChild(scrollWatcher);
+                container.appendChild(scrollWatcher);
 
                 scrollObvserver.unobserve(scrollWatcher);
                 scrollObvserver.observe(scrollWatcher);
@@ -85,11 +68,11 @@ function createNewsElements(filters, minDate, maxDate){
                     yearToGetJson -= 1;
                     
                     if(yearToGetJson > 2015){
-                        caches.open("jsonCache").then((cache) => {
-                            cache.add(`./data/news/${yearToGetJson}.json`);
+                        caches.open("communityJsonCache").then((cache) => {
+                            cache.add(`./data/community/${yearToGetJson}.json`);
                         })
                         itemsCreated = 0;
-                        createNewsElements(filters, minDate, maxDate);
+                        createCommunityElements(filters, minDate, maxDate);
                     }else{
                         console.log("ran out of items to load", yearToGetJson);
                     }
@@ -149,12 +132,11 @@ function filterItems(item, filters, minDate, maxDate){
 }
 
 document.addEventListener("DOMContentLoaded", function() {
-    caches.open("jsonCache")
-    .then(cache => cache.add(`./data/news/${yearToGetJson}.json`))
+    caches.open("communityJsonCache")
+    .then(cache => cache.add(`./data/community/${yearToGetJson}.json`))
     .then(() => {
-        createNewsElements("null", "null", "null");
+        createCommunityElements("null", "null", "null");
     });
-
 });
 
 //load more when scrollWatcher is in view
@@ -175,7 +157,7 @@ const scrollObvserver = new IntersectionObserver(entries => {
                 }
                 const minDate = document.getElementById("min-date-input").value;
                 const maxDate = document.getElementById("max-date-input").value;
-                createNewsElements(selectedTags, minDate, maxDate);
+                createCommunityElements(selectedTags, minDate, maxDate);
             }
         });
     }, {
@@ -185,7 +167,7 @@ const scrollObvserver = new IntersectionObserver(entries => {
 scrollObvserver.observe(scrollWatcher);
 
 //sources
-newsContainer.addEventListener("click", function(event) {
+communityContainer.addEventListener("click", function(event) {
     try {
         const sourcesDiv = document.getElementById("sources-div");
         sourcesDiv.remove();
@@ -195,7 +177,7 @@ newsContainer.addEventListener("click", function(event) {
     }
     console.log("News container clicked");
 
-    const clickedDiv = event.target.closest(".news-item");
+    const clickedDiv = event.target.closest(".community-item");
     if (!clickedDiv) return;
 
     const sourcesDiv = document.createElement("div");
@@ -234,8 +216,8 @@ newsContainer.addEventListener("click", function(event) {
     const jsonIndex = jsonInfo.split("-")[0];
     const jsonYear= jsonInfo.split("-")[1];
     
-    caches.open("jsonCache").then((cache) => {
-        return cache.match(`./data/news/${jsonYear}.json`);
+    caches.open("communityJsonCache").then((cache) => {
+        return cache.match(`./data/community/${jsonYear}.json`);
     })
     .then(response => response.json())
     .then(data => {
@@ -285,13 +267,13 @@ filterSubmitButton.addEventListener("click", () => {
         }
     }
     console.log(selectedTags);
-    const newsItemsToRemove = document.getElementsByClassName("news-item");
+    const communityItemsToRemove = document.getElementsByClassName("community-item");
     const dividersToRemove = document.getElementsByClassName("divider");
     const datesToRemove = document.getElementsByClassName("date");
     const minDate = document.getElementById("min-date-input").value;
     const maxDate = document.getElementById("max-date-input").value;
-    while(newsItemsToRemove[0]){
-        newsItemsToRemove[0].remove();
+    while(communityItemsToRemove[0]){
+        communityItemsToRemove[0].remove();
     }
     while(dividersToRemove[0]){
         dividersToRemove[0].remove();
@@ -301,18 +283,18 @@ filterSubmitButton.addEventListener("click", () => {
     }
     itemsCreated = 0;
     if(selectedTags.length == 0){
-        createNewsElements("null", minDate, maxDate);
+        createCommunityElements("null", minDate, maxDate);
     }
     else{
         console.log("creating news elements with filter");
-        createNewsElements(selectedTags, minDate, maxDate);
+        createCommunityElements(selectedTags, minDate, maxDate);
     }
 })
 
 //delete cache before page unload
 
 window.addEventListener("beforeunload", () => {
-caches.delete('jsonCache').then((deleted) => {
+caches.delete('communityJsonCache').then((deleted) => {
     if (deleted) {
         console.log('Cache deleted successfully.');
     } else {

@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hytale Community | Hytale Tracker</title>
     <link rel="stylesheet" type="text/css" href="./style.css">
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
   </head>
   <body>
     <nav>
@@ -18,6 +19,38 @@
           <a href="./other-stuff.html" class="invisible-link">Other Stuff</a>
         </div>
       </div>
+      <main>
+        <div id="community">
+          <div id = filter>
+              <button id="filterDropdown" style="cursor: pointer;">filters</button><br>
+              <div id = filters>
+                <form id="filterForm">
+                  
+                </form>
+                <button id = "filter-submit-button">Submit</button>
+                <button id="clear-filters">clear</button>
+              </div>
+              <div id="date-filter">
+                <h3>Date: </h3>
+                <form id="date-form">
+                  <label for="min-date-input">start date: </label>
+                  <input type="date" id="min-date-input" name="min-date-input">
+
+                  <br>
+                  
+                  <label for="max-date-input">end date: </label>
+                  <input type="date" id="max-date-input" name="max-date-input">
+                </form>
+                <button id="clear-dates">clear</button>
+              </div>
+            </div>
+            <div id = "grid">
+              
+            </div>
+        </div>
+      </main>
+      <script src="filterCreator.js"></script> 
+      <script src="community.js"></script>
     </nav>
   </body>
 </html>

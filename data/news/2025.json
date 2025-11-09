@@ -4,7 +4,6 @@
         "summary": "this is an example",
         "mainText": "wow, more example text, I should have used lorem ipsum",
         "date": "8 28 2025",
-        "link": "https://google.com",
         "tags": ["example", "lorem ipsum", "ugly stupid annoying div"],
         "sources": [{
             "1": "https://source1.com",
@@ -17,7 +16,6 @@
         "summary": "this is an example",
         "mainText": "wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now. wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now.",
         "date": "8 27 2025",
-        "link": "https://google.com",
         "tags": ["example", "lorem ipsum", "not cool div"],
         "sources": [{
             "1": "https://source1.com",
@@ -42,7 +40,6 @@
         "summary": "this is an example",
         "mainText": "wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now. wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now.",
         "date": "8 27 2025",
-        "link": "https://google.com",
         "tags": ["example", "lorem ipsum", "cool div"]
     },
     {
@@ -50,7 +47,6 @@
         "summary": "this is an example",
         "mainText": "wow, more example text, I should have used lorem ipsum",
         "date": "8 28 2025",
-        "link": "https://google.com",
         "tags": ["example", "lorem ipsum", "ugly stupid annoying div"],
         "sources": [{
             "1": "https://source1.com",
@@ -63,7 +59,6 @@
         "summary": "this is an example",
         "mainText": "wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now. wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now.",
         "date": "8 27 2025",
-        "link": "https://google.com",
         "tags": ["example", "lorem ipsum", "not cool div"],
         "sources": [{
             "1": "https://source1.com",
@@ -88,7 +83,6 @@
         "summary": "this is an example",
         "mainText": "wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now. wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now.",
         "date": "8 27 2025",
-        "link": "https://google.com",
         "tags": ["example", "lorem ipsum", "cool div"]
     },
     {
@@ -96,7 +90,6 @@
         "summary": "this is an example",
         "mainText": "wow, more example text, I should have used lorem ipsum",
         "date": "8 28 2025",
-        "link": "https://google.com",
         "tags": ["example", "lorem ipsum", "ugly stupid annoying div"],
         "sources": [{
             "1": "https://source1.com",
@@ -109,7 +102,6 @@
         "summary": "this is an example",
         "mainText": "wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now. wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now.",
         "date": "8 27 2025",
-        "link": "https://google.com",
         "tags": ["example", "lorem ipsum", "not cool div"],
         "sources": [{
             "1": "https://source1.com",
@@ -134,7 +126,6 @@
         "summary": "this is an example",
         "mainText": "wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now. wow, more example text, I should have used lorem ipsum. This is to test how bigger boxes change the formatting with the two sides thing, this sohuld be long enough now.",
         "date": "8 27 2025",
-        "link": "https://google.com",
         "tags": ["example", "lorem ipsum", "cool div"]
     }
 ]

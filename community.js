@@ -1,10 +1,13 @@
-//loading elements
 //load the uh uh uh the uh um uh the uh news from the uh uh uh the uh um uh the uh JSON file
+const grid = document.getElementById('grid');
+
 const currentDate = new Date();
 let yearToGetJson = currentDate.getFullYear();
 
 const communityContainer = document.getElementById("grid");
 const scrollWatcher = document.createElement("div");
+scrollWatcher.id = "scrollWatcher";
+document.getElementById("community").appendChild(scrollWatcher);
 
 let itemsCreated = 0;
 function createCommunityElements(filters, minDate, maxDate){
@@ -13,7 +16,8 @@ function createCommunityElements(filters, minDate, maxDate){
     })
         .then(response => response.json())
         .then(data => {
-            for(var i = itemsCreated; i < itemsCreated + 5; i++){
+            let skippedItems = 0;
+            for(var i = itemsCreated; i < itemsCreated + 10; i++){
                 if (i >= data.length) {
                     throw new Error("NEXT_YEAR");
                 }
@@ -27,11 +31,19 @@ function createCommunityElements(filters, minDate, maxDate){
                         const mainText = document.createElement('p');
                         const summary = document.createElement('h2');
                         const image = document.createElement('img');
+                        const link = document.createElement("a");
+                        link.href = item.link;
+                        link.target = "_blank";
+                        link.classList.add("invisible-link");
 
                         var months = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ];
                         var dateArray = item.date.split(" ");
 
                         image.className = "community-image";
+                        image.src = item.image;
+                        image.style.height = "60%";
+                        image.style.maxWidth = "90%"
+                        image.style.borderRadius = "10px"
                         communityItem.appendChild(image);
 
                         summary.textContent = item.summary;
@@ -51,15 +63,20 @@ function createCommunityElements(filters, minDate, maxDate){
 
                         communityItem.className = "community-item";
                         communityItem.id = `${i}-${yearToGetJson}`;
-                        container.appendChild(communityItem);
+                        
+                        link.appendChild(communityItem);
+                        container.appendChild(link);
+
+                    }else{
+                        skippedItems += 1;
                     }
                 };
-                itemsCreated += 5;
+                itemsCreated += 10 - skippedItems;
                 console.log(itemsCreated);
-                container.appendChild(scrollWatcher);
 
                 scrollObvserver.unobserve(scrollWatcher);
                 scrollObvserver.observe(scrollWatcher);
+                
             })
             .catch(error => {
                 if(error.message == "NEXT_YEAR"){
@@ -136,6 +153,7 @@ function filterItems(item, filters, minDate, maxDate){
 }
 
 window.addEventListener("load", async function() {
+
     await caches.delete('communityJsonCache');
 
     const cache = await caches.open("communityJsonCache");
@@ -145,6 +163,7 @@ window.addEventListener("load", async function() {
 
     createCommunityElements("null", "null", "null");
 });
+
 
 //load more when scrollWatcher is in view
 const scrollObvserver = new IntersectionObserver(entries => {
@@ -173,91 +192,7 @@ const scrollObvserver = new IntersectionObserver(entries => {
 
 scrollObvserver.observe(scrollWatcher);
 
-//sources
-communityContainer.addEventListener("click", function(event) {
-    try {
-        const sourcesDiv = document.getElementById("sources-div");
-        sourcesDiv.remove();
-        console.log("Sources div removed");
-    } catch (error) {
-        console.log("No sources div to remove");
-    }
-    console.log("News container clicked");
-
-    const clickedDiv = event.target.closest(".community-item");
-    if (!clickedDiv) return;
-
-    const sourcesDiv = document.createElement("div");
-    sourcesDiv.id = "sources-div";
-
-    const xButton = document.createElement("span");
-    xButton.textContent = "X";
-    xButton.className = "xButton";
-    sourcesDiv.appendChild(xButton);
-
-    xButton.addEventListener("click", () => {
-        sourcesDiv.remove();
-        console.log("div removed");
-    })
-
-    const sourcesHeader = document.createElement("h3");
-    sourcesHeader.className = "sourcesHeader";
-    sourcesHeader.textContent = "Sources:";
-    sourcesDiv.appendChild(sourcesHeader);
-
-    //desktop
-    if(innerHeight < innerWidth){
-        const rect = clickedDiv.getBoundingClientRect();
-        sourcesDiv.style.position = "absolute";
-        sourcesDiv.style.top = `${rect.top + window.scrollY}px`;
-        sourcesDiv.style.left = `${rect.right + 10 + window.scrollX}px`;
-    }else{
-        const rect = clickedDiv.getBoundingClientRect();
-        sourcesDiv.style.position = "absolute";
-        sourcesDiv.style.top = `${rect.top + window.scrollY + clickedDiv.offsetHeight}px`;
-        sourcesDiv.style.left = `${(innerWidth - clickedDiv.offsetWidth) / 2}px`
-    }
-
-
-    const jsonInfo = clickedDiv.id;
-    const jsonIndex = jsonInfo.split("-")[0];
-    const jsonYear= jsonInfo.split("-")[1];
-    
-    caches.open("communityJsonCache").then((cache) => {
-        return cache.match(`./data/community/${jsonYear}.json`);
-    })
-    .then(response => response.json())
-    .then(data => {
-        try {
-        let source = 1;
-        data[jsonIndex].sources.forEach(sourceObj => {
-            Object.values(sourceObj).forEach(url => {
-                const indexIndicator = document.createElement("i");
-                indexIndicator.textContent = `[${source}] `;
-                const a = document.createElement('a');
-                a.href = url;
-                a.textContent = url;
-                a.target = '_blank';
-                sourcesDiv.appendChild(indexIndicator);
-                sourcesDiv.appendChild(a);
-                sourcesDiv.appendChild(document.createElement('br'));
-                source += 1;
-            });
-        });
-        } catch (error){
-            console.log("error loading sources", error);
-            const errorMessage = document.createElement("p");
-            errorMessage.textContent = "hmmm, we had issues loading that. . . Either we forgot to put sources (sorry about that) or the was a bug in the code (sorry from the dev), if the problem persists, please let us know";
-            sourcesDiv.appendChild(errorMessage);
-        }
-    })
-
-    document.body.appendChild(sourcesDiv);
-});
-
-
 //filtering
-
 const filterSubmitButton = document.getElementById("filter-submit-button");
 filterSubmitButton.addEventListener("click", () => {
     yearToGetJson = currentDate.getFullYear();

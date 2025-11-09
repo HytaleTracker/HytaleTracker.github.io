@@ -4,6 +4,7 @@ let yearToGetJson = currentDate.getFullYear();
 
 const newsContainer = document.getElementById("news");
 const scrollWatcher = document.createElement("div");
+scrollWatcher.id = "scrollWatcher";
 
 let itemsCreated = 0;
 function createNewsElements(filters, minDate, maxDate){
@@ -12,6 +13,7 @@ function createNewsElements(filters, minDate, maxDate){
     })
         .then(response => response.json())
         .then(data => {
+            let skippedItems = 0;
             for(var i = itemsCreated; i < itemsCreated + 5; i++){
                 if (i >= data.length) {
                     throw new Error("NEXT_YEAR");
@@ -69,9 +71,11 @@ function createNewsElements(filters, minDate, maxDate){
                         newsItem.className = "news-item";
                         newsItem.id = `${i}-${yearToGetJson}`;
                         container.appendChild(newsItem);
+                    }else{
+                        skippedItems += 1;
                     }
                 };
-                itemsCreated += 5;
+                itemsCreated += 5 - skippedItems;
                 console.log(itemsCreated);
                 newsContainer.appendChild(scrollWatcher);
 

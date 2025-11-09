@@ -6,9 +6,9 @@
         "date": "8 28 2025",
         "tags": ["example", "lorem ipsum"],
         "sources": [{
-            "1": "https://source1.com",
-            "2": "https://source2.com",
-            "3": "https://source3.com"
+            "1": ["this is the displayed text", "https://google.com"],
+            "2": ["this is the displayed text", "https://google.com"],
+            "3": ["this is the displayed text", "https://google.com"]
         }]
     },
     {
@@ -18,9 +18,9 @@
         "date": "8 27 2025",
         "tags": ["example", "lorem ipsum"],
         "sources": [{
-            "1": "https://source1.com",
-            "2": "https://source2.com",
-            "3": "https://source3.com"
+            "1": ["this is the displayed text", "https://google.com"],
+            "2": ["this is the displayed text", "https://google.com"],
+            "3": ["this is the displayed text", "https://google.com"]
         }]
     }
 ]

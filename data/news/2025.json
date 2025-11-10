@@ -1,7 +1,40 @@
 [
     {
         "mainPlatform": "tweet",
-        "summary": "Simon clarifies his SaveHytale intent",
+        "summary": "Simon updates on Proximity Chat, discusses community created experiences.",
+        "mainText": "After discussing with a ex-Hytale dev, Simon reports that it's possible to add proximity voice chat back to the game, and personally says he will personally make sure it happens because of the potential fun and chaos it could add, and because (when combined with climbing/vaulting mechanics) it could easily enable a Peak-like minigame -- another reason to get the community involved and able to make custom maps/mods early on.",
+        "date": "07 24 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Servers",
+            "Modding",
+            "Features"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Update on VC",
+                    "https://xcancel.com/Simon_Hypixel/status/1948567444789895372"
+                ]
+            },
+            {
+                "2": [
+                    "Peak-like minigame",
+                    "https://xcancel.com/Simon_Hypixel/status/1948568773121773819"
+                ]
+            },
+            {
+                "3": [
+                    "Community involved",
+                    "https://xcancel.com/Simon_Hypixel/status/1948571160372789308"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon clarifies his SaveHytale intent.",
         "mainText": "Answering various users on Twitter, Simon clarifies that he intends to only buy the Hytale IP - which can be code, art, name, etc. -  NOT the whole business, which he says makes it a simpler transaction that isn't like in the movies. He further clarifies that while negotiation wouldn't last long, the initiation of talks and the drafting of agreements is the real time sink. Simon continues by saying that a large percentage of a company's worth is in the people - which Hytale no longer has - and that because the Legacy Engine is not cross-platform and because the New Engine is far from playable, Hytale isn't a great value to most medium/big studios. These details make his bid the only decent option for Hytale, in his eyes.",
         "date": "07 18 2025",
         "tags": [

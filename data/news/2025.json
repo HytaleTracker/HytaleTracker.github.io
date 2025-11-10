@@ -1,6 +1,32 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon explains why Hytale servers were Java-based / original drive for Hytale.",
+        "mainText": "Simon says that the reason Hytale servers are Java-based is due to the size of the Minecraft server/modding ecosystem, which fostered a very specific hiring pool with lots of dedicated developers. The original drive for Hytale was to build Hypixel's dream platform and a game alongside it, and then to share the tools / platform with others!",
+        "date": "07 07 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Servers",
+            "Modding"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Java-based servers",
+                    "https://xcancel.com/Simon_Hypixel/status/1942373027003412971"
+                ]
+            },
+            {
+                "2": [
+                    "Dream platform",
+                    "https://xcancel.com/Simon_Hypixel/status/1942374339967389778"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon explains why he's so communicative about SaveHytale efforts.",
         "mainText": "When questioned on if his constant communication leads to rising expectations, Simon explains that the years of silence didn't work for Hytale. By communicating, he says, it helps him see that Hytale is worth fighting for. Simon reiterates that Hytale is 100% dead without his communication and efforts, stating that saving Legacy Hytale makes no business sense. Simon says he believes in Hytale, and attempting to save it is his way of giving back what he was given years ago.",
         "date": "07 02 2025",

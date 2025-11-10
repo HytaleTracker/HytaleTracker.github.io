@@ -1,6 +1,30 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon discusses potential first steps.",
+        "mainText": "Simon says the first steps would be to evaluate the project, clean it up, and then achieve a basic (if limited) game loop before creating a roadmap. He clarifies that a lot of content would be cut early on, just to get the game out and start generating funds, saying a creative mode could be released at least, allowing the community to get involved while finishing other aspects of the game.",
+        "date": "06 30 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Evaluate, clean up, fix.",
+                    "https://xcancel.com/Simon_Hypixel/status/1939848807086182421"
+                ]
+            },
+            {
+                "2": [
+                    "First moves/Just Launch",
+                    "https://xcancel.com/Simon_Hypixel/status/1939845791234847087"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses releasing an unfinished project.",
         "mainText": "Simon talks about the courage required to release an unfinished project, and that searching for perfection just leads to expectations becoming bigger and bigger as time passes and promises are made. When you get to the point of rewriting every system (and even things like music), Simon says, you've lost the plot. Simon believes the AI Combat system, which had previously been showcased, likely had to be rewritten for the new (Forge) engine.",
         "date": "6 29 2025",

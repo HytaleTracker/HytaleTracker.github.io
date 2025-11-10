@@ -1,6 +1,50 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon clarifies his SaveHytale intent",
+        "mainText": "Answering various users on Twitter, Simon clarifies that he intends to only buy the Hytale IP - which can be code, art, name, etc. -  NOT the whole business, which he says makes it a simpler transaction that isn't like in the movies. He further clarifies that while negotiation wouldn't last long, the initiation of talks and the drafting of agreements is the real time sink. Simon continues by saying that a large percentage of a company's worth is in the people - which Hytale no longer has - and that because the Legacy Engine is not cross-platform and because the New Engine is far from playable, Hytale isn't a great value to most medium/big studios. These details make his bid the only decent option for Hytale, in his eyes.",
+        "date": "07 18 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Engine",
+            "Business"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "IP, not business",
+                    "https://xcancel.com/Simon_Hypixel/status/1946365709929377968"
+                ]
+            },
+            {
+                "2": [
+                    "Not like the movies",
+                    "https://xcancel.com/Simon_Hypixel/status/1946366634676883922"
+                ]
+            },
+            {
+                "3": [
+                    "Initiation, Negotiation, and Drafting",
+                    "https://xcancel.com/Simon_Hypixel/status/1946368042306552116"
+                ]
+            },
+            {
+                "4": [
+                    "Company worth",
+                    "https://xcancel.com/Simon_Hypixel/status/1946400246482821507"
+                ]
+            },
+            {
+                "5": [
+                    "Only decent option",
+                    "https://xcancel.com/Simon_Hypixel/status/1946403152271474979"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses proximity chat/other features.",
         "mainText": "Simon states that proximity voice chat in Hytale was experimented on in '17-'18, and he was a big believer in the feature, and believes it would open many doors to new gameplay experiences. While he can't commit to split-screen functionality, Simon says that Hytale had lots of great unique features that are now considered common in other games.",
         "date": "07 15 2025",

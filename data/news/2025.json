@@ -1,6 +1,50 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon discusses the financials, community events.",
+        "mainText": "Responding to a user, Simon clarifies that his previously mentioned figure of $25M USD would be put towards development, with $1M-$2M likely being burnt before release. There were no plans on monetization of Hytale due to many offers, and Simon states that the price of the game will depend on math being done later. Additionally, Simon says there won't be events like 'Hycon' or even offices before the game is released and feels good, but it's good to know he'd always be invited.",
+        "date": "07 24 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Business",
+            "Community"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "$25M USD",
+                    "https://xcancel.com/Simon_Hypixel/status/1948574457506701496"
+                ]
+            },
+            {
+                "2": [
+                    "Burning money before release",
+                    "https://xcancel.com/Simon_Hypixel/status/1948575697846329537"
+                ]
+            },
+            {
+                "3": [
+                    "Later math to determine price",
+                    "https://xcancel.com/Simon_Hypixel/status/1948581706161602848"
+                ]
+            },
+            {
+                "4": [
+                    "No Hycon or offices",
+                    "https://xcancel.com/Simon_Hypixel/status/1948576611986534886"
+                ]
+            },
+            {
+                "5": [
+                    "Invite to Hycon",
+                    "https://xcancel.com/Simon_Hypixel/status/1948577134278013097"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses various features in Hytale.",
         "mainText": "Simon discussed with an ex-Hytale dev, who stated that exploration was insanely good, with tons of prefabs and a crazy underground to explore, and Simon says it was amazing in '19 and is apparently much better now - with an incomparable amount of handcrafted work. In addition to this, Simon says he'd need to look into Zone 4 returning and the possibility of Peer-2-Peer Co-Op, and says it'd make sense to let players keep their world and access new content later.",
         "date": "07 24 2025",

@@ -1,6 +1,49 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon discusses various features in Hytale.",
+        "mainText": "Simon discussed with an ex-Hytale dev, who stated that exploration was insanely good, with tons of prefabs and a crazy underground to explore, and Simon says it was amazing in '19 and is apparently much better now - with an incomparable amount of handcrafted work. In addition to this, Simon says he'd need to look into Zone 4 returning and the possibility of Peer-2-Peer Co-Op, and says it'd make sense to let players keep their world and access new content later.",
+        "date": "07 24 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Features"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Exploration, Underground",
+                    "https://xcancel.com/Simon_Hypixel/status/1948573549511287213"
+                ]
+            },
+            {
+                "2": [
+                    "Incomparable amount of handcrafted work",
+                    "https://xcancel.com/Simon_Hypixel/status/1948574030048420186"
+                ]
+            },
+            {
+                "3": [
+                    "Zone 4",
+                    "https://xcancel.com/Simon_Hypixel/status/1948583347883585606"
+                ]
+            },
+            {
+                "4": [
+                    "P2P Co-Op",
+                    "https://xcancel.com/Simon_Hypixel/status/1948582040376414241"
+                ]
+            },
+            {
+                "5": [
+                    "Keeping worlds",
+                    "https://xcancel.com/Simon_Hypixel/status/1948577347721904155"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses potential early access tiers, E.A. day one.",
         "mainText": "Simon floats the idea of having 2/3 tiers of Early Access support - T1 being lower price for people who want to try the game, T2 having cosmetics for supporting, and T3 having multiple access keys + extra cosmetics. Alongside a creative mode, Early Access Day One would likely have a very barebones survival mode (with great exploration), with Adventure (Story) Mode coming later down the line when there is more content and a more complete survival gameplay loop. Players would be able to host their own servers, but no official server/minigames on day one.",
         "date": "07 24 2025",

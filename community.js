@@ -86,7 +86,7 @@ function createCommunityElements(filters, minDate, maxDate){
                         skippedItems += 1;
                     }
                 };
-                itemsCreated += 10 - skippedItems;
+                itemsCreated += 10;
                 console.log(itemsCreated);
 
                 scrollObvserver.unobserve(scrollWatcher);

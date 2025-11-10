@@ -340,3 +340,18 @@ filterSubmitButton.addEventListener("click", () => {
         createNewsElements(selectedTags, minDate, maxDate);
     }
 })
+
+
+let easterEggKeysPressed = [];
+document.addEventListener('keydown', function(event) {
+    easterEggKeysPressed.push(event.key);
+    const l = easterEggKeysPressed.length;
+    console.log(easterEggKeysPressed);
+
+    if(easterEggKeysPressed[l - 1] == "8" && easterEggKeysPressed[l - 2] == "2" && easterEggKeysPressed[l - 3] == "/" && easterEggKeysPressed[l - 4] == "8"){
+        window.alert("8/28 forever!")
+    }
+    if(l > 4){
+        easterEggKeysPressed = [easterEggKeysPressed[l - 4], easterEggKeysPressed[l - 3], easterEggKeysPressed[l - 2], easterEggKeysPressed[l - 1]];
+    }
+});

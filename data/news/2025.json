@@ -1,6 +1,31 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon discusses releasing an unfinished project.",
+        "mainText": "Simon talks about the courage required to release an unfinished project, and that searching for perfection just leads to expectations becoming bigger and bigger as time passes and promises are made. When you get to the point of rewriting every system (and even things like music), Simon says, you've lost the plot. Simon believes the AI Combat system, which had previously been showcased, likely had to be rewritten for the new (Forge) engine.",
+        "date": "06 29 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Engine"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Releasing an unfinished project",
+                    "https://xcancel.com/Simon_Hypixel/status/1939326860531302499"
+                ]
+            },
+            {
+                "2": [
+                    "AI Combat System",
+                    "https://xcancel.com/Simon_Hypixel/status/1939384381623222337"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon decides to Save Hytale.",
         "mainText": "Simon announces his decision to try and save Hytale, explaining that it'd take less money to get a Very Early Access version w/ temporarily removed features out to the community. His plan is to Just Launch, and get the community involved ASAP and use Shared Source and Open Source to help production. He cautions fans to keep their expectations low, as the chances are next to impossible, but he isn't afraid to release in a temporarily bad state.",
         "date": "06 28 2025",

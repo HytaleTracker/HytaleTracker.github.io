@@ -1,7 +1,7 @@
 //load the uh uh uh the uh um uh the uh news from the uh uh uh the uh um uh the uh JSON file
 const currentDate = new Date();
 let yearToGetJson = currentDate.getFullYear();
-let chunkToGetJson = 12;
+let chunkToGetJson = 0;
 
 const newsContainer = document.getElementById("news");
 const scrollWatcher = document.createElement("div");
@@ -129,7 +129,7 @@ function createNewsElements(filters, minDate, maxDate){
             
              .catch(error => {
                 if (error.message === "NEXT_YEAR") {
-                    chunkToGetJson -= 1;
+                    chunkToGetJson += 1;
 
                     loadFile(yearToGetJson, chunkToGetJson)
                         .then(() => {
@@ -139,7 +139,7 @@ function createNewsElements(filters, minDate, maxDate){
                         .catch(err => {
                             if (err.message === "NO_FILE") {
                                 yearToGetJson -= 1;
-                                chunkToGetJson = 12;
+                                chunkToGetJson = 0;
 
                                 if (yearToGetJson < 2015) {
                                     console.log("no more data to load");
@@ -155,7 +155,7 @@ function createNewsElements(filters, minDate, maxDate){
 
                 } else if (error.message === "NO_FILE") {
                     yearToGetJson -= 1;
-                    chunkToGetJson = 12;
+                    chunkToGetJson = 0;
 
                     if (yearToGetJson < 2015) {
                         console.log("no more data to load");

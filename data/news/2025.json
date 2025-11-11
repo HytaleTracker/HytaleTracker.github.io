@@ -1,6 +1,52 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon discusses Hytale having a soul, it being his final work.",
+        "mainText": "When asked, Simon says Hytale would be his final work, and he'd work on it for years - viewing it as a legacy project and a passion project that he can have his kids play in the future. It's not a cash grab, like The Day Before, as it has a soul and would continue to get support for a long time.",
+        "date": "07 27 2025",
+        "tags": [],
+        "sources": [
+            {
+                "1": [
+                    "Hytale has a soul",
+                    "https://xcancel.com/Simon_Hypixel/status/1949423483470950707"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon explains selling Hytale, post-sale role.",
+        "mainText": "Simon explains that he sold Hytale because he didn't have the money to finish it, and new leadership wanted to go a different direction. Selling Hytale gave the team way more funding, and he got money to make investments that have put him in the position he's in today to buy Hytale back. Interestingly enough, Simon says he was supposed to be an advisor after the sale, but he wasn't contacted and he was under the impression they were doing fine.",
+        "date": "07 27 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Business"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Why he sold Hytale",
+                    "https://xcancel.com/Simon_Hypixel/status/1949438740385960318"
+                ]
+            },
+            {
+                "2": [
+                    "Advisor role",
+                    "https://xcancel.com/Simon_Hypixel/status/1949438959844790766"
+                ]
+            },
+            {
+                "3": [
+                    "Impression of Hytale",
+                    "https://xcancel.com/Simon_Hypixel/status/1949538867163340950"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses Hytale Creator Program, release/communication thoughts.",
         "mainText": "Simon states that he'd probably make a tweet and a blogpost to announce Hytale Saved, and the game would likely come out so quickly that there'd be no early access for creators (though he sees importance of a Creator Program) and potentially no real blogposts. Old blogposts would be updated to note outdated info, and any new blogposts would quickly transition to patch notes!",
         "date": "07 26 2025",

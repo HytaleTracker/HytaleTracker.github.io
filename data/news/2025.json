@@ -1,6 +1,44 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon comments on feedback/requests for building tools.",
+        "mainText": "Responding to Hawkon's Hytale building tools video, Simon confirms that Legacy Hytale already has hotbar-swapping in Creative mode, and he agrees with most of the suggestions about the menus. Simon also discusses the suggested Ghost Mode feature, saying no-clip options already exist - saying he has experienced the frustration of no-clip mode still triggering redstone in Minecraft. Speaking on the video as a whole, Simon says it's the type of video that the developers would watch to understand the needs of creatives and implement them.",
+        "date": "07 31 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Community",
+            "Modding"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Comments on Hawkon video",
+                    "https://xcancel.com/Simon_Hypixel/status/1950983052097663192"
+                ]
+            },
+            {
+                "2": [
+                    "No-Clip frustrations",
+                    "https://xcancel.com/Simon_Hypixel/status/1950986246790041775"
+                ]
+            },
+            {
+                "3": [
+                    "Redstone triggering accidents",
+                    "https://xcancel.com/Simon_Hypixel/status/1950986606904574288"
+                ]
+            },
+            {
+                "4": [
+                    "Hawkon's Video from early 2025",
+                    "https://www.youtube.com/watch?v=_Lb7uM_1AGo"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses Hytale having limited content early, eventually coming to Steam.",
         "mainText": "Responding to a doubtful/cynical Twitter user on July 29th, Simon points out that Minecraft and Roblox both had limited content initially, and neither came to Steam - he says that he is unique when compared to other indie studios because he's always had positive cash flow since Day 1 with the Hypixel server, and can fund production over several years. The following day, Simon says Hytale will eventually come to Steam, pointing out that the 30% revenue share w/ Steam would also save 30% in expenses and provide 30% more players, and while he cares about the game's condition, he wants to release quickly. By staying off Steam initially, Hytale avoids negative reviews from people who don't understand the circumstances/context.",
         "date": "07 30 2025",

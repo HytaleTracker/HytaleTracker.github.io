@@ -1,6 +1,43 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon discusses the new Kweebecs and Scaraks.",
+        "mainText": "When asked what version of Kweebecs will be in the game, Simon says he likes the new models, with the new Treesinger design being one of his favorites. When asked about the new Scaraks, he says he'd need to see them ingame and talk with the artists, but there's an option for both if they're equally polished.",
+        "date": "08 14 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Community"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "New Kweebecs",
+                    "https://xcancel.com/Simon_Hypixel/status/1956127209510277335"
+                ]
+            },
+            {
+                "2": [
+                    "Treesinger",
+                    "https://xcancel.com/Simon_Hypixel/status/1956128525263474705"
+                ]
+            },
+            {
+                "3": [
+                    "New Scarak",
+                    "https://xcancel.com/Simon_Hypixel/status/1956127844741894151"
+                ]
+            },
+            {
+                "4": [
+                    "Option for both Old and New",
+                    "https://xcancel.com/Simon_Hypixel/status/1956128218420793629"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon announces active discussions with Riot Games.",
         "mainText": "Taking to Twitter, Simon announced he has entered active discussions with Riot Games about acquiring Hytale, thanking the community for believing in Hytale.",
         "date": "08 13 2025",

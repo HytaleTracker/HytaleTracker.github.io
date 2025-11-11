@@ -1,6 +1,61 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon discusses Hytale Creator Program, release/communication thoughts.",
+        "mainText": "Simon states that he'd probably make a tweet and a blogpost to announce Hytale Saved, and the game would likely come out so quickly that there'd be no early access for creators (though he sees importance of a Creator Program) and potentially no real blogposts. Old blogposts would be updated to note outdated info, and any new blogposts would quickly transition to patch notes!",
+        "date": "07 26 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Early Access"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "How Hytale Saved will be announced",
+                    "https://xcancel.com/Simon_Hypixel/status/1949256500775469438"
+                ]
+            },
+            {
+                "2": [
+                    "No E.A. for creators",
+                    "https://xcancel.com/Simon_Hypixel/status/1949095392173322697"
+                ]
+            },
+            {
+                "3": [
+                    "Creator Program",
+                    "https://xcancel.com/Simon_Hypixel/status/1949093090825810386"
+                ]
+            },
+            {
+                "4": [
+                    "Blogposts before release",
+                    "https://xcancel.com/Simon_Hypixel/status/1949096539206365575"
+                ]
+            },
+            {
+                "5": [
+                    "Before GTA 6",
+                    "https://xcancel.com/Simon_Hypixel/status/1949099076869386371"
+                ]
+            },
+            {
+                "6": [
+                    "Notes on Old Blogposts",
+                    "https://xcancel.com/Simon_Hypixel/status/1949214482879619294"
+                ]
+            },
+            {
+                "7": [
+                    "Blogposts become Patch Notes",
+                    "https://xcancel.com/Simon_Hypixel/status/1949182570404409750"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses Story/Adventure mode content.",
         "mainText": "While Simon admits he doesn't know much about the story/lore and has no final answer on if Adventure mode and Survival mode would be separate, he believes there's a way for story content to be added to pre-existing worlds -- potentially in chapters slowly releasing over time, as he isn't sure if a single story quest was done.",
         "date": "07 25 2025",

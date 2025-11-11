@@ -18,7 +18,7 @@
         margin: 10px;
         margin-top: 10px;
         display: inline-block;
-        width: calc(50% - 40px);
+        width: calc(40% - 40px);
         height: 800px;
         vertical-align: top;
         overflow-y: scroll;

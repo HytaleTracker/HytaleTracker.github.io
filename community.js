@@ -3,18 +3,42 @@ const grid = document.getElementById('grid');
 
 const currentDate = new Date();
 let yearToGetJson = currentDate.getFullYear();
+let chunkToGetJson = 0;
 
 const communityContainer = document.getElementById("grid");
 const scrollWatcher = document.createElement("div");
 scrollWatcher.id = "scrollWatcher";
-document.getElementById("community").appendChild(scrollWatcher);
 
 let itemsCreated = 0;
+
+function loadFile(year, chunk) {
+    const path = `./data/community/${year}-${chunk}.json`;
+    return caches.open("communityJsonCache").then(cache => {
+        return fetch(path, { cache: "no-store" })
+            .then(response => {
+                if (!response.ok) throw new Error("NO_FILE");
+                return cache.put(path, response.clone()).then(() => response.json());
+            });
+    });
+}
+function getCachedOrFetch(year, chunk) {
+    const path = `./data/community/${year}-${chunk}.json`;
+
+    return caches.open("communityJsonCache").then(async cache => {
+        let response = await cache.match(path);
+
+        if (!response) {
+            response = await fetch(path, { cache: "no-store" });
+            if (!response.ok) throw new Error("NO_FILE");
+            await cache.put(path, response.clone());
+        }
+
+        return response.json();
+    });
+}
+
 function createCommunityElements(filters, minDate, maxDate){
-    caches.open("communityJsonCache").then((cache) => {
-        return cache.match(`./data/community/${yearToGetJson}.json`);
-    })
-        .then(response => response.json())
+    getCachedOrFetch(yearToGetJson, chunkToGetJson)
         .then(data => {
             let skippedItems = 0;
             for(var i = itemsCreated; i < itemsCreated + 10; i++){
@@ -77,7 +101,7 @@ function createCommunityElements(filters, minDate, maxDate){
                         });
 
                         communityItem.className = "community-item";
-                        communityItem.id = `${i}-${yearToGetJson}`;
+                        communityItem.id = `${i}-${yearToGetJson}-${chunkToGetJson}`;
                         
                         link.appendChild(communityItem);
                         container.appendChild(link);
@@ -88,35 +112,53 @@ function createCommunityElements(filters, minDate, maxDate){
                 };
                 itemsCreated += 10;
                 console.log(itemsCreated);
+                document.getElementById("community").appendChild(scrollWatcher);
 
                 scrollObvserver.unobserve(scrollWatcher);
                 scrollObvserver.observe(scrollWatcher);
                 
             })
             .catch(error => {
-                if(error.message == "NEXT_YEAR"){
-                    console.error(error);
-                    console.log(`ran out of items in ${yearToGetJson}.json`);
-                    yearToGetJson -= 1;
-                    
-                    if(yearToGetJson > 2015){
-                        caches.open("communityJsonCache")
-                        .then(cache => {
-                            return fetch(`./data/community/${yearToGetJson}.json`, { cache: "no-store" })
-                                .then(response => cache.put(`./data/community/${yearToGetJson}.json`, response.clone()))
-                                .then(() => {
-                                    itemsCreated = 0;
-                                    createCommunityElements(filters, minDate, maxDate);
-                                });
+                if (error.message === "NEXT_YEAR") {
+                    chunkToGetJson += 1;
+
+                    loadFile(yearToGetJson, chunkToGetJson)
+                        .then(() => {
+                            itemsCreated = 0;
+                            createCommunityElements(filters, minDate, maxDate);
+                        })
+                        .catch(err => {
+                            if (err.message === "NO_FILE") {
+                                yearToGetJson -= 1;
+                                chunkToGetJson = 0;
+
+                                if (yearToGetJson < 2015) {
+                                    console.log("no more data to load");
+                                    return;
+                                }
+
+                                itemsCreated = 0;
+                                createCommunityElements(filters, minDate, maxDate);
+                            } else {
+                                console.error(err);
+                            }
                         });
-                    }else{
-                        console.log("ran out of items to load", yearToGetJson);
+
+                } else if (error.message === "NO_FILE") {
+                    yearToGetJson -= 1;
+                    chunkToGetJson = 0;
+
+                    if (yearToGetJson < 2015) {
+                        console.log("no more data to load");
+                        return;
                     }
+
+                    itemsCreated = 0;
+                    createCommunityElements(filters, minDate, maxDate);
+                } else {
+                    console.error(error, yearToGetJson, chunkToGetJson);
                 }
-                else{
-                    console.error(error);
-                }
-            })    
+            });
 }
 function filterItems(item, filters, minDate, maxDate){
     let createDiv = true;
@@ -173,8 +215,8 @@ window.addEventListener("load", async function() {
 
     const cache = await caches.open("communityJsonCache");
 
-    const response = await fetch(`./data/community/${yearToGetJson}.json`, { cache: "no-store" });
-    await cache.put(`./data/community/${yearToGetJson}.json`, response.clone());
+    const response = await fetch(`./data/community/${yearToGetJson}-${chunkToGetJson}.json`, { cache: "no-store" });
+    await cache.put(`./data/community/${yearToGetJson}-${chunkToGetJson}.json`, response.clone());
 
     createCommunityElements("null", "null", "null");
 });

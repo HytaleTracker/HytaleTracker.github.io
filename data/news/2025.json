@@ -1,6 +1,174 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon comments more on Early Access plans.",
+        "mainText": "Simon believes the game will eventually be good enough that it won't need a disclaimer about the history, but he'd include a disclaimer and a roadmap explanation early on. The Lore/Story wouldn't be included in early releases, and it'd be implemented into adventure mode using the dungeon/quest systems - but no promises.",
+        "date": "08 10 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Community",
+            "Lore"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "History Disclaimer.",
+                    "https://xcancel.com/Simon_Hypixel/status/1954614319494119826"
+                ]
+            },
+            {
+                "2": [
+                    "Disclaimer/Roadmap.",
+                    "https://xcancel.com/Simon_Hypixel/status/1954613317886185950"
+                ]
+            },
+            {
+                "3": [
+                    "No Lore/Story in-game in early access.",
+                    "https://xcancel.com/Simon_Hypixel/status/1954643138271740390"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon discusses the 2016 trailer.",
+        "mainText": "According to Simon, some features in the trailer were broken/in early development, but most of it was easily fixable. Everything was filmed using in-game cinematic tools, which allowed placement of cameras and usage of events (like the dragon shot at the end). Simon says cinematic tools were invested in because the team understands how important YouTube is to a game's success. Some shots in the trailer were scripted, due to lack of players, and NPCs were used to make it feel more alive - specifically the minigames and end shot in the trailer. Simon notes three specific features: #1 being the mounts & hot air balloon, which used a band-aid solution, but could be fixed in a couple of weeks and might have been done already, #2 being minecarts with jumping not being implemented, and #3 being the World Map which was using a better UI than what was in-game at the time. After the trailer's release, the features shown were top priority to be completed. Simon clarifies that the trailer was faithful to the game and vision in 2018, and explains that the cinema tools allowed users to record their actions and play it back.",
+        "date": "08 06 2025",
+        "tags": [
+            "Statement",
+            "Simon",
+            "Post-Cancellation"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "2016 Trailer discussion.",
+                    "https://xcancel.com/Simon_Hypixel/status/1953263277682651544"
+                ]
+            },
+            {
+                "2": [
+                    "In-game recording tools.",
+                    "https://xcancel.com/Simon_Hypixel/status/1953264783366512787"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon discusses Survival/Adventure mode, alterverses.",
+        "mainText": "In a series of tweets, Simon talks about how Survival mode probably isn't balanced at the moment and might lack features, but it might be okay because it creates a blank canvas with a lot of content, with the game slowly coming together over rapid updates. Pivoting to alterverses, Simon reveals he discussed with a former Hytale designer about how Hytale's alterverses could work - potentially being added after the base game is good, and releasing with new story chapters, dungeons, blocks, weapons, and armor tiers, almost like how World of Warcraft handles expansions.",
+        "date": "08 04 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Features"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Survival balance.",
+                    "https://xcancel.com/Simon_Hypixel/status/1952531289422152182"
+                ]
+            },
+            {
+                "2": [
+                    "Survival features potentially lacking.",
+                    "https://xcancel.com/Simon_Hypixel/status/1952529261660914024"
+                ]
+            },
+            {
+                "3": [
+                    "Discussed with former designer.",
+                    "https://xcancel.com/Simon_Hypixel/status/1952533791932613045"
+                ]
+            },
+            {
+                "4": [
+                    "Alterverses",
+                    "https://xcancel.com/Simon_Hypixel/status/1952535813541015881"
+                ]
+            },
+            {
+                "5": [
+                    "(Wiki) Alterverses",
+                    "https://hytale.wiki.gg/wiki/Alterverses"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon says Hytale is a 10yr+ project",
+        "mainText": "When asked for his view of what Hytale should be, a game, a platform, or something in the middle, Simon says Hytale is a 10+ years project, and he'd properly communicate his vision from day one.",
+        "date": "08 03 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "10yr+ project",
+                    "https://xcancel.com/Simon_Hypixel/status/1952072392538235196"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon discusses Hytale's popularity, minigames, and Day 1 possibilities.",
+        "mainText": "When asked about potentially returning to Hytale's popularity in '19, Simon says that popularity doesn't matter much as long as the funding to continue updates is still there, as a good game attracts players naturally - though he mentions a hypothetical free minigame-only version could be used to attract players. Continuing that sentiment, Simon states he doesn't care about how much polished content is already in the game, as the community would help polish it over the years. Turning to servers, Simon reveals that he believes most Hypixel classic minigames were cancelled in Hytale's new direction, but with Day 1 player-hosted servers and an eventual Servers Tab, minigames would be created by the community - potentially aided by official prototypes/maps. The average player could aid the game by reporting bugs, requesting features, creating content, and generally participating in the community.",
+        "date": "08 02 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Community",
+            "Servers"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Popularity, potential free minigame-only version.",
+                    "https://xcancel.com/Simon_Hypixel/status/1951685343222153267"
+                ]
+            },
+            {
+                "2": [
+                    "Polished content.",
+                    "https://xcancel.com/Simon_Hypixel/status/1951682983250763953"
+                ]
+            },
+            {
+                "3": [
+                    "Hypixel Classics.",
+                    "https://xcancel.com/Simon_Hypixel/status/1951682770956087528"
+                ]
+            },
+            {
+                "4": [
+                    "Player servers, minigames.",
+                    "https://xcancel.com/Simon_Hypixel/status/1951689542588576009"
+                ]
+            },
+            {
+                "5": [
+                    "Servers Tab.",
+                    "https://xcancel.com/Simon_Hypixel/status/1951692305838043572"
+                ]
+            },
+            {
+                "6": [
+                    "Getting involved.",
+                    "https://xcancel.com/Simon_Hypixel/status/1951697482397749359"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon comments on feedback/requests for building tools.",
         "mainText": "Responding to Hawkon's Hytale building tools video, Simon confirms that Legacy Hytale already has hotbar-swapping in Creative mode, and he agrees with most of the suggestions about the menus. Simon also discusses the suggested Ghost Mode feature, saying no-clip options already exist - saying he has experienced the frustration of no-clip mode still triggering redstone in Minecraft. Speaking on the video as a whole, Simon says it's the type of video that the developers would watch to understand the needs of creatives and implement them.",
         "date": "07 31 2025",

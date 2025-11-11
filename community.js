@@ -55,6 +55,7 @@ function createCommunityElements(filters, minDate, maxDate){
                         const mainText = document.createElement('p');
                         const summary = document.createElement('h2');
                         const image = document.createElement('img');
+                        const imageDiv = document.createElement("div");
                         const link = document.createElement("a");
                         link.href = item.link;
                         link.target = "_blank";
@@ -65,15 +66,20 @@ function createCommunityElements(filters, minDate, maxDate){
 
                         image.className = "community-image";
                         image.src = item.image;
-                        if(innerWidth > innerHeight){
-                            image.style.height = "60%";
-                            image.style.maxWidth = "90%"
-                        }else{
-                            image.style.width = "75%";
-                            image.style.maxHeight = "50%";
-                        }
                         image.style.borderRadius = "10px"
-                        communityItem.appendChild(image);
+                        image.style.width = "100%"
+
+                        imageDiv.style.width = "100%";
+                        imageDiv.style.height = "70%";
+                        imageDiv.style.overflow = "hidden";
+                        imageDiv.style.borderRadius = "10px"
+                        imageDiv.style.display = "flex";
+                        imageDiv.style.alignItems = "center";
+                        imageDiv.style.justifyContent = "center";
+                        
+                        imageDiv.appendChild(image);
+                        
+                        communityItem.appendChild(imageDiv);
 
                         summary.textContent = item.summary;
                         summary.className = "summary";
@@ -91,11 +97,11 @@ function createCommunityElements(filters, minDate, maxDate){
                                 fetch("./data/tags.json")
                                 .then(response => response.json())
                                 .then(tagData => {
-                                    tag.style.backgroundColor = tagData[2].colors[0][tagText] || "#c5c5c5";
+                                    tag.style.backgroundColor = tagData[2].colors[0][tagText] || "#1d293d";
                                 })
                             }catch(error){
                                 console.error("error loading tag color from json", error);
-                                tag.style.backgroundColor = "#c5c5c5";
+                                tag.style.backgroundColor = "#1d293d";
                             }
                             communityItem.appendChild(tag);
                         });

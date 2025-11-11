@@ -74,7 +74,8 @@ function createNewsElements(filters, minDate, maxDate){
                             logo.src = "./assets/twitter.png";
                         }
                         else if(item.mainPlatform == "blog" || item.mainPlatform == "update"){
-                            logo.src = "./assets/hytale.jpeg";
+                            logo.src = "./assets/hytale.jpg";
+                            logo.style.borderRadius = "5px";
                         }
 
                         const logospan = document.createElement('span');
@@ -99,12 +100,12 @@ function createNewsElements(filters, minDate, maxDate){
                                 fetch("./data/tags.json")
                                 .then(response => response.json())
                                 .then(tagData => {
-                                    tag.style.backgroundColor = tagData[2].colors[0][tagText] || "#c5c5c5";
+                                    tag.style.backgroundColor = tagData[2].colors[0][tagText] || "#1d293d";
                                 })
                                 
                             }catch(error){
                                 console.error("error loading tag color from json", error);
-                                tag.style.backgroundColor = "#c5c5c5";
+                                tag.style.backgroundColor = "#1d293d";
                             }
                             newsItem.appendChild(tag);
                         });

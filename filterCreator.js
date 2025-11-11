@@ -21,11 +21,10 @@ document.addEventListener("DOMContentLoaded", () => {
                     fetch("./data/tags.json")
                     .then(response => response.json())
                     .then(tagData => {
-                        label.style.backgroundColor = tagData[2].colors[0][tag] || "#ffffffff";
+                        label.style.backgroundColor = tagData[2].colors[0][tag];
                     })
                 }catch(error){
                     console.error("error loading tag color from json", error);
-                    tag.style.backgroundColor = "#ffffffff";
                 }
                 form.appendChild(input);
                 form.appendChild(label);
@@ -46,11 +45,10 @@ document.addEventListener("DOMContentLoaded", () => {
                     fetch("./data/tags.json")
                     .then(response => response.json())
                     .then(tagData => {
-                        label.style.backgroundColor = tagData[2].colors[0][tag] || "#ffffffff";
+                        label.style.backgroundColor = tagData[2].colors[0][tag];
                     })
                 }catch(error){
                     console.error("error loading tag color from json", error);
-                    tag.style.backgroundColor = "#ffffffff";
                 }
                 form.appendChild(input);
                 form.appendChild(label);

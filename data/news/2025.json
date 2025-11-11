@@ -1,6 +1,67 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon discusses Survival/Adventure mode, alterverses.",
+        "mainText": "In a series of tweets, Simon talks about how Survival mode probably isn't balanced at the moment and might lack features, but it might be okay because it creates a blank canvas with a lot of content, with the game slowly coming together over rapid updates. Pivoting to alterverses, Simon reveals he discussed with a former Hytale designer about how Hytale's alterverses could work - potentially being added after the base game is good, and releasing with new story chapters, dungeons, blocks, weapons, and armor tiers, almost like how World of Warcraft handles expansions.",
+        "date": "08 04 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Features"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Survival balance.",
+                    "https://xcancel.com/Simon_Hypixel/status/1952531289422152182"
+                ]
+            },
+            {
+                "2": [
+                    "Survival features potentially lacking.",
+                    "https://xcancel.com/Simon_Hypixel/status/1952529261660914024"
+                ]
+            },
+            {
+                "3": [
+                    "Discussed with former designer.",
+                    "https://xcancel.com/Simon_Hypixel/status/1952533791932613045"
+                ]
+            },
+            {
+                "4": [
+                    "Alterverses",
+                    "https://xcancel.com/Simon_Hypixel/status/1952535813541015881"
+                ]
+            },
+            {
+                "5": [
+                    "(Wiki) Alterverses",
+                    "https://hytale.wiki.gg/wiki/Alterverses"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon says Hytale is a 10yr+ project",
+        "mainText": "When asked for his view of what Hytale should be, a game, a platform, or something in the middle, Simon says Hytale is a 10+ years project, and he'd properly communicate his vision from day one.",
+        "date": "08 03 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "10yr+ project",
+                    "https://xcancel.com/Simon_Hypixel/status/1952072392538235196"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses Hytale's popularity, minigames, and Day 1 possibilities.",
         "mainText": "When asked about potentially returning to Hytale's popularity in '19, Simon says that popularity doesn't matter much as long as the funding to continue updates is still there, as a good game attracts players naturally - though he mentions a hypothetical free minigame-only version could be used to attract players. Continuing that sentiment, Simon states he doesn't care about how much polished content is already in the game, as the community would help polish it over the years. Turning to servers, Simon reveals that he believes most Hypixel classic minigames were cancelled in Hytale's new direction, but with Day 1 player-hosted servers and an eventual Servers Tab, minigames would be created by the community - potentially aided by official prototypes/maps. The average player could aid the game by reporting bugs, requesting features, creating content, and generally participating in the community.",
         "date": "08 02 2025",

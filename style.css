@@ -3,6 +3,12 @@
     src: url(./assets/Poppins-Regular.ttf);
 }
 @media (min-width: 800px){
+    #filterForm{
+        height: fit-content;
+        width: fit-content;
+        max-height: 400px;
+        overflow-y: scroll;
+    }
     .community-item{
         background-color: #ffffff;
         border: 5px solid rgb(85, 85, 85);
@@ -115,12 +121,7 @@ body{
     position: absolute;
     z-index: 100000;
 }
-#filterForm{
-    height: fit-content;
-    width: fit-content;
-    max-height: 170px;
-    overflow-y: scroll;
-}
+
 #date-filter{
     display: none;
     background-color: #ffffff;
@@ -162,6 +163,12 @@ body{
         width: calc(100% - 40px);
         height: fit-content;
         vertical-align: top;
+        overflow-y: scroll;
+    }
+    #filterForm{
+        height: fit-content;
+        width: fit-content;
+        max-height: 170px;
         overflow-y: scroll;
     }
     #navbar{

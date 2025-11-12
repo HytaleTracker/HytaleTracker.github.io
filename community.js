@@ -1,24 +1,9 @@
 //load the uh uh uh the uh um uh the uh news from the uh uh uh the uh um uh the uh JSON file
 const grid = document.getElementById('grid');
 
-let startJsonChunk;
-async function loadHighest() {
-    const data = await fetch("./data/highest.json", { cache: "no-store" }).then(r => r.json());
-    startJsonChunk = data[0];
-}
-loadHighest();
-
 let yearToGetJson;
 let chunkToGetJson;
-(async () => {
-    await loadHighest();
-
-    const currentDate = new Date();
-    yearToGetJson = currentDate.getFullYear();
-    chunkToGetJson = startJsonChunk;
-
-    console.log(chunkToGetJson);
-})();
+let indexes;
 
 const communityContainer = document.getElementById("grid");
 const scrollWatcher = document.createElement("div");
@@ -149,7 +134,7 @@ function createCommunityElements(filters, minDate, maxDate){
                         .catch(err => {
                             if (err.message === "NO_FILE") {
                                 yearToGetJson -= 1;
-                                chunkToGetJson = startJsonChunk;
+                                chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
 
                                 if (yearToGetJson < 2015) {
                                     console.log("no more data to load");
@@ -170,8 +155,8 @@ function createCommunityElements(filters, minDate, maxDate){
                     chunkToGetJson -= 1;
 
                     if(chunkToGetJson < 0){
-                        chunkToGetJson = startJsonChunk;
                         yearToGetJson -= 1;
+                        chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
                     }
 
                     if (yearToGetJson < 2015) {
@@ -235,6 +220,13 @@ function filterItems(item, filters, minDate, maxDate){
 }
 
 window.addEventListener("load", async function() {
+    const indexesResponse = await fetch("./data/communityIndexes.json");
+    indexes = await indexesResponse.json();
+
+
+    const currentDate = new Date();
+    yearToGetJson = currentDate.getFullYear();
+    chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
 
     await caches.delete('communityJsonCache');
 

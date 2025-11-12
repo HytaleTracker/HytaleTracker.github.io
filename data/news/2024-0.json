@@ -1,0 +1,34 @@
+[
+    {
+        "mainPlatform": "tweet",
+        "summary": "TEST",
+        "mainText": "TEST",
+        "date": "08 10 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Community",
+            "Lore"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "History Disclaimer.",
+                    "https://xcancel.com/Simon_Hypixel/status/1954614319494119826"
+                ]
+            },
+            {
+                "2": [
+                    "Disclaimer/Roadmap.",
+                    "https://xcancel.com/Simon_Hypixel/status/1954613317886185950"
+                ]
+            },
+            {
+                "3": [
+                    "No Lore/Story in-game in early access.",
+                    "https://xcancel.com/Simon_Hypixel/status/1954643138271740390"
+                ]
+            }
+        ]
+    }
+]

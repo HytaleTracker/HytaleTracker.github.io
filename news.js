@@ -1,22 +1,8 @@
 //load the uh uh uh the uh um uh the uh news from the uh uh uh the uh um uh the uh JSON file
-let startJsonChunk;
-async function loadHighest() {
-    const data = await fetch("./data/highest.json", { cache: "no-store" }).then(r => r.json());
-    startJsonChunk = data[0];
-}
-loadHighest();
 
 let yearToGetJson;
 let chunkToGetJson;
-(async () => {
-    await loadHighest();
-
-    const currentDate = new Date();
-    yearToGetJson = currentDate.getFullYear();
-    chunkToGetJson = startJsonChunk;
-
-    console.log(chunkToGetJson);
-})();
+let indexes;
 
 const newsContainer = document.getElementById("news");
 const scrollWatcher = document.createElement("div");
@@ -152,7 +138,7 @@ function createNewsElements(filters, minDate, maxDate){
                         .catch(err => {
                             if (err.message === "NO_FILE") {
                                 yearToGetJson -= 1;
-                                chunkToGetJson = startJsonChunk;
+                                chunkToGetJson = Number(indexes[String(yearToGetJson)]) || 0;
 
                                 if (yearToGetJson < 2015) {
                                     console.log("no more data to load");
@@ -162,6 +148,9 @@ function createNewsElements(filters, minDate, maxDate){
                                 itemsCreated = 0;
                                 createNewsElements(filters, minDate, maxDate);
                             } else {
+                                yearToGetJson -= 1;
+                                chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
+                                createNewsElements(filters, minDate, maxDate);
                                 console.error(err);
                             }
                         });
@@ -173,8 +162,8 @@ function createNewsElements(filters, minDate, maxDate){
                     chunkToGetJson -= 1;
 
                     if(chunkToGetJson < 0){
-                        chunkToGetJson = startJsonChunk;
                         yearToGetJson -= 1;
+                        chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
                     }
 
                     if (yearToGetJson < 2015) {
@@ -239,6 +228,14 @@ function filterItems(item, filters, minDate, maxDate){
 }
 
 window.addEventListener("load", async function() {
+    const indexesResponse = await fetch("./data/indexes.json");
+    indexes = await indexesResponse.json();
+
+
+    const currentDate = new Date();
+    yearToGetJson = currentDate.getFullYear();
+    chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
+
     await caches.delete('jsonCache');
 
     const cache = await caches.open("jsonCache");

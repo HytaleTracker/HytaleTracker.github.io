@@ -1,6 +1,147 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon discusses the engine rewrites Hytale has had.",
+        "mainText": "After being questioned about Noxy alluding to releasing a Hytale trailer in '16, Simon reveals that it never happened because they decided to rewrite the game in a new engine, calling it the most important decision in Hytale history -- choosing a cross-platform language could've saved a lot of trouble, but would've required developing 'in the dark,' and would've been close to impossible and too expensive. Looking forward, Simon says a rewrite // parallel development could be wise in the future, but he'd rather focus on what exists now.",
+        "date": "08 25 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Engine"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "First Rewrite.",
+                    "https://xcancel.com/Simon_Hypixel/status/1960106247019266554"
+                ]
+            },
+            {
+                "2": [
+                    "Importance of first rewrite.",
+                    "https://xcancel.com/Simon_Hypixel/status/1960107703428149468"
+                ]
+            },
+            {
+                "3": [
+                    "Potential for a future rewrite.",
+                    "https://xcancel.com/Simon_Hypixel/status/1960116133584846953"
+                ]
+            },
+            {
+                "4": [
+                    "Focus on the now.",
+                    "https://xcancel.com/Simon_Hypixel/status/1960124712346067310"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon talks live events, 1000 player lobbies, P2P.",
+        "mainText": "Simon states that the in-game cinema tools were designed with live event party viewing in mind, and discusses potentially working on tech to enable 1000+ player lobbies in Hytale somewhere down the line. Simon also mentions that Peer-To-Peer connections should be possible, but maybe not in early access.",
+        "date": "08 24 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Community",
+            "Servers"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Live Event.",
+                    "https://xcancel.com/Simon_Hypixel/status/1959612850399281427"
+                ]
+            },
+            {
+                "2": [
+                    "1000 player lobbies.",
+                    "https://xcancel.com/Simon_Hypixel/status/1959615515959148782"
+                ]
+            },
+            {
+                "3": [
+                    "P2P.",
+                    "https://xcancel.com/Simon_Hypixel/status/1959618828075188643"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon defends/explains Hytale's avatar customization.",
+        "mainText": "Simon responds to a user's criticism of avatar customization limits by saying official cosmetics would be added all the time, and would maintain the art style while allowing custom servers to use their own cosmetics. Simon points to Terraria and SDV as examples of avatar customization limits still being sufficient. With that being said, Simon says it'd be nice to have trusted artists submit directly to the team, and hold community contests to add avatar cosmetics - like Team Fortress 2.",
+        "date": "08 24 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Community",
+            "Modding",
+            "Servers"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Defending customization.",
+                    "https://xcancel.com/Simon_Hypixel/status/1959610302728642857"
+                ]
+            },
+            {
+                "2": [
+                    "Maintain artstyle.",
+                    "https://xcancel.com/Simon_Hypixel/status/1959611451779547626"
+                ]
+            },
+            {
+                "3": [
+                    "Trusted Artists.",
+                    "https://xcancel.com/Simon_Hypixel/status/1959616029455159795"
+                ]
+            },
+            {
+                "4": [
+                    "Community Contests.",
+                    "https://xcancel.com/Simon_Hypixel/status/1959611906156597515"
+                ]
+            },
+            {
+                "5": [
+                    "TF2 similarities.",
+                    "https://xcancel.com/Simon_Hypixel/status/1959699172040335805"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon discusses new content, Day One modding.",
+        "mainText": "Simon states that the new combat, mobs, etc. would stay in under his stewardship, and says the content creation tools have a low barrier to entry - meaning popular maps and mods could be made within the first week.",
+        "date": "08 19 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Community",
+            "Modding",
+            "Features"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "New Content.",
+                    "https://xcancel.com/Simon_Hypixel/status/1957803466128011737"
+                ]
+            },
+            {
+                "2": [
+                    "Modding on Day One.",
+                    "https://xcancel.com/Simon_Hypixel/status/1957813081804874222"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses monetization, revenue sharing.",
         "mainText": "According to Simon, a Creator Code-like system is possible, with an option to receive revenue sharing from Hytale itself - meaning all mods could be free, but modders could still make money. A Creator Code-like system intended for mod devs would need to avoid adding complexity to accounting, and would need an automated application process. When asked about servers being Pay To Win, Simon says no official server or content would be P2W, and any P2W server wouldn't appear in the server browser. Looking to Microsoft and Roblox, Simon says Microsoft has fought to keep P2W out of Minecraft but it's a losing battle, and Roblox promotes P2W content to reap money - Hytale would only promote \"clean\" servers, potentially letting them access more things.",
         "date": "08 17 2025",

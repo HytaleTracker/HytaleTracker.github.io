@@ -1,6 +1,94 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon discusses cosmetics, player skins.",
+        "mainText": "When asked about cosmetics and skins, Simon says there likely wouldn't be player-made skins to avoid nude/racist skins (no naked nazi potatoes), but free cosmetics (while basic on Day 1) would be heavily invested in to still enable creativity, with the potential for players to submit cosmetics that could then become global if approved. Mods/Private Servers would be able to add cosmetics, but wouldn't work globally. Keeping a large free catalog of cosmetics, with custom cosmetics being voted on to be added. Simon states that no player-made skins is the only compromise to have more freedom in the rest of the game, and to keep the art identity intact. User Generated Content could be handled similar to Valve's method, and the skin system would eventually have non-human features and animal hoods (instead of Furry cosmetics). When presented with Hawkon's Hytale Cosmetics video, Simon agrees with many points (given time to get there).",
+        "date": "08 16 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Community",
+            "Modding",
+            "Early Access",
+            "Servers"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Player-made skins.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956674294747983965"
+                ]
+            },
+            {
+                "2": [
+                    "Mods adding cosmetics.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956675175442706709"
+                ]
+            },
+            {
+                "3": [
+                    "Customization limited early.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956693149243298154"
+                ]
+            },
+            {
+                "4": [
+                    "Free catalog.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956676884252533155"
+                ]
+            },
+            {
+                "5": [
+                    "Voting system.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956689400005320788"
+                ]
+            },
+            {
+                "6": [
+                    "Server cosmetics.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956836430413549891"
+                ]
+            },
+            {
+                "7": [
+                    "More freedom in the rest of Hytale.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956829258493333551"
+                ]
+            },
+            {
+                "8": [
+                    "Valve inspiration",
+                    "https://xcancel.com/Simon_Hypixel/status/1956830949049508310"
+                ]
+            },
+            {
+                "9": [
+                    "Non-Human features",
+                    "https://xcancel.com/Simon_Hypixel/status/1956832594672439312"
+                ]
+            },
+            {
+                "10": [
+                    "Furry-Cosmetic compromise",
+                    "https://xcancel.com/Simon_Hypixel/status/1956694057536590115"
+                ]
+            },
+            {
+                "11": [
+                    "Simon and Hawkon Cosmetic",
+                    "https://xcancel.com/Simon_Hypixel/status/1956698814846267787/"
+                ]
+            },
+            {
+                "12": [
+                    "(YT) Hawkon Cosmetic Video",
+                    "https://www.youtube.com/watch?v=BfoSDmbCITE"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses Scarak redesign, releasing in broken state, and community involvement.",
         "mainText": "Simon clarifies his position on the Scarak redesign, stating he likes them but doesn't feel they fit in Zone 2. When asked if Hytale will 100% release under Simon, he makes it clear Hytale will release even if it's broken, with fixes and fun following. Getting the game out and into Early Access would allow for the development team to expand, with shared source and modding allowing modders to use the unfinished content for their mods/servers/maps -- Simon then floats the idea of modding and map making contests with unique rewards.",
         "date": "08 15 2025",

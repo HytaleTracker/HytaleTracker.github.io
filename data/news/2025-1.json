@@ -1,6 +1,159 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon discusses Hytale vs Minecraft, status of pre-launch work.",
+        "mainText": "Simon believes Hytale will take a very different path from Minecraft, and that both games can thrive together, adding that Hytale doesn't have to try to please every player and won't get stuck in design-by-committee, and that the game will avoid a Java/Bedrock Edition situation. Most notably, however, Simon reveals that the team has already worked on a game launcher, website, auth, accounts, payment system, and name reservation -- all of it being ready or 'almost' ready.",
+        "date": "11 10 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Community",
+            "Modding",
+            "Business",
+            "Early Access"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Thrive together, embrace differences.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987888203404087683?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Avoid version split.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987875491424997551?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Pre-Launch Work",
+                    "https://xcancel.com/Simon_Hypixel/status/1988032104072982845"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon discusses flying mounts, horror, NPCs and more.",
+        "mainText": "When asked about flying mounts, Simon says they could work in the long-term with zone limitations, or alterverse limitations, and says methods of traveling the world need to be balanced (which isn't easy). Responding to a user requesting darker/horror-inspired areas/features, Simon says he'll make sure they exist. Long term, Simon wants proximity voice chat and NPCs that help with tasks.",
+        "date": "11 09 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Community",
+            "Modding",
+            "Features"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Flying mounts.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987629266633154588?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Traveling balance.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987640530604527731?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Horror.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987645967588282390?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "NPCs.",
+                    "https://xcancel.com/simon_hypixel/status/1987665817090371710?s=61"
+                ]
+            },
+            {
+                "5": [
+                    "Prox. VC.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987627441603367220?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon discusses mods with the community.",
+        "mainText": "Simon inquires what kind of mods the community wants, responding to various replies. Simon says full dimensions with custom mobs/blocks/sounds/items/interactions 'should be relatively easy,\" he'd like to add basics of industrial/Create-style mods to the base game, along with weapon customization, city-building features, and diverse food source systems. Simon is looking forward to mods that add deeper RPG mechanics, dungeons, leveling, class, and attribute systems, along with dungeon crawling servers, and believes RyanHCode could add moving block structures if he was bored enough. While encouraging players to learn Java / JSON for modding, Simon would like to add something like Doom SnapMap for visual ingame scripting to help convert players into modders.",
+        "date": "11 09 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Community",
+            "Modding"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Initial question.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987626282830406096?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Relatively easy.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987627180709581103?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Adding basics of industrial mods to core game.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987626882188325007?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Weapon Customization, City-Building, Diverse Food.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987627523820179649?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Deeper RPG mods.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987628222226567611?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "RyanHCode.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987630978484130280?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Dungeon Crawling servers.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987641588470939744?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Java/JSON.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987631022725386566?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Doom SnapMap.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987629108969550236?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Convert Players to Modders.",
+                    "https://xcancel.com/Simon_Hypixel/status/1987629452583383222?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses goals, what is required before Early Access.",
         "mainText": "In a lengthy tweet, Simon declares his goal is to bring the game to players and modders as soon as possible, even in a bad state, and avoid expectations growing during another delay. With that being said, there is a lot of work to be done before early access can launch - creating a launcher with a patcher, creating authentication services, account system, a website, reviving social media accounts, creating a bug reporting system with automated crash reporting, and then making a buy page, payment systems, a support page / team, writing privacy policies and Terms of Services... and *then* cleaning up the codebase/assets, and set up dev environments.",
         "date": "10 12 2025",

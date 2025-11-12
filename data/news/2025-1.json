@@ -1,6 +1,62 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon discusses Scarak redesign, releasing in broken state, and community involvement.",
+        "mainText": "Simon clarifies his position on the Scarak redesign, stating he likes them but doesn't feel they fit in Zone 2. When asked if Hytale will 100% release under Simon, he makes it clear Hytale will release even if it's broken, with fixes and fun following. Getting the game out and into Early Access would allow for the development team to expand, with shared source and modding allowing modders to use the unfinished content for their mods/servers/maps -- Simon then floats the idea of modding and map making contests with unique rewards.",
+        "date": "08 15 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Early Access",
+            "Features"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Scark Redesign.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956344745866752159"
+                ]
+            },
+            {
+                "2": [
+                    "Release Chances 1.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956346281447612859"
+                ]
+            },
+            {
+                "3": [
+                    "Release Chances 2.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956347007167074416"
+                ]
+            },
+            {
+                "4": [
+                    "Importance of Early Access.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956356999802708222"
+                ]
+            },
+            {
+                "5": [
+                    "Shared Source and Modding.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956358850732343577"
+                ]
+            },
+            {
+                "6": [
+                    "Modders using unfinished content.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956362423620768205"
+                ]
+            },
+            {
+                "7": [
+                    "Contests with rewards.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956364990392467878"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses the new Kweebecs and Scaraks.",
         "mainText": "When asked what version of Kweebecs will be in the game, Simon says he likes the new models, with the new Treesinger design being one of his favorites. When asked about the new Scaraks, he says he'd need to see them ingame and talk with the artists, but there's an option for both if they're equally polished.",
         "date": "08 14 2025",

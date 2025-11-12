@@ -1,14 +1,36 @@
 [
     {
-        "news": ["Statement", "Simon", "Post-Cancellation", "Community", "Modding", "Business", "Early Access", "Lore", "Features", "Engine", "Servers"]
+        "news": [
+            "Statement",
+            "Simon",
+            "Post-Cancellation",
+            "Community",
+            "Modding",
+            "Business",
+            "Early Access",
+            "Lore",
+            "Features",
+            "Engine",
+            "Servers"
+        ]
     },
     {
-        "community": ["announcement"]
+        "community": [
+            "announcement"
+        ]
     },
     {
-        "colors": [{
-            "Statement": ["#FA8F8F"],
-            "Simon": ["#57C2F7"]
-        }]
+        "colors": [
+            {
+                "Statement": [
+                    "#FA8F8F",
+                    "black"
+                ],
+                "Simon": [
+                    "#57C2F7",
+                    "black"
+                ]
+            }
+        ]
     }
 ]

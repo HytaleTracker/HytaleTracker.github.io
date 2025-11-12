@@ -93,7 +93,7 @@ function createCommunityElements(filters, minDate, maxDate){
                             tag.className = "tag";
                             tag.textContent = tagText;
                             try{
-                                tag.style.backgroundColor = tagsJson[2].colors[0][tagText] || "#1d293d";
+                                tag.style.backgroundColor = tagsJson[2].colors[0][tagText][0] || "#1d293d";
                                 tag.style.color = tagsJson[2].colors[0][tagText][1] || "#b5bac5";
                             }catch(error){
                                 console.error("error loading tag color from json", error);
@@ -269,6 +269,8 @@ scrollObvserver.observe(scrollWatcher);
 const filterSubmitButton = document.getElementById("filter-submit-button");
 filterSubmitButton.addEventListener("click", () => {
     yearToGetJson = currentDate.getFullYear();
+    chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
+    lastDay = '';
     const form = document.getElementById("filterForm");
     const children = form.children;
     let selectedTags = [];

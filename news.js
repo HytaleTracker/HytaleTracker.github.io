@@ -359,6 +359,8 @@ newsContainer.addEventListener("click", function(event) {
 const filterSubmitButton = document.getElementById("filter-submit-button");
 filterSubmitButton.addEventListener("click", () => {
     yearToGetJson = currentDate.getFullYear();
+    chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
+    lastDay = '';
     const form = document.getElementById("filterForm");
     const children = form.children;
     let selectedTags = [];

@@ -21,8 +21,8 @@ document.addEventListener("DOMContentLoaded", () => {
 
         wrap.innerHTML = `
             <input class="color-key" placeholder="tag name">
-            <input class="color-value" placeholder="#hex or color">
-            <input class="text-color" placeholder = "#hex or color">
+            <input class="color-value" placeholder="background Color">
+            <input class="text-color" placeholder = "text Color">
         `;
 
         document.getElementById("tag-colors").before(wrap);

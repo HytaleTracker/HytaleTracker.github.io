@@ -4,6 +4,7 @@ const grid = document.getElementById('grid');
 let yearToGetJson;
 let chunkToGetJson;
 let indexes;
+const currentDate = new Date();
 
 const communityContainer = document.getElementById("grid");
 const scrollWatcher = document.createElement("div");
@@ -92,11 +93,7 @@ function createCommunityElements(filters, minDate, maxDate){
                             tag.className = "tag";
                             tag.textContent = tagText;
                             try{
-                                fetch("./data/tags.json")
-                                .then(response => response.json())
-                                .then(tagData => {
-                                    tag.style.backgroundColor = tagData[2].colors[0][tagText] || "#1d293d";
-                                })
+                                tag.style.backgroundColor = tagsJson[2].colors[0][tagText] || "#1d293d";
                             }catch(error){
                                 console.error("error loading tag color from json", error);
                                 tag.style.backgroundColor = "#1d293d";
@@ -223,8 +220,6 @@ window.addEventListener("load", async function() {
     const indexesResponse = await fetch("./data/communityindexes.json");
     indexes = await indexesResponse.json();
 
-
-    const currentDate = new Date();
     yearToGetJson = currentDate.getFullYear();
     chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
 
@@ -234,6 +229,9 @@ window.addEventListener("load", async function() {
 
     const response = await fetch(`./data/community/${yearToGetJson}-${chunkToGetJson}.json`, { cache: "no-store" });
     await cache.put(`./data/community/${yearToGetJson}-${chunkToGetJson}.json`, response.clone());
+
+    const tagsJsonResponse = await this.fetch("./data/tags.json");
+    tagsJson = await tagsJsonResponse.json();
 
     createCommunityElements("null", "null", "null");
 });

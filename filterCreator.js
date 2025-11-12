@@ -18,11 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 label.for = tag;
                 label.textContent = tag;
                 try{
-                    fetch("./data/tags.json")
-                    .then(response => response.json())
-                    .then(tagData => {
-                        label.style.backgroundColor = tagData[2].colors[0][tag];
-                    })
+                    label.style.backgroundColor = data[2].colors[0][tag];
                 }catch(error){
                     console.error("error loading tag color from json", error);
                 }
@@ -42,11 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 label.for = tag;
                 label.textContent = tag;
                 try{
-                    fetch("./data/tags.json")
-                    .then(response => response.json())
-                    .then(tagData => {
-                        label.style.backgroundColor = tagData[2].colors[0][tag];
-                    })
+                    label.style.backgroundColor = data[2].colors[0][tag];
                 }catch(error){
                     console.error("error loading tag color from json", error);
                 }

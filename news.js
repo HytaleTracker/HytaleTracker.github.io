@@ -1,8 +1,9 @@
 //load the uh uh uh the uh um uh the uh news from the uh uh uh the uh um uh the uh JSON file
-
 let yearToGetJson;
 let chunkToGetJson;
 let indexes;
+
+const currentDate = new Date();
 
 const newsContainer = document.getElementById("news");
 const scrollWatcher = document.createElement("div");
@@ -96,12 +97,7 @@ function createNewsElements(filters, minDate, maxDate){
                             tag.className = "tag";
                             tag.textContent = tagText;
                             try{
-                                fetch("./data/tags.json")
-                                .then(response => response.json())
-                                .then(tagData => {
-                                    tag.style.backgroundColor = tagData[2].colors[0][tagText] || "#1d293d";
-                                })
-                                
+                                tag.style.backgroundColor = tagsJson[2].colors[0][tagText] || "#1d293d";
                             }catch(error){
                                 console.error("error loading tag color from json", error);
                                 tag.style.backgroundColor = "#1d293d";
@@ -232,7 +228,6 @@ window.addEventListener("load", async function() {
     indexes = await indexesResponse.json();
 
 
-    const currentDate = new Date();
     yearToGetJson = currentDate.getFullYear();
     chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
 
@@ -242,6 +237,9 @@ window.addEventListener("load", async function() {
 
     const response = await fetch(`./data/news/${yearToGetJson}-${chunkToGetJson}.json`, { cache: "no-store" });
     await cache.put(`./data/news/${yearToGetJson}-${chunkToGetJson}.json`, response.clone());
+
+    const tagsJsonResponse = await this.fetch("./data/tags.json");
+    tagsJson = await tagsJsonResponse.json();
 
     createNewsElements("null", "null", "null");
 });

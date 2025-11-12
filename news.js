@@ -358,47 +358,13 @@ newsContainer.addEventListener("click", function(event) {
 
 const filterSubmitButton = document.getElementById("filter-submit-button");
 filterSubmitButton.addEventListener("click", () => {
-    yearToGetJson = currentDate.getFullYear();
-    chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
-    lastDay = '';
-    const form = document.getElementById("filterForm");
-    const children = form.children;
-    let selectedTags = [];
-    console.log(children);
-    for(let child of children){
-        if(child.nodeName == "INPUT"){
-            console.log(child.id);
-            if(child.checked){
-                selectedTags.push(child.id);
-            }
-        }
-    }
-    console.log(selectedTags);
-    const newsItemsToRemove = document.getElementsByClassName("news-item");
-    const dividersToRemove = document.getElementsByClassName("divider");
-    const datesToRemove = document.getElementsByClassName("date");
-    const minDate = document.getElementById("min-date-input").value;
-    const maxDate = document.getElementById("max-date-input").value;
-    while(newsItemsToRemove[0]){
-        newsItemsToRemove[0].remove();
-    }
-    while(dividersToRemove[0]){
-        dividersToRemove[0].remove();
-    }
-    while(datesToRemove[0]){
-        datesToRemove[0].remove();
-    }
-    itemsCreated = 0;
-    if(selectedTags.length == 0){
-        createNewsElements("null", minDate, maxDate);
-    }
-    else{
-        console.log("creating news elements with filter");
-        createNewsElements(selectedTags, minDate, maxDate);
-    }
+    filter();
 })
 const dateSubmitButton = document.getElementById("date-submit-button");
 dateSubmitButton.addEventListener("click", () => {
+    filter();
+})
+function filter(){
     yearToGetJson = currentDate.getFullYear();
     chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
     lastDay = '';
@@ -437,7 +403,7 @@ dateSubmitButton.addEventListener("click", () => {
         console.log("creating news elements with filter");
         createNewsElements(selectedTags, minDate, maxDate);
     }
-})
+}
 
 
 let easterEggKeysPressed = [];

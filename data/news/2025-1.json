@@ -1,6 +1,75 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon discusses various features in Hytale.",
+        "mainText": "In a series of 11 tweets, Simon discusses various features, such as being able to transform into anything in Creative, from a potato to a kweebec or a dragon, with a whole menu controlling it in-game. When asked about survival mode transformations, Simon notes it as a feature he'd love to see eventually. While discussing the transformation menu, Simon mentions a Weather Control menu also existing. Shifting gears, Simon says the rewritten PVP and Parkour systems would be kept, and while there was a prototyped automation system, he'd consider hiring a modder who developed a sufficient automation mod. Finally, Simon confirms that trees do fall.",
+        "date": "08 16 2025",
+        "tags": [
+            "Simon",
+            "Post-Cancellation",
+            "Community",
+            "Modding",
+            "Features"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Transform into anything.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956838005869584623"
+                ]
+            },
+            {
+                "2": [
+                    "Kweebec transformation.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956834823751844191"
+                ]
+            },
+            {
+                "3": [
+                    "Transformation menu.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956838580623392916"
+                ]
+            },
+            {
+                "4": [
+                    "Transformation in Survival.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956840293241659628"
+                ]
+            },
+            {
+                "5": [
+                    "Weather Control menu.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956839897433612502"
+                ]
+            },
+            {
+                "6": [
+                    "PVP/Parkour.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956842118548496580"
+                ]
+            },
+            {
+                "7": [
+                    "Prototype.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956847238925160918"
+                ]
+            },
+            {
+                "8": [
+                    "Hiring modder.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956845649015849352"
+                ]
+            },
+            {
+                "9": [
+                    "Falling trees.",
+                    "https://xcancel.com/Simon_Hypixel/status/1956845252729536555"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses cosmetics, player skins.",
         "mainText": "When asked about cosmetics and skins, Simon says there likely wouldn't be player-made skins to avoid nude/racist skins (no naked nazi potatoes), but free cosmetics (while basic on Day 1) would be heavily invested in to still enable creativity, with the potential for players to submit cosmetics that could then become global if approved. Mods/Private Servers would be able to add cosmetics, but wouldn't work globally. Keeping a large free catalog of cosmetics, with custom cosmetics being voted on to be added. Simon states that no player-made skins is the only compromise to have more freedom in the rest of the game, and to keep the art identity intact. User Generated Content could be handled similar to Valve's method, and the skin system would eventually have non-human features and animal hoods (instead of Furry cosmetics). When presented with Hawkon's Hytale Cosmetics video, Simon agrees with many points (given time to get there).",
         "date": "08 16 2025",

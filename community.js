@@ -220,7 +220,7 @@ function filterItems(item, filters, minDate, maxDate){
 }
 
 window.addEventListener("load", async function() {
-    const indexesResponse = await fetch("./data/communityIndexes.json");
+    const indexesResponse = await fetch("./data/communityindexes.json");
     indexes = await indexesResponse.json();
 
 

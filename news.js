@@ -280,12 +280,17 @@ const scrollObvserver = new IntersectionObserver(entries => {
 
 scrollObvserver.observe(scrollWatcher);
 
+//sources
+
 let lastClickedDiv;
 function createSources(){
     
     const clickedDiv = event.target.closest(".news-item");
     
-    if (!clickedDiv) return;
+    if (!clickedDiv){
+        lastClickedDiv = "";
+        return;
+    }
 
     if(lastClickedDiv != clickedDiv){
     lastClickedDiv = clickedDiv;

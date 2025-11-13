@@ -280,8 +280,15 @@ const scrollObvserver = new IntersectionObserver(entries => {
 
 scrollObvserver.observe(scrollWatcher);
 
+let lastClickedDiv;
 function createSources(){
+    
+    const clickedDiv = event.target.closest(".news-item");
+    
+    if (!clickedDiv) return;
 
+    if(lastClickedDiv != clickedDiv){
+    lastClickedDiv = clickedDiv;
     const linksToRemove = document.getElementsByClassName("sourceLink");
     const indicatorsToRemove = document.getElementsByClassName("sourceIndex");
     const brToRemove = document.getElementsByClassName("sourceBr");
@@ -296,8 +303,7 @@ function createSources(){
         brToRemove[0].remove();
     }
 
-    const clickedDiv = event.target.closest(".news-item");
-    if (!clickedDiv) return;
+    
 
     const sourcesDiv = document.getElementById("sources-div");
     sourcesDiv.style.display = "inherit";
@@ -354,8 +360,7 @@ function createSources(){
             console.log("error loading sources", error);
         }
     })
-
-    document.body.appendChild(sourcesDiv);
+    }
 }
 
 

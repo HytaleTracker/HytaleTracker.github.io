@@ -58,13 +58,13 @@ document.getElementById("create").addEventListener("click", () => {
             tags.push(tag.value);
         }
     });
-    if(mainPlatform == "blog"){
+    if(mainPlatform == "blog" && !tags.includes("Blog")){
         tags.push("Blog");
     }
-    if(mainPlatform == "update"){
+    if(mainPlatform == "update"  && !tags.includes("Update")){
         tags.push("Update");
     }
-    if(mainPlatform == "twitter"){
+    if(mainPlatform == "twitter"  && !tags.includes("Tweet")){
         tags.push("Tweet");
     }
 

@@ -109,6 +109,13 @@ function createNewsElements(filters, minDate, maxDate){
                         newsItem.className = "news-item";
                         newsItem.id = `${i}-${yearToGetJson}-${chunkToGetJson}`;
                         container.appendChild(newsItem);
+
+                        newsItem.addEventListener("mouseenter", () => {
+                            createSources();
+                        });
+                        newsItem.addEventListener("click", () => {
+                            createSources();
+                        });
                     }else{
                         skippedItems += 1;
                     }
@@ -273,37 +280,34 @@ const scrollObvserver = new IntersectionObserver(entries => {
 
 scrollObvserver.observe(scrollWatcher);
 
-//sources
-newsContainer.addEventListener("click", function(event) {
-    try {
-        const sourcesDiv = document.getElementById("sources-div");
-        sourcesDiv.remove();
-        console.log("Sources div removed");
-    } catch (error) {
-        console.log("No sources div to remove");
+function createSources(){
+
+    const linksToRemove = document.getElementsByClassName("sourceLink");
+    const indicatorsToRemove = document.getElementsByClassName("sourceIndex");
+    const brToRemove = document.getElementsByClassName("sourceBr");
+
+    while(linksToRemove[0]){
+        linksToRemove[0].remove();
     }
-    console.log("News container clicked");
+    while(indicatorsToRemove[0]){
+        indicatorsToRemove[0].remove();
+    }
+    while(brToRemove[0]){
+        brToRemove[0].remove();
+    }
 
     const clickedDiv = event.target.closest(".news-item");
     if (!clickedDiv) return;
 
-    const sourcesDiv = document.createElement("div");
-    sourcesDiv.id = "sources-div";
+    const sourcesDiv = document.getElementById("sources-div");
+    sourcesDiv.style.display = "inherit";
 
-    const xButton = document.createElement("span");
-    xButton.textContent = "X";
-    xButton.className = "xButton";
-    sourcesDiv.appendChild(xButton);
+    const xButton = document.getElementById("xButton");
 
     xButton.addEventListener("click", () => {
-        sourcesDiv.remove();
-        console.log("div removed");
+        sourcesDiv.style.display = "none";
     })
 
-    const sourcesHeader = document.createElement("h3");
-    sourcesHeader.className = "sourcesHeader";
-    sourcesHeader.textContent = "Sources:";
-    sourcesDiv.appendChild(sourcesHeader);
 
     //desktop
     if(innerHeight < innerWidth){
@@ -336,22 +340,23 @@ newsContainer.addEventListener("click", function(event) {
                 a.href = url[1];
                 a.textContent = url[0];
                 a.target = '_blank';
+                a.classList.add("sourceLink");
+                indexIndicator.classList.add("sourceIndex");
                 sourcesDiv.appendChild(indexIndicator);
                 sourcesDiv.appendChild(a);
-                sourcesDiv.appendChild(document.createElement('br'));
+                const br = document.createElement('br');
+                br.classList.add("sourceBr");
+                sourcesDiv.appendChild(br);
                 source += 1;
             });
         });
         } catch (error){
             console.log("error loading sources", error);
-            const errorMessage = document.createElement("p");
-            errorMessage.textContent = "hmmm, we had issues loading that. . . Either we forgot to put sources (sorry about that) or the was a bug in the code (sorry from the dev), if the problem persists, please let us know";
-            sourcesDiv.appendChild(errorMessage);
         }
     })
 
     document.body.appendChild(sourcesDiv);
-});
+}
 
 
 //filtering

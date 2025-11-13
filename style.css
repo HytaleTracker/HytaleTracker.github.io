@@ -88,7 +88,7 @@
         width: 25%;
         border-radius: 10px;
         padding: 10px;
-        overflow-x: scroll;
+        overflow-x: wrap;
     }
     .xButton{
         float: right;

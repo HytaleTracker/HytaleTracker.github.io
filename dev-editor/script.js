@@ -58,6 +58,15 @@ document.getElementById("create").addEventListener("click", () => {
             tags.push(tag.value);
         }
     });
+    if(mainPlatform == "blog"){
+        tags.push("blog");
+    }
+    if(mainPlatform == "update"){
+        tags.push("update");
+    }
+    if(mainPlatform == "tweet"){
+        tags.push("tweet");
+    }
 
     let sourceIndex = 1;
     const sources = [];

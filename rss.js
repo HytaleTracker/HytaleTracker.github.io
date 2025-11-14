@@ -20,6 +20,9 @@ if(posts){
     <title>The latest Hytale news</title>
     <link>https://your-site.com</link>
     <description>The Hytale tracker has new news!</description>
+    <lastBuildDate>${currentDate.toUTCString}</lastBuildDate>
+    <language>en</language>
+
     ${items}
   </channel>
   </rss>`;

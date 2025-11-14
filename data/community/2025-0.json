@@ -1,10 +1,18 @@
 [
     {
+        "image": "./assets/rssLogo.png",
+        "mainText": "Add the hytale tracker to your RSS reader by clicking on this post",
+        "summary": "RSS now supported!",
+        "link": "./rss.html",
+        "date": "11 13 2025",
+        "tags": ["Website", "Announcement"]
+    },
+    {
         "image": "./favicon.ico",
         "mainText": "This is your one-stop shop for all Hytale news, learn more about us on the about page.",
         "summary": "The Hytale Tracker launches!",
         "link": "https://hytaletracker.github.io/about",
         "date": "11 12 2025",
-        "tags": ["announcement"]
+        "tags": ["Announcement"]
     }
 ]

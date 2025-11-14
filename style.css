@@ -101,6 +101,15 @@
         width: 100%;
     }
 }
+#rssDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    gap: 10px;
+}
 .main-text{
     color: #858b97;
 }

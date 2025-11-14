@@ -22,38 +22,42 @@
       </div>
     </nav>
     <main>
-        <div id="news">
-          <div id = filter>
-            <button id="filterDropdown" style="cursor: pointer;">filters</button><br>
-            <div id = filters>
-              <form id="filterForm">
-                
-              </form>
-              <button id = "filter-submit-button">Submit</button>
-              <button id="clear-filters">clear</button>
-            </div>
-            <div id="date-filter">
-              <h3>Date: </h3>
-              <form id="date-form">
-                <label for="min-date-input">start date: </label>
-                <input type="date" id="min-date-input" name="min-date-input">
+      <div id="news">
+        <div id = filter>
+          <button id="filterDropdown" style="cursor: pointer;">filters</button><br>
+          <div id = filters>
+            <form id="filterForm">
+              
+            </form>
+            <button id = "filter-submit-button">Submit</button>
+            <button id="clear-filters">clear</button>
+          </div>
+          <div id="date-filter">
+            <h3>Date: </h3>
+            <form id="date-form">
+              <label for="min-date-input">start date: </label>
+              <input type="date" id="min-date-input" name="min-date-input">
 
-                <br>
-                
-                <label for="max-date-input">end date: </label>
-                <input type="date" id="max-date-input" name="max-date-input">
-              </form>
-              <button id="date-submit-button">Submit</button>
-              <button id="clear-dates">clear</button>
-            </div>
+              <br>
+              
+              <label for="max-date-input">end date: </label>
+              <input type="date" id="max-date-input" name="max-date-input">
+            </form>
+            <button id="date-submit-button">Submit</button>
+            <button id="clear-dates">clear</button>
           </div>
         </div>
-        <div id="sources-div" style="display: none;">
-          <span id="xButton" class="xButton">
-            X
-          </span>
-          <h3 id="sources-header" class="sourcesHeader">Sources: </h3>
-        </div>
+      </div>
+      <div id="sources-div" style="display: none;">
+        <span id="xButton" class="xButton">
+          X
+        </span>
+        <h3 id="sources-header" class="sourcesHeader">Sources: </h3>
+      </div>
+      <div id="rssDiv">
+        <a href="./rss.html" target="_blank">Subscribe with RSS</a>
+        <img src="./assets/rssLogo.png" width="25px">
+      </div>
     </main>
     <script src="news.js"></script>
     <script src="filterCreator.js"></script> 

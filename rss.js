@@ -18,7 +18,7 @@ if(posts){
   <rss version="2.0">
   <channel>
     <title>The latest Hytale news</title>
-    <link>https://your-site.com</link>
+    <link>https://hytaletracker.github.io</link>
     <description>The Hytale tracker has new news!</description>
     ${items}
   </channel>

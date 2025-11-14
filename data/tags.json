@@ -20,7 +20,7 @@
     {
         "community": [
             "Announcement",
-            "Website"
+            "Hytale Tracker"
         ]
     },
     {
@@ -33,6 +33,9 @@
                 "Simon": [
                     "#57C2F7",
                     "black"
+                ],
+                "Hytale Tracker": [
+                    "#57263A"
                 ]
             }
         ]

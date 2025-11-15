@@ -123,8 +123,10 @@ function createNewsElements(filters, minDate, maxDate){
                 };
 
                 itemsCreated += 5;
-                if(readQueryString("goTo")){
-                    goTo(readQueryString("goTo").replaceAll("-", " "));
+                if(goToState != true){
+                    if(readQueryString("goTo")){
+                        goTo(readQueryString("goTo").replaceAll("-", " "));
+                    }
                 }
 
                 console.log(itemsCreated);
@@ -524,6 +526,7 @@ function readQueryString(param){
     return urlParams.get(param);
 }
 
+let goToState = false;
 function goTo(day){
     const dateToSearchFor = `${months[Number(day.split(" ")[0]) - 1]} ${day.split(" ")[1]} ${day.split(" ")[2]}`
     const maxYear = day.split(" ")[2];
@@ -531,7 +534,10 @@ function goTo(day){
     const elements = document.querySelectorAll("h3");
     const filteredElements = Array.from(elements).filter(el => el.textContent.trim() == dateToSearchFor);
     console.log(Array.from(elements).map(el => el.textContent));
-    if(filteredElements[0]) filteredElements[0].scrollIntoView(true);
+    if(filteredElements[0]){
+        filteredElements[0].scrollIntoView(true);
+        goToState = true;
+    }
     else{
         if(yearToGetJson >= maxYear && yearToGetJson > 2024){
             console.log("looking for item to go to in", yearToGetJson);

@@ -2,6 +2,7 @@
 let yearToGetJson;
 let chunkToGetJson;
 let indexes;
+var months = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ];
 
 const currentDate = new Date();
 
@@ -121,13 +122,17 @@ function createNewsElements(filters, minDate, maxDate){
                     }
                 };
 
-                itemsCreated += 5;   
+                itemsCreated += 5;
+                if(readQueryString("goTo")){
+                    goTo(readQueryString("goTo").replaceAll("-", " "));
+                }
 
                 console.log(itemsCreated);
                 newsContainer.appendChild(scrollWatcher);
 
                 scrollObvserver.unobserve(scrollWatcher);
                 scrollObvserver.observe(scrollWatcher);
+                
             })
             
              .catch(error => {
@@ -513,6 +518,28 @@ document.getElementById("clear-dates").addEventListener("click", () => {
     document.getElementById("sources-div").style.display = "none";
     lastClickedDiv = "";
 })
+
+function readQueryString(param){
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get(param);
+}
+
+let goToRecursion = 0;
+function goTo(day){
+    const dateToSearchFor = `${months[Number(day.split(" ")[0]) - 1]} ${day.split(" ")[1]} ${day.split(" ")[2]}`
+    console.log("date to search for", dateToSearchFor);
+    const elements = document.querySelectorAll("h3");
+    const filteredElements = Array.from(elements).filter(el => el.textContent.trim() == dateToSearchFor);
+    console.log(Array.from(elements).map(el => el.textContent));
+    if(filteredElements[0]) filteredElements[0].scrollIntoView(true);
+    else{
+        if(goToRecursion < 100){
+            goToRecursion ++;
+            createNewsElements("null", "null", "null");
+        }
+    }
+}
+
 
 
 let easterEggKeysPressed = [];

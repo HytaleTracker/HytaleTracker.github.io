@@ -5,12 +5,13 @@ const year = currentDate.getFullYear();
 const indexes = JSON.parse(fs.readFileSync("./data/indexes.json", "utf8"));
 const indexToGet = indexes[(String(year))];
 const posts = JSON.parse(fs.readFileSync(`./data/news/${year}-${indexToGet}.json`, "utf8"));
+const months = [ "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December" ];
 
 if(posts){
   const items = posts.map(p => `
     <item>
       <title>${p.summary}</title>
-      <link>https://hytaletracker.github.io</link>
+      <link>https://hytaletracker.github.io?goTo=${p.date.replaceAll(" ", "-")}</link>
       <pubDate>${new Date(p.date).toUTCString()}</pubDate>
     </item>`).join("");
 

@@ -268,4 +268,7 @@ body{
     .sourcesHeader{
         float: top;
     }
+    .hytaleTrackerLogo{
+        display: none;
+    }
 }

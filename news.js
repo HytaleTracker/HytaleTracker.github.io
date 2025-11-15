@@ -191,9 +191,13 @@ function filterItems(item, filters, minDate, maxDate){
         itemDate.setMonth(parseInt(m) - 1);
         itemDate.setDate(parseInt(d));
         itemDate.setFullYear(parseInt(y));
+        itemDate.setHours(0,0,0,0);
+
+
 
         let setDate = new Date(minDate);
-        setDate.setTime(setDate.getTime())
+        setDate.setTime(setDate.getTime());
+        setDate.setHours(0,0,0,0);
 
         console.log("item date", itemDate, "set date", setDate);
 
@@ -208,9 +212,13 @@ function filterItems(item, filters, minDate, maxDate){
         itemDate.setMonth(parseInt(m) - 1);
         itemDate.setDate(parseInt(d));
         itemDate.setFullYear(parseInt(y));
+        itemDate.setHours(0,0,0,0);
+
+
 
         let setDate = new Date(maxDate);
-        setDate.setTime(setDate.getTime() + 86400000)
+        setDate.setTime(setDate.getTime() + 86400000);
+        setDate.setHours(0,0,0,0);
 
         console.log("item date", itemDate, "set date", setDate);
 
@@ -384,6 +392,7 @@ function filter(){
     yearToGetJson = currentDate.getFullYear();
     chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
     lastDay = '';
+    scrollObvserver.unobserve(scrollWatcher);
     const form = document.getElementById("filterForm");
     const children = form.children;
     let selectedTags = [];
@@ -427,6 +436,7 @@ document.getElementById("clear-filters").addEventListener("click", () => {
     yearToGetJson = currentDate.getFullYear();
     chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
     lastDay = '';
+    scrollObvserver.unobserve(scrollWatcher);
     const form = document.getElementById("filterForm");
     const children = form.children;
     let selectedTags = [];
@@ -463,6 +473,7 @@ document.getElementById("clear-dates").addEventListener("click", () => {
     yearToGetJson = currentDate.getFullYear();
     chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
     lastDay = '';
+    scrollObvserver.unobserve(scrollWatcher);
     yearToGetJson = currentDate.getFullYear();
     chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
     lastDay = '';

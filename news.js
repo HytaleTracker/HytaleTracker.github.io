@@ -38,7 +38,6 @@ function getCachedOrFetch(year, chunk) {
 }
 
 function createNewsElements(filters, minDate, maxDate){
-    
     getCachedOrFetch(yearToGetJson, chunkToGetJson)
         .then(data => {
             let skippedItems = 0;

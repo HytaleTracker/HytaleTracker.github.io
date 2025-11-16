@@ -101,6 +101,15 @@
         width: 100%;
     }
 }
+#coffeeDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 50px;
+    right: 10px;
+    gap: 10px;
+}
 #rssDiv{
     display: flex;
     align-items: center;

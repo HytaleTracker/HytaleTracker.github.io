@@ -77,6 +77,12 @@ function createNewsElements(filters, minDate, maxDate){
                             logo.src = "./assets/hytale.jpg";
                             logo.style.borderRadius = "5px";
                         }
+                        else if(item.mainPlatform == "Reddit"){
+                            logo.src = "./assets/RedditLogo.png";
+                        }
+                        else if(item.mainPlatform == "Discord"){
+                            logo.src = "./assets/DiscordLogo.png";
+                        }
 
                         const logospan = document.createElement('span');
                         logospan.className = "logospan";

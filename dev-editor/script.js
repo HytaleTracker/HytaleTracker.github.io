@@ -67,6 +67,12 @@ document.getElementById("create").addEventListener("click", () => {
     if(mainPlatform == "twitter"  && !tags.includes("Tweet")){
         tags.push("Tweet");
     }
+    if(mainPlatform == "Discord"  && !tags.includes("Discord")){
+        tags.push("Discord");
+    }
+    if(mainPlatform == "Reddit"  && !tags.includes("Reddit")){
+        tags.push("Reddit");
+    }
 
     let sourceIndex = 1;
     const sources = [];

@@ -1,5 +1,27 @@
 [
     {
+        "mainPlatform": "blog",
+        "summary": "HYTALE IS SAVED!",
+        "mainText": "The Hytale Team announces Hytale is saved, 100% of the IP being purchased from Riot Games. An Early access date will be announced in the coming days, along with pricing details, and will launch only on Windows at first. The team warns players to expect bugs, rough edges, unbalanced content, and frequent updates that break things, with Early Access expected to last for a few years. Exploration Mode, Creative Mode, and Modding will be available on Early Access Day 1, with Minigames and Adventure Mode to come later. The Hytale Team announces 10-year personal funding commitment, with no investors or publishers.",
+        "date": "11 17 2025",
+        "tags": [
+            "Statement",
+            "Simon",
+            "Blog",
+            "Modding",
+            "Early Access",
+            "Servers"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Official Blog Post",
+                    "https://hytale.com/news/2025/11/hytale-is-saved"
+                ]
+            }
+        ]
+    },
+    {
         "mainPlatform": "tweet",
         "summary": "Simon discusses Hytale vs Minecraft, status of pre-launch work.",
         "mainText": "Simon believes Hytale will take a very different path from Minecraft, and that both games can thrive together, adding that Hytale doesn't have to try to please every player and won't get stuck in design-by-committee, and that the game will avoid a Java/Bedrock Edition situation. Most notably, however, Simon reveals that the team has already worked on a game launcher, website, auth, accounts, payment system, and name reservation -- all of it being ready or 'almost' ready.",

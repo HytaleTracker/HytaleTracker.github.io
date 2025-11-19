@@ -1,11 +1,19 @@
 [
     {
+        "image": "./misc/images/Reddoons.jpg",
+        "mainText": "We compiled some of the Hytale community's videos about Hytale being saved. You can view them by clicking on this post.",
+        "summary": "Hytale saved reactions",
+        "link": "./misc/reactions.html",
+        "date": "11 18 2025",
+        "tags": ["Video", "Compilation"]
+    },
+    {
         "image": "./assets/Hytale.jpg",
         "mainText": "The Hytale.com website is back,the socials are back up, and Simon has officially saved Hytale, Thank you Simon.",
         "summary": "HYTALE IS SAVED",
         "link": "https://hytale.com",
         "date": "11 17 2025",
-        "tags": ["announcement", "Hytale"]
+        "tags": ["Announcement", "Hytale"]
     },
     {
         "image": "./assets/rssLogo.png",

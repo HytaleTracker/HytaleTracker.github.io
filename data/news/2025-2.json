@@ -1,6 +1,67 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon teases gameplay, provides additional details.",
+        "mainText": "Simon's first tweet of the day announces that he'll be sharing gameplay, and asking what weapons players want to see first. Discussing the magic system, Simon says the books/staves in-game are currently boring like in the old clips, but the team has found interesting stuff that he'll share soon. On Bosses, Simon says there aren't any that he's happy with at the moment, though some are broken yet interesting. Simon confirms the plan is to have a living world, with predators chasing prey and more. Simon then shares the first screenshot from Hytale's Legacy Engine - a Zone 3 Shadow Knight - saying the mob doesn't yet spawn or have a purpose, but is available to be used by modders. Simon later shares the first look at Creation Tools in Hytale, teases the redesigned Kweebecs being in the game, yet separate from legacy Kweebecs. Finally, Simon confirmed everything is editable while the game/server is running.",
+        "date": "11 18 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Early Access"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Gameplay teased.",
+                    "https://xcancel.com/Simon_Hypixel/status/1990724608207544793?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Status of magic.",
+                    "https://xcancel.com/Simon_Hypixel/status/1990728397434085732?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Status of bosses.",
+                    "https://xcancel.com/Simon_Hypixel/status/1990730200233943169?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Living world.",
+                    "https://xcancel.com/Simon_Hypixel/status/1990731918107623608?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Shadow Knight Screenshot.",
+                    "https://xcancel.com/Simon_Hypixel/status/1990801397995180156?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Creation Tools Screenshots.",
+                    "https://xcancel.com/Simon_Hypixel/status/1990853620770750697?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Redesigned Kweebecs.",
+                    "https://xcancel.com/Simon_Hypixel/status/1990856602346274872?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Everything editable while the game is running.",
+                    "https://xcancel.com/Simon_Hypixel/status/1990860346911752665?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Developers share initial information/thoughts about Hytale, updates status of Arcanite Games.",
         "mainText": "In the first post-saved tweet, Simon thanks Noxy for his work and for supporting the deal that brought the project home. When asked about releasing sample assets of avatars so modders can get a head start, Simon says he'll look into it. Taking to twitter, Hytale Tech Director Slikey put out a request for player questions about Hytale's tech, for answering in a future blogpost. Co-Founder/Executive Director Lyall provided an update on Arcanite Games, saying development was paused to enable the team to dedicate their entire time and focus on Hytale.",
         "date": "11 17 2025",

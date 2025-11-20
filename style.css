@@ -26,6 +26,13 @@
         height: 800px;
         vertical-align: top;
         overflow-y: scroll;
+        transition: margin-left 0.5s, margin-right 0.5s, margin-top 0.5s, margin-bottom 0.5s;
+    }
+    .community-item:hover{
+        margin-left: 15px;
+        margin-right: 5px;
+        margin-top: 5px;
+        margin-bottom: 15px
     }
     .hytaleTrackerLogo{
         height: 90%;
@@ -57,13 +64,17 @@
     .news-item{
         border: 5px solid #1d293d;
         margin: 10px;
-        margin-left: auto;
-        margin-right: auto;
+        margin-left: 30%;
+        margin-right: 30%;
         padding: 10px;
         border-radius: 10px;
         width: 40%;
         height: fit-content;
         background-color: #0f172b;
+        transition: margin-left 0.5s;
+    }
+    .news-item:hover{
+        margin-left: calc(30% + 10px);
     }
     .main-text{
         margin-top: 0px;

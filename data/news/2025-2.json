@@ -1,5 +1,45 @@
 [
     {
+        "mainPlatform": "tweet",
+        "summary": "Developers share initial information/thoughts about Hytale, updates states of Arcanite Games.",
+        "mainText": "In the first post-saved tweet, Simon thanks Noxy for his work and for supporting the deal that brought the project home. When asked about releasing sample assets of avatars so modders can get a head start, Simon says he'll look into it. Taking to twitter, Hytale Tech Director Slikey put out a request for player questions about Hytale's tech, for answering in a future blogpost. Co-Founder/Executive Director Lyall provided an update on Arcanite Games, saying development was paused to enable the team to dedicate their entire time and focus on Hytale.",
+        "date": "11 17 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Modding",
+            "Engine",
+            "Slikey",
+            "Lyall"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon thanks Noxy.",
+                    "https://xcancel.com/Simon_Hypixel/status/1990484201091547575?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Potentially releasing Sample Avatar Assets.",
+                    "https://xcancel.com/Simon_Hypixel/status/1990563808511996328?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Slikey requests questions about Hytale tech for future use.",
+                    "https://xcancel.com/slikey_dev/status/1990575475840987350"
+                ]
+            },
+            {
+                "4": [
+                    "Arcanite Games paused.",
+                    "https://xcancel.com/Lyall_PD/status/1990519971743666243"
+                ]
+            }
+        ]
+    },
+    {
         "mainPlatform": "Youtube",
         "summary": "Reddoons interviews Simon!",
         "mainText": "On November 17th, 2025, Reddoons published an Exclusive Interview with Simon. In the interview, Simon stated that Exploration Mode was a temporary replacement for Adventure Mode, as the vision for the mode is far from what they can offer at the moment. Exploration Mode will server as the foundation for the game, eventually having a living world and other features that build and become Adventure Mode, such as dungeons, epic boss fights, and more. Exploration Mode will let players fight, loot, farm, explore, build, and play with friends - serving as more of a prologue to what Hytale will be. In the short to medium term, Simon wants to focus on fast wins, not spending months on a single update and instead bombarding players with constant updates before eventually moving to bigger updates when the game is in a solid state. Simon teases introducing features that are typical in RPGs or even ARPGs, and says the portals system in Hytale's End Game might be simple at launch, but is a feature that (in the long term vision) allows them to truly expand their creativity. Simon says Hytale is made different by its movements, combat, vibe, and controls, with the world gen v2 and ability to mod the game being very exciting to him. Crucially, Simon says he wants Hytale to not be a survival game, but an adventure game that is easy to learn and hard to master.",

@@ -1,31 +1,589 @@
 [
   {
     "mainPlatform": "tweet",
-    "summary": "Simon says \"why not both\" to grappleshot",
-    "mainText": "'Why not both?' by Simon",
+    "summary": "Simon says the rat being lured by cheese interaction still works",
+    "mainText": "'Yep, still works' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Future stuff",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1991906871754764697?s=20"
+          "https://vxtwitter.com/Simon_Hypixel/status/1992332487314538799?s=20"
         ]
       }
     ]
   },
   {
     "mainPlatform": "tweet",
-    "summary": "Propzie responds to KannoArt's \"IK support\" Blockbench plugin",
-    "mainText": "'Wow! That is so awesome!' by Propzie",
+    "summary": "Simon says he'll do the Hypixel Studios one w/ guitar string + leave",
+    "mainText": "'I will do the Hypixel studios one with guitar string + leave, cant find clip atm' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Propzie",
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992332403604701518?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon notes down request for Hytale animation when game opens",
+    "mainText": "'Added for later, thanks' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992331884567957712?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon has noticed the artists and modelers in community",
+    "mainText": "'I noticed!' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992329454690124083?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon talks about difficulty in art keeping up with content",
+    "mainText": "'The art is where its difficult to keep up yep, this is also why we plan to provide a massive amount of it to begin with. \r\n\r\nWe will scale the content team for the sake of modding.' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992329019144950165?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon says the new \"Ravengard\" Hypixel minigame would go hard in Hytale",
+    "mainText": "'In Hytale it would go hard. It would also be 5x times faster to do in Hytale because of our tools and accessibility to modding.\r\n\r\nI don’t think anyone understands whats about to happen in terms of development on Hytale. Speed of production is insane.' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992328131286646862?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon replies to Slikey with meme",
+    "mainText": "'MEME: \"SILENCE, Engineer, Ideas guy is talking.\"' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992327494561644637?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey says the singularity is solved",
+    "mainText": "'We already solved it. The singularity happened and it is done.' by Slikey",
+    "date": "11 21 2025",
+    "tags": [
+      "Slikey"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992326719861366796?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey responds to Q about % of \"merge conflicts.\"",
+    "mainText": "'Yes' by Slikey",
+    "date": "11 21 2025",
+    "tags": [
+      "Slikey"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992326482954535321?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey gives information about the branches; \"singularity event.\"",
+    "mainText": "'These were old branches we had to triage and consolidate. I called it the \"singularity event\". We had to get to a point where we have all the prototypes and features in a single branch so that all work off the same codebase and avoid merge issues.' by Slikey",
+    "date": "11 21 2025",
+    "tags": [
+      "Slikey"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992322183918727212?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey shares the strategy",
+    "mainText": "'For anyone interested in the full version, we use a Trunk-base development strategy: https://trunkbaseddevelopment.com' by Slikey",
+    "date": "11 21 2025",
+    "tags": [
+      "Slikey"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992321566659768327?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey jokes about Simon (the \"ideas guy\") sharing his branching strategy in a TL;DR",
+    "mainText": "'When ideas guy posts your branching strategy in a TL;DR 🤣' by Slikey",
+    "date": "11 21 2025",
+    "tags": [
+      "Slikey"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992320918690070789?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar shares \"Hytale Music To Adventure To - 1 Hour Mix\" ",
+    "mainText": "'Shout-out to Roran for this insane parallax Hytale art piece! Simply stunning!' by Oscar Garvin\n\n(Featuring many community members in the artwork, including me!)",
+    "date": "11 21 2025",
+    "tags": [
+      "Oscar Garvin"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1992305580900257881?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey discusses solution to Farlands bug",
+    "mainText": "'Correct. Its not super difficult to implement but the impact to the base game is also rather small at the moment, so we are working through the more pressing issues.' by Slikey",
+    "date": "11 21 2025",
+    "tags": [
+      "Slikey"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992302372199281067?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey discusses \"Farlands\" potential in Hytale",
+    "mainText": "'Yep, right now we have a floating point precision issues. You'll see the game get weird when you go far away. There are fixes we want to apply but they are not prioritized right now.' by Slikey\n\n(NOTE: Previous version of this tweet was deleted and reposted with corrected wording.)",
+    "date": "11 21 2025",
+    "tags": [
+      "Slikey"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992301942467600688?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey discusses Linux support",
+    "mainText": "'No idea, we haven't tried it. We are trying to get native support for PC platforms including Linux as some of our team members like Linux. We'll run tests if we can't get Linux ready for launch' by Slikey",
+    "date": "11 21 2025",
+    "tags": [
+      "Slikey"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992301330690646363?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey answers server architecture question",
+    "mainText": "'Sorry for missing your question. The protocol is the determining factor here. Usually game updates don't alter the protocol but in case that happens, we plan to have a compatibility layer in the future so that you have some time to update your mods and server. I expect us to mess it up early into early access but for that we allow users to select the \"previous\" game version so that they can still join your server and update their game when you updated the server.\r\nWe understand this problem a lot as we had to maintain version compatibility for a dozen versions over at Hypixel and we want to make it as painless as possible.' by Slikey",
+    "date": "11 21 2025",
+    "tags": [
+      "Slikey"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992299658710745235?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon jokes about archaeology",
+    "mainText": "'Archeologists at work' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992293164443394240?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon says the glider was found in a prototype branch",
+    "mainText": "'Found on a prototype branch, fixed it up and now adding to main. Just need proper art on it and we are set!' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992292033973936140?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon responds to user thanking the team for balancing combat around PVP",
+    "mainText": "'I mean, we have been doing block game PvP for 13+ years 😅\r\nWe will have client and server side anticheat in the future as well.\r\n\r\nGame runs quite well when connecting to a server, I suspect our min specs will be much lower for players joining their friends or servers.' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992280976957796529?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen says the team will consider different types of controllers, like the Adaptive Controller from Microsoft`",
+    "mainText": "'100%! Even before reaching consoles, we're planning for controller support. We already try to minimize the number of keybinds as much as possible, but it's proven quite difficult. We'll also consider different types of controllers, like the Adaptive Controller from Microsoft' by Mewen",
+    "date": "11 21 2025",
+    "tags": [
+      "Mewen"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1992278110784385128?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen says they will assess text resizing options",
+    "mainText": "'Ah gotcha! Yeah, we'll assess what options make sense for the game, and we'll get there step by step!' by Mewen",
+    "date": "11 21 2025",
+    "tags": [
+      "Mewen"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1992276612214362339?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon says damage numbers are an in-game option",
+    "mainText": "'there is an option for it, turned off for recording because it clutters the UI, need better way of doing it' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992275733318918624?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen on communication",
+    "mainText": "'That'd help with not being surprised by NPCs/players not in your field of view. A ping wheel to help with communication is something I'm thinking about too.\r\n\r\nThe gist is that we're open to any suggestions that would help those folks and we'll see how we can apply them to Hytale!' by Mewen",
+    "date": "11 21 2025",
+    "tags": [
+      "Mewen",
+      "Accessibility"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1992273856799572092?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen responds about Hard of Hearing accessibility features.",
+    "mainText": "'Heya! A major principle we try to apply as much as possible is that nothing is conveyed by sounds only (or only by color, etc...), so that helps a bit.\n\nAlthough it only goes so far, having a visual audio cue wheel (like in Fortnite) is something I'd like to try out. 1/2' by Mewen",
+    "date": "11 21 2025",
+    "tags": [
+      "Mewen",
+      "Accessibility"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1992272994832728260?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen talks about multi-press feature/controller schema.",
+    "mainText": "'Hey! Nothing is set in stone, so any feature can make it as long as it fits the game.\n\nSince Hytale is pretty keybind-heavy, a feature like multi-press could prove pretty useful indeed, same goes for being able to change the controller schema based on the context' by Mewen",
+    "date": "11 21 2025",
+    "tags": [
+      "Mewen",
+      "Accessibility"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1992269782398464147?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale posts picture of Zone 3 Ritual",
+    "mainText": "'Sinister rituals brew in the depths of zone 3... #Hytale' by Hytale",
+    "date": "11 21 2025",
+    "tags": [
+      "Hytale",
+      "Screenshot",
+      "Gameplay",
+      "Early Access"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://vxtwitter.com/Hytale/status/1992261793591484635?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen responds to user excited to see accessibility solutions",
+    "mainText": "'We'll do our best so you can enjoy Hytale to the fullest!' by Mewen",
+    "date": "11 21 2025",
+    "tags": [
+      "Mewen",
+      "Community",
+      "Accessibility"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1992255458745385009?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen responds to more accessibility suggestions",
+    "mainText": "'> enlarge only the text in the menus\r\nMeaning it doesn't affect text size in-game?\r\n\r\n> choose the size of the GUI using a bar\r\nThat's a great suggestion, making note of that one, thanks!' by Mewen",
+    "date": "11 21 2025",
+    "tags": [
+      "Mewen",
+      "Community",
+      "Accessibility"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1992255321839140909?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas on ArtStation quirk",
+    "mainText": "'I think linking artstation pages makes a big image minature and no one sees it's a link lol' by Thomas Frick",
+    "date": "11 21 2025",
+    "tags": [
+      "Thomas Frick",
+      "Art",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/1992237195613311085?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas shows the sketches directly",
+    "mainText": "'it's at the bottom of the artstation page! but here it is too' by Thomas Frick",
+    "date": "11 21 2025",
+    "tags": [
+      "Thomas Frick",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/1992236976779804693?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas shares sketches of Cursebreaker art",
+    "mainText": "'I added a few terrible sketches showing process that led to the final art, on my artstation. \n\nIt's often fun to look at how something started (really rough) and how it developped after putting the time in it! \n@artstationhq' by Thomas Frick\n\n(https://www.artstation.com/artwork/Ezn9v0)",
+    "date": "11 21 2025",
+    "tags": [
+      "Thomas Frick",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/1992236536990257429?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon says gliders have been added to Hytale, will post clip next week.",
+    "mainText": "'added gliders will post clip on @Hytale next week' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992233978108301571?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas shares his old Hytale keyart",
+    "mainText": "'Some of my older \r\n@Hytale\r\n key #artworks for those who asked' by Thomas Frick",
+    "date": "11 21 2025",
+    "tags": [
+      "Thomas Frick",
       "Devs",
       "Community",
       "Art"
@@ -33,100 +591,289 @@
     "sources": [
       {
         "1": [
-          "tweet by Propzie",
-          "https://vxtwitter.com/Propzie/status/1991907934096511420?s=20"
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/1992232672563982447?s=20"
         ]
       }
     ]
   },
   {
     "mainPlatform": "tweet",
-    "summary": "Oscar posts \"Mission: accomplished!\" gif in response to community member",
-    "mainText": "'Meme gif, Tom Cruise \"mission: accomplished!\"' by Oscar Garvin",
+    "summary": "Potentially posting press kit on site when finished",
+    "mainText": "'Ideally, once we finish up a solid press kit, I’d like to see if we can place it on our site. But for now, I’ll just message what we have <3' by BuddhaCat",
     "date": "11 21 2025",
     "tags": [
-      "Oscar Garvin",
+      "BuddhaCat",
       "Devs",
       "Community",
-      "Music"
+      "Art"
     ],
     "sources": [
       {
         "1": [
-          "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991919986559025500?s=20"
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/1992231989135781954?s=20"
         ]
       }
     ]
   },
   {
     "mainPlatform": "tweet",
-    "summary": "Oscar jokes about Hytale branding suggestions",
-    "mainText": "'Just some branding suggestions for Hytale:\r\nHytale social network: Mytale\r\nHytale commerative tie: Tietale\r\nHytale behind the scenes film: Whytale\r\nHytale dinner: Pietale\r\nHytale tissue boxes: Crytale\r\nHytale themed memorial service: Byetale \r\n\r\nCan you help me pitch more ideas?' by Oscar Garvin",
+    "summary": "Buddha is sending it to ITLW",
+    "mainText": "'I’ll send it your way @InTheLittleWood 👍' by BuddhaCat",
     "date": "11 21 2025",
     "tags": [
-      "Oscar Garvin",
+      "BuddhaCat",
       "Devs",
       "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/1992231666694369638?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas says a fresh presskit is in the works.",
+    "mainText": "'We've put together the start of a fresh presskit, but unsure about what link I should share so I'll tag \n@ItsBuddhaCat for saving me :D' by Thomas Frick",
+    "date": "11 21 2025",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/1992231030842134725?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen talks about working with community on accessibility",
+    "mainText": "'As Simon mentioned, we'll collaborate closely with the community to work with people dealing with different kinds of disabilities to get feedback from them as we implement features. With the help of \n@ItsBuddhaCat, we'll find a way for people to get involved when the time is right' by Mewen",
+    "date": "11 21 2025",
+    "tags": [
+      "Mewen",
+      "Accessibility",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1992227005555949772?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen explains accessibility",
+    "mainText": "'Ah gotcha, I get what you mean!\r\n\r\nIt won't be just one accessibility \"system\", it'll consist of many features that'll operate at a low level. Ideally, mods will be able to benefit from those features without doing anything (maybe configs will be required for some features)' by Mewen",
+    "date": "11 21 2025",
+    "tags": [
+      "Mewen",
+      "Accessibility"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1992200583097286885?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon answers how the 5350 team reacted to fully committing to Hytale",
+    "mainText": "'All positively, no convincing required.' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon",
+      "Devs",
       "Off Topic"
     ],
     "sources": [
       {
         "1": [
-          "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991921703207985458?s=20"
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992202615846003087?s=20"
         ]
       }
     ]
   },
   {
     "mainPlatform": "tweet",
-    "summary": "Oscar says he might put Pierre Frick on the soundtrack more often",
-    "mainText": "'Maybe I will 😎' by Oscar Garvin",
+    "summary": "Mewen talks accessibility",
+    "mainText": "'Which system are you referring to? I am interested in taking a look and seeing what we can offer.\r\n\r\nTo be completely transparent, this will take us time to reach a good state in terms of accessibility, but we'll get there!' by Mewen",
     "date": "11 21 2025",
     "tags": [
-      "Oscar Garvin",
-      "Devs",
-      "Community",
-      "Music"
+      "Mewen",
+      "Accessibility"
     ],
     "sources": [
       {
         "1": [
-          "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991933454947393870?s=20"
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1992196106336276785?s=20"
         ]
       }
     ]
   },
   {
     "mainPlatform": "tweet",
-    "summary": "Oscar thanks KrohMusic",
-    "mainText": "'Thanks kroh! I also love seeing other composers' processes!' by Oscar Garvin",
+    "summary": "Simon showcases pushes to main branch",
+    "mainText": "'Everyone is pushing to main branch now.\r\nall gas, no brakes😅' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Oscar Garvin",
+      "Simon",
       "Devs",
-      "Community",
-      "Music"
+      "Tech"
     ],
     "sources": [
       {
         "1": [
-          "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991933782006612017?s=20"
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992196069048910302?s=20"
         ]
       }
     ]
   },
   {
     "mainPlatform": "tweet",
-    "summary": "Oscar responds to localization question",
-    "mainText": "'That's your studio!😜I can't speak for localization, as I know nothing about it atm.' by Oscar Garvin",
+    "summary": "Simon responds to request about PVP",
+    "mainText": "'I'll see what I can do next week about recording some bits, but the current goal isn't PvP balance or minigames.\r\nHowever, I think it's important to show bits of it so that it attracts server owners and modders, or players who want to run private PvP worlds! \r\n\r\nThe combat was designed with PvP in mind, which is why many of the weapons lunge forward and the movements are fast-paced.' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Early Access",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992195406655087052?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon affirms suggestion of warning when loading Hytale",
+    "mainText": "'yes' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon",
+      "Early Access",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992194287887626474?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen addresses mantle feedback",
+    "mainText": "'Thanks for the suggestions!\r\n\r\nThat mantle feature is actually what we planned for its next iteration (along with some other neat features)!' by Mewen",
+    "date": "11 21 2025",
+    "tags": [
+      "Mewen",
+      "Gameplay",
+      "Early Access",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1992196245159387426?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen discusses accessibility",
+    "mainText": "'Alongside making the movement controller feel as good as possible, accessibility will be my other main focus. I'll strive to make Hytale accessible to as many players as possible! We already have some priorities, and we'll collaborate with the community to deliver what they need!' by Mewen",
+    "date": "11 21 2025",
+    "tags": [
+      "Mewen",
+      "Accessibility"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1992193412271890821?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon addresses belief that his statements on Hytale being not good enough is just reverse psychology.",
+    "mainText": "'When I say Hytale is not good enough, I genuinely mean it. It's not some reverse psychology trick! \r\n\r\nReal talk: We are using a 4-year-old game build with over 300 versions (branches) of prototypes that we Frankenstein together in record time into a single branch. None of it was meant to be released this quickly and in this way. \r\nThere are barely any game progression mechanics configured, and we have to implement them all in record time to make it somewhat enjoyable. \r\nOf course, I'm confident it's going to be \"ok\" for release. However, this is the current situation we are dealing with, on top of all the bug fixes, refactors, clean-ups and other ongoing issues that we are facing. We inherited a true hardcore engineering and design challenge, and we are on the clock to deliver early access. \r\n\r\nThe exploration of the game is fun, don't get me wrong, but man, I wish we had more time to get a few more features or configurations in to enhance that experience, but no, we break the curse of release and fix later. This will come at a significant cost; some people will be permanently convinced the game is doomed to remain in this state, unaware that this is an authentic early access experience. I hope that people who share the game will explain the situation we are in and how we got here.  Keep in mind, the gameplay video doesn't show much of the gameloop because, well, there isn't much of it. Combat, game vibe, and exploration are great fun, but there needs to be mechanics to keep it going over time.\r\n\r\nOne thing I have learned over time is to enjoy the painful feedback. It is the most critical part of making games and improving yourself as a game designer. Of course, you have to be filtering out the ones that want to steer you in their own vision of what the game should be, so it's a balancing act. \r\n\r\nWhen I read negative feedback on the gameplay video, I don't get defensive or hurt. I'm literally like, \"Yep, they are not wrong\" or \"Why do they think like this? How can I solve their problem?\" This has taken me years to get to that point. Our community, over the last 14 years on MC, has not been shy about giving us their feedback.\r\n\r\nThe one thing I can promise is that the game is owned by someone who cares and understands the situation, and I will do my best to empower my team to make a great game, however long it takes. This time, with all of you along for the ride, if you wish to be a part of it.' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon",
+      "Early Access",
+      "Simon Notes",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992193367417971115?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon says it was a one in a million chance everything lined up.",
+    "mainText": "'If only you knew all the pieces that had to fall in place for this to happen, it's truly a miracle. 1 in a million chance all of this lined up, some of which can't ever be told unfortunately' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992182859495358950?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar confirms another easter egg from This Is Our Tale",
+    "mainText": "'good spot😉' by Oscar Garvin",
     "date": "11 21 2025",
     "tags": [
       "Oscar Garvin",
-      "General",
+      "Music",
       "Devs",
       "Community"
     ],
@@ -134,115 +881,138 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991942817804120343?s=20"
+          "https://vxtwitter.com/onpujam/status/1992182236704059591?s=20"
         ]
       }
     ]
   },
   {
     "mainPlatform": "tweet",
-    "summary": "Oscar shares his DND Music Channel",
-    "mainText": "'Don't forget to follow my dnd music channel @ogrpgmusic😎' by Oscar Garvin",
+    "summary": "Simon says the new engine's lighting system can be replicated in legacy.",
+    "mainText": "'This lightning system can be replicated in legacy engine. We plan to do so after we finish optimizations.' by Simon",
     "date": "11 21 2025",
     "tags": [
-      "Oscar Garvin",
-      "Music",
-      "Off Topic"
-    ],
-    "sources": [
-      {
-        "1": [
-          "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991946291656511709?s=20"
-        ]
-      }
-    ]
-  },
-  {
-    "mainPlatform": "tweet",
-    "summary": "Oscar responds to \"Mugtale\" ",
-    "mainText": "'Mugtale sounds like a London experience :P' by Oscar Garvin",
-    "date": "11 21 2025",
-    "tags": [
-      "Oscar Garvin",
-      "Community",
-      "Off Topic"
-    ],
-    "sources": [
-      {
-        "1": [
-          "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1991946800903631358?s=20"
-        ]
-      }
-    ]
-  },
-  {
-    "mainPlatform": "tweet",
-    "summary": "Slikey says you can pause in singleplayer",
-    "mainText": "'You hit escape and it pauses the game while you are in the escape menu...' by Slikey",
-    "date": "11 21 2025",
-    "tags": [
-      "Slikey",
-      "Gameplay",
-      "Tech"
-    ],
-    "sources": [
-      {
-        "1": [
-          "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1991999320305053913?s=20"
-        ]
-      }
-    ]
-  },
-  {
-    "mainPlatform": "tweet",
-    "summary": "Slikey clarifies pausing in SP and MP",
-    "mainText": "'You can pause in singelplayer. Just because the singleplayer is backed by a local server, that doesn't mean you can't pause. On a multiplayer server that is only an option for the server owners.' by Slikey",
-    "date": "11 21 2025",
-    "tags": [
-      "Slikey",
-      "Gameplay",
-      "Tech"
-    ],
-    "sources": [
-      {
-        "1": [
-          "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992001182144073752?s=20"
-        ]
-      }
-    ]
-  },
-  {
-    "mainPlatform": "tweet",
-    "summary": "Slikey says server operators could pause a server",
-    "mainText": "'I don't think it is in the menu right now but programmatically or via a comment - maybe we add a operator menu for stuff like this. I could see an option to pause the server when no players are there.. Lots of options, we'll see what the community wants.' by Slikey",
-    "date": "11 21 2025",
-    "tags": [
-      "Slikey",
-      "Gameplay",
+      "Simon",
+      "Engine - Legacy",
+      "Engine - Forge",
       "Tech",
-      "Server"
+      "Simon Notes"
     ],
     "sources": [
       {
         "1": [
-          "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992004911899566231?s=20"
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992181952741613871?s=20"
         ]
       }
     ]
   },
   {
     "mainPlatform": "tweet",
-    "summary": "Simon posts first picture of Slothian",
-    "mainText": "'IMAGE' by Simon",
+    "summary": "Simon says his new studio ended up being the foundation to revive Hytale",
+    "mainText": "'Yep, the team we had for this studio ended up being the foundation to revive Hytale. Without this studio, there would be no Hytale today.' by Simon",
     "date": "11 21 2025",
     "tags": [
       "Simon",
-      "Gameplay",
+      "Devs",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992181366302114109?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon responds to another Evee post",
+    "mainText": "'This is crazy good 🤯' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992150407188226341?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon responds to user saying Evee is a great artist",
+    "mainText": "'Makes me want to work with the community to add avatar options sooner than later!' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art",
+      "Simon Notes",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992146978701197753?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon replies to Evee's cosmetic post",
+    "mainText": "'This is great!' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992144409576853543?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon talks about accessibility",
+    "mainText": "'We have @MewSoul in our team that is a strong advocate for accessibility, he will be spending time post launch to work on this and collaborate with the appropriate people!\nThe blind community will probably be our hardest challenge given how the game works but I hear some great advancements in the game genre has been done before so let’s see how it goes in the future, let me know if you have any suggestions of where we could get started and I’ll take notes' by Simon",
+    "date": "11 21 2025",
+    "tags": [
+      "Simon",
+      "Accessibility"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992143677846597758?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon says no Mobile Hytale for a while.",
+    "mainText": "'Mobile version? Not gonna happen for a while unfortunately' by Simon",
+    "date": "11 20 2025",
+    "tags": [
+      "Simon",
+      "Devs",
       "Future stuff",
       "Simon Notes"
     ],
@@ -250,145 +1020,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992005227336351828?s=20"
-        ]
-      }
-    ]
-  },
-  {
-    "mainPlatform": "tweet",
-    "summary": "Simon gives status of Slothian models",
-    "mainText": "'All of the Slothian models are broken except this one, they will be fixed soon :o' by Simon",
-    "date": "11 21 2025",
-    "tags": [
-      "Simon",
-      "Gameplay",
-      "Future stuff",
-      "Simon Notes"
-    ],
-    "sources": [
-      {
-        "1": [
-          "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992005389110669407?s=20"
-        ]
-      }
-    ]
-  },
-  {
-    "mainPlatform": "tweet",
-    "summary": "Slikey says you CAN play without an internet connection in SP.",
-    "mainText": "'You can. The \"local server\" is just a program we run on your computer to allow you to join singleplayer.' by Slikey\n\n(Offline play)",
-    "date": "11 21 2025",
-    "tags": [
-      "Slikey",
-      "Gameplay",
-      "Tech"
-    ],
-    "sources": [
-      {
-        "1": [
-          "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1992006522105454790?s=20"
-        ]
-      }
-    ]
-  },
-  {
-    "mainPlatform": "tweet",
-    "summary": "Simon responds to Olegro saying Slothians look more advanced than he thought",
-    "mainText": "'Of course' by Simon",
-    "date": "11 21 2025",
-    "tags": [
-      "Simon",
-      "Community",
-      "Simon Notes"
-    ],
-    "sources": [
-      {
-        "1": [
-          "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992006969213997255?s=20"
-        ]
-      }
-    ]
-  },
-  {
-    "mainPlatform": "tweet",
-    "summary": "Simon teases that he found a Faun model...",
-    "mainText": "'I found a Faun model in the files.👀' by Simon",
-    "date": "11 21 2025",
-    "tags": [
-      "Simon",
-      "Gameplay",
-      "Future stuff",
-      "Simon Notes",
-      "Hints"
-    ],
-    "sources": [
-      {
-        "1": [
-          "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992008085658055137?s=20"
-        ]
-      }
-    ]
-  },
-  {
-    "mainPlatform": "tweet",
-    "summary": "Simon reconfirms community contributing to Hytale code base",
-    "mainText": "'Look at the blog post about modding, we talk about doing it yep' by Simon",
-    "date": "11 21 2025",
-    "tags": [
-      "Simon",
-      "Community",
-      "Tech"
-    ],
-    "sources": [
-      {
-        "1": [
-          "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992010995569754162?s=20"
-        ]
-      }
-    ]
-  },
-  {
-    "mainPlatform": "tweet",
-    "summary": "Simon teases reason for not sharing Faun model",
-    "mainText": "'hey I need to keep some surprises' by Simon",
-    "date": "11 21 2025",
-    "tags": [
-      "Simon",
-      "Community",
-      "Simon Notes",
-      "Hints"
-    ],
-    "sources": [
-      {
-        "1": [
-          "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992012854879510901?s=20"
-        ]
-      }
-    ]
-  },
-  {
-    "mainPlatform": "tweet",
-    "summary": "Simon has offered to share the Faun screenshots/clip with KweebecCorner",
-    "mainText": "'I have contacted @KweebecCorner and offered him exclusive screenshots/clip for it. Let's see if he wants to do it now :P' by Simon",
-    "date": "11 21 2025",
-    "tags": [
-      "Simon",
-      "Community",
-      "Simon Notes",
-      "Hints"
-    ],
-    "sources": [
-      {
-        "1": [
-          "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992019256490512707?s=20"
+          "https://vxtwitter.com/Simon_Hypixel/status/1992067172785684924?s=20"
         ]
       }
     ]
@@ -397,7 +1029,7 @@
     "mainPlatform": "tweet",
     "summary": "Slikey explains potential for \"Create Mod\" in Hytale",
     "mainText": "'We believe it may be too early for us to support a mod like Create. Some parts should be possible with the support of animated models used as blocks. Moving structures is something we want to add eventually but there is a lot of listening and homework in front of us. Conceptually our vision will get those results but the tech is not there yet.' by Slikey",
-    "date": "11 21 2025",
+    "date": "11 20 2025",
     "tags": [
       "Slikey",
       "Gameplay",
@@ -416,12 +1048,130 @@
   },
   {
     "mainPlatform": "tweet",
-    "summary": "Simon says no Mobile Hytale for a while.",
-    "mainText": "'Mobile version? Not gonna happen for a while unfortunately' by Simon",
-    "date": "11 21 2025",
+    "summary": "Simon has offered to share the Faun screenshots/clip with KweebecCorner",
+    "mainText": "'I have contacted @KweebecCorner and offered him exclusive screenshots/clip for it. Let's see if he wants to do it now :P' by Simon",
+    "date": "11 20 2025",
     "tags": [
       "Simon",
-      "Devs",
+      "Community",
+      "Simon Notes",
+      "Hints"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992019256490512707?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon teases reason for not sharing Faun model",
+    "mainText": "'hey I need to keep some surprises' by Simon",
+    "date": "11 20 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes",
+      "Hints"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992012854879510901?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon reconfirms community contributing to Hytale code base",
+    "mainText": "'Look at the blog post about modding, we talk about doing it yep' by Simon",
+    "date": "11 20 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992010995569754162?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon teases that he found a Faun model...",
+    "mainText": "'I found a Faun model in the files.👀' by Simon",
+    "date": "11 20 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Future stuff",
+      "Simon Notes",
+      "Hints"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992008085658055137?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon responds to Olegro saying Slothians look more advanced than he thought",
+    "mainText": "'Of course' by Simon",
+    "date": "11 20 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992006969213997255?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey says you CAN play without an internet connection in SP.",
+    "mainText": "'You can. The \"local server\" is just a program we run on your computer to allow you to join singleplayer.' by Slikey\n\n(Offline play)",
+    "date": "11 20 2025",
+    "tags": [
+      "Slikey",
+      "Gameplay",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992006522105454790?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon gives status of Slothian models",
+    "mainText": "'All of the Slothian models are broken except this one, they will be fixed soon :o' by Simon",
+    "date": "11 20 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
       "Future stuff",
       "Simon Notes"
     ],
@@ -429,7 +1179,263 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1992067172785684924?s=20"
+          "https://vxtwitter.com/Simon_Hypixel/status/1992005389110669407?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon posts first picture of Slothian",
+    "mainText": "'IMAGE' by Simon",
+    "date": "11 20 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992005227336351828?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey says server operators could pause a server",
+    "mainText": "'I don't think it is in the menu right now but programmatically or via a comment - maybe we add a operator menu for stuff like this. I could see an option to pause the server when no players are there.. Lots of options, we'll see what the community wants.' by Slikey",
+    "date": "11 20 2025",
+    "tags": [
+      "Slikey",
+      "Gameplay",
+      "Tech",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992004911899566231?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey clarifies pausing in SP and MP",
+    "mainText": "'You can pause in singelplayer. Just because the singleplayer is backed by a local server, that doesn't mean you can't pause. On a multiplayer server that is only an option for the server owners.' by Slikey",
+    "date": "11 20 2025",
+    "tags": [
+      "Slikey",
+      "Gameplay",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992001182144073752?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey says you can pause in singleplayer",
+    "mainText": "'You hit escape and it pauses the game while you are in the escape menu...' by Slikey",
+    "date": "11 20 2025",
+    "tags": [
+      "Slikey",
+      "Gameplay",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1991999320305053913?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar responds to \"Mugtale\" ",
+    "mainText": "'Mugtale sounds like a London experience :P' by Oscar Garvin",
+    "date": "11 20 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1991946800903631358?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar shares his DND Music Channel",
+    "mainText": "'Don't forget to follow my dnd music channel @ogrpgmusic😎' by Oscar Garvin",
+    "date": "11 20 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Music",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1991946291656511709?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar responds to localization question",
+    "mainText": "'That's your studio!😜I can't speak for localization, as I know nothing about it atm.' by Oscar Garvin",
+    "date": "11 20 2025",
+    "tags": [
+      "Oscar Garvin",
+      "General",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1991942817804120343?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar thanks KrohMusic",
+    "mainText": "'Thanks kroh! I also love seeing other composers' processes!' by Oscar Garvin",
+    "date": "11 20 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Devs",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1991933782006612017?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar says he might put Pierre Frick on the soundtrack more often",
+    "mainText": "'Maybe I will 😎' by Oscar Garvin",
+    "date": "11 20 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Devs",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1991933454947393870?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar jokes about Hytale branding suggestions",
+    "mainText": "'Just some branding suggestions for Hytale:\r\nHytale social network: Mytale\r\nHytale commerative tie: Tietale\r\nHytale behind the scenes film: Whytale\r\nHytale dinner: Pietale\r\nHytale tissue boxes: Crytale\r\nHytale themed memorial service: Byetale \r\n\r\nCan you help me pitch more ideas?' by Oscar Garvin",
+    "date": "11 20 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Devs",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1991921703207985458?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar posts \"Mission: accomplished!\" gif in response to community member",
+    "mainText": "'Meme gif, Tom Cruise \"mission: accomplished!\"' by Oscar Garvin",
+    "date": "11 20 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Devs",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1991919986559025500?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie responds to KannoArt's \"IK support\" Blockbench plugin",
+    "mainText": "'Wow! That is so awesome!' by Propzie",
+    "date": "11 20 2025",
+    "tags": [
+      "Propzie",
+      "Devs",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://vxtwitter.com/Propzie/status/1991907934096511420?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon says \"why not both\" to grappleshot",
+    "mainText": "'Why not both?' by Simon",
+    "date": "11 20 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1991906871754764697?s=20"
         ]
       }
     ]

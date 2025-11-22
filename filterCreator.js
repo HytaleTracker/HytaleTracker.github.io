@@ -50,6 +50,27 @@ document.addEventListener("DOMContentLoaded", () => {
                 clickingLabelClicksBox(input, label);
             });
         }
+        if(currentURL == "/tweets" || currentURL == "/tweets.html"){
+            data[3].tweets.forEach(tag => {
+                const input = document.createElement("input");
+                input.type = "checkbox";
+                input.id = tag;
+                input.name = tag;
+                const label = document.createElement("label");
+                label.for = tag;
+                label.textContent = tag;
+                try{
+                    label.style.backgroundColor = data[2].colors[0][tag][0];
+                    label.style.color = data[2].colors[0][tag][1] || "#b5bac5";
+                }catch(error){
+                    console.error("error loading tag color from json", error);
+                }
+                form.appendChild(input);
+                form.appendChild(label);
+                form.appendChild(document.createElement("br"));
+                clickingLabelClicksBox(input, label);
+            });
+        }
     })
 })
 const filterDropdown = document.getElementById("filterDropdown");

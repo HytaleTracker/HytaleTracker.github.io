@@ -3,20 +3,29 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hytale Tracker</title>
+    <title>Other Stuff | Hytale Tracker</title>
     <link rel="stylesheet" type="text/css" href="./style.css">
     <link rel="icon" type="image/png" href="favicon.ico">
     <style>
-      .SourceAnimate{
-        animation: SourcesAnimation 0.5s forwards;
+      #tweets{
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
       }
-      @keyframes SourcesAnimation{
-        0%{
-          opacity: 0;
-        }
-        100%{
-          opacity: 1;
-        }
+      .tweetItem{
+        border: 5px solid #1d293d;
+        margin: 10px;
+        padding: 10px;
+        border-radius: 10px;
+        width: 100%;
+        height: fit-content;
+        background-color: #0f172b;
+        transition: margin-left 0.5s;
+      }
+      .tweetDate{
+        float: right;
+        margin: 10px;
+        font-weight: 100;
       }
     </style>
   </head>
@@ -27,16 +36,15 @@
         <h1>The Hytale Tracker</h1>
         <h3>Your #1 source for Hytale news all in one place</h3>
         <div id="navLinks">
-          <a href="./index.html" class="invisible-link" style="color: teal;">News</a> |
+          <a href="./index.html" class="invisible-link">News</a> |
           <a href="./community.html" class="invisible-link">Community</a> | 
-          <a href="./tweets.html" class="invisible-link">Tweets</a> | 
+          <a href="./tweets.html" class="invisible-link" style="color: teal;">Tweets</a> | 
           <a href="./about.html" class="invisible-link">About</a> |
           <a href="./other-stuff.html" class="invisible-link">Other Stuff</a>
         </div>
       </div>
     </nav>
     <main>
-      <div id="news">
         <div id = filter>
           <button id="filterDropdown" style="cursor: pointer;">filters</button><br>
           <div id = filters>
@@ -60,24 +68,15 @@
             <button id="date-submit-button">Submit</button>
             <button id="clear-dates">clear</button>
           </div>
-        </div>
       </div>
-      <div id="sources-div" style="display: none;">
-        <span id="xButton" class="xButton">
-          X
-        </span>
-        <h3 id="sources-header" class="sourcesHeader">Sources: </h3>
+
+      <div id="tweets">
+
       </div>
-      <div id="coffeeDiv">
-        <a href="https://buymeacoffee.com/hytaletracker">Buy us a coffee</a>
-        <img src="./assets/BuyMeACoffeeLogo.png" width="25px">
-      </div>
-      <div id="rssDiv">
-        <a href="./rss.html" target="_blank">Subscribe with RSS</a>
-        <img src="./assets/rssLogo.png" width="25px">
-      </div>
+
+      <div id="scroll-watcher"></div>
     </main>
-    <script src="news.js"></script>
-    <script src="filterCreator.js"></script> 
+    <script src="./filterCreator.js"></script>
+    <script src="./tweets.js"></script>
   </body>
 </html>

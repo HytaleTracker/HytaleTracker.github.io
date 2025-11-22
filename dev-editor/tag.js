@@ -28,6 +28,12 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("tag-colors").before(wrap);
     });
 
+    document.getElementById("new-tag-tweet").addEventListener("click", () => {
+        const input = document.createElement("input");
+        input.classList.add("tag-tweet");
+        document.getElementById("new-tag-tweet").before(input);
+    });
+
     
     document.getElementById("create").addEventListener("click", () => {
         const text = document.getElementById("current").value.trim();
@@ -45,7 +51,8 @@ document.addEventListener("DOMContentLoaded", () => {
             json = [
                 { news: [] },
                 { community: [] },
-                { colors: [{}] }
+                { colors: [{}] },
+                { tweets: [] }
             ];
         }
 
@@ -56,6 +63,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
         
         const community = [...document.querySelectorAll(".tag-community")]
+            .map(i => i.value.trim())
+            .filter(Boolean);
+        const tweets = [...document.querySelectorAll(".tag-tweet")]
             .map(i => i.value.trim())
             .filter(Boolean);
 
@@ -105,6 +115,8 @@ document.addEventListener("DOMContentLoaded", () => {
             }
         }
 
+        json[3].tweets.push(...tweets)
+
 
 
         
@@ -141,6 +153,11 @@ document.getElementById("remove-new-tag-news").addEventListener("click", () => {
 })
 document.getElementById("remove-new-tag-community").addEventListener("click", () => {
     const elements = document.getElementsByClassName("tag-community");
+    const i = elements.length;
+    elements[i - 1].remove();
+})
+document.getElementById("remove-new-tag-tweet").addEventListener("click", () => {
+    const elements = document.getElementsByClassName("tag-tweet");
     const i = elements.length;
     elements[i - 1].remove();
 })

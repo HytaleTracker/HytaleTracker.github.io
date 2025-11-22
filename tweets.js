@@ -1,0 +1,278 @@
+let chunkToGetJson = 0;
+let tagsJson;
+let indexData;
+scrollWatcher = document.getElementById("scroll-watcher");
+let globalTagFilters = "null";
+let globalMaxDate = "null";
+let globalMinDate = "null";
+
+function loadFile() {
+    const path = `./data/tweets/data/devs-post-revival${chunkToGetJson}.json`;
+    return caches.open("tweetsCache").then(cache => {
+        return fetch(path, { cache: "no-store" })
+            .then(response => {
+                return cache.put(path, response.clone()).then(() => response.json());
+            });
+    });
+}
+function getCachedOrFetch() {
+    const path = `./data/tweets/data/devs-post-revival${chunkToGetJson}.json`;
+
+    return caches.open("tweetsCache").then(async cache => {
+        let response = await cache.match(path);
+
+        if (!response) {
+            response = await fetch(path, { cache: "no-store" });
+            await cache.put(path, response.clone());
+        }
+
+        return response.json();
+    });
+}
+
+
+
+window.addEventListener("load", async function() {
+    
+    const indexRes = await fetch("./data/tweets/data/tweetIndexes.json", { cache: "no-store" });
+    indexData = await indexRes.json();
+    chunkToGetJson = Number(indexData) - 1;
+
+    await caches.delete("tweetsCache");
+
+    const tagsJsonResponse = await fetch("./data/tags.json");
+    tagsJson = await tagsJsonResponse.json();
+
+    createTweetElements("null", "null", "null");
+})
+
+function createTweetElements(filters, minDate, maxDate){
+    getCachedOrFetch()
+    .then(data => {
+        console.log(data);
+        data.forEach(element => {
+            if(filterItems(element, filters, minDate, maxDate)){ //why no filter? 
+                const tweetsContainer = document.getElementById("tweets");
+                const tweetItem = document.createElement("div");
+                const link = document.createElement("a");
+                const summary = document.createElement("h3");
+                const mainText = document.createElement("p");
+                const date = document.createElement("h6");
+
+                mainText.textContent = element.mainText;
+                summary.textContent = element.summary;
+                date.textContent = element.date.replaceAll(" ", "/");
+                date.classList.add("tweetDate");
+
+                link.classList.add("invisible-link");
+                link.href = element.sources[0][1][1];
+                link.target = "_blank"
+
+                
+
+                tweetItem.appendChild(summary);
+                tweetItem.appendChild(mainText);
+                tweetItem.appendChild(date);
+                
+                element.tags.forEach(tagName => {
+                    const tag = document.createElement("span");
+                    tag.textContent = tagName;
+                    tag.classList.add("tag");
+                    tweetItem.appendChild(tag);
+                    try{
+                        tag.style.backgroundColor = tagsJson[2].colors[0][tagName][0] || "#1d293d";
+                        tag.style.color = tagsJson[2].colors[0][tagName][1] || "#b5bac5";
+                    }catch(error){
+                        console.error("error loading tag color from json", error);
+                        tag.style.backgroundColor = "#1d293d";
+                    }
+                })
+
+                tweetItem.classList.add("tweetItem");
+                link.appendChild(tweetItem)
+                tweetsContainer.appendChild(link);
+            }
+        });
+        scrollObvserver.unobserve(scrollWatcher);
+        scrollObvserver.observe(scrollWatcher);
+    })
+}
+
+const scrollObvserver = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                
+                chunkToGetJson -= 1;
+                createTweetElements(globalTagFilters, globalMinDate, globalMaxDate);
+            }
+        });
+    }, {
+        rootMargin: '200px'
+})
+
+scrollObvserver.observe(scrollWatcher);
+
+
+//filtering
+
+
+function filterItems(item, filters, minDate, maxDate){
+    let createDiv = true;
+    if (minDate != "null") {
+        const [m, d, y] = item.date.split(" ");
+
+        let itemDate = new Date();
+        itemDate.setMonth(parseInt(m) - 1);
+        itemDate.setDate(parseInt(d));
+        itemDate.setFullYear(parseInt(y));
+        itemDate.setHours(0,0,0,0);
+
+
+
+        let setDate = new Date(minDate);
+        setDate.setTime(setDate.getTime());
+        setDate.setHours(0,0,0,0);
+
+        console.log("item date", itemDate, "set date", setDate);
+
+        if (itemDate.getTime() < setDate.getTime()) {
+            return false;
+        }
+    }
+    if (maxDate != "null") {
+        const [m, d, y] = item.date.split(" ");
+
+        let itemDate = new Date();
+        itemDate.setMonth(parseInt(m) - 1);
+        itemDate.setDate(parseInt(d));
+        itemDate.setFullYear(parseInt(y));
+        itemDate.setHours(0,0,0,0);
+
+
+
+        let setDate = new Date(maxDate);
+        setDate.setTime(setDate.getTime() + 86400000);
+        setDate.setHours(0,0,0,0);
+
+        console.log("item date", itemDate, "set date", setDate);
+
+        if (itemDate.getTime() > setDate.getTime()) {
+            return false;
+        }
+    }
+
+    if(filters != "null"){
+        filters.forEach(filter => {
+            console.log(filter);
+            if(!item.tags.includes(filter)){
+                createDiv = false;
+                console.log(filter);
+            }
+        })
+    }
+    return createDiv;
+}
+
+
+//why do this no work?
+const filterSubmitButton = document.getElementById("filter-submit-button");
+filterSubmitButton.addEventListener("click", () => {
+    filter();
+})
+const dateSubmitButton = document.getElementById("date-submit-button");
+dateSubmitButton.addEventListener("click", () => {
+    filter();
+})
+function filter(){
+    console.log("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA PLEASE WORK AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"); //the best console.log call ever 
+    chunkToGetJson = Number(indexData) - 1;
+    scrollObvserver.unobserve(scrollWatcher); //this line
+    const form = document.getElementById("filterForm");
+    const children = form.children;
+    let selectedTags = [];
+    console.log(children);
+    for(let child of children){
+        if(child.nodeName == "INPUT"){
+            console.log(child.id);
+            if(child.checked){
+                selectedTags.push(child.id);
+            }
+        }
+    }
+    console.log(selectedTags);
+    const tweetItemsToRemove = document.getElementsByClassName("tweetItem");
+    const minDate = document.getElementById("min-date-input").value;
+    const maxDate = document.getElementById("max-date-input").value;
+    globalTagFilters = selectedTags;
+    globalMaxDate = maxDate;
+    globalMinDate = minDate;
+    while(tweetItemsToRemove[0]){
+        tweetItemsToRemove[0].remove();
+    }
+    if(selectedTags.length == 0){
+        createTweetElements("null", minDate, maxDate);
+    }
+    else{
+        console.log("creating tweet elements with filter");
+        createTweetElements(selectedTags, minDate, maxDate);
+    }
+}
+
+document.getElementById("clear-filters").addEventListener("click", () => {
+    chunkToGetJson = Number(indexData) - 1;
+    scrollObvserver.unobserve(scrollWatcher);
+    const form = document.getElementById("filterForm");
+    const children = form.children;
+    let selectedTags = [];
+    console.log(children);
+    for(let child of children){
+        if(child.nodeName == "INPUT"){
+            console.log(child.id);
+            if(child.checked){
+                selectedTags.push(child.id);
+            }
+        }
+    }
+    console.log(selectedTags);
+    const tweetItemsToRemove = document.getElementsByClassName("tweetItem");
+    const minDate = document.getElementById("min-date-input").value;
+    const maxDate = document.getElementById("max-date-input").value;
+    globalTagFilters = selectedTags;
+    globalMaxDate = maxDate;
+    globalMinDate = minDate;
+    while(tweetItemsToRemove[0]){
+        tweetItemsToRemove[0].remove();
+    }
+    createTweetElements("null", minDate, maxDate)
+})
+document.getElementById("clear-dates").addEventListener("click", () => {
+    chunkToGetJson = Number(indexData) - 1;
+    scrollObvserver.unobserve(scrollWatcher);
+    const form = document.getElementById("filterForm");
+    const children = form.children;
+    let selectedTags = [];
+    console.log(children);
+    for(let child of children){
+        if(child.nodeName == "INPUT"){
+            console.log(child.id);
+            if(child.checked){
+                selectedTags.push(child.id);
+            }
+        }
+    }
+    console.log(selectedTags);
+    const tweetItemsToRemove = document.getElementsByClassName("tweetItem");
+    globalTagFilters = selectedTags;
+    globalMaxDate = "null";
+    globalMinDate = "null";
+    while(tweetItemsToRemove[0]){
+        tweetItemsToRemove[0].remove();
+    }
+    if(selectedTags.length == 0){
+        createTweetElements("null", "null", "null");
+    }
+    else{
+        console.log("creating news elements with filter");
+        createTweetElements(selectedTags, "null", "null");
+    }
+})

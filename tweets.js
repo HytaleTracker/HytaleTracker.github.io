@@ -43,6 +43,10 @@ window.addEventListener("load", async function() {
     const tagsJsonResponse = await fetch("./data/tags.json");
     tagsJson = await tagsJsonResponse.json();
 
+    const tweetCountRes = await fetch("./data/tweets/data/tweetCount.json", { cache: "no-store" });
+    const tweetCount = await tweetCountRes.json();
+    document.getElementById("tweetCount").textContent = `Post Revival Tweet Count: ${tweetCount}`;
+
     createTweetElements("null", "null", "null");
 })
 

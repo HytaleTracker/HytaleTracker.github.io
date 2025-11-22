@@ -7,10 +7,17 @@
     <link rel="stylesheet" type="text/css" href="./style.css">
     <link rel="icon" type="image/png" href="favicon.ico">
     <style>
-      #tweets{
-        width: 80%;
-        margin-left: 10%;
-        margin-right: 10%;
+      @media (min-width: 800px){
+        #tweets{
+          width: 80%;
+          margin-left: 10%;
+          margin-right: 10%;
+        }
+      }
+      @media (max-width: 800px), (orientation: portrait){
+        #tweets{
+          width: calc(90% - 10px);
+        }
       }
       .tweetItem{
         border: 5px solid #1d293d;
@@ -26,6 +33,9 @@
         float: right;
         margin: 10px;
         font-weight: 100;
+      }
+      .filter{
+        display: block;
       }
     </style>
   </head>
@@ -45,7 +55,8 @@
       </div>
     </nav>
     <main>
-        <div id = filter>
+      
+      <div id = filter>
           <button id="filterDropdown" style="cursor: pointer;">filters</button><br>
           <div id = filters>
             <form id="filterForm">
@@ -68,7 +79,11 @@
             <button id="date-submit-button">Submit</button>
             <button id="clear-dates">clear</button>
           </div>
-      </div>
+      </div><br>
+
+      <h2 id="tweetCount" style="text-align: center;"></h2>
+
+        
 
       <div id="tweets">
 

@@ -1,6 +1,26 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon talks about worldgen editing",
+    "mainText": "'For worldgen, you set a 3D viewport selection and reload to update the worldgen in that specific selection. There is a blog coming up soon about it all, it's crazy stuff!'",
+    "date": "11 23 2025",
+    "tags": [
+      "Simon",
+      "Modding",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992601707298320670?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon confirms smaller community members will get a chance in the SAC system",
     "mainText": "'Yes'",
     "date": "11 23 2025",

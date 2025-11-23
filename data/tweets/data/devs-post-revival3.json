@@ -1,6 +1,199 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon talks about technical/automation mechanics",
+    "mainText": "'Not yet, much later after launch because we are dealing a lot of missing core features. Its on the horizon though!'",
+    "date": "11 23 2025",
+    "tags": [
+      "Simon",
+      "Early Access",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992579924197101689?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon clarifies the QA testing",
+    "mainText": "'Internal QA tomorrow, no external, before anyone asks :P'",
+    "date": "11 23 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992579341784654271?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon gives report on the morning's Hytale test",
+    "mainText": "'Tested Hytale exploration mode gameloop this morning for 2 hours, no crashes, lots of fun moments. Still lots of work ahead to make it good, focusing on small wins for fast development. Large scale QA starts tomorrow. \r\n\r\nMorning notes: NPCs are still acting weird sometimes but can be fixed over time. Knockback on enemies feels wrong, needs complete overhaul. We added back shovel tool but made it AoE dig, now it’s actually useful and fun. Mining still feels bad, needs to implement momentum feature and potentially have the signature ability system to tools as a whole (like weapons) so we can have fun coming up with abilities (probably post launch).\r\n\r\nSide note: Non-creative (exploration mode) building improvements are happening. Block placement is starting to feel good, rotations and connected blocks works well. Today I need to test our builders bench with new changes. The problem is that we have way too many blocks for building and honestly its a mess, dozen of edge cases for crafting and I want to simplify and make it fun, not tedious so players feels like empowered when building and not restricted, but need to keep immersion in mind. Its critical to get it right because its a game where building is core to the game experience and at the moment its not there just yet. Months ago it was very very frustrating to build, now its actually decent but still need improvements. Today we have small changes that might just make it work well. \r\n\r\nExtra note: Massive progress over the past week, being on our own PC has accelerated progress by so much. However it has personally slowed me down because I have been dealing with interviews, clips, screenshots, QnA and other things. It was important to do, communication is critical so everyone understands the state of the game. The team has been very busy anyway so it was probably a good thing I didn’t put more on their plates.\r\n\r\nWill do more reports as we progress if you guys like it.'",
+    "date": "11 23 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992579049521053892?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon responds to user alerting the team that the healing icon is technically against the law",
+    "mainText": "'It was changed the way the video came out, all good'",
+    "date": "11 23 2025",
+    "tags": [
+      "Simon",
+      "Early Access",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992577750390214698?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon responds to \"true hytale leaks\" account",
+    "mainText": "'damn crazy'",
+    "date": "11 23 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992563582228386047?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon confirms information about blocking in Hytale.",
+    "mainText": "'Correct'\n\n(Prowl8413 on Twitter: I wonder if when blocking in Hytale if it'll be tied to your stamina bad, so you can't infinitely block. Maybe a shield takes the least stamina since its intended for blocking, where as daggers would take a bigger stamina hit? @Simon_Hypixel)",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992451431836663863?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares that Technoblade applied for Hypixel's marketing team in 2015",
+    "mainText": "'Some Technoblade lore: In 2015 he applied to work for our marketing team but unfortunately he was too young back then 😅'",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1992444291860623418?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon requests community ideas for Technoblade tribute in Hytale",
+    "mainText": "'I received Technoblade’s father’s blessing to add something in Hytale that represents Technoblade’s memory.\r\n\r\nI want the community involved in this, please share your ideas for what would feel like a meaningful tribute! \r\n\r\nHe was a big part of our journey with Hypixel and I wish for him to be part of this one as well.'",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Feature",
+      "Simon Notes",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1992443358602572006?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey says the singularity means most of the mining operation is over.",
+    "mainText": "'Yep, there may still be some nuggets there but the big mining operation is over. We have culled the branches and if there is anything, we cherry pick it. We have already moved far past what was already on there. The minimap for example didn't exist on any of the branches - it's new.'",
+    "date": "11 22 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1992438099146600511?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey discusses singularity; state of codebase",
+    "mainText": "'After the singularity and the modernization of the codebase, we are probably in the best state of the source it has ever been during development - still far from the standard we hold ourselves to, but the devs are performing some miracle right now. I have never seen anything like this before.'",
+    "date": "11 22 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1992435837665992880?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon responds to HypixelNetwork's announcement of Ravengard",
     "mainText": "'GG, looking good! I love extraction PvPvE games '",
     "date": "11 22 2025",

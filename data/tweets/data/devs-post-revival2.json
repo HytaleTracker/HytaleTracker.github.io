@@ -5,10 +5,7 @@
     "mainText": "'Do you want gliders in Hytale?'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Future stuff",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -25,10 +22,7 @@
     "mainText": "'Artists are progressing well, will be able to share some when we announce release date'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Art",
-      "Early Access",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -45,10 +39,7 @@
     "mainText": "'Yes'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Business",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -65,10 +56,7 @@
     "mainText": "'Yes you can upgrade later on'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Business",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -85,8 +73,7 @@
     "mainText": "'Some have asked for HD version of the artworks I made for the #Hytale founder packs: here it is :)'",
     "date": "11 21 2025",
     "tags": [
-      "Thomas Frick",
-      "Art"
+      "Thomas Frick"
     ],
     "sources": [
       {
@@ -103,8 +90,7 @@
     "mainText": "'@ThomasFrick can post them if he wants :)'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Art"
+      "Simon"
     ],
     "sources": [
       {
@@ -121,10 +107,7 @@
     "mainText": "'Could not do regional pricing in time for early access, so I decided \"f it, let's just drop the price of the game as a whole for everyone and hope for the best\"'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Business",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -141,10 +124,7 @@
     "mainText": "'I’m pricing Hytale as aggressively low as possible. I’m taking on a considerable personal risk after repurchasing the game and getting it ready for early access for a growing team of now 50 talented individuals. I said I was all in, and I am delivering on that promise.\n\nThe game is unfinished and runs on a build from over four years ago. Charging more didn’t feel right. I don’t think the game is good yet. My team and I will push hard to make it good, then great. The vision is clear and progress is fast.\n\nI want as many players as possible to jump in. Times are tough in the current economy for a lot of you, and I want everyone to have a fair chance to be part of what comes next.\n\nThank you for the support.'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Business",
-      "Statement"
+      "Simon"
     ],
     "sources": [
       {
@@ -161,9 +141,7 @@
     "mainText": "' I'll prep an explanation but since our singleplayer spins up a local server in the background, you select the mods you want and have locally available and it will use these mods for that singleplayer save.'",
     "date": "11 21 2025",
     "tags": [
-      "Slikey",
-      "Gameplay",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -177,13 +155,10 @@
   {
     "mainPlatform": "tweet",
     "summary": "Hytale tweets image of preorder page, other editions",
-    "mainText": "'If you wish to support the team and Hytale’s development, we will be offering a Supporter and Founders pack that offers cosmetics like capes, hats, and more.'\n\n($19.99, $34.99, $69.99 USD)",
+    "mainText": "'If you wish to support the team and Hytale’s development, we will be offering a Supporter and Founders pack that offers cosmetics like capes, hats, and more.'",
     "date": "11 21 2025",
     "tags": [
-      "Hytale",
-      "Early Access",
-      "Business",
-      "Statement"
+      "Hytale"
     ],
     "sources": [
       {
@@ -200,10 +175,7 @@
     "mainText": "'Hytale will be $19.99 (USD)'",
     "date": "11 21 2025",
     "tags": [
-      "Hytale",
-      "Early Access",
-      "Business",
-      "Statement"
+      "Hytale"
     ],
     "sources": [
       {
@@ -220,8 +192,7 @@
     "mainText": "'We don't have plans for that at the moment as we want to stay focused on making the game instead of spinning up such infrastructure & billing. We believe there are enough options to let everyone enjoy:\r\n- Singleplayer with uPNP (port-forwarding as fallback)\r\n- Self-Hosted dedicated SMP servers\r\n- Third-party server rental services\r\n\r\nThe relay would be bandwidth intensive and we wouldn't be able to provide it for free, so server rental services are probably the preferred way anyway as it allows your friends to play when you are not around.'",
     "date": "11 21 2025",
     "tags": [
-      "Slikey",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -238,11 +209,7 @@
     "mainText": "'in the future ofc, very important even for some PC players because of accessibility'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Future stuff",
-      "Tech",
-      "Accessibility"
+      "Simon"
     ],
     "sources": [
       {
@@ -259,10 +226,7 @@
     "mainText": "'Please remember, the game is not good enough yet!\r\nWe have many systems and gameplay stuff we need to do to achieve our vision. We do have plans for automations and fun gadgets to expand the creativity of adventure players.\r\nHowever, right now our focus is on the release and trailer vision!'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Early Access",
-      "Future stuff"
+      "Simon"
     ],
     "sources": [
       {
@@ -279,9 +243,7 @@
     "mainText": "'We have some systems being predicted on the client but there is work to do. I believe there is a future where visual scripts will help us to better tell the client how to predict behavior.\nThen again we have a transfer packet with 4KB payload so server networks starting at 2 servers can be globally distributed and avoid high pings in the first place.'",
     "date": "11 21 2025",
     "tags": [
-      "Slikey",
-      "Gameplay",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -298,10 +260,7 @@
     "mainText": "'Oh thats right, when I get on PC'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Community",
-      "Off Topic",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -318,11 +277,7 @@
     "mainText": "'If someone makes a great mod like that, we could offer to hire them and buy their mod 🤔'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Modding",
-      "Future stuff",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -336,13 +291,10 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon discusses automation in Hytale",
-    "mainText": "'Automation can be different than Redstone, like the Create mod'\n\n(Previous version of this tweet incorrectly stated the Hytale team had a Create Mod maker on it. This was meant to be a reference to RyanHCode, but he did not make the Create Mod, but collaborated and worked on adjacent projects.)",
+    "mainText": "'Automation can be different than Redstone, like the Create mod'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Future stuff",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -359,9 +311,7 @@
     "mainText": "'Even your samsung fridge with TV integrated?!'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Community",
-      "Off Topic"
+      "Simon"
     ],
     "sources": [
       {
@@ -378,11 +328,7 @@
     "mainText": "'later, same time as release date'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Community",
-      "Business",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -399,9 +345,7 @@
     "mainText": "'🥲'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Devs",
-      "Community"
+      "Simon"
     ],
     "sources": [
       {
@@ -418,10 +362,7 @@
     "mainText": "'(they will be simply asked to change their username btw, nothing bad lol)'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Community",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -438,10 +379,7 @@
     "mainText": "'Impersonation will not be tolerated and we reserve the right to change username for this. So people trying to snipe username for YouTubers will just not work well for them :)'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Community",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -458,11 +396,7 @@
     "mainText": "'Was not able to do so, reduced price significantly to compensate'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Community",
-      "Business",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -479,11 +413,7 @@
     "mainText": "'Hytale pricing details 10AM EST'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Community",
-      "Business",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -497,14 +427,10 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon responds to earlier post about Hytale looking like Modded Minecraft",
-    "mainText": "'Don’t buy it? I don’t care bro I’m already financially free for life I’m doing this for fun'\n\n(Tweet Deleted)",
+    "mainText": "'Don’t buy it? I don’t care bro I’m already financially free for life I’m doing this for fun'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "General",
-      "Community",
-      "Simon Notes",
-      "Off Topic"
+      "Simon"
     ],
     "sources": [
       {
@@ -521,10 +447,7 @@
     "mainText": "'Will try to get an option for it, probably post early access launch if it doesn’t work out.'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Business",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -541,11 +464,7 @@
     "mainText": "'Even without regional pricing, I will work hard to get close to that number, I obviously will not be able to reach that low exactly but will work hard for the brazil community to lower price as much as possible, it is the community that watched the trailer the most ❤️'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Community",
-      "Business",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -562,11 +481,7 @@
     "mainText": "'It won’t be possible at launch but I’m working hard to lower price of game before announcement today.'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Community",
-      "Business",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -583,10 +498,7 @@
     "mainText": "'Minecraft is one of the greatest game of all time, it has perfected many designs that no one appreciates.\r\nHytale is going in a very very different path, we are more going into adventure aspects as a core game (with modding in mind). We will not have things like Redstone for example. Magic will be part of Hytale in many aspects, very much so fantasy feeling.\r\n\r\nAnother thing is, our crafting is moreso like the games like Valheim / Terraria instead of grid crafting. So its very different and allows us to go in a different direction.\r\n\r\nI have great respect for the people at Mojang, they have created an amazing game and community, our games will be very different, Minecraft is still one of my favourite game of all time.'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "General",
-      "Gameplay",
-      "Off Topic"
+      "Simon"
     ],
     "sources": [
       {
@@ -603,8 +515,7 @@
     "mainText": "'Brazil is important community to me, how much should it cost?'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Business"
+      "Simon"
     ],
     "sources": [
       {
@@ -621,10 +532,7 @@
     "mainText": "'Don’t worry we are working on accessibility options for the visually impaired! Thanks for your report'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Community",
-      "Off Topic",
-      "Accessibility"
+      "Simon"
     ],
     "sources": [
       {
@@ -641,10 +549,7 @@
     "mainText": "'You're right, and we're thinking about that. Hytale Art team will help creators to get started with Hytale Art style - through documentation and tutorials - the timeline is unclear for now but it will eventually happen 😊'",
     "date": "11 21 2025",
     "tags": [
-      "Thomas Frick",
-      "Devs",
-      "Community",
-      "Art"
+      "Thomas Frick"
     ],
     "sources": [
       {
@@ -661,9 +566,7 @@
     "mainText": "'Yep, just finished rotations and other cool features.\r\n\r\nPolishing up connected/smart block placement and will see what we can record for you guys.'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Early Access"
+      "Simon"
     ],
     "sources": [
       {
@@ -680,9 +583,7 @@
     "mainText": "'You haven’t seen the actual crafting yet. Its more innovative than grid crafting and more intuitive for new players.\nYou can upgrade the work stations and eventually expand that system into something that grounds the player to build a house or village. You will see it evolve over time and understand :)'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Early Access"
+      "Simon"
     ],
     "sources": [
       {
@@ -699,11 +600,7 @@
     "mainText": "'Today is pricing details and maybe some screenshots or clip'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Devs",
-      "Community",
-      "Early Access",
-      "Business"
+      "Simon"
     ],
     "sources": [
       {
@@ -720,9 +617,7 @@
     "mainText": "'No grid crafting in Hytale, can be easily modded in if someone care about it!\r\n\r\nWe are aiming to be different and easier when it comes to the action of crafting. The challenges will come from other places. Just making something we love to play ourselves :)'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Early Access"
+      "Simon"
     ],
     "sources": [
       {
@@ -739,9 +634,7 @@
     "mainText": "'End of next week we will decide and announce the precise early access release date.\r\n\r\nApologies if its confusing we are moving fast on multiple fronts and sometimes my tweets are all over the place!'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -758,10 +651,7 @@
     "mainText": "'Slikey will be on Hytale Discord server chat (Modding / Creative > #discussion) on Saturday, 22nd November 2025 at 12pm EST / 5pm GMT to answer your questions for a full hour and reply to as many questions as possible. Answers will be posted afterwards on the blog if you miss it.'",
     "date": "11 21 2025",
     "tags": [
-      "Simon",
-      "Devs",
-      "Statement",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -778,9 +668,7 @@
     "mainText": "'The raptor mount helped me find the location quicker for sure, those things are fast!'",
     "date": "11 20 2025",
     "tags": [
-      "Propzie",
-      "Gameplay",
-      "Off Topic"
+      "Propzie"
     ],
     "sources": [
       {
@@ -797,8 +685,7 @@
     "mainText": "'And there's the story of how the song came to be in just a matter of days. In this industry you have to be quick on your feet when it matters, and be ready to ROCK at even a moment's notice. And when the call comes you better be armed and ready to do the job.'",
     "date": "11 20 2025",
     "tags": [
-      "Oscar Garvin",
-      "Music"
+      "Oscar Garvin"
     ],
     "sources": [
       {
@@ -815,8 +702,7 @@
     "mainText": "'Finally, the night before release, I begged our UI lead Pierre (@pierre_frick) to record some last minute epic guitar shredding, which he stayed up quite late to finish for me😂(merci beaucoup Pierre mon cherie).'",
     "date": "11 20 2025",
     "tags": [
-      "Oscar Garvin",
-      "Music"
+      "Oscar Garvin"
     ],
     "sources": [
       {
@@ -833,8 +719,7 @@
     "mainText": "'Ozzie (@knivesatsea) recorded supporting guitars for me, also with no oversight, acoustic and electric guitars, all mix-ready to drop in. He then spent close to 8 hours mastering the track together with me to get it sounding as professional as it does. A truly epic producer.'",
     "date": "11 20 2025",
     "tags": [
-      "Oscar Garvin",
-      "Music"
+      "Oscar Garvin"
     ],
     "sources": [
       {
@@ -851,8 +736,7 @@
     "mainText": "'Victoria (http://vbvocalistic.com) did a fantastic job on the vocals, providing backing vocals with a full arrangement, with zero guidance on chords or anything. She gave me 3 takes and extra ad-libs to work with, fx and dry stems (150+ stems). All for a VERY reasonable price!'",
     "date": "11 20 2025",
     "tags": [
-      "Oscar Garvin",
-      "Music"
+      "Oscar Garvin"
     ],
     "sources": [
       {
@@ -869,8 +753,7 @@
     "mainText": "'I actually wrote the lyrics a few months ago, but when Hytale was suddenly saved I knew I had to produce the song right away, and within 3 days it was done.\r\n\r\nI reached out to my good friends and professional colleagues Victoria and Ozzie for production support.'",
     "date": "11 20 2025",
     "tags": [
-      "Oscar Garvin",
-      "Music"
+      "Oscar Garvin"
     ],
     "sources": [
       {
@@ -887,8 +770,7 @@
     "mainText": "'This Is Our Tale' has so far got over 10k streams. Thank you all for listening to the song and leaving so many lovely comments! :) I've read them all🕵🏻‍♂️'",
     "date": "11 20 2025",
     "tags": [
-      "Oscar Garvin",
-      "Music"
+      "Oscar Garvin"
     ],
     "sources": [
       {
@@ -905,9 +787,7 @@
     "mainText": "'\"YES\" meme gif'",
     "date": "11 20 2025",
     "tags": [
-      "Oscar Garvin",
-      "Music",
-      "Off Topic"
+      "Oscar Garvin"
     ],
     "sources": [
       {
@@ -924,9 +804,7 @@
     "mainText": "'Hey, SPOILERS'",
     "date": "11 20 2025",
     "tags": [
-      "Oscar Garvin",
-      "Community",
-      "Off Topic"
+      "Oscar Garvin"
     ],
     "sources": [
       {
@@ -943,8 +821,7 @@
     "mainText": "'Good spot. Technoblade never dies!'",
     "date": "11 20 2025",
     "tags": [
-      "Oscar Garvin",
-      "Music"
+      "Oscar Garvin"
     ],
     "sources": [
       {
@@ -961,10 +838,7 @@
     "mainText": "'I think this is a very valid concern and we have communication planned regarding accessibility and our commitment to it. We absolutely have work to do and also work with experts that can help us prioritize the work. The first step is making the game accessible. I hope we will be able to move fast here aswell and we have developers highly motivated to work on accessibility. I hope we will have a Hytale that doesn't rely on mods for accessibility.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "General",
-      "Modding",
-      "Accessibility"
+      "Slikey"
     ],
     "sources": [
       {
@@ -981,9 +855,7 @@
     "mainText": "'Here's an example of what can easily be done in a few minutes with server side UI modding. In Game vs. UI Markup Asset vs. Java mod code. All work together to create a powerful server-side UI toolkit available at launch in Hytale.'",
     "date": "11 20 2025",
     "tags": [
-      "Ktar",
-      "General",
-      "Modding"
+      "Ktar"
     ],
     "sources": [
       {
@@ -1000,9 +872,7 @@
     "mainText": "'Yes, a lot of our UIs are server-side. Maybe \n@Ktar5 can post an example.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "General",
-      "Modding"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1019,9 +889,7 @@
     "mainText": "'He saved me with this banner art.. I didn't have one 20 minutes before posting and Propzie cooked this up really quick.. We are moving fast here😅'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Devs",
-      "Community"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1035,12 +903,10 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey says there is no plan to add ambiguous server modding.",
-    "mainText": "'There is currently no such functionality and no plan to add it but we are always open for feedback and the community to tell us that we are dead wrong about it. We want to see how this strategy plays out but any good strategy falls apart when hit with reality :)'\n\n(\"Will it be possible for servers to be ambiguous about certain types of mods? I expect most servers wouldn't care about something like UI, unless they're going for a very specific experience.\")",
+    "mainText": "'There is currently no such functionality and no plan to add it but we are always open for feedback and the community to tell us that we are dead wrong about it. We want to see how this strategy plays out but any good strategy falls apart when hit with reality :)'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "General",
-      "Modding"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1054,12 +920,10 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey says the server is authoritative over mods used, with SP mods not being in MP.",
-    "mainText": "'Correct, the server is authoritative over the mods used. Your singleplayer mods are not brought into multiplayer. We try to bring far render distances directly into Hytale. We have people like JellySquid (Sodium author) work on our Renderer to never need such invasive mods.'\n\n(\"but would there be some just client mods allowed? like minecraft you can join servers that are pretty customized like wynncraft but then add mods to increase render distance, or is just none of your own mods allowed on servers?\")",
+    "mainText": "'Correct, the server is authoritative over the mods used. Your singleplayer mods are not brought into multiplayer. We try to bring far render distances directly into Hytale. We have people like JellySquid (Sodium author) work on our Renderer to never need such invasive mods.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "General",
-      "Modding"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1073,12 +937,10 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey says post-launch goal is to solve dynamic asset streaming by using caching and CDN redirects",
-    "mainText": "'We need to solve this using caching and CDN redirects for asset pack serving. Stuff for post-launch.'\n\n(\"My biggest question right now is if there's any way of dynamic asset streaming. In Minecraft, when we had a lot of music, we would have to resort to the player connecting to a web browser, because loading a giant resource pack was simply not feasible\")",
+    "mainText": "'We need to solve this using caching and CDN redirects for asset pack serving. Stuff for post-launch.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "General",
-      "Modding"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1095,9 +957,7 @@
     "mainText": "'Will be released with the game. It is part of the game.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "General",
-      "Modding"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1114,9 +974,7 @@
     "mainText": "'The client won't have control. The creative modders behind the server want you to have a certain experience and we want to respect those decisions. If problems arise from that, we can always revisit this.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "General",
-      "Modding"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1133,9 +991,7 @@
     "mainText": "'👀'",
     "date": "11 20 2025",
     "tags": [
-      "Paris",
-      "Community",
-      "Modding"
+      "Paris"
     ],
     "sources": [
       {
@@ -1152,10 +1008,7 @@
     "mainText": "'Those who know - know'",
     "date": "11 20 2025",
     "tags": [
-      "Oscar Garvin",
-      "Community",
-      "Off Topic",
-      "Music"
+      "Oscar Garvin"
     ],
     "sources": [
       {
@@ -1172,9 +1025,7 @@
     "mainText": "'He stole your ride :o'",
     "date": "11 20 2025",
     "tags": [
-      "DevSlashNull",
-      "Community",
-      "Off Topic"
+      "DevSlashNull"
     ],
     "sources": [
       {
@@ -1191,11 +1042,7 @@
     "mainText": "'It supports entire new worlds or dungeons where block breaking is disabled. You can run multiples in parallel!'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Engine - Legacy",
-      "Gameplay",
-      "Tech",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -1212,11 +1059,7 @@
     "mainText": "'We have an instance system that supports it.'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Engine - Legacy",
-      "Gameplay",
-      "Tech",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -1233,9 +1076,7 @@
     "mainText": "'GIF'",
     "date": "11 20 2025",
     "tags": [
-      "Oscar Garvin",
-      "Community",
-      "Off Topic"
+      "Oscar Garvin"
     ],
     "sources": [
       {
@@ -1249,12 +1090,10 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon responds to Oscar's reply about a potential AURORA collab.",
-    "mainText": "' 👍100%'\n\n(Simon has no money, his wife is going to kill him.)",
+    "mainText": "' 👍100%'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Simon Notes",
-      "Music"
+      "Simon"
     ],
     "sources": [
       {
@@ -1271,8 +1110,7 @@
     "mainText": "'That would be awesome too! But she costs more than I can afford rn :P maybe if Simon recoups his investment he can afford to spend money again and I can have my orchestra.'",
     "date": "11 20 2025",
     "tags": [
-      "Oscar Garvin",
-      "Music"
+      "Oscar Garvin"
     ],
     "sources": [
       {
@@ -1286,11 +1124,10 @@
   {
     "mainPlatform": "tweet",
     "summary": "Oscar comments on collaboration request",
-    "mainText": "'That sounds like a collaboration for the ages!'\n\n(OG tweet asking Oscar if he'd consider Lena Raine, C418, and Slamma Cat)",
+    "mainText": "'That sounds like a collaboration for the ages!'",
     "date": "11 20 2025",
     "tags": [
-      "Oscar Garvin",
-      "Music"
+      "Oscar Garvin"
     ],
     "sources": [
       {
@@ -1307,9 +1144,7 @@
     "mainText": "'long term vision of course :)\r\nall tools to be hytale themed and make it all feel like magic'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Tech"
+      "Simon"
     ],
     "sources": [
       {
@@ -1326,11 +1161,7 @@
     "mainText": "'I don't think anyone realizes how big a deal this world gen node editor is.\r\nA blog post is coming up.'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Website",
-      "Tech",
-      "Statement",
-      "Future stuff"
+      "Simon"
     ],
     "sources": [
       {
@@ -1347,9 +1178,7 @@
     "mainText": "'tomorrow another big day'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -1366,9 +1195,7 @@
     "mainText": "'I think that is defined in the model using attachment points. I am sure you will be able to see it when you open our models and look for it 👍'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Gameplay",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1385,9 +1212,7 @@
     "mainText": "'We currently have no plans for custom shader support or shader mods. We are willing to listen though and see what you want to do. We'll find a solution.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Gameplay",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1404,9 +1229,7 @@
     "mainText": "'I wish I could remake Warlords.. Those particle effects there were fun to make because I love linear algebra but now in Hytale it would be just perfect.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Tech",
-      "Server"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1423,8 +1246,7 @@
     "mainText": "'It will be plain old Java to make plugins and compile them against our server jars as dependencies.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1441,8 +1263,7 @@
     "mainText": "'I'll dive into that more when I am less sleep deprived but this is usually solved using uPNP which resolves the need for port forwarding on consumer devices. Most game consoles use this and it is usually enabled by default on consumer routers. https://en.wikipedia.org/wiki/Universal_Plug_and_Play'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1459,8 +1280,7 @@
     "mainText": "'Correct. We'd like to encourage using Visual Scripting as it is more accessible and safe to share and download but you are not forced to use it if you just want to stay in Java.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1477,10 +1297,7 @@
     "mainText": "'As in you can invite friends into your singleplayer world? Yes.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Gameplay",
-      "Tech",
-      "Server"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1497,9 +1314,7 @@
     "mainText": "'Remember it is not there yet. This is the vision, we have a lot of development to catch up on and for now it is Java plugins with Visual Scripting being introduced shortly after launch. Anything you'd be able to do in Visual Scripting is already available in Java today.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Gameplay",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1516,9 +1331,7 @@
     "mainText": "'Yes, the singleplayer spins up a local server so that you can enjoy plugins even in singleplayer. There is no difference between multiplayer and singleplayer.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Gameplay",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1535,8 +1348,7 @@
     "mainText": "'Correct. It is plain old Java right now and we will bring Visual Scripting to complement this.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1553,9 +1365,7 @@
     "mainText": "' Can't help myself  I love to communicate with the community but writing long texts is not what I tend to enjoy even when the topic is so exciting and close to my heart as modding.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Community",
-      "Off Topic"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1572,10 +1382,7 @@
     "mainText": "'Pretty much yes. Our art team can probably explain it better but we believe some limitations maintain a healthy art style and performance. We dream of an Orbis that has an artstyle the community can achieve and add to so that mods are immersive and seamless.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Gameplay",
-      "Art",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1592,8 +1399,7 @@
     "mainText": "'Hay that raptor looks familiar🤔'",
     "date": "11 20 2025",
     "tags": [
-      "Propzie",
-      "Community"
+      "Propzie"
     ],
     "sources": [
       {
@@ -1610,8 +1416,7 @@
     "mainText": "'🥲 yep'",
     "date": "11 20 2025",
     "tags": [
-      "Polina",
-      "Community"
+      "Polina"
     ],
     "sources": [
       {
@@ -1628,8 +1433,7 @@
     "mainText": "'In this new blog post, Technical Director, Slikey, gives us a transparent and in-depth look of where Hytale modding stands today and its future. #Hytale \nhttps://hytale.com/news/2025/11/hytale-modding-strategy-and-status\n'",
     "date": "11 20 2025",
     "tags": [
-      "Hytale",
-      "Tech"
+      "Hytale"
     ],
     "sources": [
       {
@@ -1646,8 +1450,7 @@
     "mainText": "'Yes. In Unreal Engine you use C++ and Blueprints in tandem - C++ code is used to make more blueprint nodes available. Hytale will follow the same approach and you use Java plugins to make unlock more nodes in our visual scripting.'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1664,10 +1467,7 @@
     "mainText": "'I don't think so, just posting footage stuff for now'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Early Access",
-      "Video",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -1684,8 +1484,7 @@
     "mainText": "'yep'",
     "date": "11 20 2025",
     "tags": [
-      "Polina",
-      "Tech"
+      "Polina"
     ],
     "sources": [
       {
@@ -1702,9 +1501,7 @@
     "mainText": "'Hytale Modding Strategy and Status Blog is live. Excited to hear what you think about vision we have for modding in Hytale.  https://hytale.com/news/2025/11/hytale-modding-strategy-and-status'",
     "date": "11 20 2025",
     "tags": [
-      "Slikey",
-      "Website",
-      "Tech"
+      "Slikey"
     ],
     "sources": [
       {
@@ -1721,9 +1518,7 @@
     "mainText": "'Maybe after launch we will investigate if possible without too much trouble, I took notes'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Future stuff"
+      "Simon"
     ],
     "sources": [
       {
@@ -1740,9 +1535,7 @@
     "mainText": "'no taming mount system yet so kinda janky to do so with Raptors atm'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Future stuff"
+      "Simon"
     ],
     "sources": [
       {
@@ -1759,9 +1552,7 @@
     "mainText": "'Difference is, you don’t need to mod our game to look like this'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Community",
-      "Off Topic"
+      "Simon"
     ],
     "sources": [
       {
@@ -1778,9 +1569,7 @@
     "mainText": "'I got caught 💩'",
     "date": "11 20 2025",
     "tags": [
-      "Propzie",
-      "Community",
-      "Off Topic"
+      "Propzie"
     ],
     "sources": [
       {
@@ -1797,9 +1586,7 @@
     "mainText": "'Gimme some time, when we get closer to minigames I will find ideas for unique rewards to those who helped in the past'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Future stuff",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -1816,9 +1603,7 @@
     "mainText": "'Its still being transferred to us, should be up soon'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "General",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -1835,10 +1620,7 @@
     "mainText": "'both'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Modding",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -1855,10 +1637,7 @@
     "mainText": "'Yes'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Modding",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -1875,10 +1654,7 @@
     "mainText": "'literally just added 4 lines'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Modding",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -1895,10 +1671,7 @@
     "mainText": "'“Poops”:true\r\n\r\n???'",
     "date": "11 20 2025",
     "tags": [
-      "Simon",
-      "Gameplay",
-      "Video",
-      "Simon Notes"
+      "Simon"
     ],
     "sources": [
       {
@@ -1912,12 +1685,10 @@
   {
     "mainPlatform": "tweet",
     "summary": "Hytale mods in rideable raptors",
-    "mainText": "'Due to the popular demand of our last tweet - we made a quick mod to ride the raptor! Modders can make things ridable by easily changing the config in our asset editor. #Hytale'\n\n(Other animals visible!)",
+    "mainText": "'Due to the popular demand of our last tweet - we made a quick mod to ride the raptor! Modders can make things ridable by easily changing the config in our asset editor. #Hytale'",
     "date": "11 20 2025",
     "tags": [
-      "Hytale",
-      "Gameplay",
-      "Video"
+      "Hytale"
     ],
     "sources": [
       {

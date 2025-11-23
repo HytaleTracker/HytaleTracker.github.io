@@ -1,6 +1,26 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon confirms information about blocking in Hytale.",
+    "mainText": "'Correct'\n\n(Prowl8413 on Twitter: I wonder if when blocking in Hytale if it'll be tied to your stamina bad, so you can't infinitely block. Maybe a shield takes the least stamina since its intended for blocking, where as daggers would take a bigger stamina hit? @Simon_Hypixel)",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992451431836663863?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon shares that Technoblade applied for Hypixel's marketing team in 2015",
     "mainText": "'Some Technoblade lore: In 2015 he applied to work for our marketing team but unfortunately he was too young back then 😅'",
     "date": "11 22 2025",

@@ -5,7 +5,9 @@
     "mainText": "'ofc'",
     "date": "11 20 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -22,7 +24,9 @@
     "mainText": "'it was speed up from 1hr to 10min 😅 yeah, will make a few simpler ones!'",
     "date": "11 20 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -39,7 +43,9 @@
     "mainText": "'textures (as in actual „png“) you can only change outside, in software like paint, photoshop, etc'",
     "date": "11 20 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -56,7 +62,9 @@
     "mainText": "'afaik this is all still in game, but depending on which blogpost you are referring, some things might not be there. Tints and transitions all there'",
     "date": "11 20 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -73,7 +81,9 @@
     "mainText": "'yes! you would actually attach it on the sword in this case (or next to mobs hand on a mob)'",
     "date": "11 20 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -90,7 +100,9 @@
     "mainText": "'In the particle system itself the supported logic is pretty standard, like, there are delays. But particles dont „know“ you opened a door, for example, but you can spawn particles on opening, configured in the door itself'",
     "date": "11 20 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -107,7 +119,9 @@
     "mainText": "'Effects are largely integrated in gameplay systems, so, for example you can spawn an effect on specific interaction, attach it to items (e.g torch), blocks, mobs (e.g emberwulf). It’s still not finished and more functionality will come!'",
     "date": "11 20 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -124,7 +138,9 @@
     "mainText": "'Just checked: the Raptor has a default basic AI parented; it needs to be worked on config-wise to feel more raptor-like. Reasonably easy to add interesting behaviours, someone just needs to get to it at some point in the 2000+ tickets backlog '",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -141,7 +157,9 @@
     "mainText": "'NOTE: Raptor NPC AI is horrible, time to put fix in queue'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -158,7 +176,9 @@
     "mainText": "'It seems I'm the one on the menu. 😅'",
     "date": "11 20 2025",
     "tags": [
-      "Propzie"
+      "Propzie",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -175,7 +195,9 @@
     "mainText": "'but then Slikey will release his blog and you will be backlogged bro'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Community",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -192,7 +214,10 @@
     "mainText": "'I don't have exact plans but I have not forgotten them.\r\nI will find that list again after launch when I get a minute.'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Community",
+      "Business",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -209,7 +234,9 @@
     "mainText": "'I told you guys it would be a storm, a storm of info!'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Community",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -226,7 +253,11 @@
     "mainText": "'Starting next week, we will test Hytale across different hardware to determine the minimum specs, fix major crashes, improve overall security, test the launcher and finish up legal work to get the game ready for early access.\r\n\r\nBy the end of that week, we will announce a precise release date.\r\n\r\nTomorrow, we will announce Hytale pricing details\r\n\r\nLater today, \r\n@slikey_dev\r\n  will post a blog about modding!'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Business",
+      "Statement",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -243,7 +274,11 @@
     "mainText": "'Zone 4 IS BACK ON THE MENU BOIS'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Early Access",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -257,10 +292,13 @@
   {
     "mainPlatform": "tweet",
     "summary": "\"Don't go to Zone 4 unprepared!\"",
-    "mainText": "'Don't go to Zone 4 unprepared 😅 #Hytale'",
+    "mainText": "'Don't go to Zone 4 unprepared 😅 #Hytale'\n\n(Dinosaurs raptors zone 4 cave)",
     "date": "11 20 2025",
     "tags": [
-      "Hytale"
+      "Hytale",
+      "Gameplay",
+      "Video",
+      "Early Access"
     ],
     "sources": [
       {
@@ -277,7 +315,9 @@
     "mainText": "'90%+ of the emails were lost in the acquisition. Unfortunately, there are no solutions because of how regulation works.\r\n\r\nHowever, there is no beta, we are going straight up to early access :P\r\nDoesn't matter anymore, except for those who don't know about the recent news, so we will ask our community to spread the word when the time comes.'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -294,7 +334,9 @@
     "mainText": "'I spent the most on Hytale'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Business",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -311,7 +353,10 @@
     "mainText": "'I was playing a broken build with less animal spawning, there was actually too many of them before, poop everywhere😅'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "Early Access",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -328,7 +373,8 @@
     "mainText": "'looking good'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Community"
     ],
     "sources": [
       {
@@ -345,7 +391,10 @@
     "mainText": "'They are not “dungeons” 👀'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Gameplay",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -362,7 +411,10 @@
     "mainText": "'Lots of templates / tests / random things in there. Real number is still over 100 for sure though'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Gameplay",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -379,7 +431,8 @@
     "mainText": "'Oh right 2012, but server went up 2013'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -396,7 +449,8 @@
     "mainText": "'Not a single day off for 3 months, feels like 2013 when I created Hypixel'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -413,7 +467,8 @@
     "mainText": "'My sleep schedule absolutely destroyed but working on Hytale is the best, love the pressure, love the game, can’t wait to share more'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -430,7 +485,8 @@
     "mainText": "'Imagine that game in 3D bro'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Off Topic"
     ],
     "sources": [
       {
@@ -447,7 +503,8 @@
     "mainText": "'I played a lot of WoW, Path of Exile 2, Valheim, Baldur Gates 3, Satisfactory, Rim World, Dwarf Fortress, dark souls, ton or roguelikes and many more, so in a way I was studying 😉'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Off Topic"
     ],
     "sources": [
       {
@@ -464,7 +521,9 @@
     "mainText": "'everyday something new'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -481,7 +540,9 @@
     "mainText": "'maybe for major updates yeah'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Screenshot"
     ],
     "sources": [
       {
@@ -498,7 +559,9 @@
     "mainText": "'Just posted launcher screenshot / video on discord in showcase channel'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Screenshot"
     ],
     "sources": [
       {
@@ -515,7 +578,9 @@
     "mainText": "'oh, I mean its still a couple days technically!'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -532,7 +597,9 @@
     "mainText": "'There haven’t been any delays yet? I haven’t announced anything 😂'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -549,7 +616,8 @@
     "mainText": "'Almost 100,000 on Hytale discord in less than 72 hours.\r\n\r\nWill do Q&A next week, see you there 🫡'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -566,7 +634,9 @@
     "mainText": "'Unique'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Statement"
     ],
     "sources": [
       {
@@ -583,7 +653,8 @@
     "mainText": "'Meme gif, bleary cat staring into camera'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Off Topic"
     ],
     "sources": [
       {
@@ -600,7 +671,8 @@
     "mainText": "'brother I barely left my house when retired 😂'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -617,7 +689,9 @@
     "mainText": "'There is no campaign. This is early access exploration mode, its barebone and not good yet!\r\n\r\nEarly access is meant for those who support the original vision to keep going forward with adventure mode and everything else shown in the trailer.'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -634,7 +708,9 @@
     "mainText": "'You are underestimating how much I put into this 😂'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Business",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -651,7 +727,10 @@
     "mainText": "'For transparency, I’m trying to keep the base price as low as possible so more of you can play Hytale. At the same time, I need to factor in the buyback price, legal fees, and production costs.\r\n\r\nI’m not going to recoup what I put into this for a long time, even with all the renewed attention and that’s fine. Don’t worry about me, let’s take care of the team first.'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Business",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -668,7 +747,9 @@
     "mainText": "'Yes'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Tech"
     ],
     "sources": [
       {
@@ -685,7 +766,9 @@
     "mainText": "'Not yet'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Tech"
     ],
     "sources": [
       {
@@ -702,7 +785,9 @@
     "mainText": "'Using crowdin so the community should be able to translate as soon as possible'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Community"
     ],
     "sources": [
       {
@@ -719,7 +804,9 @@
     "mainText": "'Yes'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Server"
     ],
     "sources": [
       {
@@ -736,7 +823,10 @@
     "mainText": "'Yeah'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Business",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -753,7 +843,9 @@
     "mainText": "'Working on locking down the release date ASAP. We currently need to run hardware tests, wrap up legal docs, stabilize the game and fix a few security issues.\r\n\r\nI’ll have a precise answer by the end of next week. Pre-orders, name reservation and account creation will begin as well. All pricing will be announced, FYI base edition under $30 USD.\r\n\r\nWe are almost home.'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Early Access",
+      "Simon Notes"
     ],
     "sources": [
       {
@@ -770,7 +862,9 @@
     "mainText": "'Base edition under $30'",
     "date": "11 20 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Business",
+      "Early Access"
     ],
     "sources": [
       {
@@ -787,7 +881,9 @@
     "mainText": "'Good call, we've made the change ♥️'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "General",
+      "Website"
     ],
     "sources": [
       {
@@ -804,7 +900,8 @@
     "mainText": "' ez'",
     "date": "11 19 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "General"
     ],
     "sources": [
       {
@@ -821,7 +918,9 @@
     "mainText": "'Yeah'",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Website",
+      "Community"
     ],
     "sources": [
       {
@@ -838,7 +937,11 @@
     "mainText": "'Hytale Tech Director @slikey_dev will be posting Hytale Creatives Strategy & Modding Status tomorrow.\n\nGood night.'",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Website",
+      "Statement",
+      "Tech",
+      "Future stuff"
     ],
     "sources": [
       {
@@ -855,7 +958,8 @@
     "mainText": "'Almost there!'",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Community"
     ],
     "sources": [
       {
@@ -872,7 +976,10 @@
     "mainText": "'The exploration mode is part of the story. \r\nThe game being broken is part of the story.\r\n\r\nYou will see, cursebreaker 😉'",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Exploration",
+      "Lore",
+      "Community"
     ],
     "sources": [
       {
@@ -889,7 +996,8 @@
     "mainText": "'We are doing tests next week'",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Tech"
     ],
     "sources": [
       {
@@ -906,7 +1014,9 @@
     "mainText": "'Here is proof that we are using a 4+ years old build of the game that we put together in the last few months.\r\n\r\nI left in 2020.\r\n\r\nWe have a lot of catching up to do.'",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Devs",
+      "Engine - Legacy"
     ],
     "sources": [
       {
@@ -920,10 +1030,13 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon says the tech supports a living world system for NPCs",
-    "mainText": "'Yes, the tech supports it. Just need to configure it all '",
+    "mainText": "'Yes, the tech supports it. Just need to configure it all '\n\n(I remember being excited about how y'all would utilize AI to help NPCs bring life to their personality and interactions, creating a world that lives and breathes outside of the player (Like outlanders that were aiming and hunting a mob). Do yall still plan to do that?)",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "Tech",
+      "Exploration"
     ],
     "sources": [
       {
@@ -940,7 +1053,9 @@
     "mainText": "'Yeah, most of these options will be added in a setting before early access.'",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "General"
     ],
     "sources": [
       {
@@ -957,7 +1072,9 @@
     "mainText": "'Its because I had my view distance maxed out lol'",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "Future stuff"
     ],
     "sources": [
       {
@@ -974,7 +1091,10 @@
     "mainText": "'not yet, planned obviously for accessibility reasons first'",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "Future stuff",
+      "Accessibility"
     ],
     "sources": [
       {
@@ -991,7 +1111,9 @@
     "mainText": "'Yes but I will force this color on your account'",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "Future stuff"
     ],
     "sources": [
       {
@@ -1005,10 +1127,13 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon says worldgen is infinite, but is currently turned off - can be turned on.",
-    "mainText": "'It's infinite but turned off atm because it doesn't look good on the map / it's confusing and not worth fixing because we are doing something different that will be explained in an upcoming blog post!\nYou can edit the config to turn it back on; the tech can make it work.'",
+    "mainText": "'It's infinite but turned off atm because it doesn't look good on the map / it's confusing and not worth fixing because we are doing something different that will be explained in an upcoming blog post!\nYou can edit the config to turn it back on; the tech can make it work.'\n\n(infinite, currently turned off, not worth fixing because they are doing something different....\n\n\"Something different\" = worldgen 2? or what?)",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Gameplay",
+      "Tech",
+      "Exploration"
     ],
     "sources": [
       {
@@ -1025,7 +1150,9 @@
     "mainText": "'We are seeing a lot of server hosting providers reach out about day 1 Hytale support. We don't have the capacity to answer these right now and we will try to bring a hosting service manual out whenever we are less busy. We are targeting shipping the server for Java 25 and QUIC as the transport for the protocol.'",
     "date": "11 19 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Server",
+      "Tech"
     ],
     "sources": [
       {
@@ -1042,7 +1169,9 @@
     "mainText": "'😂'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -1059,7 +1188,9 @@
     "mainText": "'yeah, also community will create tons in no time too, I am sure!'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -1076,7 +1207,9 @@
     "mainText": "'yep, that’s how i would do it'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -1093,7 +1226,9 @@
     "mainText": "'спасибо! jelly and ryan are the goats!'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -1110,7 +1245,9 @@
     "mainText": "'it is quite standard, yes!'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -1127,7 +1264,9 @@
     "mainText": "'this is still TBD!'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -1144,7 +1283,9 @@
     "mainText": "'yeah, i have most exp with UE5. \r\nWe dont have that flexibility, since the materials we use are all very very optimized, so, artists cant make their own.'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -1161,7 +1302,9 @@
     "mainText": "'True'",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Future stuff",
+      "Business"
     ],
     "sources": [
       {
@@ -1178,7 +1321,9 @@
     "mainText": "'not in this way, but if your goal is to quickly recolor, say, from red to green, you can leave the color in particle system „empty“, then when you attach it somewhere you can pick any color you want and it will tint every particle that had „empty“ color'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -1195,7 +1340,9 @@
     "mainText": "'You can attach effects to entities. I assume you want smth like a gbost or spirit? This is usually done as a normal npc entity but with attached particles and fancy shaders'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -1212,7 +1359,9 @@
     "mainText": "'Please find yourself in the HR office for an important conversation about your tweeting behavior.'",
     "date": "11 19 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -1229,7 +1378,9 @@
     "mainText": "'there will be definitely way more than one portal effect 😅 there are also square ones!'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -1246,7 +1397,9 @@
     "mainText": "'Dope!'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "Website",
+      "Devs"
     ],
     "sources": [
       {
@@ -1263,7 +1416,9 @@
     "mainText": "'This is usually a caching issue, can you try clearing your browser cache?'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "Website",
+      "Devs"
     ],
     "sources": [
       {
@@ -1280,7 +1435,10 @@
     "mainText": "'You should ask her every single question you have for VFX creator tooling in \n@Hytale\n. She is not just a VFX artist but also a programmer - so don't hold back.'",
     "date": "11 19 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Devs",
+      "Community",
+      "Tech"
     ],
     "sources": [
       {
@@ -1297,7 +1455,9 @@
     "mainText": "'you mean \"toe\"'",
     "date": "11 19 2025",
     "tags": [
-      "Lyall"
+      "Lyall",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -1314,7 +1474,9 @@
     "mainText": "'Not able to reproduce, are you seeing any errors in the dev console for loading resources?'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "Website",
+      "Devs"
     ],
     "sources": [
       {
@@ -1331,7 +1493,9 @@
     "mainText": "'Will take a look, might be a caching error potentially?'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "Website",
+      "Devs"
     ],
     "sources": [
       {
@@ -1348,7 +1512,9 @@
     "mainText": "'Will take a look at what we can do to improve readability!'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "Website",
+      "Devs"
     ],
     "sources": [
       {
@@ -1365,7 +1531,9 @@
     "mainText": "'Gotta keep you on your toes'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -1382,7 +1550,8 @@
     "mainText": "'Its an updated game page! https://hytale.com/game'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "Website"
     ],
     "sources": [
       {
@@ -1399,7 +1568,8 @@
     "mainText": "'Something tells me a new page is dropping on https://hytale.com'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "Website"
     ],
     "sources": [
       {
@@ -1416,7 +1586,8 @@
     "mainText": "'i didn’t pay attention 😅 maybe?'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay"
     ],
     "sources": [
       {
@@ -1433,7 +1604,9 @@
     "mainText": "'And speaking of vfx tools! Enjoy me struggling with pink color 😂'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -1447,10 +1620,12 @@
   {
     "mainPlatform": "tweet",
     "summary": "Hytale posts an asset editor timelapse video.",
-    "mainText": "'A brand new look at Hytale's asset editor ⚙️ #Hytale'",
+    "mainText": "'A brand new look at Hytale's asset editor ⚙️ #Hytale'\n\n(Link to video)",
     "date": "11 19 2025",
     "tags": [
-      "Hytale"
+      "Hytale",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -1467,7 +1642,9 @@
     "mainText": "'The videos were hosted on a specific cloud providers video streaming service rather than youtube. It is a bit more tricky for us to restore, our hope is we can in the near future\r\n\r\nI am sure there will also be more awesome clips and content coming as well ;)'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "Tech",
+      "Video"
     ],
     "sources": [
       {
@@ -1484,7 +1661,9 @@
     "mainText": "'Since I have seen a few questions for how we make vfx in game: it’s ingame tools!'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay",
+      "Tech"
     ],
     "sources": [
       {
@@ -1501,7 +1680,8 @@
     "mainText": "'honestly my part is the smallest.\nIt’s just sparkly. Sooo much engineering effort went into this, all the backend work, it’s really amazing even when not so obviously visible'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay"
     ],
     "sources": [
       {
@@ -1518,7 +1698,8 @@
     "mainText": "'both! different attacks'",
     "date": "11 19 2025",
     "tags": [
-      "Polina"
+      "Polina",
+      "Gameplay"
     ],
     "sources": [
       {
@@ -1535,7 +1716,8 @@
     "mainText": "'\r\n@_Tom_Henderson_ 🫡'",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Community"
     ],
     "sources": [
       {
@@ -1552,7 +1734,9 @@
     "mainText": "'We keep the team as small as possible and as large as necessary. Every hire we do is solving an acute and persistent problem that we could otherwise not solve and would be catastrophic to ignore.'",
     "date": "11 19 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -1569,7 +1753,9 @@
     "mainText": "'This is the only approved excuse. Those weights don't lift themselves.'",
     "date": "11 19 2025",
     "tags": [
-      "Slikey"
+      "Slikey",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -1586,7 +1772,9 @@
     "mainText": "'I found the perfect dice for you folks - purchase approved!'",
     "date": "11 19 2025",
     "tags": [
-      "Lyall"
+      "Lyall",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -1603,7 +1791,9 @@
     "mainText": "'@Lyall_PD can the company buy us some deployment dice to dictate our deploy times?'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -1620,7 +1810,9 @@
     "mainText": "'I think I just need to throw some dice to determine when to deploy changes from now on. If even I don't know when I'm pushing out a change, nobody else can guess either!'",
     "date": "11 19 2025",
     "tags": [
-      "DepNether"
+      "DepNether",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -1637,7 +1829,9 @@
     "mainText": "'Before early access, if all goes well!'",
     "date": "11 19 2025",
     "tags": [
-      "Simon"
+      "Simon",
+      "Community",
+      "Future stuff"
     ],
     "sources": [
       {
@@ -1654,7 +1848,9 @@
     "mainText": "'\"LUDICROUS SPEED\" gif'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -1671,7 +1867,9 @@
     "mainText": "'Hello Bolegro'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {
@@ -1688,7 +1886,9 @@
     "mainText": "'Time to schedule all the changes for this time (but then we change it cause they expect this time window)'",
     "date": "11 19 2025",
     "tags": [
-      "DevSlashNull"
+      "DevSlashNull",
+      "Devs",
+      "Community"
     ],
     "sources": [
       {

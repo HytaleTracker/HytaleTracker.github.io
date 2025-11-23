@@ -1,6 +1,267 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon responds to HypixelNetwork's announcement of Ravengard",
+    "mainText": "'GG, looking good! I love extraction PvPvE games ' by Simon",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Off Topic",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992386701747167451?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon says some community shaders would improve, most wouldn't.",
+    "mainText": "'I know some would improve it, but majority wouldnt.\r\n\r\nIf you think you are a great shader dev get in touch with us 😎 we will work with you' by Simon",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992385367350370432?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon on shaders ruining the curated Hytale experience",
+    "mainText": "'Yeah its very well calculated to deliver specific visuals, would be a shame to see hundreds of different shaders mods ruining the experience' by Simon",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992385181584642357?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon continues, re: shaders",
+    "mainText": "'Note that we have lots of plans to improve the game rendering/shaders over time and it will evolve over the years ahead!' by Simon",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992383771052761453?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon answers Q about shaders in Hytale",
+    "mainText": "'Not in the short term, we are making too many changes to the rendering and we don’t want to create an ecosystem where everyone has different shaders and makes our artists lives complicated when we evolve the game forward in the future.\r\nWe will explore options later on, but at the moment no! Sorry! We evaluated the pros and cons.' by Simon",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992383461126971686?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey corrects himself",
+    "mainText": "'*enough to get started' by Slikey",
+    "date": "11 22 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Modding",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992382542968975398?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey talks about user's using Hytale as first-time modding experience",
+    "mainText": "'The Tools ingame are absolutely going to get started after a couple weeks/months you will likely have youtube videos etc. to help you even more' by Slikey",
+    "date": "11 22 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Modding",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1992380475005120688?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon talks about showing ElRichMC Hytale in 2016",
+    "mainText": "'I shown him Hytale in 2016 IRL in Los Angeles! Some lore for you' by Simon",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs",
+      "Off Topic",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992378747409018986?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon talks about doing voice interviews",
+    "mainText": "'I did voice interview once so far with @ElRichMC for Hytale, not sure I will do many more. Its coming out soon.\nWas supposed to do another one but I got sick today so 😅 Back to work on the game in the meantime!' by Simon",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs",
+      "Off Topic",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992378270013407480?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon responds to question about dungeon fog VFX",
+    "mainText": "'Its not used in worldgen v1 but it exists and can be placed, if you make a static dungeon for example it looks really good. You can tie the effects to any blocks.' by Simon\n\n(Personal favorite of mine!)",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Early Access",
+      "Tech",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992374355482022121?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon responds to KreekCraft saying \"take my money\"",
+    "mainText": "'good' by Simon",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Off Topic",
+      "Business",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992373707650814069?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "BuddhaCat responds to KC sharing official teaser of Faun's in-game",
+    "mainText": "'👀👀👀' by BuddhaCat\n\n(https://vxtwitter.com/KweebecCorner/status/1992370802591940618?s=20)",
+    "date": "11 22 2025",
+    "tags": [
+      "BuddhaCat",
+      "Video",
+      "Future stuff",
+      "Hints"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/1992371520912462117?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon pings ElRichMC on a recreation of his skin",
+    "mainText": "'@ElRichMC 👀' by Simon",
+    "date": "11 22 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1992361690005225730?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon says the rat being lured by cheese interaction still works",
     "mainText": "'Yep, still works' by Simon",
     "date": "11 22 2025",

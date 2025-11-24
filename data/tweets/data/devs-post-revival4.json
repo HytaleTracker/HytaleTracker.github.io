@@ -1,6 +1,82 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon hints at a building blog post",
+    "mainText": "'Next blogpost, creative tools for builders 😎\nComing up this week!'",
+    "date": "11 23 2025",
+    "tags": [
+      "Simon",
+      "General",
+      "Hints"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1992658524099506306?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon comments on past interview",
+    "mainText": "'Oui je me rappelle! Wow une des rares entrevues que j’ai fait dans ma vie!'\n\n(\"Yes, I remember! Wow, one of the rare interviews I've done in my life!\")",
+    "date": "11 23 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://x.com/Simon_Hypixel/status/1992646925410238552"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon talks about interview with ElRich",
+    "mainText": "'I met ElRich 9 years ago and he was the first YouTuber to see Hytale, I promised him a voice interview and so I delivered 9 years later! (It’s in english, we both aren’t english native but we did well, I think!) PSA I don’t ever do interviews but I keep my promises! 😅'",
+    "date": "11 23 2025",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Video",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://x.com/Simon_Hypixel/status/1992645445345276348"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar clarifies that This Is Our Tale isn't part of the game",
+    "mainText": "'It's not officially part of the game, I made it as a personal effort :)'",
+    "date": "11 23 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1992620131047166376?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon talks about worldgen editing",
     "mainText": "'For worldgen, you set a 3D viewport selection and reload to update the worldgen in that specific selection. There is a blog coming up soon about it all, it's crazy stuff!'",
     "date": "11 23 2025",

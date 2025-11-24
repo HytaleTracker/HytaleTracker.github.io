@@ -1,6 +1,96 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Buddha responds to welcome back message",
+    "mainText": "'You're far too kind, Myne <3 Appreciate you very much.\r\nFwiw - this core community is the glue. I may have helped to support you all and foster a welcoming and inclusive space - but you all are the pillars that stands this community up. I am so grateful for all of you.'",
+    "date": "11 24 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/1992967250840580262?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: ligma",
+    "mainText": "'Who the hell is Steve jobs?'",
+    "date": "11 24 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1992965058926625150?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: new phrases",
+    "mainText": "'On god? never heard that before.. glad I have you guys to teach me how to escape total uncdom'",
+    "date": "11 24 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1992957654952792458?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar talks about releasing the OST",
+    "mainText": "'The plan is to get it on Spotify for now but we are still working out the specifics. In regards to vinyls or hard copy, I think it might feel cheap to just throw the current tracks onto vinyl, CD or cassette. I'd want to do something extra special for that.'",
+    "date": "11 24 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1992955338975506473?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar responds to Jobox",
+    "mainText": "'GIF: True Story'\n\n(CONTEXT: You either find out late about hytale or live long enough to become the unc)",
+    "date": "11 24 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1992952709134295128?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Hytale void knight fanart",
     "mainText": "'Wow! Love it'",
     "date": "11 24 2025",
@@ -388,7 +478,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Oscar posts police chase gif re: Myne saying reading comprehension tests should be required to tweet",
-    "mainText": "'null'",
+    "mainText": "",
     "date": "11 23 2025",
     "tags": [
       "Oscar Garvin",
@@ -446,7 +536,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Oscar posts Vader gif: Join Me!",
-    "mainText": "'null'",
+    "mainText": "",
     "date": "11 23 2025",
     "tags": [
       "Oscar Garvin",

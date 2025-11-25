@@ -1,6 +1,204 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Tessa & Kyros in the game",
+    "mainText": "'nope, will make it happen'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993459264565002532?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: new world gen still have all old content",
+    "mainText": "'yeah'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993458387535999016?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: kraken",
+    "mainText": "'I def would like to see that one for a boss fight later'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993458230933241989?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: void spider",
+    "mainText": "'Void spider doesn’t exists ingame; but will consider!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993458009998258343?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Lynn walking until they find Scarak hive",
+    "mainText": "'glhf'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993457914053640250?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: water screenshot",
+    "mainText": "'Sun reflections :P'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993457764862132467?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: spawning in the world",
+    "mainText": "'Can only spawn Z1 atm, trying to balance to add more spawns in other zones but its too much work for EA to get it right \r\nMade Z3 and Z2 much more dangerous and its quite fun, downside is everyone experience Z1 first\r\n\r\nnew world gen is much better at this, info soon'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993457378231304567?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: bears",
+    "mainText": "'They used to spawn camp and 1 shot players before balance 😅'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993456472865562823?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: chunk tinting feature",
+    "mainText": "'Chunk tinting is currently done using a 2D texture, so each block column can be tinted. We currently have 32x32 resolution with RGB support but we plan to lower resolution and go for a 3D texture in the future.'",
+    "date": "11 25 2025",
+    "tags": [
+      "Slikey",
+      "Gameplay",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1993456247866376296?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: bear from timelapse",
+    "mainText": "'Don’t get too close!\r\n'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993455701193302097?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: no water physics",
     "mainText": "'@Ktar5 told me its by design for creative tools but can add a toggle'",
     "date": "11 25 2025",

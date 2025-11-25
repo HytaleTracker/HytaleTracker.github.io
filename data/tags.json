@@ -118,7 +118,10 @@
             "Statement",
             "Tech",
             "Video",
-            "Website"
+            "Website",
+            "Blogpost",
+            "Creative Mode",
+            "Exploration Mode"
         ]
     }
 ]

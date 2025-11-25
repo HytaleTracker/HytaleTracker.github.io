@@ -1,6 +1,48 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: water physics",
+    "mainText": "'works in normal cases, will improve the system as a whole later on + IMAGE'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993453645116195055?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: water physics",
+    "mainText": "'We actually do have some water flow, but not in this specific case. I misunderstood the question'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993452988774617389?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: cape shown in creative video",
     "mainText": "'Its the unfinished and buggy version, artists are crying rn'",
     "date": "11 25 2025",

@@ -1,6 +1,593 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Buddha, re: community welcome back messages",
+    "mainText": "'Love ya too, Swurvy 😭💕\r\n'",
+    "date": "11 24 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/1993152386677014653?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: community enjoying screenshots",
+    "mainText": "'🫡'",
+    "date": "11 24 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/1993152190224253398?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Technoblade fanart",
+    "mainText": "'This is so stunning. I love this so much ❤️❤️❤️\r\n'",
+    "date": "11 24 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/1993152047517254024?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: ish's 1000 player civilization events",
+    "mainText": "'let me run some servers stress tests first 😂'",
+    "date": "11 24 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1993142649583550519?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: heightmaps to make continents",
+    "mainText": "'That would probably require some modifcations to the world generation algorithms. We don't directly use heightmaps but I imagine with a bit of Java knowledge, you can mod it to the point that heightmaps can be used instead of the procedural height generation.\r\n'",
+    "date": "11 24 2025",
+    "tags": [
+      "Slikey",
+      "Gameplay",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1993108714623320525?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: compliments on his music",
+    "mainText": "'Thank you so much man! That's very nice of you to say and the fact you took the time to listen to all my music is a great compliment. I'm actually also a drummer with a jazz background, so you might notice some of that bleed through in the music😉🥁'",
+    "date": "11 24 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1993108076145393794?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Tourne_Vis Hytale Dragonfly Model",
+    "mainText": "'That's impressive! Love the fluidity of motion in the animation.\r\n'",
+    "date": "11 24 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1993104562274861205?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: world-gen blog",
+    "mainText": "'after all of this yeah, not sure on timing'",
+    "date": "11 24 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1993103171129163835?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: video",
+    "mainText": "'Its creative gameplay yes'",
+    "date": "11 24 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1993094555194073110?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: creative tools",
+    "mainText": "'All of it is ingame, we added more as well.\r\n\r\nVideo coming this week.'",
+    "date": "11 24 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1993093758888689997?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: character models on servers",
+    "mainText": "'Absolutely, if your friend drops the files on their server, you are good to go'",
+    "date": "11 24 2025",
+    "tags": [
+      "Slikey",
+      "Gameplay",
+      "Feature",
+      "Modding",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1993080354215997916?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: singleplayer character models",
+    "mainText": "'You can make a character or pretty much any model and use it as your playable character in singleplayer. You can play as a talking peanut if you prefer that. On multiplayer server, the server owner makes the rules 👍'",
+    "date": "11 24 2025",
+    "tags": [
+      "Slikey",
+      "Gameplay",
+      "Feature",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1993078766088933403?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Tourne_Vis Hytale Dragonfly model",
+    "mainText": "'Actually really good work! 🫡'",
+    "date": "11 24 2025",
+    "tags": [
+      "Slikey",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1993078303344017687?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Techno YT Rank",
+    "mainText": "'Extra lore: https://youtu.be/zQMtDL5M9k8 \nHe was the only YouTuber we ever did this!'",
+    "date": "11 24 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993071751836975433?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Evee Techno Hytale art",
+    "mainText": "'Yes!'",
+    "date": "11 24 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993071155281117504?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: welcome back message",
+    "mainText": "'Thank you, Hatsuya!! ❤️❤️'",
+    "date": "11 24 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993069573029954026?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: Tourne_Vis Hytale Dragonfly mount model",
+    "mainText": "'very cool! you also made the models?'",
+    "date": "11 24 2025",
+    "tags": [
+      "Polina",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://xcancel.com/LogadoPolina/status/1993056687314596043?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: dev interviews",
+    "mainText": "'Send me an email through press@hytale.com ! Can’t promise anything at this time (things are busy!) but we’ll see what we can do.'",
+    "date": "11 24 2025",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993044882357993904?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: swamp screenshot",
+    "mainText": "'Not a glitch actually! Mud has a slightly lower collision box, so all entities sink into it a bit. (Thank \n@Propzie for the awesome demonstration of this in a screenshot - as always!)'",
+    "date": "11 24 2025",
+    "tags": [
+      "BuddhaCat",
+      "Gameplay",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993040588439183704?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Vippori Hytale Art",
+    "mainText": "'These plushies make me so happy!'",
+    "date": "11 24 2025",
+    "tags": [
+      "Paris",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/1993038817557614603?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Prowl8413 on screenshots",
+    "mainText": "'🫡❤️'",
+    "date": "11 24 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993038223090802758?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha responds to welcome back message",
+    "mainText": "'❤️❤️❤️'",
+    "date": "11 24 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993037349622890582?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Vippori Hytale art",
+    "mainText": "'So cute! love your work'",
+    "date": "11 24 2025",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993037004091609089?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Hawkon saying 'sybau'",
+    "mainText": "'Always❤️'",
+    "date": "11 24 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1993010231107109268?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Slamma saying 'sybau'",
+    "mainText": "'Ty u2 😇'",
+    "date": "11 24 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1993009120589627611?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Hytale post",
+    "mainText": "'I hope you all are enjoying these! <3'",
+    "date": "11 24 2025",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Community",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993005854917116049?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale posts picture of swamp(?) biome",
+    "mainText": "'This boggy and waterlogged habitat is home to many fauna - some nicer than others... #Hytale'",
+    "date": "11 24 2025",
+    "tags": [
+      "Hytale",
+      "Gameplay",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/1993004211496534514?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: broken generation can look good",
+    "mainText": "'👀'",
+    "date": "11 24 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993003064337522832?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re; weapons/weapon types",
+    "mainText": "'There are a lot more but none configured yet, will be able for modders'",
+    "date": "11 24 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993000484806836469?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: 'sybau'",
+    "mainText": "'You mean \"stay young, beautiful and unique\" right? 😊😊😊'",
+    "date": "11 24 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1992989710613159977?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: 'Steve what' - what? gif",
+    "mainText": "",
+    "date": "11 24 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1992986473839411446?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Buddha responds to welcome back message",
     "mainText": "'You're far too kind, Myne <3 Appreciate you very much.\r\nFwiw - this core community is the glue. I may have helped to support you all and foster a welcoming and inclusive space - but you all are the pillars that stands this community up. I am so grateful for all of you.'",
     "date": "11 24 2025",
@@ -12,7 +599,7 @@
       {
         "1": [
           "tweet by BuddhaCat",
-          "https://vxtwitter.com/ItsBuddhaCat/status/1992967250840580262?s=20"
+          "https://xcancel.com/ItsBuddhaCat/status/1992967250840580262?s=20"
         ]
       }
     ]
@@ -30,7 +617,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1992965058926625150?s=20"
+          "https://xcancel.com/onpujam/status/1992965058926625150?s=20"
         ]
       }
     ]
@@ -48,7 +635,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1992957654952792458?s=20"
+          "https://xcancel.com/onpujam/status/1992957654952792458?s=20"
         ]
       }
     ]
@@ -66,7 +653,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1992955338975506473?s=20"
+          "https://xcancel.com/onpujam/status/1992955338975506473?s=20"
         ]
       }
     ]
@@ -84,7 +671,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1992952709134295128?s=20"
+          "https://xcancel.com/onpujam/status/1992952709134295128?s=20"
         ]
       }
     ]

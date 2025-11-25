@@ -1,6 +1,224 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Oscar, re: user saying FFX is a favorite game.",
+    "mainText": "'Fina Fantasy X goated answer\r\n'",
+    "date": "11 25 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1993350457910345958?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: creative blogpost",
+    "mainText": "'I wrote this blog post! Can't wait to see the community's reactions! Look out, Hytale blog post dropping today!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Blogpost",
+      "Creative Mode",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993350423869374764?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon announces Blogpost and gameplay time",
+    "mainText": "'Hytale Creative Mode blog post will be posted at 2 PM EST.\r\n\r\nIncludes raw gameplay videos!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Blogpost",
+      "Creative Mode",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993349271987610092?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: user query abt song",
+    "mainText": "'That's \"Genesis\" :)'",
+    "date": "11 25 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1993328535436464202?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: fan listening to his songs",
+    "mainText": "'Happy to have the privilege to inspire you😄\r\n'",
+    "date": "11 25 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1993327609946529972?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: sharing exact time for blogpost",
+    "mainText": "'Will try, I need to wait on blog author for one last pass\r\n'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Early Access",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993295891575517347?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: testing",
+    "mainText": "'Playing on their own worlds, not one server.\r\nWe are doing large scale server tests later this week, and some PvP!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Early Access",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993293704791310489?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hytale's QA testing yesterday",
+    "mainText": "'Over 60 people play-tested Hytale yesterday and gave us great feedback and bug reports! Things are doing well!\r\nThey are sending us a bunch of screenshots and I’ll make sure \r\n@Hytale\r\n share some of them! There are ongoing tests the whole week and we should have some hardware min spec estimate later this week.\r\n\r\nWe also did a 15 player SMP with the dev team in the morning, it was nice to see things coming together at last!\r\n\r\nLong way to go but momentum is key.\r\nToday we are posting the Creative blogpost and 2 videos, stay tuned!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Early Access",
+      "Simon Notes",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993291625800364495?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user wanting to wait a bit longer until a good version is out",
+    "mainText": "'You can choose to wait before playing! We are launch soon anyways, no more waiting!\r\n'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993286976066535509?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: waiting to add fishing until it can be better",
+    "mainText": "'I kinda want to have everything in a state of version 1 so we have a cohesive game as soon as possible and level up the experience with updates as we go. Will see.'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993264770992980366?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: fishing in Early Access",
+    "mainText": "'No, might be able to add trap fishing to compensate having none in the meantime and work on proper fishing after launch.'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993263848594293090?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Buddha, re: community welcome back messages",
     "mainText": "'Love ya too, Swurvy 😭💕\r\n'",
     "date": "11 24 2025",
@@ -12,7 +230,7 @@
       {
         "1": [
           "tweet by BuddhaCat",
-          "https://vxtwitter.com/ItsBuddhaCat/status/1993152386677014653?s=20"
+          "https://xcancel.com/ItsBuddhaCat/status/1993152386677014653?s=20"
         ]
       }
     ]
@@ -30,7 +248,7 @@
       {
         "1": [
           "tweet by BuddhaCat",
-          "https://vxtwitter.com/ItsBuddhaCat/status/1993152190224253398?s=20"
+          "https://xcancel.com/ItsBuddhaCat/status/1993152190224253398?s=20"
         ]
       }
     ]
@@ -49,7 +267,7 @@
       {
         "1": [
           "tweet by BuddhaCat",
-          "https://vxtwitter.com/ItsBuddhaCat/status/1993152047517254024?s=20"
+          "https://xcancel.com/ItsBuddhaCat/status/1993152047517254024?s=20"
         ]
       }
     ]
@@ -69,7 +287,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1993142649583550519?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1993142649583550519?s=20"
         ]
       }
     ]
@@ -88,7 +306,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1993108714623320525?s=20"
+          "https://xcancel.com/slikey_dev/status/1993108714623320525?s=20"
         ]
       }
     ]
@@ -107,7 +325,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1993108076145393794?s=20"
+          "https://xcancel.com/onpujam/status/1993108076145393794?s=20"
         ]
       }
     ]
@@ -125,7 +343,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1993104562274861205?s=20"
+          "https://xcancel.com/onpujam/status/1993104562274861205?s=20"
         ]
       }
     ]
@@ -145,7 +363,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1993103171129163835?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1993103171129163835?s=20"
         ]
       }
     ]
@@ -166,7 +384,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1993094555194073110?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1993094555194073110?s=20"
         ]
       }
     ]
@@ -187,7 +405,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1993093758888689997?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1993093758888689997?s=20"
         ]
       }
     ]

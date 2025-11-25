@@ -1,6 +1,27 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: no water physics",
+    "mainText": "'@Ktar5 told me its by design for creative tools but can add a toggle'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993454346227663377?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: water physics",
     "mainText": "'works in normal cases, will improve the system as a whole later on + IMAGE'",
     "date": "11 25 2025",

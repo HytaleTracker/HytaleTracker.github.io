@@ -1,0 +1,1382 @@
+[
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Hytale screenshot",
+    "mainText": "'Amazing screenshot @ChiLynnLynn 👀💕'",
+    "date": "11 26 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993751811866677547?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Swurvy",
+    "mainText": "'And we love and accept you, Swurvy ❤️'",
+    "date": "11 26 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993747295658278965?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Swurvy reaction to Hytale screenshot",
+    "mainText": "'How are your tweets simultaneously so wholesome yet so gross 😂😂'",
+    "date": "11 26 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993746342498455964?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: ChippyGaming happy about atmosphere in Hytale",
+    "mainText": "'Can’t wait for you to experience it!!'",
+    "date": "11 26 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993745999232479584?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares playtester screenshot of cave/crystals",
+    "mainText": "'Yesterday one of our playtesters sent us this stunning screenshot while exploring!\r\n\r\nStay tuned for more screenshots from our playtest - we've got lots to share! 👀 #Hytale'",
+    "date": "11 26 2025",
+    "tags": [
+      "Hytale",
+      "Early Access",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/1993743205641408561?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Blockbench shares tips for pre-emptively making Hytale models",
+    "mainText": "'Some tips if you want to make models for Hytale already before the tools release, to make it easier to convert later:\n\n1. Use the Generic format. Models are build from groups, cubes, and quads (flat cubes with only one side). Don't use meshes (including cuboid or plane meshes).\n2. Models face south (positive Z)\r\n3. Player and player attachment models are 64x, other models are 32x (pixels per block). It's best to leave the grid snapping and pixel density at default (16) and model at a larger scale, so that 1 pixel on the texture equals 1 unit on the model'",
+    "date": "11 26 2025",
+    "tags": [
+      "Blockbench",
+      "3rd Party",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Blockbench",
+          "https://xcancel.com/blockbench/status/1993698717350645889?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hawkon food idea video",
+    "mainText": "'make 10 min video for ideas go'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993642365442293879?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: difficulty of making food engaging",
+    "mainText": "'Yep you are right'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993637634069971318?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: potions",
+    "mainText": "'Potions can be used for insta or short duration for combat emergencies'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993637319404929120?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: cooking in Hytale",
+    "mainText": "'Right now there is not much fun about cooking in Hytale, we will explore ton of concepts in the coming months while in early access!\r\nModders will probably give us plenty of ideas!'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993636817501851727?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: food in Hytale",
+    "mainText": "'Food can be way more interesting than a simple hunger system.\r\nIn the long term we will explore mixing ingredients for food that gives unique buffs, use activity-based meals like a mining stew for faster swings, prep combat meals, feed NPC villages, get quality system tied with bonuses, or build food mastery. Extra food isn’t wasted when it fuels buffs, NPC exchange, or NPC reputation.\r\n\r\nThere are tons of ways to avoid hunger mechanics tbh, not saying no hunger ever but I would like to explore some ideas first. \r\n\r\nATM its a buff mechanic a bit like Valheim. Stam/hp max and regen buff for X time.'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993635933636235422?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Palworld ratings",
+    "mainText": "'GG!'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993629276667822553?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: pytahgoras in Hytale",
+    "mainText": "'I was curious if someone would check if my block math worked out properly\r'",
+    "date": "11 26 2025",
+    "tags": [
+      "Ktar",
+      "Gameplay",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993595029504639452?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hytale lebubu",
+    "mainText": "'I want one!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993550169212870666?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: fanart",
+    "mainText": "'😍'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993549241835569202?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: sitting in chairs",
+    "mainText": "'Added by @Minikloon few weeks ago!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993548656629498246?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Thomas",
+    "mainText": "'Aw Thomas 🤭🤭'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993543512051400757?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "D.S.N., re: bear",
+    "mainText": "'If not friend, why friend shaped?'",
+    "date": "11 25 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1993538054502449570?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Prowl potentially helping out",
+    "mainText": "'Sounds good!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993488315673461238?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: how game mechanics working along with what is given to automate tasks.",
+    "mainText": "'Not much at launch but I clearly understand exactly what you are taking about! Top priority'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993485231157133487?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: having a team for chaos, darkness, and evil",
+    "mainText": "'thats me'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993477493521891765?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: different teams",
+    "mainText": "'Right now its all over the place to fix the game 😅'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993475281797951780?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hawkon's next video",
+    "mainText": "'challenge: under 10mins next video!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993473923091251317?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: having a team for everything",
+    "mainText": "'this is the way'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993473089976533257?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: cozy features",
+    "mainText": "'In Hytale, if you're a cozy player who enjoys farming, building a cute home, caring for animals, cooking, and simply wants to escape the real world, we’ve got you covered. We’re now assembling a dedicated team focused entirely on bringing this vibe to life and creating a living world filled with warmth, charm, and good vibes. ❤️'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993472743405125859?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Zones 5 & 6",
+    "mainText": "'they might make a come back so i dont want to spoil!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "World Generation",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993470385539760587?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: source of storm leather",
+    "mainText": "'Ancient Gateway, GOOD LUCK BROTHER'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "World Generation",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993469737427460210?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hawkon VC video",
+    "mainText": "'bro that's a full movie, Ill just say: ill do voice prox chat eventually dw :P'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993469315874800064?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Z5 and Z6",
+    "mainText": "'they kinda dont exist atm, they got nuked years ago\r\nwill probably revisit them using new world gen that will be shown in a blogpost soon'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "World Generation",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993469218499792928?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Flash sharing Hawkon's Prox VX vid",
+    "mainText": "'👀'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993469003336237437?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: zone accessibility",
+    "mainText": "'All zones are accessible, but the crafting slows down / gate the player a bit to prevent players just skipping to the late zones. All zones are relevant through the whole game game, or at least thats our goal. Bench upgrades, ingredients from specific zones, etc. Players are given hints but its truly an exploration experience. \r\n\r\nThere was no gameplay, so we did our best to get the vibes from an exploration PoV'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "World Generation",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993468664792674640?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: cooking system",
+    "mainText": "'There was no cooking system really so we are making one version 1 at the moment. We will have a dedicated team for cozy lifeskills like this + farming and other lifeskills :)'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993468044195316054?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hawkon cosmetic video",
+    "mainText": "'25 mins, damn! Saved to watch later and will give my comments! It will be interesting to see the videos you will make after launch for suggestions/feedback! Will be much easier for you to get the context around how things works'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993467631681052858?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Tessa & Kyros in the game",
+    "mainText": "'nope, will make it happen'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993459264565002532?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: new world gen still have all old content",
+    "mainText": "'yeah'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993458387535999016?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: kraken",
+    "mainText": "'I def would like to see that one for a boss fight later'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993458230933241989?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: void spider",
+    "mainText": "'Void spider doesn’t exists ingame; but will consider!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993458009998258343?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Lynn walking until they find Scarak hive",
+    "mainText": "'glhf'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993457914053640250?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: water screenshot",
+    "mainText": "'Sun reflections :P'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993457764862132467?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: spawning in the world",
+    "mainText": "'Can only spawn Z1 atm, trying to balance to add more spawns in other zones but its too much work for EA to get it right \r\nMade Z3 and Z2 much more dangerous and its quite fun, downside is everyone experience Z1 first\r\n\r\nnew world gen is much better at this, info soon'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993457378231304567?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: bears",
+    "mainText": "'They used to spawn camp and 1 shot players before balance 😅'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993456472865562823?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: chunk tinting feature",
+    "mainText": "'Chunk tinting is currently done using a 2D texture, so each block column can be tinted. We currently have 32x32 resolution with RGB support but we plan to lower resolution and go for a 3D texture in the future.'",
+    "date": "11 25 2025",
+    "tags": [
+      "Slikey",
+      "Gameplay",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1993456247866376296?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: bear from timelapse",
+    "mainText": "'Don’t get too close!\r\n'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993455701193302097?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: no water physics",
+    "mainText": "'@Ktar5 told me its by design for creative tools but can add a toggle'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993454346227663377?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: water physics",
+    "mainText": "'works in normal cases, will improve the system as a whole later on + IMAGE'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993453645116195055?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: water physics",
+    "mainText": "'We actually do have some water flow, but not in this specific case. I misunderstood the question'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993452988774617389?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: cape shown in creative video",
+    "mainText": "'Its the unfinished and buggy version, artists are crying rn'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Early Access",
+      "Art",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993450426331807899?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: water not flowing",
+    "mainText": "'yeah its planned, ton to do… many years of development ahead'\n\n(NOTE FROM AMBER: Water may not flow in specific scenarios, but there is water spread ingame\n)",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993450300880138483?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: discord",
+    "mainText": "'Also 170k people on Hytale discord... Holy baguette 🙄 now, that's a party\r'",
+    "date": "11 25 2025",
+    "tags": [
+      "Thomas Frick",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/1993431362171257280?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user saying Hytale will change block game landscape massively",
+    "mainText": "'Yeah, it's because I agree with you that I never stopped believing in this project and sticked with it until today. I too think it's going to change the block game genre. Imperfect for now, but will improve greatly. ❤️'",
+    "date": "11 25 2025",
+    "tags": [
+      "Thomas Frick",
+      "Blogpost",
+      "Creative Mode",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/1993427880169324756?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: creative mode blogpost",
+    "mainText": "'Hytale was always about empowering creators. Today, maybe one of the most important blogpost we have shared, all about Creative tools and the future of it #Hytale'",
+    "date": "11 25 2025",
+    "tags": [
+      "Thomas Frick",
+      "Blogpost",
+      "Creative Mode",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/1993425455592911013?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: ZeaBot in Hytale",
+    "mainText": "'cant wait to see more stuff 👀'",
+    "date": "11 25 2025",
+    "tags": [
+      "Polina",
+      "Blogpost",
+      "Creative Mode",
+      "Feature",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://xcancel.com/LogadoPolina/status/1993411543120461982?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: ZeaBotLVL sharing they worked on the timelapse build",
+    "mainText": "'I loved working with you and the other builders. You all did absolutely fantastic Grade-A 10/10 jobs! Fire blog post.'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Blogpost",
+      "Creative Mode",
+      "Feature",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993406602196787680?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Scooter, re: blogpost",
+    "mainText": "'🔨 Here's an exciting deep dive into Hytale's Creative Mode tools and features.\r\n\r\nFrom scripted brushes to machinima tools, we're showcasing the creative possibilities that will be available in early access. We can't wait to see what you'll build.'",
+    "date": "11 25 2025",
+    "tags": [
+      "Scooter",
+      "Blogpost",
+      "Creative Mode",
+      "Feature",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Scooter",
+          "https://xcancel.com/ScotScooter/status/1993404457280008306?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: camera speed controls in Machinima mode",
+    "mainText": "'Yes!'\n\n(CONTEXT: For the machinima tool right will you be able to later on change the speed of the camera movement per key frame and in total so let say I want a shot that speed up then slows down is basically what I’m saying if that will be possible to do or add later on?)",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993400047044849988?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: hi screenshot from blog",
+    "mainText": "'Hi!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993399915717050586?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: different icons for different brushes.",
+    "mainText": "'We would like to! It is not yet 100% confirmed for release timeline. SoonTM'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993397958101156218?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Creative Mode Blogpost/Video",
+    "mainText": "'I couldn't be happier to share 25+ minutes of new Hytale footage of the features I've been working on for years. I love the creative community and can't wait to support you all every single day for years to come! <3 <3 <3'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Blogpost",
+      "Creative Mode",
+      "Feature",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993394721427972365?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale - Creative Mode Blogpost",
+    "mainText": "'In today’s blog post, Ktar shows off the creative side of Hytale! 🎨⚙️\r\nLet’s dive into Hytale’s Creative Mode and learn about tools, scripted brushes, prefab browser/editor and so much more (including a 27 min gameplay & 3 min timelapse videos)!\r\nhttps://hytale.com/news/2025/11/hytale-creative-mode\r'",
+    "date": "11 25 2025",
+    "tags": [
+      "Hytale",
+      "Blogpost",
+      "Statement",
+      "Creative Mode",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/1993394416980238809?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Discord",
+    "mainText": "'https://t.co/GGVXDxJspE'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993393243325972619?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: creative mode discord channel",
+    "mainText": "'Shoutout to the #creative-mode channel on the Hytale Discord! Share your reactions to the blog post there, I'll be there reading and responding. 5 minutes until blog post!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993393217740656819?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Hawkon saying 20 videos coming",
+    "mainText": "'I'll be watching 👀\r\n'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993385795680612358?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying Hytale is best game ever",
+    "mainText": "'will be eventually*\r\n😅'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993385677455851944?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: celebration",
+    "mainText": "'🥳🙌'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993385629267509562?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Hugo",
+    "mainText": "'👀👀👀'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993384470838493262?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: *W Ktar*",
+    "mainText": "'W Hytale'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993384237169623176?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: tools in blogpost",
+    "mainText": "'It covers *almost* every creative tool in the game right now :)\n'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Blogpost",
+      "Creative Mode",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993384175077147026?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: creative blogpost",
+    "mainText": "'Very exciting! I can't wait to showcase all the work I've done over the last years on Hytale. I hope you enjoy!\r\n'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Blogpost",
+      "Creative Mode",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993384004092150003?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: blogpost",
+    "mainText": "'T-45 minutes until blog post time!!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Gameplay",
+      "Website"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993383817567215927?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: seasonal content",
+    "mainText": "' I personally made a new crafting bench with all the seasonal content just 2 days ago!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993383069282451853?s=20"
+        ]
+      }
+    ]
+  }
+]

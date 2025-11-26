@@ -97,7 +97,7 @@ function createNewsElements(filters, minDate, maxDate){
                         summary.className = "summary";
                         logospan.appendChild(summary);
 
-                        mainText.textContent = item.mainText;
+                        mainText.innerHTML = item.mainText;
                         mainText.className = "main-text";
                         newsItem.appendChild(mainText);
 

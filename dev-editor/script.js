@@ -44,7 +44,7 @@ document.getElementById("create").addEventListener("click", () => {
     const mainPlatform = document.querySelector("input[name='main']:checked")?.value || "";
     const headline = document.getElementById("headline").value.trim();
     const summary = headline;
-    const mainText = document.getElementById("summary").value.trim();
+    const mainText = "<p class='mainTextParagraph'>" + document.getElementById("summary").value.trim().replaceAll("<p>", "</p><p class='mainTextParagraph'>") + "</p>";
     let date = document.getElementById("date").value;
     date = date.split("-")[1] + " " + date.split("-")[2] + " " + date.split("-")[0];
     if(date[0] == "0"){

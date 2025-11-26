@@ -2,7 +2,7 @@
     {
         "mainPlatform": "blog",
         "summary": "HYTALE IS SAVED!",
-        "mainText": "The Hytale Team announces Hytale is saved, 100% of the IP being purchased from Riot Games. An Early access date will be announced in the coming days, along with pricing details, and will launch only on Windows at first. The team warns players to expect bugs, rough edges, unbalanced content, and frequent updates that break things, with Early Access expected to last for a few years. Exploration Mode, Creative Mode, and Modding will be available on Early Access Day 1, with Minigames and Adventure Mode to come later. The Hytale Team announces 10-year personal funding commitment, with no investors or publishers.",
+        "mainText": "<p class='mainTextParagraph'>The Hytale Team announces Hytale is saved, 100% of the IP being purchased from Riot Games. An Early access date will be announced in the coming days, along with pricing details, and will launch only on Windows at first. The team warns players to expect bugs, rough edges, unbalanced content, and frequent updates that break things, with Early Access expected to last for a few years. Exploration Mode, Creative Mode, and Modding will be available on Early Access Day 1, with Minigames and Adventure Mode to come later. The Hytale Team announces 10-year personal funding commitment, with no investors or publishers.</p>",
         "date": "11 17 2025",
         "tags": [
             "Statement",
@@ -24,7 +24,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon discusses Hytale vs Minecraft, status of pre-launch work.",
-        "mainText": "Simon believes Hytale will take a very different path from Minecraft, and that both games can thrive together, adding that Hytale doesn't have to try to please every player and won't get stuck in design-by-committee, and that the game will avoid a Java/Bedrock Edition situation. Most notably, however, Simon reveals that the team has already worked on a game launcher, website, auth, accounts, payment system, and name reservation -- all of it being ready or 'almost' ready.",
+        "mainText": "<p class='mainTextParagraph'>Simon believes Hytale will take a very different path from Minecraft, and that both games can thrive together, adding that Hytale doesn't have to try to please every player and won't get stuck in design-by-committee, and that the game will avoid a Java/Bedrock Edition situation. Most notably, however, Simon reveals that the team has already worked on a game launcher, website, auth, accounts, payment system, and name reservation -- all of it being ready or 'almost' ready.</p>",
         "date": "11 10 2025",
         "tags": [
             "Simon",
@@ -59,7 +59,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon discusses flying mounts, horror, NPCs and more.",
-        "mainText": "When asked about flying mounts, Simon says they could work in the long-term with zone limitations, or alterverse limitations, and says methods of traveling the world need to be balanced (which isn't easy). Responding to a user requesting darker/horror-inspired areas/features, Simon says he'll make sure they exist. Long term, Simon wants proximity voice chat and NPCs that help with tasks.",
+        "mainText": "<p class='mainTextParagraph'>When asked about flying mounts, Simon says they could work in the long-term with zone limitations, or alterverse limitations, and says methods of traveling the world need to be balanced (which isn't easy). Responding to a user requesting darker/horror-inspired areas/features, Simon says he'll make sure they exist. Long term, Simon wants proximity voice chat and NPCs that help with tasks.</p>",
         "date": "11 09 2025",
         "tags": [
             "Simon",
@@ -105,7 +105,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon discusses mods with the community.",
-        "mainText": "Simon inquires what kind of mods the community wants, responding to various replies. Simon says full dimensions with custom mobs/blocks/sounds/items/interactions 'should be relatively easy,\" he'd like to add basics of industrial/Create-style mods to the base game, along with weapon customization, city-building features, and diverse food source systems. Simon is looking forward to mods that add deeper RPG mechanics, dungeons, leveling, class, and attribute systems, along with dungeon crawling servers, and believes RyanHCode could add moving block structures if he was bored enough. While encouraging players to learn Java / JSON for modding, Simon would like to add something like Doom SnapMap for visual ingame scripting to help convert players into modders.",
+        "mainText": "<p class='mainTextParagraph'>Simon inquires what kind of mods the community wants, responding to various replies. Simon says full dimensions with custom mobs/blocks/sounds/items/interactions 'should be relatively easy,\" he'd like to add basics of industrial/Create-style mods to the base game, along with weapon customization, city-building features, and diverse food source systems. Simon is looking forward to mods that add deeper RPG mechanics, dungeons, leveling, class, and attribute systems, along with dungeon crawling servers, and believes RyanHCode could add moving block structures if he was bored enough. While encouraging players to learn Java / JSON for modding, Simon would like to add something like Doom SnapMap for visual ingame scripting to help convert players into modders.</p>",
         "date": "11 09 2025",
         "tags": [
             "Simon",
@@ -180,7 +180,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon discusses goals, what is required before Early Access.",
-        "mainText": "In a lengthy tweet, Simon declares his goal is to bring the game to players and modders as soon as possible, even in a bad state, and avoid expectations growing during another delay. With that being said, there is a lot of work to be done before early access can launch - creating a launcher with a patcher, creating authentication services, account system, a website, reviving social media accounts, creating a bug reporting system with automated crash reporting, and then making a buy page, payment systems, a support page / team, writing privacy policies and Terms of Services... and *then* cleaning up the codebase/assets, and set up dev environments.",
+        "mainText": "<p class='mainTextParagraph'>In a lengthy tweet, Simon declares his goal is to bring the game to players and modders as soon as possible, even in a bad state, and avoid expectations growing during another delay. With that being said, there is a lot of work to be done before early access can launch - creating a launcher with a patcher, creating authentication services, account system, a website, reviving social media accounts, creating a bug reporting system with automated crash reporting, and then making a buy page, payment systems, a support page / team, writing privacy policies and Terms of Services... and *then* cleaning up the codebase/assets, and set up dev environments.</p>",
         "date": "10 12 2025",
         "tags": [
             "Statement",
@@ -201,7 +201,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon discusses the engine rewrites Hytale has had.",
-        "mainText": "After being questioned about Noxy alluding to releasing a Hytale trailer in '16, Simon reveals that it never happened because they decided to rewrite the game in a new engine, calling it the most important decision in Hytale history -- choosing a cross-platform language could've saved a lot of trouble, but would've required developing 'in the dark,' and would've been close to impossible and too expensive. Looking forward, Simon says a rewrite // parallel development could be wise in the future, but he'd rather focus on what exists now.",
+        "mainText": "<p class='mainTextParagraph'>After being questioned about Noxy alluding to releasing a Hytale trailer in '16, Simon reveals that it never happened because they decided to rewrite the game in a new engine, calling it the most important decision in Hytale history -- choosing a cross-platform language could've saved a lot of trouble, but would've required developing 'in the dark,' and would've been close to impossible and too expensive. Looking forward, Simon says a rewrite // parallel development could be wise in the future, but he'd rather focus on what exists now.</p>",
         "date": "08 25 2025",
         "tags": [
             "Simon",
@@ -239,7 +239,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon talks live events, 1000 player lobbies, P2P.",
-        "mainText": "Simon states that the in-game cinema tools were designed with live event party viewing in mind, and discusses potentially working on tech to enable 1000+ player lobbies in Hytale somewhere down the line. Simon also mentions that Peer-To-Peer connections should be possible, but maybe not in early access.",
+        "mainText": "<p class='mainTextParagraph'>Simon states that the in-game cinema tools were designed with live event party viewing in mind, and discusses potentially working on tech to enable 1000+ player lobbies in Hytale somewhere down the line. Simon also mentions that Peer-To-Peer connections should be possible, but maybe not in early access.</p>",
         "date": "08 24 2025",
         "tags": [
             "Simon",
@@ -272,7 +272,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon defends/explains Hytale's avatar customization.",
-        "mainText": "Simon responds to a user's criticism of avatar customization limits by saying official cosmetics would be added all the time, and would maintain the art style while allowing custom servers to use their own cosmetics. Simon points to Terraria and SDV as examples of avatar customization limits still being sufficient. With that being said, Simon says it'd be nice to have trusted artists submit directly to the team, and hold community contests to add avatar cosmetics - like Team Fortress 2.",
+        "mainText": "<p class='mainTextParagraph'>Simon responds to a user's criticism of avatar customization limits by saying official cosmetics would be added all the time, and would maintain the art style while allowing custom servers to use their own cosmetics. Simon points to Terraria and SDV as examples of avatar customization limits still being sufficient. With that being said, Simon says it'd be nice to have trusted artists submit directly to the team, and hold community contests to add avatar cosmetics - like Team Fortress 2.</p>",
         "date": "08 24 2025",
         "tags": [
             "Simon",
@@ -318,7 +318,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon discusses new content, Day One modding.",
-        "mainText": "Simon states that the new combat, mobs, etc. would stay in under his stewardship, and says the content creation tools have a low barrier to entry - meaning popular maps and mods could be made within the first week.",
+        "mainText": "<p class='mainTextParagraph'>Simon states that the new combat, mobs, etc. would stay in under his stewardship, and says the content creation tools have a low barrier to entry - meaning popular maps and mods could be made within the first week.</p>",
         "date": "08 19 2025",
         "tags": [
             "Simon",
@@ -346,7 +346,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon discusses monetization, revenue sharing.",
-        "mainText": "According to Simon, a Creator Code-like system is possible, with an option to receive revenue sharing from Hytale itself - meaning all mods could be free, but modders could still make money. A Creator Code-like system intended for mod devs would need to avoid adding complexity to accounting, and would need an automated application process. When asked about servers being Pay To Win, Simon says no official server or content would be P2W, and any P2W server wouldn't appear in the server browser. Looking to Microsoft and Roblox, Simon says Microsoft has fought to keep P2W out of Minecraft but it's a losing battle, and Roblox promotes P2W content to reap money - Hytale would only promote \"clean\" servers, potentially letting them access more things.",
+        "mainText": "<p class='mainTextParagraph'>According to Simon, a Creator Code-like system is possible, with an option to receive revenue sharing from Hytale itself - meaning all mods could be free, but modders could still make money. A Creator Code-like system intended for mod devs would need to avoid adding complexity to accounting, and would need an automated application process. When asked about servers being Pay To Win, Simon says no official server or content would be P2W, and any P2W server wouldn't appear in the server browser. Looking to Microsoft and Roblox, Simon says Microsoft has fought to keep P2W out of Minecraft but it's a losing battle, and Roblox promotes P2W content to reap money - Hytale would only promote \"clean\" servers, potentially letting them access more things.</p>",
         "date": "08 17 2025",
         "tags": [
             "Simon",
@@ -410,7 +410,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon discusses various features in Hytale.",
-        "mainText": "In a series of 11 tweets, Simon discusses various features, such as being able to transform into anything in Creative, from a potato to a kweebec or a dragon, with a whole menu controlling it in-game. When asked about survival mode transformations, Simon notes it as a feature he'd love to see eventually. While discussing the transformation menu, Simon mentions a Weather Control menu also existing. Shifting gears, Simon says the rewritten PVP and Parkour systems would be kept, and while there was a prototyped automation system, he'd consider hiring a modder who developed a sufficient automation mod. Finally, Simon confirms that trees do fall.",
+        "mainText": "<p class='mainTextParagraph'>In a series of 11 tweets, Simon discusses various features, such as being able to transform into anything in Creative, from a potato to a kweebec or a dragon, with a whole menu controlling it in-game. When asked about survival mode transformations, Simon notes it as a feature he'd love to see eventually. While discussing the transformation menu, Simon mentions a Weather Control menu also existing. Shifting gears, Simon says the rewritten PVP and Parkour systems would be kept, and while there was a prototyped automation system, he'd consider hiring a modder who developed a sufficient automation mod. Finally, Simon confirms that trees do fall.</p>",
         "date": "08 16 2025",
         "tags": [
             "Simon",
@@ -480,7 +480,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon discusses cosmetics, player skins.",
-        "mainText": "When asked about cosmetics and skins, Simon says there likely wouldn't be player-made skins to avoid nude/racist skins (no naked nazi potatoes), but free cosmetics (while basic on Day 1) would be heavily invested in to still enable creativity, with the potential for players to submit cosmetics that could then become global if approved. Mods/Private Servers would be able to add cosmetics, but wouldn't work globally. Keeping a large free catalog of cosmetics, with custom cosmetics being voted on to be added. Simon states that no player-made skins is the only compromise to have more freedom in the rest of the game, and to keep the art identity intact. User Generated Content could be handled similar to Valve's method, and the skin system would eventually have non-human features and animal hoods (instead of Furry cosmetics). When presented with Hawkon's Hytale Cosmetics video, Simon agrees with many points (given time to get there).",
+        "mainText": "<p class='mainTextParagraph'>When asked about cosmetics and skins, Simon says there likely wouldn't be player-made skins to avoid nude/racist skins (no naked nazi potatoes), but free cosmetics (while basic on Day 1) would be heavily invested in to still enable creativity, with the potential for players to submit cosmetics that could then become global if approved. Mods/Private Servers would be able to add cosmetics, but wouldn't work globally. Keeping a large free catalog of cosmetics, with custom cosmetics being voted on to be added. Simon states that no player-made skins is the only compromise to have more freedom in the rest of the game, and to keep the art identity intact. User Generated Content could be handled similar to Valve's method, and the skin system would eventually have non-human features and animal hoods (instead of Furry cosmetics). When presented with Hawkon's Hytale Cosmetics video, Simon agrees with many points (given time to get there).</p>",
         "date": "08 16 2025",
         "tags": [
             "Simon",
@@ -569,7 +569,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon discusses Scarak redesign, releasing in broken state, and community involvement.",
-        "mainText": "Simon clarifies his position on the Scarak redesign, stating he likes them but doesn't feel they fit in Zone 2. When asked if Hytale will 100% release under Simon, he makes it clear Hytale will release even if it's broken, with fixes and fun following. Getting the game out and into Early Access would allow for the development team to expand, with shared source and modding allowing modders to use the unfinished content for their mods/servers/maps -- Simon then floats the idea of modding and map making contests with unique rewards.",
+        "mainText": "<p class='mainTextParagraph'>Simon clarifies his position on the Scarak redesign, stating he likes them but doesn't feel they fit in Zone 2. When asked if Hytale will 100% release under Simon, he makes it clear Hytale will release even if it's broken, with fixes and fun following. Getting the game out and into Early Access would allow for the development team to expand, with shared source and modding allowing modders to use the unfinished content for their mods/servers/maps -- Simon then floats the idea of modding and map making contests with unique rewards.</p>",
         "date": "08 15 2025",
         "tags": [
             "Simon",
@@ -626,7 +626,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon discusses the new Kweebecs and Scaraks.",
-        "mainText": "When asked what version of Kweebecs will be in the game, Simon says he likes the new models, with the new Treesinger design being one of his favorites. When asked about the new Scaraks, he says he'd need to see them ingame and talk with the artists, but there's an option for both if they're equally polished.",
+        "mainText": "<p class='mainTextParagraph'>When asked what version of Kweebecs will be in the game, Simon says he likes the new models, with the new Treesinger design being one of his favorites. When asked about the new Scaraks, he says he'd need to see them ingame and talk with the artists, but there's an option for both if they're equally polished.</p>",
         "date": "08 14 2025",
         "tags": [
             "Simon",
@@ -664,7 +664,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon announces active discussions with Riot Games.",
-        "mainText": "Taking to Twitter, Simon announced he has entered active discussions with Riot Games about acquiring Hytale, thanking the community for believing in Hytale.",
+        "mainText": "<p class='mainTextParagraph'>Taking to Twitter, Simon announced he has entered active discussions with Riot Games about acquiring Hytale, thanking the community for believing in Hytale.</p>",
         "date": "08 13 2025",
         "tags": [
             "Statement",
@@ -685,7 +685,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon discusses Riot decision makers, Hytale's vision under Riot, etc.",
-        "mainText": "Simon states that some of Riot's decision makers aren't aware of the SaveHytale movement at all, and some people in the industry don't play games or look at their communities at all - forcing him to speak the universal language: money. Further more, Simon says the new vision for Hytale under Riot was akin to Roblox 2.0, with Fortnite-style events - and all gameplay features were 'redone' for sake of perfection as promises were added. In the end, the new vision got zero players, and Simon now believes that an indie setup is the only path for Hytale to be saved while still being *Hytale* -- and the SaveHytale movement helped him feel comfortable pursuing it.",
+        "mainText": "<p class='mainTextParagraph'>Simon states that some of Riot's decision makers aren't aware of the SaveHytale movement at all, and some people in the industry don't play games or look at their communities at all - forcing him to speak the universal language: money. Further more, Simon says the new vision for Hytale under Riot was akin to Roblox 2.0, with Fortnite-style events - and all gameplay features were 'redone' for sake of perfection as promises were added. In the end, the new vision got zero players, and Simon now believes that an indie setup is the only path for Hytale to be saved while still being *Hytale* -- and the SaveHytale movement helped him feel comfortable pursuing it.</p>",
         "date": "08 12 2025",
         "tags": [
             "Simon",
@@ -736,7 +736,7 @@
     {
         "mainPlatform": "tweet",
         "summary": "Simon announces he has submitted his final offer for Hytale.",
-        "mainText": "In an early morning tweet, Simon announces that after several weeks, he's made his FINAL offer for Hytale -- saying it's 10x what the true market value is, and saying that it's the only chance Hytale has. While he thinks his offer might be a bit too much, he's offering more money to avoid a delay that permanently vaults the game - but he's optimistic and will be relieved/excited either way. Based off his last two negotiations with Riot ('18 and '19), he expects the negotiations to last at least a couple of months. Simon says it's likely a bad financial decision on his part, but he'll only do it if he gets 100% control.",
+        "mainText": "<p class='mainTextParagraph'>In an early morning tweet, Simon announces that after several weeks, he's made his FINAL offer for Hytale -- saying it's 10x what the true market value is, and saying that it's the only chance Hytale has. While he thinks his offer might be a bit too much, he's offering more money to avoid a delay that permanently vaults the game - but he's optimistic and will be relieved/excited either way. Based off his last two negotiations with Riot ('18 and '19), he expects the negotiations to last at least a couple of months. Simon says it's likely a bad financial decision on his part, but he'll only do it if he gets 100% control.</p>",
         "date": "08 12 2025",
         "tags": [
             "Statement",

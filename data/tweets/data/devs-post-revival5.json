@@ -1,6 +1,44 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Ktar, re: Thomas",
+    "mainText": "'Aw Thomas 🤭🤭'",
+    "date": "11 25 2025",
+    "tags": [
+      "Ktar",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://vxtwitter.com/Ktar5/status/1993543512051400757?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "D.S.N., re: bear",
+    "mainText": "'If not friend, why friend shaped?'",
+    "date": "11 25 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1993538054502449570?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Prowl potentially helping out",
     "mainText": "'Sounds good!'",
     "date": "11 25 2025",

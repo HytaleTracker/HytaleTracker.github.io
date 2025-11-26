@@ -1,6 +1,142 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Prowl potentially helping out",
+    "mainText": "'Sounds good!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993488315673461238?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: how game mechanics working along with what is given to automate tasks.",
+    "mainText": "'Not much at launch but I clearly understand exactly what you are taking about! Top priority'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993485231157133487?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: having a team for chaos, darkness, and evil",
+    "mainText": "'thats me'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993477493521891765?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: different teams",
+    "mainText": "'Right now its all over the place to fix the game 😅'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993475281797951780?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hawkon's next video",
+    "mainText": "'challenge: under 10mins next video!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993473923091251317?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: having a team for everything",
+    "mainText": "'this is the way'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993473089976533257?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: cozy features",
+    "mainText": "'In Hytale, if you're a cozy player who enjoys farming, building a cute home, caring for animals, cooking, and simply wants to escape the real world, we’ve got you covered. We’re now assembling a dedicated team focused entirely on bringing this vibe to life and creating a living world filled with warmth, charm, and good vibes. ❤️'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993472743405125859?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Zones 5 & 6",
     "mainText": "'they might make a come back so i dont want to spoil!'",
     "date": "11 25 2025",
@@ -45,7 +181,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon, re: Hawkon VC video",
-    "mainText": "'bro that's a full movie, Ill just say: ill do voice prox chat eventually dw :P\r\n'",
+    "mainText": "'bro that's a full movie, Ill just say: ill do voice prox chat eventually dw :P'",
     "date": "11 25 2025",
     "tags": [
       "Simon",

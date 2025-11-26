@@ -1,6 +1,137 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: translation efforts",
+    "mainText": "'We have done a lot of the translation work to plug in crowdin and let community help us out :)'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993778185809408150?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: probability of release date being next week",
+    "mainText": "'I think it's essential to be careful here, not jump to conclusions, and not hyperfocus on dates because of the past. Yes, we are going fast, and things are happening every single day, but let's be realistic and stay calm before we lock down any release dates! A lot of it is still in the works. We've had the game on our computers for barely 10 days.\r\n\r\nTo give some context, we just received the final game files and documents yesterday, and we still need to finish the legal content for the release. You can't launch a game without a ToS/EULA and other related documents, so we are pouring hundreds of thousands of dollars into legal work to expedite this. Given that we want to let players modify our game, it requires some custom work to make sure we get it right. In parallel, we are still awaiting other legal transfers of assets, so we can't announce a release date just yet (no one's fault; it's just the nature of how these things work, and Thanksgiving means some services will be closed). \r\n\r\nI know everyone is excited, but we have to set expectations: it's a lot of work on several fronts, and the leadership team is taking no days off to make sure we don't lose any time on our side. We are on the clock to earn the players' trust and show how quickly we can turn things around. The moment we can securely announce a solid release date, we will.\r\n\r\nKeep in mind that the game has never undergone proper testing, so we are finding all sorts of crazy bugs, but none of that matters for release. We have been very clear publicly that we are shipping something unfinished and will continue to do so. With warnings on the website, in-game, and social media, we will be OK with negative criticism.\r\n\r\nOn top of the game itself, we had to build a new website backend, launcher, auth system, patching, and a lot more in the last few weeks. We've cleaned up a lot of the code and assets, merged hundreds of branches, and refactored the critical parts we wanted to get done on time. The good news is, on that front, we are feeling great about the release. It has been an incredible engineering challenge, to say the least!\r\n\r\nWe are almost home. I'll give you all a release date as soon as I can. By the end of this week, I'll make a final decision, and by Monday, we'll post the early access release date.'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Release",
+      "Simon Notes",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993774353847058591?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: ChiLynnLynn asking if she's famous now",
+    "mainText": "'Chi, you’re already super duper famous 😎'",
+    "date": "11 26 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993767430456529022?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Michaelmcchill wanting the game",
+    "mainText": "'soon, my friend 🫡❤️'",
+    "date": "11 26 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993767217264251069?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: before May 26",
+    "mainText": "'of course'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993766086719029391?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: release date",
+    "mainText": "'before gta 6'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Release",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993765277486706864?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: release date of release date",
+    "mainText": "'Still testing and working on critical issues, no ETA yet for final decision'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Release",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993764865572319619?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Buddha, re: Hytale screenshot",
     "mainText": "'Amazing screenshot @ChiLynnLynn 👀💕'",
     "date": "11 26 2025",

@@ -1,6 +1,309 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Buddha, re: Hytale screenshot",
+    "mainText": "'Amazing screenshot @ChiLynnLynn 👀💕'",
+    "date": "11 26 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993751811866677547?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Swurvy",
+    "mainText": "'And we love and accept you, Swurvy ❤️'",
+    "date": "11 26 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993747295658278965?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Swurvy reaction to Hytale screenshot",
+    "mainText": "'How are your tweets simultaneously so wholesome yet so gross 😂😂'",
+    "date": "11 26 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993746342498455964?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: ChippyGaming happy about atmosphere in Hytale",
+    "mainText": "'Can’t wait for you to experience it!!'",
+    "date": "11 26 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1993745999232479584?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares playtester screenshot of cave/crystals",
+    "mainText": "'Yesterday one of our playtesters sent us this stunning screenshot while exploring!\r\n\r\nStay tuned for more screenshots from our playtest - we've got lots to share! 👀 #Hytale'",
+    "date": "11 26 2025",
+    "tags": [
+      "Hytale",
+      "Early Access",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/1993743205641408561?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Blockbench shares tips for pre-emptively making Hytale models",
+    "mainText": "'Some tips if you want to make models for Hytale already before the tools release, to make it easier to convert later:\n\n1. Use the Generic format. Models are build from groups, cubes, and quads (flat cubes with only one side). Don't use meshes (including cuboid or plane meshes).\n2. Models face south (positive Z)\r\n3. Player and player attachment models are 64x, other models are 32x (pixels per block). It's best to leave the grid snapping and pixel density at default (16) and model at a larger scale, so that 1 pixel on the texture equals 1 unit on the model'",
+    "date": "11 26 2025",
+    "tags": [
+      "Blockbench",
+      "3rd Party",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Blockbench",
+          "https://xcancel.com/blockbench/status/1993698717350645889?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hawkon food idea video",
+    "mainText": "'make 10 min video for ideas go'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993642365442293879?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: difficulty of making food engaging",
+    "mainText": "'Yep you are right'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993637634069971318?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: potions",
+    "mainText": "'Potions can be used for insta or short duration for combat emergencies'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993637319404929120?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: cooking in Hytale",
+    "mainText": "'Right now there is not much fun about cooking in Hytale, we will explore ton of concepts in the coming months while in early access!\r\nModders will probably give us plenty of ideas!'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993636817501851727?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: food in Hytale",
+    "mainText": "'Food can be way more interesting than a simple hunger system.\r\nIn the long term we will explore mixing ingredients for food that gives unique buffs, use activity-based meals like a mining stew for faster swings, prep combat meals, feed NPC villages, get quality system tied with bonuses, or build food mastery. Extra food isn’t wasted when it fuels buffs, NPC exchange, or NPC reputation.\r\n\r\nThere are tons of ways to avoid hunger mechanics tbh, not saying no hunger ever but I would like to explore some ideas first. \r\n\r\nATM its a buff mechanic a bit like Valheim. Stam/hp max and regen buff for X time.'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993635933636235422?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Palworld ratings",
+    "mainText": "'GG!'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993629276667822553?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: pytahgoras in Hytale",
+    "mainText": "'I was curious if someone would check if my block math worked out properly\r'",
+    "date": "11 26 2025",
+    "tags": [
+      "Ktar",
+      "Gameplay",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1993595029504639452?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hytale lebubu",
+    "mainText": "'I want one!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993550169212870666?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: fanart",
+    "mainText": "'😍'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993549241835569202?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: sitting in chairs",
+    "mainText": "'Added by @Minikloon few weeks ago!'",
+    "date": "11 25 2025",
+    "tags": [
+      "Simon",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993548656629498246?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Ktar, re: Thomas",
     "mainText": "'Aw Thomas 🤭🤭'",
     "date": "11 25 2025",
@@ -13,7 +316,7 @@
       {
         "1": [
           "tweet by Ktar",
-          "https://vxtwitter.com/Ktar5/status/1993543512051400757?s=20"
+          "https://xcancel.com/Ktar5/status/1993543512051400757?s=20"
         ]
       }
     ]

@@ -209,6 +209,9 @@ body{
 .mainTextParagraph{
     text-indent: 30px;
 }
+p li{
+    margin-left: 45px;
+}
 @media (max-width: 800px), (orientation: portrait){
     /* mobile devices */
     .fullLogoAbout{

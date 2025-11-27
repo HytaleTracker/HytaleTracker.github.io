@@ -208,6 +208,8 @@ body{
 }
 .mainTextParagraph{
     text-indent: 30px;
+    margin-top: 0px;
+    margin-bottom: 10px;
 }
 p li{
     margin-left: 45px;

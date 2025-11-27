@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const image = document.getElementById("Image").value.trim();
         const summary = document.getElementById("summary").value.trim();
-        const mainText = document.getElementById("mainText").value.trim();
+        const mainText = "<p class='mainTextParagraph'>" + document.getElementById("mainText").value.trim().replaceAll("<p>", "</p><p class='mainTextParagraph'>") + "</p>";
         const link = document.getElementById("link").value.trim();
         let date = document.querySelector("input[type='date']").value;
         date = date.split("-")[1] + " " + date.split("-")[2] + " " + date.split("-")[0];

@@ -84,7 +84,7 @@ function createCommunityElements(filters, minDate, maxDate){
                         summary.className = "summary";
                         communityItem.appendChild(summary);
 
-                        mainText.textContent = item.mainText;
+                        mainText.innerHTML = item.mainText;
                         mainText.className = "main-text";
                         communityItem.appendChild(mainText);
 

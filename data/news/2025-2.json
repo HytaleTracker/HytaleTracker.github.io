@@ -1,6 +1,106 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talk gameplay video, VFX video, etc.",
+        "mainText": "<p class='mainTextParagraph'>Starting the day off strong, Simon revealed that hardware testing would begin soon, which would allow system requirements to be determined. Discussing the gameplay video, Simon revealed that the video was already outdated when it was published, and that the in-game map that was shown is brand new! Discussing tools, Simon confirmed there are lots of tiers, though they only different in durability and speed at the moment - though signature abilities are a long-term goal. Additionally, Simon revealed there isn't a <u>campaign</u> at the moment, only four zones are in the game, oceans exist but are currently lackluster, and that the bosses that are currently in-game are broken.</p><p class='mainTextParagraph'>\n\nSimon also revealed that social features will come after launch, and that the team is exploring characters being transferrable between worlds.</p><p class='mainTextParagraph'>\n\nHytale also shared a timelapse video showcasing the <b>Hytale Asset Editor</b>, and <u>Polina</u> revealed that VFX can be attached to entities.</p><p class='mainTextParagraph'>\n\nSimon later revealed that worlds are infinite, though it is currently disabled, that the tech systems can support living world systems as long as its configured, <i>and</i> that Cursebreaker Edition of Hytale will come with at least one cape.</p><p class='mainTextParagraph'>\n\nFinally, Simon announced a <b>Modding Strategy and Status</b> blogpost would be shared the next day.</p>",
+        "date": "11 19 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Features",
+            "Slikey",
+            "Polina",
+            "Hytale"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Hardware Testing",
+                    "https://xcancel.com/Simon_Hypixel/status/1991096647150182819?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Outdated Gameplay",
+                    "https://xcancel.com/Simon_Hypixel/status/1991102693243486232?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - In-Game Map",
+                    "https://xcancel.com/Simon_Hypixel/status/1991097015238090794?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Tool Tiers",
+                    "https://xcancel.com/Simon_Hypixel/status/1991103201882587524?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - Tool Differentiation",
+                    "https://xcancel.com/Simon_Hypixel/status/1991180400916418898?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Simon - Various questions",
+                    "https://xcancel.com/Simon_Hypixel/status/1991183978934510040?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Simon - Social Features",
+                    "https://xcancel.com/Simon_Hypixel/status/1991190349172097065?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Simon - Transferrable Characters",
+                    "https://xcancel.com/Simon_Hypixel/status/1991189006818615711?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Hytale - YT - VFX Editor Timelapse",
+                    "https://www.youtube.com/watch?v=6jx_dEtMBtY&t=3s"
+                ]
+            },
+            {
+                "10": [
+                    "Polina - Attach VFX",
+                    "https://xcancel.com/LogadoPolina/status/1991258441407414582?s=20"
+                ]
+            },
+            {
+                "11": [
+                    "Simon - Infinite Worldgen",
+                    "https://xcancel.com/Simon_Hypixel/status/1991286376046674247?s=20"
+                ]
+            },
+            {
+                "12": [
+                    "Simon - Living World System",
+                    "https://xcancel.com/Simon_Hypixel/status/1991340805588676868?s=20"
+                ]
+            },
+            {
+                "13": [
+                    "Simon - Cursebreakers get cape",
+                    "https://xcancel.com/Simon_Hypixel/status/1991259531272163745?s=20"
+                ]
+            },
+            {
+                "14": [
+                    "Simon - Modding Strategy & Status Blogpost tomorrow",
+                    "https://xcancel.com/Simon_Hypixel/status/1991357357000126666?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team shares new screenshots, information about Hytale.",
         "mainText": "<p class='mainTextParagraph'>To begin the day, <u>Simon</u> shared a poll on Twitter asking fans what weapons they wanted to see in action first. He also shared that the status of the magic combat in Hytale was a bit 'boring,' adding that the team was importing interesting things from a branch of the game's code - including totems! When asked about bosses, Simon said that there weren't any he was happy with - 'some are interesting, but got broken over the years.' Simon also mentioned having plans for a living world, and shared a picture of a Zone 3 enemy (temporarily) named the <u>Shadow Knight.</u> </p><p class='mainTextParagraph'> \n\nAnswering numerous questions, Hytale's Tech Lead - <u>Slikey</u> - confirmed that Hytale's height limit currently is at 320 blocks, a decision made in 2016, and says the issue will eventually get revisited later. Slikey later confirmed a World Generation blogpost is planned, and will contain details about both world generation versions (which will both be released).</p><p class='mainTextParagraph'>\n\nHytale's YouTube channel also officially shared sixteen minutes of gameplay in a video entitled <b>Breaking the Curse.</b></p>",
         "date": "11 18 2025",

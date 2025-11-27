@@ -1,61 +1,68 @@
 [
     {
         "mainPlatform": "tweet",
-        "summary": "Simon teases gameplay, provides additional details.",
-        "mainText": "<p class='mainTextParagraph'>Simon's first tweet of the day announces that he'll be sharing gameplayand asking what weapons players want to see first. Discussing the magic system, Simon says the books/staves in-game are currently boring like in the old clips, but the team has found interesting stuff that he'll share soon. On Bosses, Simon says there aren't any that he's happy with at the moment, though some are broken yet interesting. Simon confirms the plan is to have a living world, with predators chasing prey and more. Simon then shares the first screenshot from Hytale's Legacy Engine - a Zone 3 Shadow Knight - saying the mob doesn't yet spawn or have a purpose, but is available to be used by modders. Simon later shares the first look at Creation Tools in Hytale, teases the redesigned Kweebecs being in the game, yet separate from legacy Kweebecs. Finally, Simon confirmed everything is editable while the game/server is running.</p>",
+        "summary": "The Hytale Team shares new screenshots, information about Hytale.",
+        "mainText": "<p class='mainTextParagraph'>To begin the day, <u>Simon</u> shared a poll on Twitter asking fans what weapons they wanted to see in action first. He also shared that the status of the magic combat in Hytale was a bit 'boring,' adding that the team was importing interesting things from a branch of the game's code - including totems! When asked about bosses, Simon said that there weren't any he was happy with - 'some are interesting, but got broken over the years.' Simon also mentioned having plans for a living world, and shared a picture of a Zone 3 enemy (temporarily) named the <u>Shadow Knight.</u> </p><p class='mainTextParagraph'> \n\nAnswering numerous questions, Hytale's Tech Lead - <u>Slikey</u> - confirmed that Hytale's height limit currently is at 320 blocks, a decision made in 2016, and says the issue will eventually get revisited later. Slikey later confirmed a World Generation blogpost is planned, and will contain details about both world generation versions (which will both be released).</p><p class='mainTextParagraph'>\n\nHytale's YouTube channel also officially shared sixteen minutes of gameplay in a video entitled <b>Breaking the Curse.</b></p>",
         "date": "11 18 2025",
         "tags": [
             "Simon",
             "Tweet",
-            "Early Access"
+            "Slikey",
+            "Hytale"
         ],
         "sources": [
             {
                 "1": [
-                    "Gameplay teased.",
+                    "Simon - Weapon Poll",
                     "https://xcancel.com/Simon_Hypixel/status/1990724608207544793?s=20"
                 ]
             },
             {
                 "2": [
-                    "Status of magic.",
+                    "Simon - Status of Magic",
                     "https://xcancel.com/Simon_Hypixel/status/1990728397434085732?s=20"
                 ]
             },
             {
                 "3": [
-                    "Status of bosses.",
+                    "Simon - Status of Bosses",
                     "https://xcancel.com/Simon_Hypixel/status/1990730200233943169?s=20"
                 ]
             },
             {
                 "4": [
-                    "Living world.",
+                    "Simon - Living World planned",
                     "https://xcancel.com/Simon_Hypixel/status/1990731918107623608?s=20"
                 ]
             },
             {
                 "5": [
-                    "Shadow Knight Screenshot.",
+                    "Simon - Shadow Knight",
                     "https://xcancel.com/Simon_Hypixel/status/1990801397995180156?s=20"
                 ]
             },
             {
                 "6": [
-                    "Creation Tools Screenshots.",
-                    "https://xcancel.com/Simon_Hypixel/status/1990853620770750697?s=20"
+                    "Slikey - Height Limit",
+                    "https://xcancel.com/slikey_dev/status/1990851138216997131?s=20"
                 ]
             },
             {
                 "7": [
-                    "Redesigned Kweebecs.",
-                    "https://xcancel.com/Simon_Hypixel/status/1990856602346274872?s=20"
+                    "Slikey - World Gen Blogpost",
+                    "https://xcancel.com/slikey_dev/status/1990909816408089030?s=20"
                 ]
             },
             {
                 "8": [
-                    "Everything editable while the game is running.",
-                    "https://xcancel.com/Simon_Hypixel/status/1990860346911752665?s=20"
+                    "Slikey - Both Gens to be released",
+                    "https://xcancel.com/slikey_dev/status/1990913224028364909?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Hytale - YT - Breaking the Curse gameplay video",
+                    "https://www.youtube.com/watch?v=rhaqjb_S2X8&t=558s"
                 ]
             }
         ]

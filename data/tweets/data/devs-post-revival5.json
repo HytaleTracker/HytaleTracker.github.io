@@ -1,6 +1,190 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: texturing, Blockbench",
+    "mainText": "'We don't have a stitched texture atlas right now, so yes, texture size should be a consideration. \r\nBlockBench plugin is receiving additional work but may release ahead of the game launch.'",
+    "date": "11 26 2025",
+    "tags": [
+      "Slikey",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1993842077306962405?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying Hytale won't have a Hyrobrine",
+    "mainText": "'you sure about that?'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993841323712094378?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: pre-orders",
+    "mainText": "'I’ll have pre-order before xmas going, not sure if I can get gifting working in time. Will do my best to see what’s possible.'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993837311021215778?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: seasons, realistic temperature physics",
+    "mainText": "'Warmer south, colder north on the starting continent.\r\n\r\nDoesn’t affect farming, at least for now.'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993836460559016227?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: October 2027 guess",
+    "mainText": "'Meme Image: Bleary cat close to camera'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993835871510929677?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Nerwi_ having just uploaded video saying Monday",
+    "mainText": "'HAHA'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993831950734508147?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: earlier statement saying Monday for announcement",
+    "mainText": "'I saw a reddit post saying I broke my promise of end of week, so I made some calls brother'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993831875740357057?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user pointing out what Simon said to another user",
+    "mainText": "'😂'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993831382746104217?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: release date announcement",
+    "mainText": "'Friday 10AM EST on @Hytale for official reveal of the early access release date.\n\nLet me break it to you and reset expectations, the acquisition took just long enough to prevent us from doing a release before Holidays. That’s why it took us so long to announce the date, we tried to push as hard as we could but legally there is just too much to do and we would be cutting too close to Christmas.\n\nGo make your predictions. See you Friday for reveal!'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Early Access",
+      "Release",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993830322006302889?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: crafting, chests",
+    "mainText": "'It's already all implemented, yes. We even actually added the proximity chest to the station feature a few weeks ago.'",
+    "date": "11 26 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1993816018528162198?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: translation efforts",
     "mainText": "'We have done a lot of the translation work to plug in crowdin and let community help us out :)'",
     "date": "11 26 2025",

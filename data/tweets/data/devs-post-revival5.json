@@ -1,6 +1,26 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: Mac/Linux support",
+    "mainText": "'The state of the game did not have Mac (x64 / arm64) support and neither did it support Linux. We are working on supporting those platforms as early as possible but we can't guarantee that it will be in time for release. It may be possible but maybe it is shortly after launch.'",
+    "date": "11 26 2025",
+    "tags": [
+      "Slikey",
+      "General",
+      "Tech",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1993864095351885836?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: texturing, Blockbench",
     "mainText": "'We don't have a stitched texture atlas right now, so yes, texture size should be a consideration. \r\nBlockBench plugin is receiving additional work but may release ahead of the game launch.'",
     "date": "11 26 2025",

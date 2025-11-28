@@ -840,7 +840,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon gives details on current steps to release.",
-    "mainText": "'Working on locking down the release date ASAP. We currently need to run hardware tests, wrap up legal docs, stabilize the game and fix a few security issues.\r\n\r\nI’ll have a precise answer by the end of next week. Pre-orders, name reservation and account creation will begin as well. All pricing will be announced, FYI base edition under $30 USD.\r\n\r\nWe are almost home.'",
+    "mainText": "'Working on locking down the release date ASAP. We currently need to run hardware tests, wrap up legal docs, stabilize the game and fix a few security issues.\n\nI’ll have a precise answer by the end of next week. Pre-orders, name reservation and account creation will begin as well. All pricing will be announced, FYI base edition under $30 USD.\n\nWe are almost home.'",
     "date": "11 20 2025",
     "tags": [
       "Simon",

@@ -1,6 +1,26 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: underground in Hytale",
+    "mainText": "'Some crypts, abandoned mines, natural caves and others leads down. You don’t need to “dig straight down” you just walk around and find an interesting place to start your journey down. \nWith the future of world gen this gets much better. Will show some examples in the next couple days!'",
+    "date": "11 27 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/simon_hypixel/status/1994245509838410128?s=61"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Zoro in the screenshot",
     "mainText": "'I think he’s lost'",
     "date": "11 27 2025",

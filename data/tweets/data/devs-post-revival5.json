@@ -1,6 +1,179 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: underground in Hytale",
+    "mainText": "'Some crypts, abandoned mines, natural caves and others leads down. You don’t need to “dig straight down” you just walk around and find an interesting place to start your journey down. \nWith the future of world gen this gets much better. Will show some examples in the next couple days!'",
+    "date": "11 27 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/simon_hypixel/status/1994245509838410128?s=61"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Zoro in the screenshot",
+    "mainText": "'I think he’s lost'",
+    "date": "11 27 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1994214078357577729?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: screenshot",
+    "mainText": "'Don’t you see the reference of this sentence and the screenshot? 👀'",
+    "date": "11 27 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1994210205362520150?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: posting on Hytale account",
+    "mainText": "'Posting on my personal account because BuddhaCat, who takes care of @Hytale, is with family and friends!\nI'll get proper access to the account next week so I can post more on there. Cheers!'",
+    "date": "11 27 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1994209492657988011?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares screenshot for US Thanksgiving",
+    "mainText": "'Happy Thanksgiving to my American friends!\r\n\r\nIn order not to break our daily streak of new content, here is a turkey. I hope you enjoy this one piece of content for today!'",
+    "date": "11 27 2025",
+    "tags": [
+      "Simon",
+      "Screenshot",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1994208893489061918?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Tourne_Vis Hytale Abyss Crawler model",
+    "mainText": "'Can’t wait to see what you do with the game! Incredible work!'",
+    "date": "11 27 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1994197224658555085?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hytale account not tweeting for 24hrs",
+    "mainText": "'he at thanksgiving stuff, let me replace him'",
+    "date": "11 27 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1994116280430022946?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: PixWasHere_ Hytale Model Practice",
+    "mainText": "'damn, that's great! gg'",
+    "date": "11 27 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1994054140868153456?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Mac/Linux support",
+    "mainText": "'The state of the game did not have Mac (x64 / arm64) support and neither did it support Linux. We are working on supporting those platforms as early as possible but we can't guarantee that it will be in time for release. It may be possible but maybe it is shortly after launch.'",
+    "date": "11 26 2025",
+    "tags": [
+      "Slikey",
+      "General",
+      "Tech",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1993864095351885836?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: texturing, Blockbench",
     "mainText": "'We don't have a stitched texture atlas right now, so yes, texture size should be a consideration. \r\nBlockBench plugin is receiving additional work but may release ahead of the game launch.'",
     "date": "11 26 2025",

@@ -23,6 +23,7 @@
             }
             h1{
                 transition: all 0.5s;
+                cursor: pointer;
             }
             h1:hover{
                 font-size: 35px;
@@ -30,52 +31,119 @@
             }
             h2{
                 transition: all 0.5s;
+                cursor: pointer;
             }
             h2:hover{
                 font-size: 25px;
                 margin-bottom: 0;
+            }
+            #copyAlert{
+                position: absolute;
+                bottom: 0;
+                right: 0;
+                margin: 10px;
+                opacity: 0%;
+                animation: 2s forwards;
+                background-color: #0f172b;
+                border: 5px solid #1d293d;
+                padding: 10px;
+                height: 50px;
+            }
+            @keyframes fadeIn{
+                0%{
+                    opacity: 0%;
+                }
+                50%{
+                    opacity: 100%;
+                }
+                100%{
+                    opacity: 0%;
+                }
             }
         </style>
     </head>
 
     <body>
         <main>
-            <h1>Hytale release in</h1>
+            <h1 id="HytaleRelease">Hytale release in</h1>
             <h2 id="releaseCountdown"></h2>
             <br>
-            <h1>Hytale pre-orders in</h1>
+            <h1 id="HytalePreOrders">Hytale pre-orders in</h1>
             <h2 id="preOrderCountdown"></h2>
+            <div id="copyAlert">
+            </div>
         </main>
         <script>
             const releaseCountdown = document.getElementById("releaseCountdown");
             const preOrderCountdown = document.getElementById("preOrderCountdown");
+            const copyAlert = document.getElementById("copyAlert");
 
             const releaseDate = new Date(2026, 0, 13);
             const preOrderDate = new Date(2025, 11, 13);
+
+            let daysRelease;
+            let daysPreOrder;
+            let hoursRelease;
+            let hoursPreOrder;
+            let minutesRelease;
+            let minutesPreOrder;
+            let secondsRelease;
+            let secondsPreOrder;
 
             setInterval(() => {
                 const time = new Date();
                 const diffRelease = releaseDate - time;
 
-                const daysRelease = Math.floor(diffRelease / 86400000);
-                const hoursRelease = Math.floor((diffRelease % 86400000) / 3600000);
-                const minutesRelease = Math.floor((diffRelease % 3600000) / 60000);
-                const secondsRelease = Math.floor((diffRelease % 60000) / 1000);
+                daysRelease = Math.floor(diffRelease / 86400000);
+                hoursRelease = Math.floor((diffRelease % 86400000) / 3600000);
+                minutesRelease = Math.floor((diffRelease % 3600000) / 60000);
+                secondsRelease = Math.floor((diffRelease % 60000) / 1000);
 
                 releaseCountdown.textContent = `${daysRelease} days, ${hoursRelease} hours, ${minutesRelease} minutes, ${secondsRelease} seconds`;
 
                 const diffPreOrder = preOrderDate - time;
 
-                const daysPreOrder = Math.floor(diffPreOrder / 86400000);
-                const hoursPreOrder = Math.floor((diffPreOrder % 86400000) / 3600000);
-                const minutesPreOrder = Math.floor((diffPreOrder % 3600000) / 60000);
-                const secondsPreOrder = Math.floor((diffPreOrder % 60000) / 1000);
+                daysPreOrder = Math.floor(diffPreOrder / 86400000);
+                hoursPreOrder = Math.floor((diffPreOrder % 86400000) / 3600000);
+                minutesPreOrder = Math.floor((diffPreOrder % 3600000) / 60000);
+                secondsPreOrder = Math.floor((diffPreOrder % 60000) / 1000);
 
                 preOrderCountdown.textContent = `${daysPreOrder} days, ${hoursPreOrder} hours, ${minutesPreOrder} minutes, ${secondsPreOrder} seconds`;
 
             }, 100)
 
-            
+            releaseCountdown.addEventListener("click", () => {
+                navigator.clipboard.writeText(`${daysRelease} days, ${hoursRelease} hours, ${minutesRelease} minutes, ${secondsRelease} seconds`);
+                copyAlert.textContent = `Copied to clipboard: ${daysRelease} days, ${hoursRelease} hours, ${minutesRelease} minutes, ${secondsRelease} seconds`;
+                copyAlert.style.animationName = "none";
+                void copyAlert.offsetWidth;
+                copyAlert.style.animationName = "fadeIn";
+            })
+            preOrderCountdown.addEventListener("click", () => {
+                navigator.clipboard.writeText(`${daysPreOrder} days, ${hoursPreOrder} hours, ${minutesPreOrder} minutes, ${secondsPreOrder} seconds`);
+                copyAlert.textContent = `Copied to clipboard: ${daysPreOrder} days, ${hoursPreOrder} hours, ${minutesPreOrder} minutes, ${secondsPreOrder} seconds`;
+                copyAlert.style.animationName = "none";
+                void copyAlert.offsetWidth;
+                copyAlert.style.animationName = "fadeIn";
+            })
+            document.getElementById("HytaleRelease").addEventListener("click", () => {
+                navigator.clipboard.writeText("<t:1768280400:R>");
+                copyAlert.textContent = `Copied hammertime to clipboard: <t:1768280400:R>`;
+                copyAlert.style.animationName = "none";
+                void copyAlert.offsetWidth;
+                copyAlert.style.animationName = "fadeIn";
+            })
+            document.getElementById("HytalePreOrders").addEventListener("click", () => {
+                navigator.clipboard.writeText("<t:1765602000:R>");
+                copyAlert.textContent = `Copied hammertime to clipboard: <t:1765602000:R>`;
+                copyAlert.style.animationName = "none";
+                void copyAlert.offsetWidth;
+                copyAlert.style.animationName = "fadeIn";
+            })
+            copyAlert.addEventListener("animationend", () => {
+                copyAlert.style.animationName = "";
+                copyAlert.style.opacity = "0%";
+            })
         </script>
     </body>
 </html>

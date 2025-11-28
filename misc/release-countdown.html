@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Tweets | Hytale Tracker</title>
+        <link rel="stylesheet" type="text/css" href="../style.css">
+        <link rel="icon" type="image/png" href="favicon.ico">
+        <meta content="Hytale Release Countdown | Hytale Tracker" property="og:title" />
+        <meta content="Watch the time pass untill Hytale releases" property="og:description" />
+        <meta content="https://hytracker.net/misc/release-countdown" property="og:url" />
+        <meta content="https://hytracker.net/assets/DarkBorder.png" property="og:image" />
+        <meta content="#57263A" data-react-helmet="true" name="theme-color" />
+        <meta http-equiv="Cache-Control" content="no-cache">
+        <style>
+            @font-face {
+                font-family: "Hytale-font";
+                src: url(../assets/Penumbra\ Serif\ Std\ Regular.otf);
+            }
+            main{
+                text-align: center;
+                font-family: "Hytale-font";
+            }
+            h1{
+                transition: all 0.5s;
+            }
+            h1:hover{
+                font-size: 35px;
+                margin-bottom: 0px;
+            }
+            h2{
+                transition: all 0.5s;
+            }
+            h2:hover{
+                font-size: 25px;
+                margin-bottom: 0;
+            }
+        </style>
+    </head>
+
+    <body>
+        <main>
+            <h1>Hytale release in</h1>
+            <h2 id="releaseCountdown"></h2>
+            <br>
+            <h1>Hytale pre-orders in</h1>
+            <h2 id="preOrderCountdown"></h2>
+        </main>
+        <script>
+            const releaseCountdown = document.getElementById("releaseCountdown");
+            const preOrderCountdown = document.getElementById("preOrderCountdown");
+
+            const releaseDate = new Date(2026, 0, 13);
+            const preOrderDate = new Date(2025, 11, 13);
+
+            setInterval(() => {
+                const time = new Date();
+                const diffRelease = releaseDate - time;
+
+                const daysRelease = Math.floor(diffRelease / 86400000);
+                const hoursRelease = Math.floor((diffRelease % 86400000) / 3600000);
+                const minutesRelease = Math.floor((diffRelease % 3600000) / 60000);
+                const secondsRelease = Math.floor((diffRelease % 60000) / 1000);
+
+                releaseCountdown.textContent = `${daysRelease} days, ${hoursRelease} hours, ${minutesRelease} minutes, ${secondsRelease} seconds`;
+
+                const diffPreOrder = preOrderDate - time;
+
+                const daysPreOrder = Math.floor(diffPreOrder / 86400000);
+                const hoursPreOrder = Math.floor((diffPreOrder % 86400000) / 3600000);
+                const minutesPreOrder = Math.floor((diffPreOrder % 3600000) / 60000);
+                const secondsPreOrder = Math.floor((diffPreOrder % 60000) / 1000);
+
+                preOrderCountdown.textContent = `${daysPreOrder} days, ${hoursPreOrder} hours, ${minutesPreOrder} minutes, ${secondsPreOrder} seconds`;
+
+            }, 100)
+
+            
+        </script>
+    </body>
+</html>

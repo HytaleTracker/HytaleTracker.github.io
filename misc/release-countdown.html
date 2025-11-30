@@ -18,6 +18,13 @@
                 background-size: 100%;
                 background-repeat: no-repeat;
             }
+            @media (max-width: 1554px){
+                body{
+                    background-image: url("https://hytale.com/static/countdown/bg.jpg");
+                    background-size: 200%;
+                    background-repeat: no-repeat;
+                }
+            }
             @font-face {
                 font-family: "Hytale-font";
                 src: url(../assets/Penumbra\ Serif\ Std\ Regular.otf);
@@ -331,10 +338,18 @@
                 if(document.getElementById("extras").style.display == "none"){
                     document.getElementById("extras").style.display = "inherit";
                     document.getElementById("extras").scrollIntoView(true);
-                    document.body.style.backgroundSize = "200%";
+                    if(window.innerWidth < 1554){
+                        document.body.style.backgroundSize = "500%";
+                    }else{
+                        document.body.style.backgroundSize = "200%";
+                    }
                 }else{
                     document.getElementById("extras").style.display = "none";
-                    document.body.style.backgroundSize = "100%";
+                    if(window.innerWidth < 1554){
+                        document.body.style.backgroundSize = "200%";
+                    }else{
+                        document.body.style.backgroundSize = "100%";
+                    }
                 }
             })
             document.getElementById("toggleExtras").click();

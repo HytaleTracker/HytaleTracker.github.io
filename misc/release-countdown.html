@@ -336,11 +336,13 @@
 
             }, 100)
 
+            const PLANCK_TIME_MILLIS = 5.391e-44 * 1000;
+
             setInterval(() => {
                 const time = new Date();
                 const diffRelease = releaseDate - time;
                 extrasReleaseMilliseconds.textContent = `${diffRelease}`;
-                extrasReleasePlankSeconds.textContent = diffRelease * 539100000000000000000000000000000000000000;
+                extrasReleasePlankSeconds.textContent = diffRelease / PLANCK_TIME_MILLIS;
             }, 1);
 
             releaseCountdown.addEventListener("click", () => {

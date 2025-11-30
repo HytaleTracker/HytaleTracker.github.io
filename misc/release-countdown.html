@@ -254,6 +254,11 @@
                             <div id="extrasReleasePlankSeconds" class="flexExtrasNumber"></div>
                             <div class="flexExtrasLabel">Planck Seconds</div>
                         </div>
+                        <h1>Bounce Hy Score</h1>
+                        <div class="flexExtras" style="border: 2px solid #60512B; width: fit-content; margin-right: auto; margin-left: auto; padding: 5px; border-radius: 5px;">
+                            <div id="extrasBounces" class="flexExtrasNumber"></div>
+                            <div class="flexExtrasLabel">Bounces</div>
+                        </div>
                         
                     </div>
                     <button id="toggleExtras">Toggle Extras</button>
@@ -267,6 +272,27 @@
             const releaseCountdown = document.getElementById("releaseCountdown");
             const preOrderCountdown = document.getElementById("preOrderCountdown");
             const copyAlert = document.getElementById("copyAlert");
+
+            const bouncesNumber = document.getElementById("extrasBounces");
+            let bouncesHyScore;
+            bouncesHyScore = getCookie("HyScore");
+
+            function getCookie(cname) {
+                let name = cname + "=";
+                let decodedCookie = decodeURIComponent(document.cookie);
+                let ca = decodedCookie.split(';');
+                for(let i = 0; i <ca.length; i++) {
+                    let c = ca[i];
+                    while (c.charAt(0) == ' ') {
+                    c = c.substring(1);
+                    }
+                    if (c.indexOf(name) == 0) {
+                    return c.substring(name.length, c.length);
+                    }
+                }
+                return "";
+                }
+            bouncesNumber.textContent = bouncesHyScore;
 
             const releaseDate = new Date(Date.UTC(2026, 0, 13, 15));
             const preOrderDate = new Date(Date.UTC(2025, 11, 13, 15));
@@ -603,8 +629,8 @@
                                                 angle: 45,
                                                 count: 250,
                                                 position: {
-                                                    x: 0,
-                                                    y: 100,
+                                                    x: (x / (window.innerWidth - image.width)) * 100,
+                                                    y: (y / (window.innerHeight - image.height)) * 100,
                                                 },
                                                 spread: 75,
                                                 startVelocity: 100,
@@ -625,6 +651,14 @@
                                                 zIndex: 100,
                                                 disableForReducedMotion: true,
                                             });
+                                        }
+                                        if(bounces > bouncesHyScore){
+                                            bouncesHyScore = bounces;
+                                            const d = new Date();
+                                            d.setTime(d.getTime() + (30*24*60*60*1000));
+                                            let expires = "expires="+ d.toUTCString();
+                                            document.cookie = "HyScore" + "=" + bouncesHyScore + ";" + expires + ";path=/";
+                                            bouncesNumber.textContent = bouncesHyScore;
                                         }
                                     }
                                 }

@@ -245,6 +245,11 @@
                             <div id="extrasReleaseMilliseconds" class="flexExtrasNumber"></div>
                             <div class="flexExtrasLabel">Milliseconds</div>
                         </div>
+                        <h1>Or</h1>
+                        <div class="flexExtras" style="border: 2px solid #60512B; width: fit-content; margin-right: auto; margin-left: auto; padding: 5px; border-radius: 5px;">
+                            <div id="extrasReleasePlankSeconds" class="flexExtrasNumber"></div>
+                            <div class="flexExtrasLabel">Plank Seconds</div>
+                        </div>
                         
                     </div>
                     <button id="toggleExtras">Toggle Extras</button>
@@ -285,6 +290,7 @@
             const extrasReleaseMinutes = document.getElementById("extrasReleaseMinutes");
             const extrasReleaseSeconds = document.getElementById("extrasReleaseSeconds");
             const extrasReleaseMilliseconds = document.getElementById("extrasReleaseMilliseconds");
+            const extrasReleasePlankSeconds = document.getElementById("extrasReleasePlankSeconds");
 
             setInterval(() => {
                 const time = new Date();
@@ -316,7 +322,7 @@
                 extrasReleaseHour.textContent = `${daysRelease * 24 + hoursRelease}`;
                 extrasReleaseMinutes.textContent = `${daysRelease * 24 * 60 + hoursRelease * 60 + minutesRelease}`;
                 extrasReleaseSeconds.textContent = `${daysRelease * 24 * 60 * 60 + hoursRelease * 60 * 60 + minutesRelease * 60 + secondsRelease}`;
-                extrasReleaseMilliseconds.textContent = `${diffRelease}`;
+                
 
                 if(daysRelease == 0 && hoursRelease == 0 && minutesRelease == 0 && secondsRelease == 0){
                     celebrate(true);
@@ -326,6 +332,13 @@
                 }
 
             }, 100)
+
+            setInterval(() => {
+                const time = new Date();
+                const diffRelease = releaseDate - time;
+                extrasReleaseMilliseconds.textContent = `${diffRelease}`;
+                extrasReleasePlankSeconds.textContent = diffRelease * 539100000000000000000000000000000000000000;
+            }, 1);
 
             releaseCountdown.addEventListener("click", () => {
                 navigator.clipboard.writeText(`${daysRelease} days, ${hoursRelease} hours, ${minutesRelease} minutes, ${secondsRelease} seconds`);

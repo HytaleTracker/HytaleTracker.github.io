@@ -19,7 +19,7 @@
                 background-size: 100%;
                 background-repeat: no-repeat;
             }
-            @media (max-width: 1554px){
+            @media (max-width: 1700px){
                 body{
                     background-image: url("https://hytale.com/static/countdown/bg.jpg");
                     background-size: 200%;
@@ -374,14 +374,14 @@
                 if(document.getElementById("extras").style.display == "none"){
                     document.getElementById("extras").style.display = "inherit";
                     document.getElementById("extras").scrollIntoView(true);
-                    if(window.innerWidth < 1554){
+                    if(window.innerWidth < 1700){
                         document.body.style.backgroundSize = "500%";
                     }else{
                         document.body.style.backgroundSize = "200%";
                     }
                 }else{
                     document.getElementById("extras").style.display = "none";
-                    if(window.innerWidth < 1554){
+                    if(window.innerWidth < 1700){
                         document.body.style.backgroundSize = "200%";
                     }else{
                         document.body.style.backgroundSize = "100%";

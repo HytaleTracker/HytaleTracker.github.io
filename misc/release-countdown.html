@@ -33,7 +33,7 @@
                 cursor: pointer;
             }
             #copyAlert{
-                position: absolute;
+                position: fixed;
                 bottom: 0;
                 right: 0;
                 margin: 10px;
@@ -78,7 +78,19 @@
                 color: #60512B;
                 font-style: bold;
             }
-            
+            #extras{
+                margin-top: 25vh;
+            }
+
+            .flexExtrasNumber{
+                color: #CBAE4D;
+                font-size: 50px;
+                font-style: bold;
+                cursor: pointer;
+            }
+            .flexExtrasLabel{
+                color: #60512B;
+            }
 
 
         </style>
@@ -178,6 +190,30 @@
                             </div>
                         </div>
                     </div>
+                    <div id="extras">
+                        <h1>Extras</h1>
+                        <h1>Hytale release in</h1>
+                        <div class="flexExtras" style="border: 2px solid #60512B; width: fit-content; margin-right: auto; margin-left: auto; padding: 5px; border-radius: 5px;">
+                            <div id="extrasReleaseHour" class="flexExtrasNumber"></div>
+                            <div class="flexExtrasLabel">Hours</div>
+                        </div>
+                        <h1>Or</h1>
+                        <div class="flexExtras" style="border: 2px solid #60512B; width: fit-content; margin-right: auto; margin-left: auto; padding: 5px; border-radius: 5px;">
+                            <div id="extrasReleaseMinutes" class="flexExtrasNumber"></div>
+                            <div class="flexExtrasLabel">Minutes</div>
+                        </div>
+                        <h1>Or</h1>
+                        <div class="flexExtras" style="border: 2px solid #60512B; width: fit-content; margin-right: auto; margin-left: auto; padding: 5px; border-radius: 5px;">
+                            <div id="extrasReleaseSeconds" class="flexExtrasNumber"></div>
+                            <div class="flexExtrasLabel">Seconds</div>
+                        </div>
+                        <h1>Or</h1>
+                        <div class="flexExtras" style="border: 2px solid #60512B; width: fit-content; margin-right: auto; margin-left: auto; padding: 5px; border-radius: 5px;">
+                            <div id="extrasReleaseMilliseconds" class="flexExtrasNumber"></div>
+                            <div class="flexExtrasLabel">Milliseconds</div>
+                        </div>
+                        
+                    </div>
                 </div>
             </div>
             <div id="copyAlert">
@@ -226,6 +262,12 @@
                 document.getElementById("preOrdersMinutesText").textContent = minutesPreOrder;
                 document.getElementById("preOrdersSecondsText").textContent = secondsPreOrder;
 
+                //extras
+                document.getElementById("extrasReleaseHour").textContent = `${daysRelease * 24 + hoursRelease}`;
+                document.getElementById("extrasReleaseMinutes").textContent = `${daysRelease * 24 * 60 + hoursRelease * 60 + minutesRelease}`;
+                document.getElementById("extrasReleaseSeconds").textContent = `${daysRelease * 24 * 60 * 60 + hoursRelease * 60 * 60 + minutesRelease * 60 + secondsRelease}`;
+                document.getElementById("extrasReleaseMilliseconds").textContent = `${diffRelease}`;
+
             }, 100)
 
             releaseCountdown.addEventListener("click", () => {
@@ -259,6 +301,17 @@
             copyAlert.addEventListener("animationend", () => {
                 copyAlert.style.animationName = "";
                 copyAlert.style.opacity = "0%";
+            })
+
+            const extras = document.querySelectorAll(".flexExtrasNumber");
+            extras.forEach((item) => {
+                item.addEventListener("click", () => {
+                    navigator.clipboard.writeText(item.textContent);
+                    copyAlert.textContent = `Copied time to clipboard ${item.textContent}`;
+                    copyAlert.style.animationName = "none";
+                    void copyAlert.offsetWidth;
+                    copyAlert.style.animationName = "fadeIn";
+                })
             })
         </script>
     </body>

@@ -14,6 +14,7 @@
         <meta http-equiv="Cache-Control" content="no-cache">
         <script src="https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.9.1/tsparticles.confetti.bundle.min.js"></script>
         <style>
+
             body{
                 background-image: url("https://hytale.com/static/countdown/bg.jpg");
                 background-size: 100%;
@@ -333,6 +334,7 @@
                 if(daysPreOrder == 0 && hoursPreOrder == 0 && minutesPreOrder == 0 && secondsPreOrder == 0){
                     celebrate(false);
                 }
+                floatyGuys();
 
             }, 100)
 
@@ -526,6 +528,67 @@
 
                 
             }
+
+            function floatyGuys() {
+                if (Math.floor(Math.random() * 300) == 1) {
+                    const image = document.createElement("img");
+                    image.style.position = "fixed";
+                    const images = ["./images/kweebec.png", "./images/kweebecSit.png"];
+                    image.src = images[Math.floor(Math.random() * images.length)];
+                    const side = Math.floor(Math.random() * 4);
+
+                    image.onload = () => {
+                        let x, y, angle;
+
+                        if (side === 0) {
+                            x = 0;
+                            y = 0;
+                            angle = Math.random() * 90;
+                        }
+                        if (side === 1) {
+                            x = 0;
+                            y = window.innerHeight - image.height;
+                            angle = 270 + Math.random() * 90;
+                        }
+                        if (side === 2) {
+                            x = window.innerWidth - image.width;
+                            y = window.innerHeight - image.height;
+                            angle = 180 + Math.random() * 90;
+                        }
+                        if (side === 3) {
+                            x = window.innerWidth - image.width;
+                            y = 0;
+                            angle = 90 + Math.random() * 90;
+                        }
+
+                        const speed = 1;
+                        const rad = () => angle * (Math.PI / 180);
+
+                        const interval = setInterval(() => {
+                            const vx = Math.cos(rad()) * speed;
+                            const vy = Math.sin(rad()) * speed;
+                            x += vx;
+                            y += vy;
+
+                            image.style.left = `${x}px`;
+                            image.style.top = `${y}px`;
+
+                            if (x < -image.width || x > window.innerWidth || y < -image.height || y > window.innerHeight) {
+                                clearInterval(interval);
+                                image.remove();
+                            }
+                        }, 10);
+
+                        image.style.left = `${x}px`;
+                        image.style.top = `${y}px`;
+                        image.style.opacity = 0.25;
+                        image.style.pointerEvents = "none";
+                        document.body.appendChild(image);
+                    };
+                }
+            }
+
+
 
         </script>
     </body>

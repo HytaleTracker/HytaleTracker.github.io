@@ -127,7 +127,9 @@
         <main>
             <div class="container">
                 <div>
-                    <img src="https://hytale.com/static/images/logo.png">
+                    <a href="https://hytale.com">
+                        <img src="https://hytale.com/static/images/logo.png" id="hytaleLogo">
+                    </a>
                     <h1 id="HytaleRelease">Hytale release in</h1>
                     <div id="releaseCountdown">
                         <div id="releaseDays" >
@@ -361,6 +363,16 @@
                 }
             })
             document.getElementById("toggleExtras").click();
+
+            let audio = new Audio('./images/Oscar Garvin - This Is Our Tale (Feat. Victoria Beaumont) [RIupzhc8UQo].mp3');
+            audio.loop = true;
+
+            document.getElementById("hytaleLogo").addEventListener("mouseover", () => {
+                audio.play();
+            })
+            document.getElementById("hytaleLogo").addEventListener("mouseout", () => {
+                audio.pause();
+            })
 
         </script>
     </body>

@@ -540,6 +540,7 @@
                     image.onload = () => {
                         let x, y, angle;
                         let bouncable = true;
+                        let bounces = 0;
 
                         if (side === 0) {
                             x = 0;
@@ -585,15 +586,45 @@
                                     if(Math.floor(Math.random() * 3) == 1){
                                         if (x <= 0 || x + image.width >= window.innerWidth) {
                                             vx = -vx;
+                                            bounces += 1;
                                             setTimeout(() => {
                                                 bouncable = true;
                                             }, 1000)
                                         }
                                         if (y <= 0 || y + image.height >= window.innerHeight) {
                                             vy = -vy;
+                                            bounces += 1
                                             setTimeout(() => {
                                                 bouncable = true;
                                             }, 1000)
+                                        }
+                                        if(bounces >= 5){
+                                            confetti("tsparticles", {
+                                                angle: 45,
+                                                count: 250,
+                                                position: {
+                                                    x: 0,
+                                                    y: 100,
+                                                },
+                                                spread: 75,
+                                                startVelocity: 100,
+                                                decay: 0.9,
+                                                gravity: 1,
+                                                drift: 0,
+                                                ticks: 200,
+                                                shapes: ["image", "circle"],
+                                                shapeOptions: {
+                                                    image: [
+                                                    {
+                                                        src: "./images/HytaleH.png",
+                                                        width: 1000,
+                                                        height: 1000,
+                                                    }
+                                                ]},
+                                                scalar: 1,
+                                                zIndex: 100,
+                                                disableForReducedMotion: true,
+                                            });
                                         }
                                     }
                                 }

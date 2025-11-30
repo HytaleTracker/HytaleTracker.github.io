@@ -1,6 +1,84 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Hytale announces pre-order date",
+    "mainText": "'If you wish to pre-purchase the game, pre-orders open December 13, 2025.\r\nIf you don’t feel comfortable pre-ordering, please don’t. This is true early access, meaning it’s still very much unfinished and will be buggy for a while, but you have the team's commitment to make Hytale the game we’ve always wanted it to be.More details are coming soon. Thank you, everyone, for your support. Hytale has been through a long journey, and soon, we will be home.'",
+    "date": "11 28 2025",
+    "tags": [
+      "Hytale",
+      "Future stuff",
+      "Release",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/1994421159467573500?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale announces release date",
+    "mainText": "'Hytale Early Access\r\nJANUARY 13, 2026'",
+    "date": "11 28 2025",
+    "tags": [
+      "Hytale",
+      "Future stuff",
+      "Release",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/1994421030991904777?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Palworld ratings",
+    "mainText": "'I love this game so much. You deserve it.'",
+    "date": "11 28 2025",
+    "tags": [
+      "Slikey",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1994396496016408634?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: remotely working on game",
+    "mainText": "'Correct, only a handful. Progress was painful but it saved the game.'",
+    "date": "11 27 2025",
+    "tags": [
+      "Simon",
+      "Business",
+      "Devs",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1994274965915320687?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: underground in Hytale",
     "mainText": "'Some crypts, abandoned mines, natural caves and others leads down. You don’t need to “dig straight down” you just walk around and find an interesting place to start your journey down. \nWith the future of world gen this gets much better. Will show some examples in the next couple days!'",
     "date": "11 27 2025",

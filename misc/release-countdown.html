@@ -13,6 +13,9 @@
         <meta content="#57263A" data-react-helmet="true" name="theme-color" />
         <meta http-equiv="Cache-Control" content="no-cache">
         <style>
+            body{
+                background-image: url("https://hytale.com/static/countdown/bg.jpg");
+            }
             @font-face {
                 font-family: "Hytale-font";
                 src: url(../assets/Penumbra\ Serif\ Std\ Regular.otf);
@@ -25,17 +28,9 @@
                 transition: all 0.5s;
                 cursor: pointer;
             }
-            h1:hover{
-                font-size: 35px;
-                margin-bottom: 0px;
-            }
             h2{
                 transition: all 0.5s;
                 cursor: pointer;
-            }
-            h2:hover{
-                font-size: 25px;
-                margin-bottom: 10;
             }
             #copyAlert{
                 position: absolute;
@@ -61,12 +56,30 @@
                 }
             }
             .container {
+                margin-top: 50px;
+            }
+            #releaseCountdown, #preOrderCountdown{
+                cursor: pointer;
                 display: flex;
                 align-items: center;
                 justify-content: center;
-                width: 100%;
-                height: 100vh;
+                gap: 15px;
+                border: 2px solid #60512B;
+                width: fit-content;
+                margin-left: auto;
+                margin-right: auto;
+                padding: 10px;
+                border-radius: 5px;
             }
+            #releaseCountdown > p, #preOrderCountdown > p{
+                color: #60512B;
+            }
+            #releaseCountdown > div, #preOrderCountdown > div{
+                color: #60512B;
+                font-style: bold;
+            }
+            
+
 
         </style>
     </head>
@@ -75,11 +88,96 @@
         <main>
             <div class="container">
                 <div>
+                    <img src="https://hytale.com/static/images/logo.png">
                     <h1 id="HytaleRelease">Hytale release in</h1>
-                    <h2 id="releaseCountdown"></h2>
+                    <div id="releaseCountdown">
+                        <div id="releaseDays" >
+                            <div id="releaseDaysText"style="font-size: 50px; color: #CBAE4D">
+
+                            </div>
+                            <div>
+                                Days
+                            </div>
+                        </div>
+                        <p>
+                        |
+                        </p>
+                        <div id="releaseHours">
+                            <div id="releaseHoursText"style="font-size: 50px; color: #CBAE4D">
+
+                            </div>
+                            <div>
+                                Hours
+                            </div>
+                        </div>
+                        <p>
+                        |
+                        </p>
+                        <div id="releaseMinutes">
+                            <div id="releaseMinutesText"style="font-size: 50px; color: #CBAE4D">
+
+                            </div>
+                            <div>
+                                Minutes
+                            </div>
+                        </div>
+                        <p>
+                        |
+                        </p>
+                        <div id="releaseSeconds">
+                            <div id="releaseSecondsText"style="font-size: 50px; color: #CBAE4D">
+
+                            </div>
+                            <div>
+                                Seconds
+                            </div>
+                        </div>
+                    </div>
                     <br>
                     <h1 id="HytalePreOrders">Hytale pre-orders in</h1>
-                    <h2 id="preOrderCountdown"></h2>
+                    <div id="preOrderCountdown">
+                        <div id="preOrdersDays">
+                            <div id="preOrdersDaysText"style="font-size: 50px; color: #CBAE4D">
+
+                            </div>
+                            <div>
+                                Days
+                            </div>
+                        </div>
+                        <p>
+                        |
+                        </p>
+                        <div id="preOrdersHours">
+                            <div id="preOrdersHoursText"style="font-size: 50px; color: #CBAE4D">
+
+                            </div>
+                            <div>
+                                Hours
+                            </div>
+                        </div>
+                        <p>
+                        |
+                        </p>
+                        <div id="preOrdersMinutes">
+                            <div id="preOrdersMinutesText"style="font-size: 50px; color: #CBAE4D">
+
+                            </div>
+                            <div>
+                                Minutes
+                            </div>
+                        </div>
+                        <p>
+                        |
+                        </p>
+                        <div id="preOrdersSeconds">
+                            <div id="preOrdersSecondsText"style="font-size: 50px; color: #CBAE4D">
+
+                            </div>
+                            <div>
+                                Seconds
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div id="copyAlert">
@@ -111,7 +209,10 @@
                 minutesRelease = Math.floor((diffRelease % 3600000) / 60000);
                 secondsRelease = Math.floor((diffRelease % 60000) / 1000);
 
-                releaseCountdown.textContent = `${daysRelease} days, ${hoursRelease} hours, ${minutesRelease} minutes, ${secondsRelease} seconds`;
+                document.getElementById("releaseDaysText").textContent = daysRelease;
+                document.getElementById("releaseHoursText").textContent = hoursRelease;
+                document.getElementById("releaseMinutesText").textContent = minutesRelease;
+                document.getElementById("releaseSecondsText").textContent = secondsRelease;
 
                 const diffPreOrder = preOrderDate - time;
 
@@ -120,7 +221,10 @@
                 minutesPreOrder = Math.floor((diffPreOrder % 3600000) / 60000);
                 secondsPreOrder = Math.floor((diffPreOrder % 60000) / 1000);
 
-                preOrderCountdown.textContent = `${daysPreOrder} days, ${hoursPreOrder} hours, ${minutesPreOrder} minutes, ${secondsPreOrder} seconds`;
+                document.getElementById("preOrdersDaysText").textContent = daysPreOrder;
+                document.getElementById("preOrdersHoursText").textContent = hoursPreOrder;
+                document.getElementById("preOrdersMinutesText").textContent = minutesPreOrder;
+                document.getElementById("preOrdersSecondsText").textContent = secondsPreOrder;
 
             }, 100)
 

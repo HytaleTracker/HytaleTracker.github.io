@@ -305,6 +305,7 @@
             let minutesPreOrder;
             let secondsRelease;
             let secondsPreOrder;
+            let extrasShown = false;
 
             const releaseDaysText = document.getElementById("releaseDaysText");
             const ReleaseHoursText = document.getElementById("releaseHoursText");
@@ -349,9 +350,12 @@
                 preOrdersSecondsText.textContent = secondsPreOrder;
 
                 //extras
-                extrasReleaseHour.textContent = `${daysRelease * 24 + hoursRelease}`;
-                extrasReleaseMinutes.textContent = `${daysRelease * 24 * 60 + hoursRelease * 60 + minutesRelease}`;
-                extrasReleaseSeconds.textContent = `${daysRelease * 24 * 60 * 60 + hoursRelease * 60 * 60 + minutesRelease * 60 + secondsRelease}`;
+                if(extrasShown){
+                    extrasReleaseHour.textContent = `${daysRelease * 24 + hoursRelease}`;
+                    extrasReleaseMinutes.textContent = `${daysRelease * 24 * 60 + hoursRelease * 60 + minutesRelease}`;
+                    extrasReleaseSeconds.textContent = `${daysRelease * 24 * 60 * 60 + hoursRelease * 60 * 60 + minutesRelease * 60 + secondsRelease}`;
+                }
+                
                 
 
                 if(daysRelease == 0 && hoursRelease == 0 && minutesRelease == 0 && secondsRelease == 0){
@@ -367,10 +371,13 @@
             const PLANCK_TIME_MILLIS = 5.391e-44 * 1000;
 
             setInterval(() => {
-                const time = new Date();
-                const diffRelease = releaseDate - time;
-                extrasReleaseMilliseconds.textContent = `${diffRelease}`;
-                extrasReleasePlankSeconds.textContent = diffRelease / PLANCK_TIME_MILLIS;
+                if(extrasShown){
+                    const time = new Date();
+                    const diffRelease = releaseDate - time;
+                    extrasReleaseMilliseconds.textContent = `${diffRelease}`;
+                    extrasReleasePlankSeconds.textContent = diffRelease / PLANCK_TIME_MILLIS;
+                }
+                
             }, 1);
 
             releaseCountdown.addEventListener("click", () => {
@@ -418,6 +425,7 @@
             })
             document.getElementById("toggleExtras").addEventListener("click", () => {
                 if(document.getElementById("extras").style.display == "none"){
+                    extrasShown = true;
                     document.getElementById("extras").style.display = "inherit";
                     document.getElementById("extras").scrollIntoView(true);
                     if(window.innerWidth < 1700){
@@ -426,6 +434,7 @@
                         document.body.style.backgroundSize = "250%";
                     }
                 }else{
+                    extrasShown = false;
                     document.getElementById("extras").style.display = "none";
                     if(window.innerWidth < 1700){
                         document.body.style.backgroundSize = "250%";

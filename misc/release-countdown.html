@@ -12,6 +12,7 @@
         <meta content="https://hytracker.net/assets/DarkBorder.png" property="og:image" />
         <meta content="#57263A" data-react-helmet="true" name="theme-color" />
         <meta http-equiv="Cache-Control" content="no-cache">
+        <script src="https://cdn.jsdelivr.net/npm/@tsparticles/confetti@3.9.1/tsparticles.confetti.bundle.min.js"></script>
         <style>
             body{
                 background-image: url("https://hytale.com/static/countdown/bg.jpg");
@@ -117,6 +118,9 @@
                 border: 2px solid #60512B;
                 background-image: url("https://hytale.com/static/countdown/bg--countdown.png");
                 background-size: 100%;
+            }
+            .celebratoryImage{
+                position: fixed;
             }
 
 
@@ -267,6 +271,21 @@
             let secondsRelease;
             let secondsPreOrder;
 
+            const releaseDaysText = document.getElementById("releaseDaysText");
+            const ReleaseHoursText = document.getElementById("releaseHoursText");
+            const releaseMinutesText = document.getElementById("releaseMinutesText");
+            const releaseSecondsText = document.getElementById("releaseSecondsText");
+
+            const preOrdersDaysText = document.getElementById("preOrdersDaysText");
+            const preOrdersHoursText = document.getElementById("preOrdersHoursText");
+            const preOrdersMinutesText = document.getElementById("preOrdersMinutesText");
+            const preOrdersSecondsText = document.getElementById("preOrdersSecondsText");
+
+            const extrasReleaseHour = document.getElementById("extrasReleaseHour");
+            const extrasReleaseMinutes = document.getElementById("extrasReleaseMinutes");
+            const extrasReleaseSeconds = document.getElementById("extrasReleaseSeconds");
+            const extrasReleaseMilliseconds = document.getElementById("extrasReleaseMilliseconds");
+
             setInterval(() => {
                 const time = new Date();
                 const diffRelease = releaseDate - time;
@@ -276,10 +295,10 @@
                 minutesRelease = Math.floor((diffRelease % 3600000) / 60000);
                 secondsRelease = Math.floor((diffRelease % 60000) / 1000);
 
-                document.getElementById("releaseDaysText").textContent = daysRelease;
-                document.getElementById("releaseHoursText").textContent = hoursRelease;
-                document.getElementById("releaseMinutesText").textContent = minutesRelease;
-                document.getElementById("releaseSecondsText").textContent = secondsRelease;
+                releaseDaysText.textContent = daysRelease;
+                releaseHoursText.textContent = hoursRelease;
+                releaseMinutesText.textContent = minutesRelease;
+                releaseSecondsText.textContent = secondsRelease;
 
                 const diffPreOrder = preOrderDate - time;
 
@@ -288,16 +307,23 @@
                 minutesPreOrder = Math.floor((diffPreOrder % 3600000) / 60000);
                 secondsPreOrder = Math.floor((diffPreOrder % 60000) / 1000);
 
-                document.getElementById("preOrdersDaysText").textContent = daysPreOrder;
-                document.getElementById("preOrdersHoursText").textContent = hoursPreOrder;
-                document.getElementById("preOrdersMinutesText").textContent = minutesPreOrder;
-                document.getElementById("preOrdersSecondsText").textContent = secondsPreOrder;
+                preOrdersDaysText.textContent = daysPreOrder;
+                preOrdersHoursText.textContent = hoursPreOrder;
+                preOrdersMinutesText.textContent = minutesPreOrder;
+                preOrdersSecondsText.textContent = secondsPreOrder;
 
                 //extras
-                document.getElementById("extrasReleaseHour").textContent = `${daysRelease * 24 + hoursRelease}`;
-                document.getElementById("extrasReleaseMinutes").textContent = `${daysRelease * 24 * 60 + hoursRelease * 60 + minutesRelease}`;
-                document.getElementById("extrasReleaseSeconds").textContent = `${daysRelease * 24 * 60 * 60 + hoursRelease * 60 * 60 + minutesRelease * 60 + secondsRelease}`;
-                document.getElementById("extrasReleaseMilliseconds").textContent = `${diffRelease}`;
+                extrasReleaseHour.textContent = `${daysRelease * 24 + hoursRelease}`;
+                extrasReleaseMinutes.textContent = `${daysRelease * 24 * 60 + hoursRelease * 60 + minutesRelease}`;
+                extrasReleaseSeconds.textContent = `${daysRelease * 24 * 60 * 60 + hoursRelease * 60 * 60 + minutesRelease * 60 + secondsRelease}`;
+                extrasReleaseMilliseconds.textContent = `${diffRelease}`;
+
+                if(daysRelease == 0 && hoursRelease == 0 && minutesRelease == 0 && secondsRelease == 0){
+                    celebrate(true);
+                }
+                if(daysPreOrder == 0 && hoursPreOrder == 0 && minutesPreOrder == 0 && secondsPreOrder == 0){
+                    celebrate(false);
+                }
 
             }, 100)
 
@@ -380,6 +406,108 @@
             document.getElementById("hytaleLogo").addEventListener("mouseout", () => {
                 audio.pause();
             })
+
+            let celebrateCalled = false
+
+            function celebrate(release){
+                if(celebrateCalled) return;
+                celebrateCalled = true;
+                if(release){
+                    const kweeback = document.createElement("img");
+                    kweeback.src = "./images/kweeback.gif";
+                    kweeback.className = "celebratoryImage";
+                    document.body.appendChild(kweeback);
+
+                    const absoluteHytale = document.createElement("img");
+                    absoluteHytale.src = "./images/absoluteHytale.jpg";
+                    absoluteHytale.className = "celebratoryImage";
+                    document.body.appendChild(absoluteHytale);
+                    
+                    kweeback.style.top = "0px";
+                    kweeback.style.left = "0px";
+
+                    absoluteHytale.style.top = "0px";
+                    absoluteHytale.style.right = "0px";
+
+                    absoluteHytale.style.opacity = 0;
+
+                    setInterval(() => {
+                        let current = parseFloat(absoluteHytale.style.opacity);
+                        current += 0.05;
+                        absoluteHytale.style.opacity = current;
+                        if(current >= 1){
+                            absoluteHytale.style.opacity = 0;
+                            current = 0;
+                        }
+                    }, 40);
+
+
+                    setInterval(() => {
+                        confetti("tsparticles", {
+                            angle: 45,
+                            count: 250,
+                            position: {
+                                x: 0,
+                                y: 100,
+                            },
+                            spread: 75,
+                            startVelocity: 100,
+                            decay: 0.9,
+                            gravity: 1,
+                            drift: 0,
+                            ticks: 200,
+                            shapes: ["image", "circle"],
+                            shapeOptions: {
+                                image: [
+                                {
+                                    src: "./images/HytaleH.png",
+                                    width: 1000,
+                                    height: 1000,
+                                }
+                            ]},
+                            scalar: 1,
+                            zIndex: 100,
+                            disableForReducedMotion: true,
+                        });
+                        confetti("tsparticles", {
+                            angle: 125,
+                            count: 250,
+                            position: {
+                                x: 100,
+                                y: 100,
+                            },
+                            spread: 75,
+                            startVelocity: 100,
+                            decay: 0.9,
+                            gravity: 1,
+                            drift: 0,
+                            ticks: 200,
+                            shapes: ["image", "circle"],
+                            shapeOptions: {
+                                image: [
+                                {
+                                    src: "./images/HytaleH.png",
+                                    width: 1000,
+                                    height: 1000,
+                                }
+                            ]},
+                            scalar: 1,
+                            zIndex: 100,
+                            disableForReducedMotion: true,
+                        });
+                        }, 1000);
+
+                }else{
+                    const shutUpAndTakeMyMoney = document.createElement("img");
+                    shutUpAndTakeMyMoney.src = "./images/shut-up-and-take-my-money.gif";
+                    shutUpAndTakeMyMoney.className = "celebratoryImage";
+                    shutUpAndTakeMyMoney.style.top = "0px";
+                    shutUpAndTakeMyMoney.style.left = "0px";
+                    document.body.appendChild(shutUpAndTakeMyMoney);
+                }
+
+                
+            }
 
         </script>
     </body>

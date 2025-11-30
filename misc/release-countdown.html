@@ -638,8 +638,8 @@
                                                 angle: 45,
                                                 count: 250,
                                                 position: {
-                                                    x: (x / (window.innerWidth - image.width)) * 100,
-                                                    y: (y / (window.innerHeight - image.height)) * 100,
+                                                    x: ((x / (window.innerWidth - image.width)) * 100) - (image.width / 2),
+                                                    y: ((y / (window.innerHeight - image.height)) * 100) - (image.height / 2),
                                                 },
                                                 spread: 75,
                                                 startVelocity: 100,

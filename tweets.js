@@ -5,6 +5,7 @@ scrollWatcher = document.getElementById("scroll-watcher");
 let globalTagFilters = "null";
 let globalMaxDate = "null";
 let globalMinDate = "null";
+let searchQuery = null;
 
 function loadFile() {
     const path = `./data/tweets/data/devs-post-revival${chunkToGetJson}.json`;
@@ -47,15 +48,16 @@ window.addEventListener("load", async function() {
     const tweetCount = await tweetCountRes.json();
     document.getElementById("tweetCount").textContent = `Post Revival Tweet Count: ${tweetCount}`;
 
-    createTweetElements("null", "null", "null");
+
+    createTweetElements("null", "null", "null", searchQuery);
 })
 
-function createTweetElements(filters, minDate, maxDate){
+function createTweetElements(filters, minDate, maxDate, searchQuery){
     getCachedOrFetch()
     .then(data => {
         console.log(data);
         data.forEach(element => {
-            if(filterItems(element, filters, minDate, maxDate)){ //why no filter? 
+            if(filterItems(element, filters, minDate, maxDate, searchQuery)){
                 const tweetsContainer = document.getElementById("tweets");
                 const tweetItem = document.createElement("div");
                 const link = document.createElement("a");
@@ -107,7 +109,7 @@ const scrollObvserver = new IntersectionObserver(entries => {
             if (entry.isIntersecting) {
                 
                 chunkToGetJson -= 1;
-                createTweetElements(globalTagFilters, globalMinDate, globalMaxDate);
+                createTweetElements(globalTagFilters, globalMinDate, globalMaxDate, searchQuery);
             }
         });
     }, {
@@ -120,7 +122,7 @@ scrollObvserver.observe(scrollWatcher);
 //filtering
 
 
-function filterItems(item, filters, minDate, maxDate){
+function filterItems(item, filters, minDate, maxDate, searchQuery){
     let createDiv = true;
     if (minDate != "null") {
         const [m, d, y] = item.date.split(" ");
@@ -174,6 +176,12 @@ function filterItems(item, filters, minDate, maxDate){
             }
         })
     }
+
+    if(searchQuery != null){
+        if(!item.mainText.toLowerCase().includes(searchQuery.toLowerCase()) && !item.summary.toLowerCase().includes(searchQuery.toLowerCase())){
+            createDiv = false;
+        }
+    }
     return createDiv;
 }
 
@@ -204,21 +212,18 @@ function filter(){
         }
     }
     console.log(selectedTags);
-    const tweetItemsToRemove = document.getElementsByClassName("tweetItem");
+    document.getElementById("tweets").innerHTML = "";
     const minDate = document.getElementById("min-date-input").value;
     const maxDate = document.getElementById("max-date-input").value;
     globalTagFilters = selectedTags;
     globalMaxDate = maxDate;
     globalMinDate = minDate;
-    while(tweetItemsToRemove[0]){
-        tweetItemsToRemove[0].remove();
-    }
     if(selectedTags.length == 0){
-        createTweetElements("null", minDate, maxDate);
+        createTweetElements("null", minDate, maxDate, searchQuery);
     }
     else{
         console.log("creating tweet elements with filter");
-        createTweetElements(selectedTags, minDate, maxDate);
+        createTweetElements(selectedTags, minDate, maxDate, searchQuery);
     }
 }
 
@@ -238,16 +243,13 @@ document.getElementById("clear-filters").addEventListener("click", () => {
         }
     }
     console.log(selectedTags);
-    const tweetItemsToRemove = document.getElementsByClassName("tweetItem");
+    document.getElementById("tweets").innerHTML = "";
     const minDate = document.getElementById("min-date-input").value;
     const maxDate = document.getElementById("max-date-input").value;
     globalTagFilters = selectedTags;
     globalMaxDate = maxDate;
     globalMinDate = minDate;
-    while(tweetItemsToRemove[0]){
-        tweetItemsToRemove[0].remove();
-    }
-    createTweetElements("null", minDate, maxDate)
+    createTweetElements("null", minDate, maxDate, searchQuery)
 })
 document.getElementById("clear-dates").addEventListener("click", () => {
     chunkToGetJson = Number(indexData) - 1;
@@ -265,18 +267,26 @@ document.getElementById("clear-dates").addEventListener("click", () => {
         }
     }
     console.log(selectedTags);
-    const tweetItemsToRemove = document.getElementsByClassName("tweetItem");
+    document.getElementById("tweets").innerHTML = "";
     globalTagFilters = selectedTags;
     globalMaxDate = "null";
     globalMinDate = "null";
-    while(tweetItemsToRemove[0]){
-        tweetItemsToRemove[0].remove();
-    }
     if(selectedTags.length == 0){
-        createTweetElements("null", "null", "null");
+        createTweetElements("null", "null", "null", searchQuery);
     }
     else{
         console.log("creating news elements with filter");
-        createTweetElements(selectedTags, "null", "null");
+        createTweetElements(selectedTags, "null", "null", searchQuery);
     }
+})
+
+const searchInput = document.getElementById("search");
+searchInput.addEventListener("input", () => {
+    searchQuery = searchInput.value;
+    if(searchQuery == ""){
+        searchQuery = null;
+    }
+    console.log(searchQuery);
+    filter();
+
 })

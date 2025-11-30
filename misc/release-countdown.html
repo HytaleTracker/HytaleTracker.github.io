@@ -79,7 +79,8 @@
                 font-style: bold;
             }
             #extras{
-                margin-top: 25vh;
+                margin-top: 30vh;
+                display: none;
             }
 
             .flexExtrasNumber{
@@ -90,6 +91,11 @@
             }
             .flexExtrasLabel{
                 color: #60512B;
+            }
+            #toggleExtras{
+                position: fixed;
+                bottom: 5px;
+                left: 5px;
             }
 
 
@@ -214,6 +220,7 @@
                         </div>
                         
                     </div>
+                    <button id="toggleExtras">Toggle Extras</button>
                 </div>
             </div>
             <div id="copyAlert">
@@ -313,6 +320,15 @@
                     copyAlert.style.animationName = "fadeIn";
                 })
             })
+            document.getElementById("toggleExtras").addEventListener("click", () => {
+                if(document.getElementById("extras").style.display == "none"){
+                    document.getElementById("extras").style.display = "inherit";
+                    document.getElementById("extras").scrollIntoView(true);
+                }else{
+                    document.getElementById("extras").style.display = "none";
+                }
+            })
+            document.getElementById("toggleExtras").click();
         </script>
     </body>
 </html>

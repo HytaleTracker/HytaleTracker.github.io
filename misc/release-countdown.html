@@ -371,7 +371,10 @@
 
             document.getElementById("hytaleLogo").addEventListener("mouseover", () => {
                 audio.play().catch(error => {
-                    alert("Please enable audio autoplay to hear music on hover.");
+                copyAlert.textContent = "Please enable audio autoplay to hear music on hover.";
+                copyAlert.style.animationName = "none";
+                void copyAlert.offsetWidth;
+                copyAlert.style.animationName = "fadeIn";
                 });
             })
             document.getElementById("hytaleLogo").addEventListener("mouseout", () => {

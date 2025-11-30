@@ -367,8 +367,12 @@
             let audio = new Audio('./images/Oscar Garvin - This Is Our Tale (Feat. Victoria Beaumont) [RIupzhc8UQo].mp3');
             audio.loop = true;
 
+            
+
             document.getElementById("hytaleLogo").addEventListener("mouseover", () => {
-                audio.play();
+                audio.play().catch(error => {
+                    alert("Please enable audio autoplay to hear music.");
+                });
             })
             document.getElementById("hytaleLogo").addEventListener("mouseout", () => {
                 audio.pause();

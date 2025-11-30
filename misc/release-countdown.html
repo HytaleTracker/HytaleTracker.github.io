@@ -635,11 +635,11 @@
                                         }
                                         if(bounces >= 5){
                                             confetti("tsparticles", {
-                                                angle: 45,
+                                                angle: 90,
                                                 count: 250,
                                                 position: {
-                                                    x: ((x / (window.innerWidth - image.width)) * 100) - (image.width / 2),
-                                                    y: ((y / (window.innerHeight - image.height)) * 100) - (image.height / 2),
+                                                    x: (((x + image.width / 2) / window.innerWidth) * 100),
+                                                    y: (((y + image.height / 2) / window.innerHeight) * 100),
                                                 },
                                                 spread: 75,
                                                 startVelocity: 100,

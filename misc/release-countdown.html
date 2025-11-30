@@ -16,6 +16,7 @@
             body{
                 background-image: url("https://hytale.com/static/countdown/bg.jpg");
                 background-size: 100%;
+                background-repeat: no-repeat;
             }
             @font-face {
                 font-family: "Hytale-font";
@@ -330,11 +331,13 @@
                 if(document.getElementById("extras").style.display == "none"){
                     document.getElementById("extras").style.display = "inherit";
                     document.getElementById("extras").scrollIntoView(true);
+                    document.body.style.backgroundSize = "200%";
                 }else{
                     document.getElementById("extras").style.display = "none";
                 }
             })
             document.getElementById("toggleExtras").click();
+
         </script>
     </body>
 </html>

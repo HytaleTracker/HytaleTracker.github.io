@@ -539,6 +539,7 @@
 
                     image.onload = () => {
                         let x, y, angle;
+                        let bouncable = true;
 
                         if (side === 0) {
                             x = 0;
@@ -563,10 +564,11 @@
 
                         const speed = 1;
                         const rad = () => angle * (Math.PI / 180);
+                        let vx = Math.cos(rad()) * speed;
+                        let vy = Math.sin(rad()) * speed;
 
                         const interval = setInterval(() => {
-                            const vx = Math.cos(rad()) * speed;
-                            const vy = Math.sin(rad()) * speed;
+                            
                             x += vx;
                             y += vy;
 
@@ -576,6 +578,25 @@
                             if (x < -image.width || x > window.innerWidth || y < -image.height || y > window.innerHeight) {
                                 clearInterval(interval);
                                 image.remove();
+                            }
+                            if (x <= 0 || x + image.width >= window.innerWidth || y <= 0 || y + image.height >= window.innerHeight) {
+                                if(bouncable == true){
+                                    bouncable = false;
+                                    if(Math.floor(Math.random() * 3) == 1){
+                                        if (x <= 0 || x + image.width >= window.innerWidth) {
+                                            vx = -vx;
+                                            setTimeout(() => {
+                                                bouncable = true;
+                                            }, 1000)
+                                        }
+                                        if (y <= 0 || y + image.height >= window.innerHeight) {
+                                            vy = -vy;
+                                            setTimeout(() => {
+                                                bouncable = true;
+                                            }, 1000)
+                                        }
+                                    }
+                                }
                             }
                         }, 10);
 

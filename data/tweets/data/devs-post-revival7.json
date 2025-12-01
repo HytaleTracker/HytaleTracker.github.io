@@ -1,8 +1,629 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: saying game isn't good",
+    "mainText": "'me: game is not good yet\r\ncommunity: its marketing strategy \r\nmainstream: its marketing strategy\r\n\r\nI can’t 😂'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995531942012317823?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: early access date",
+    "mainText": "'7.3mil views in 3 days? game is not good yet please dont go viral just yet 😭 (GIF: Dog wiping brow)'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995531575610802608?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user being upset he responded",
+    "mainText": "'I replied because I see your point and I agree with you but wanted to provide context. Every voice in the community matters and I don't fault you for the comment. I saw it as a valid opinion to have.. Sorry for causing a pile up on you.🫤'",
+    "date": "11 30 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995396623846039748?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "BuddhaCat, re: user appreciating honesty",
+    "mainText": "'🫡❤️'",
+    "date": "11 30 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1995350671802188043?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: node graph world gen",
+    "mainText": "'The node graph on the modding blog post with the world generation result was real and functional - just that it is a prototype tool pending ingame integration. It will be fully usable on day 1 though.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Slikey",
+      "World Generation",
+      "Modding",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995341419523752201?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: two-handed weapons",
+    "mainText": "'Yes, not configured though.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995306668234539321?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Reddoons' exclusive clip",
+    "mainText": "'Hol up, where did you get this clip?'",
+    "date": "11 30 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1995300269026840662?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: lighting rendering",
+    "mainText": "'We are talking about lighting rendering, handled by client, which is C#\r\nServer is Java (game boots a server when in single player)'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Engine - Legacy",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995293668648046707?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user giving specific cave example and asking if it's possible",
+    "mainText": "'Yep.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995291408157336025?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Palworld Community Manager saying next couple weeks being huge for gamers",
+    "mainText": "'2026 going to be a good year for gamers'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995284043701919950?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user debating fully custom world or learn the Hytale tools",
+    "mainText": "'You can make prefabs, and spawn them in with worldgen! Mix of everything!'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995274091528704399?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: hot air balloon from trailer",
+    "mainText": "'Its on the long list if almost implemented; it wont make it in-game fully working. Same with grappling hook, lot of work to port them over. Focusing on critical stuff now that the clock is ticking!'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995273742965178409?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: GamesRadar Hytale post",
+    "mainText": "'Ingenious marketing strategy? We’re just trying to be honest with our community and players 😅'",
+    "date": "11 30 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1995258900212281785?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Myne's statement on the red rock/dead coral biome",
+    "mainText": "'Havent seen it but can be remade in V2 easily'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995256515293241468?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: pre-announcing Hardware Requirements post",
+    "mainText": "'Because it is not ready yet and I expect formatting / wordsmithing to be done by then. Also people like to record their reaction / stream it with their communities. We were asked by the community to announce posts ahead of time.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Server",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995254377561665570?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Acorn wanting to know Slikey's specs",
+    "mainText": "'They are in the post :D I share my results in the creator part.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Server",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995252226131116057?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user expressing their hopes for performance",
+    "mainText": "'You don't want to miss this one then :)'",
+    "date": "11 30 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Server",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995252084271087823?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: Bigottina's Gaia art",
+    "mainText": "'You nailed Gaia from Hytale! Absolute art!'",
+    "date": "11 30 2025",
+    "tags": [
+      "Propzie",
+      "Community",
+      "Art",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/1995249051055653366?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: using WorldGen v2 for custom worlds",
+    "mainText": "'Yes'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995248686104977583?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: server performance statistics",
+    "mainText": "'No, that will be covered in the game server provider / server owner manual.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995246089507921970?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey announces Hardware Requirements to be shared tomorrow",
+    "mainText": "'Hardware Requirements for @Hytale will be released tomorrow, Monday, at 1pm EST / 6pm UTC. \n\nIt will cover the minimum spec, recommended spec, creator recommendations and some deep dive into voxel sandbox specific technical factors.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995245366636380659?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: GamesRadar article about Simon saying Hytale isn't good at the moment",
+    "mainText": "'bruh lol'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995242783628824596?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: YungNickYoung saying he'd mod Hytale day 1",
+    "mainText": "'Awesome! 😎'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "World Generation"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995241277110280260?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: YungNickYoung",
+    "mainText": "'I hope he tries the new world gen 🤞\r\nWould be insane to see what he can do with it!'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "World Generation"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995240388404408659?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: difference btwn World Gen v2 and Minecraft mods",
+    "mainText": "'Artists can learn to use it, that’s the big difference 😎'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995237861713658097?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: world gen",
+    "mainText": "'Restrictions brings creative opportunities 😎'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995236240392937520?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: World Gen v2",
+    "mainText": "'We won't be able to launch much content using World Gen V2 on the early access launch, but you will see more and more content coming up using it after launch, so you can expand your explorations.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Future stuff",
+      "Simon Notes",
+      "Early Access"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995235366660723126?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: world gen pictures",
+    "mainText": "'This is old world gen.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995234822298665021?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: separate World Gens",
+    "mainText": "'Separate things because they are very different. The new world gen will slowly be introduced before a big entrance later on; you will learn about it very soon.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995233398089195973?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: World Gen blogpost",
+    "mainText": "'No ETA, early/mid Dec most likely. It's a big one and will define the future of Hytale, so we want to make sure it's done right.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995232111301931322?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon talks about World Gen v2",
+    "mainText": "'Everything shown in Hytale so far is World Gen v1, developed in 2017-2020.\r\n\r\nCan't wait for you all to see what World Gen v2 is capable of, it's already being used in-game outside of the world you spawn in... we have not shown any of it, no screenshots or videos yet, soon you will see :)\r\n\r\nAs you know, I have been very honest about the game state, saying how it is and how not good it is. \r\nThis time, no exaggeration: this new World Gen will redefine the block game genre.\r\nHytale might not be a good game yet, but that world gen v2 is years ahead of everything available. The potential is beyond imagination.\r\n\r\nEveryone, even non-devs, will be able to edit World Gen v2. World Gen artists will be a thing. Blog post coming soon, it's a big one. Be prepared. We are putting the world's creations in the hands of creatives.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "World Generation",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995231684804182052?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: lighting",
-    "mainText": "'It's a top priority after all the critical issues on the render side are resolved.\r\n'",
+    "mainText": "'It's a top priority after all the critical issues on the render side are resolved.'",
     "date": "11 30 2025",
     "tags": [
       "Simon",
@@ -15,7 +636,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1995185553021767960?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1995185553021767960?s=20"
         ]
       }
     ]

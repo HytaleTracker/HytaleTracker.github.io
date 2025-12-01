@@ -1,6 +1,107 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks release, pricing, and gameplay.",
+        "mainText": "<p class='mainTextParagraph'><b>On November 21st,</b> The Hytale Team announced that Hytale's Early Access will launch with <u>three editions</u> - <i>Standard Edition (USD$20)</i>, <i>Supporter Edition (USD$35)</i>, and <b><i>Cursebreaker Edition (USD$75)</i></b> - with Supporter and Cursebreaker editions coming with exclusive cosmetics. Simon confirmed that Cursebreaker edition would <b><i><u>not</u></i></b> come with extra copies of the game, and thus the price was reduced as compensation. Simon also confirmed that the Early Access release date would be announced <i>by end of next week.</i> </p><p class='mainTextParagraph'>\n\nMoving on to gameplay discussions, Simon confirmed that Hytale will not have grid crafting, and will instead have a more innovative and intuitive crafting system that allows players to upgrade work stations. When asked about building, Simon announced that work on block rotations and other cool features was finished, with connections and smart block placements being polished. Simon also mentioned that plans exist for automations and fun gadgets, but aren't being worked on at the moment. Simon also teased gliders and hookshots as future features for Hytale, also revealing the discovery of a Faun model in the game's files. Finally, Simon shared the first ever picture of Slothians in-game. </p><p class='mainTextParagraph'>\n\nLater, Slikey explains that singleplayer mode creates a local server, allowing for 'server side' mods to work on singleplayer. Alleviating concerns, Slikey confirmed that despite this, singleplayer <b>can</b> be played without an internet connection. Finally, Slikey explained that it's likely too early for Hytale to be able to support a Create-like mod, though some parts should still be possible.</p>",
+        "date": "11 21 2025",
+        "tags": [
+            "Statement",
+            "Simon",
+            "Tweet",
+            "Business",
+            "Early Access",
+            "Features",
+            "Slikey"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Hytale - Editions + Pricing",
+                    "https://xcancel.com/Hytale/status/1991884608770855233?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - No extra copies",
+                    "https://xcancel.com/Simon_Hypixel/status/1991837318336901515?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Early Access launch date announcement next week",
+                    "https://xcancel.com/Simon_Hypixel/status/1991783246506651949?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - No Grid Crafting",
+                    "https://xcancel.com/Simon_Hypixel/status/1991785511045009844?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - Work Stations",
+                    "https://xcancel.com/Simon_Hypixel/status/1991788585196855298?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Simon - Building",
+                    "https://xcancel.com/Simon_Hypixel/status/1991790331197862163?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Simon - Automation",
+                    "https://xcancel.com/Simon_Hypixel/status/1991872501274513463?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Simon - Gliders",
+                    "https://xcancel.com/Simon_Hypixel/status/1991905502968594815?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Simon - Hookshot",
+                    "https://xcancel.com/Simon_Hypixel/status/1991906871754764697?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Simon - Faun tease",
+                    "https://xcancel.com/Simon_Hypixel/status/1992008085658055137?s=20"
+                ]
+            },
+            {
+                "11": [
+                    "Simon - Slothian Picture",
+                    "https://xcancel.com/Simon_Hypixel/status/1992005227336351828?s=20"
+                ]
+            },
+            {
+                "12": [
+                    "Slikey - Singleplayer Mods",
+                    "https://xcancel.com/slikey_dev/status/1991885942999945694?s=20"
+                ]
+            },
+            {
+                "13": [
+                    "Slikey - Offline Play",
+                    "https://xcancel.com/slikey_dev/status/1992006522105454790?s=20"
+                ]
+            },
+            {
+                "14": [
+                    "Slikey - Technical Possibility for Create Mod",
+                    "https://xcancel.com/slikey_dev/status/1992028642071736697?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talk steps to release, usernames, instance system, and modding.",
         "mainText": "<p class='mainTextParagraph'>Starting the day strong, Simon revealed that the Hytale Team is working on locking down a release date, with hardware tests, legal/security work, and stabilization required before they can decide on a release date. Simon also confirmed the base edition of Hytale would cost less than USD$30, and confirmed players can upgrade between each edition of the game after initial purchase. Additionally, Simon confirmed that usernames will be <u><i>unique</i></u>! Simon also revealed that the game will have an <i>instance system</i>, which supports whole worlds or dungeons where block breaking is disabled.</p><p class='mainTextParagraph'>\n\nThroughout the day, Hytale shared an official look at the Zone 4 caves - complete with raptors - and later released a short video showcasing a simple mod that made raptors rideable!</p><p class='mainTextParagraph'>\n\nFollowing up yesterday's blogpost tease, Slikey shared the <u>Modding Strategy and Status Blogpost</u>, and discussed many topics afterwards; confirming no client-side modding, no singleplayer mods being brough to multiplayer, a post-launch goal of solving dynamic asset streaming, server-side UIs, and acknowledging how that creates concerns regarding accessibility.</p>",
         "date": "11 20 2025",

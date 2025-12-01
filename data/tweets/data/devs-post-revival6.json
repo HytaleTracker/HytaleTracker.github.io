@@ -1,6 +1,393 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: fixing lighting",
+    "mainText": "'Oh, sorry, I mean during early access. But after the early access launch :P\r\n'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Engine - Legacy",
+      "Future stuff",
+      "Tech",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1995185399019290947?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking if legacy engine prevents the game's full potential",
+    "mainText": "'Modern C#/.NET have come a long way in the last few years, and with the updates in .NET 6–10, performance, GC, and low-level APIs have improved significantly. For games, the language isn’t the bottleneck anymore tbh'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Engine - Legacy",
+      "Tech",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1995185056642429004?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: fixing lighting",
+    "mainText": "'It will be fixed after early access; we already have a plan.\r\nThis is not game-breaking, so we can do it post-launch.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995182684742590465?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Glider Gameplay",
+    "mainText": "'This version is very early, missing momentum, wind effects/sounds, animations, and much more. We are just being transparent and sharing what we are working on :)\nWe have no intention of making this into a fast-flying device; it's to prepare for upcoming world gen v2 crazy stuff :)'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995182083602583642?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Papa_Plex offering support",
+    "mainText": "'Thanks old friend!'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995176709524771022?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: scorpion",
+    "mainText": "'👀 Sharp eyes you have!'",
+    "date": "11 30 2025",
+    "tags": [
+      "Propzie",
+      "Gameplay",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/1995176436454600939?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: user discussing 'both designs' ",
+    "mainText": "'Are you referring to the Scarak designs?'",
+    "date": "11 30 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1995173881343349235?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Propzie's last tweet",
+    "mainText": "'You and Arcadia are machines!'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995173792407249065?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: glider model/texture",
+    "mainText": "'Quick model/texture I made for the glider, credits to Arcadia for setting up the actual glider code side <3 #Hytale'",
+    "date": "11 30 2025",
+    "tags": [
+      "Propzie",
+      "Gameplay",
+      "Art",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/1995172094955696509?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user suggesting momentum for gliders",
+    "mainText": "'100% yes, you are right! We will improve it to feel more like an actual glider after launch! This was just an easy addition to improve exploration'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995171683670368344?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares in-dev gameplay of gliders",
+    "mainText": "'We've seen some requests for gliders - so we are giving you one for early access!\nIt is still early in development, so expect many improvements to come post-launch.\nHave fun exploring (and soaring!), Cursebreakers! #Hytale'",
+    "date": "11 30 2025",
+    "tags": [
+      "Hytale",
+      "Gameplay",
+      "Video",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/1995169902756327816?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: taking breaks",
+    "mainText": "'Oh, most of the team is taking their weekend to cool down / take it slower but sometimes the addiction to the project is just too strong, so we sneak back to the PC. 🫣'",
+    "date": "11 30 2025",
+    "tags": [
+      "Slikey",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995167846046007619?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: notifications",
+    "mainText": "'Huh why're my notifications going insane.... Oh yeh that would do it 😅'",
+    "date": "11 30 2025",
+    "tags": [
+      "Propzie",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/1995167229441363977?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Scarak Redesign",
+    "mainText": "'Will be eventually used but not replacing old ones'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995166106785579363?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Glider gameplay",
+    "mainText": "'Posting on @Hytale - we finished it up yesterday after seeing the post! \n@Propzie big save of the day'",
+    "date": "11 30 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995162761400373493?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: hosting source code",
+    "mainText": "'We will use Github to share the source code of the server, yes. We plan to get the public repository up as soon as possible after Early Access launch to help modders and creators overcome our documentation shortcomings and allow for contributions for missing capabilities.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Server",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995159569878978840?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey showcases commit history on Hytale",
+    "mainText": "'These graphs show our code/asset commit history: we picked up a 4-year-old build and turned the efficiency dial to 11. A small, focused team of skilled developers, led by the game’s original vision, has kicked momentum into overdrive. \r\nEvery single day I am incredibly thankful for this team and the dedication they bring. Each individual at this studio is contributing directly to the game and following the spirit of \"never not my problem\". \r\nThe Early Access launch is only possible due to this team, fueled by the incredible support of our community.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Slikey",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995157879695736896?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: ultrawide support",
+    "mainText": "'Yes, currently only the loading screen background is stretching because we will need some bigger art. I used a 21:9 monitor myself.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Slikey",
+      "Gameplay",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995089933024075832?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Zeusley Hytale modding video",
+    "mainText": "'I watched the video and you are correct. Remember folks, this is the worst version of modding Hytale will ever have. The points raised by the community are taken serious and I am incorporating them into the vision for modding in a way where the core principles are not violated.\r\nOne point in your video about Visual Scripting - Java modding will be able to do everything Visual Scripting will do but not the other way around. So programmers who just enjoy code, would never have to leave Java.\r\nI am the first to admit that modding is a very rocky road right now, but there is only one direction: Improvements.'",
+    "date": "11 30 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Modding",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995017997069553731?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: Sparklez' 'should I play'",
+    "mainText": "'In my unbiased opinion (opinions may in fact be biased) (MEME GIF: Yes)'",
+    "date": "11 29 2025",
+    "tags": [
+      "Propzie",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/1994976547459989520?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Minecraft Mod Dev saying 'maybe i was wrong about you hytale'",
     "mainText": "'😅'",
     "date": "11 29 2025",

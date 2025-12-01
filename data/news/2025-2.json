@@ -1,6 +1,131 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon requests community ideas for Technoblade tribute in Hytale.",
+        "mainText": "<p class='mainTextParagraph'>On November 22nd, 2025, Simon announced he had received Technoblade's father's blessing to add something to Hytale that represents Technoblade's memory. In his post, Simon requested the community share their ideas for a meaningful tribute.</p>",
+        "date": "11 22 2025",
+        "tags": [
+            "Statement",
+            "Simon",
+            "Community"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Technoblade Tribute",
+                    "https://xcancel.com/Simon_Hypixel/status/1992443358602572006?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks accessibility, tech, and gameplay.",
+        "mainText": "<p class='mainTextParagraph'>Responding to a question about accessibility options for the visually impaired, Simon shouted out Mewen as a strong advocate for accessibility, saying he'll be working on accessibility post-launch. Mewen confirmed the team is already planning for controller support (including Adaptive Controller from Microsoft), and considering features like multi-press, changing controller schema based on context, and also discussed features/designs for people who are hard of hearing, such as a visual audio cue wheel and a ping wheel. Mewen also mentioned assessing text resizing options.</p><p class='mainTextParagraph'>\n\nDiscussing the game's tech, Slikey revealed that Hytale plans to have a compatibility layer in the future, to give players the change to update their mods and servers. Slikey later confirmed that Hytale does currently have an error similar to Minecraft's bug that leads to the 'farlands' phenomenon. Slikey also discussed merging all of the game's branches into a single branch in a <b><i>Singularity Event</i></b>. Simon also revealed that Hytale currently has no plans for custom shaders, but the team will explore options later on.</p><p class='mainTextParagraph'>\n\nMoving to gameplay discussions, Simon revealed that the <i>new</i> engine's lighting system can be replicated in the legacy engine, and the plan is to do so after optimizations are finished. Simon also revealed that Hytale's combat was designed with PVP in mind, but the current goal isn't to balance it for PVP or minigames. Simon also revealed that gliders have been added to Hytale, and that rat's can still be lured by dropped cheese.</p><p class='mainTextParagraph'>\n\nHytale officially shared a screenshot of a <u>Zone 3 Ritual</u>.</p><p class='mainTextParagraph'></p>",
+        "date": "11 22 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Early Access",
+            "Features",
+            "Hytale",
+            "Mewen"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Accessibility",
+                    "https://xcancel.com/Simon_Hypixel/status/1992143677846597758?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Mewen - Supporting different types of Controllers",
+                    "https://xcancel.com/MewSoul/status/1992278110784385128?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Mewen - Multi-press/controller schema",
+                    "https://xcancel.com/MewSoul/status/1992269782398464147?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Mewen - Visual Audio Cue Wheel",
+                    "https://xcancel.com/MewSoul/status/1992269782398464147?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Mewen - Ping Wheel",
+                    "https://xcancel.com/MewSoul/status/1992273856799572092?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Mewen - Text Resizing options",
+                    "https://xcancel.com/MewSoul/status/1992276612214362339?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Slikey - Compatibility Layer",
+                    "https://xcancel.com/slikey_dev/status/1992299658710745235?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Slikey - Farlands",
+                    "https://xcancel.com/slikey_dev/status/1992301942467600688?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Slikey - Singularity Event",
+                    "https://xcancel.com/slikey_dev/status/1992322183918727212?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Simon - Custom Shaders",
+                    "https://xcancel.com/Simon_Hypixel/status/1992383461126971686?s=20"
+                ]
+            },
+            {
+                "11": [
+                    "Simon - Lighting System",
+                    "https://xcancel.com/Simon_Hypixel/status/1992181952741613871?s=20"
+                ]
+            },
+            {
+                "12": [
+                    "Simon - Combat Balance",
+                    "https://xcancel.com/Simon_Hypixel/status/1992195406655087052?s=20"
+                ]
+            },
+            {
+                "13": [
+                    "Simon - Glider Tease",
+                    "https://xcancel.com/Simon_Hypixel/status/1992233978108301571?s=20"
+                ]
+            },
+            {
+                "14": [
+                    "Simon - Rats lured by cheese",
+                    "https://xcancel.com/Simon_Hypixel/status/1992332487314538799?s=20"
+                ]
+            },
+            {
+                "15": [
+                    "Hytale - Zone 3 Ritual",
+                    "https://xcancel.com/Hytale/status/1992261793591484635?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talks release, pricing, and gameplay.",
         "mainText": "<p class='mainTextParagraph'><b>On November 21st,</b> The Hytale Team announced that Hytale's Early Access will launch with <u>three editions</u> - <i>Standard Edition (USD$20)</i>, <i>Supporter Edition (USD$35)</i>, and <b><i>Cursebreaker Edition (USD$75)</i></b> - with Supporter and Cursebreaker editions coming with exclusive cosmetics. Simon confirmed that Cursebreaker edition would <b><i><u>not</u></i></b> come with extra copies of the game, and thus the price was reduced as compensation. Simon also confirmed that the Early Access release date would be announced <i>by end of next week.</i> </p><p class='mainTextParagraph'>\n\nMoving on to gameplay discussions, Simon confirmed that Hytale will not have grid crafting, and will instead have a more innovative and intuitive crafting system that allows players to upgrade work stations. When asked about building, Simon announced that work on block rotations and other cool features was finished, with connections and smart block placements being polished. Simon also mentioned that plans exist for automations and fun gadgets, but aren't being worked on at the moment. Simon also teased gliders and hookshots as future features for Hytale, also revealing the discovery of a Faun model in the game's files. Finally, Simon shared the first ever picture of Slothians in-game. </p><p class='mainTextParagraph'>\n\nLater, Slikey explains that singleplayer mode creates a local server, allowing for 'server side' mods to work on singleplayer. Alleviating concerns, Slikey confirmed that despite this, singleplayer <b>can</b> be played without an internet connection. Finally, Slikey explained that it's likely too early for Hytale to be able to support a Create-like mod, though some parts should still be possible.</p>",
         "date": "11 21 2025",

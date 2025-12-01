@@ -1,6 +1,81 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks features, modding, and Support-A-Creator Program.",
+        "mainText": "<p class='mainTextParagraph'>Taking to Twitter, Simon confirmed that a 'quick version' of backpacks do exist in Hytale, and announced a creative mode blogpost would be coming in the same week - teasing rulers and laser pointers. Simon also shared a map screenshot of an Outlander village, showcasing multiple death waypoints, a manually set waypoint, and a home icon. When a user complimented the generation of icebergs in the screenshot, Simon stated that the generation was <i>old world gen,</i> teasing the <i>new</i> world gen. Wrapping up the day's gameplay tweets, Simon confirmed the team would be showcasing content for the casual/farming community in the near future.</p><p class='mainTextParagraph'>\n\nDiscussing modding potential, Simon confirmed that dig speed, tool powers, loot distribution, and more can be edited while the game is running, along with WorldGen!</p><p class='mainTextParagraph'>\n\nSimon also made one major announcement - an official Support-A-Creator revenue share program for Hytale, with followers able to use Creator Codes. In a followup, Simon confirmed smaller community members will get a chance in the program.</p>",
+        "date": "11 23 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Modding",
+            "Business",
+            "Features"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Backpacks",
+                    "https://xcancel.com/Simon_Hypixel/status/1992766113961455903?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Creative Blogpost Tease",
+                    "https://xcancel.com/Simon_Hypixel/status/1992658524099506306?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Rulers and Laser Pointers",
+                    "https://xcancel.com/Simon_Hypixel/status/1992658679607476315?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Outlander Village Map",
+                    "https://xcancel.com/Simon_Hypixel/status/1992703254782955639?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - World Gen Tease",
+                    "https://xcancel.com/Simon_Hypixel/status/1992708555103998286?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Simon - Casual/Farming Content showcased later",
+                    "https://xcancel.com/Simon_Hypixel/status/1992766196463079749?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Simon - Editing w/ game running",
+                    "https://xcancel.com/Simon_Hypixel/status/1992581500882010486?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Simon - WorldGen editing",
+                    "https://xcancel.com/Simon_Hypixel/status/1992601707298320670?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Simon - Support-A-Creator System",
+                    "https://xcancel.com/Simon_Hypixel/status/1992583516635480196?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Simon - Smaller Creators",
+                    "https://xcancel.com/Simon_Hypixel/status/1992585847393370197?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon requests community ideas for Technoblade tribute in Hytale.",
         "mainText": "<p class='mainTextParagraph'>On November 22nd, 2025, Simon announced he had received Technoblade's father's blessing to add something to Hytale that represents Technoblade's memory. In his post, Simon requested the community share their ideas for a meaningful tribute.</p>",
         "date": "11 22 2025",

@@ -137,7 +137,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon requests community ideas for Technoblade tribute in Hytale",
-    "mainText": "'I received Technoblade’s father’s blessing to add something in Hytale that represents Technoblade’s memory.\r\n\r\nI want the community involved in this, please share your ideas for what would feel like a meaningful tribute! \r\n\r\nHe was a big part of our journey with Hypixel and I wish for him to be part of this one as well.'",
+    "mainText": "'I received Technoblade’s father’s blessing to add something in Hytale that represents Technoblade’s memory.\n\nI want the community involved in this, please share your ideas for what would feel like a meaningful tribute! \n\nHe was a big part of our journey with Hypixel and I wish for him to be part of this one as well.'",
     "date": "11 22 2025",
     "tags": [
       "Simon",
@@ -758,7 +758,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey answers server architecture question",
-    "mainText": "'Sorry for missing your question. The protocol is the determining factor here. Usually game updates don't alter the protocol but in case that happens, we plan to have a compatibility layer in the future so that you have some time to update your mods and server. I expect us to mess it up early into early access but for that we allow users to select the \"previous\" game version so that they can still join your server and update their game when you updated the server.\r\nWe understand this problem a lot as we had to maintain version compatibility for a dozen versions over at Hypixel and we want to make it as painless as possible.'",
+    "mainText": "'Sorry for missing your question. The protocol is the determining factor here. Usually game updates don't alter the protocol but in case that happens, we plan to have a compatibility layer in the future so that you have some time to update your mods and server. I expect us to mess it up early into early access but for that we allow users to select the \"previous\" game version so that they can still join your server and update their game when you updated the server.\nWe understand this problem a lot as we had to maintain version compatibility for a dozen versions over at Hypixel and we want to make it as painless as possible.'",
     "date": "11 22 2025",
     "tags": [
       "Slikey",
@@ -892,7 +892,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Mewen on communication",
-    "mainText": "'That'd help with not being surprised by NPCs/players not in your field of view. A ping wheel to help with communication is something I'm thinking about too.\r\n\r\nThe gist is that we're open to any suggestions that would help those folks and we'll see how we can apply them to Hytale!'",
+    "mainText": "'That'd help with not being surprised by NPCs/players not in your field of view. A ping wheel to help with communication is something I'm thinking about too.\n\nThe gist is that we're open to any suggestions that would help those folks and we'll see how we can apply them to Hytale!'",
     "date": "11 22 2025",
     "tags": [
       "Mewen",
@@ -1252,7 +1252,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon responds to request about PVP",
-    "mainText": "'I'll see what I can do next week about recording some bits, but the current goal isn't PvP balance or minigames.\r\nHowever, I think it's important to show bits of it so that it attracts server owners and modders, or players who want to run private PvP worlds! \r\n\r\nThe combat was designed with PvP in mind, which is why many of the weapons lunge forward and the movements are fast-paced.'",
+    "mainText": "'I'll see what I can do next week about recording some bits, but the current goal isn't PvP balance or minigames.\nHowever, I think it's important to show bits of it so that it attracts server owners and modders, or players who want to run private PvP worlds! \n\nThe combat was designed with PvP in mind, which is why many of the weapons lunge forward and the movements are fast-paced.'",
     "date": "11 22 2025",
     "tags": [
       "Simon",

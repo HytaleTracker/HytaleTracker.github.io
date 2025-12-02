@@ -126,6 +126,11 @@
             #hytaleLogo{
                 filter: drop-shadow(5px 5px 5px black);
             }
+            .flexExtrasNonCopy{
+                color: #CBAE4D;
+                font-size: 50px;
+                font-style: bold;
+            }
 
 
         </style>
@@ -133,7 +138,7 @@
 
     <body>
         <main>
-            <div class="container">
+            <div class="container" id="container">
                 <div>
                     <a href="https://hytale.com">
                         <img src="https://hytale.com/static/images/logo.png" id="hytaleLogo">
@@ -258,6 +263,14 @@
                         <div class="flexExtras" style="border: 2px solid #60512B; width: fit-content; margin-right: auto; margin-left: auto; padding: 5px; border-radius: 5px;">
                             <div id="extrasBounces" class="flexExtrasNumber"></div>
                             <div class="flexExtrasLabel">Bounces</div>
+                        </div>
+                        <h1>custom background</h1>
+                        <div class="flexExtras" style="border: 2px solid #60512B; width: fit-content; margin-right: auto; margin-left: auto; padding: 5px; border-radius: 5px;">
+                            <div id="extrasFileUpload" class="flexExtrasNonCopy">
+                                <label for="wallpaper input">custom background</label><br>
+                                <input type="file" name="wallpaper input" id="customBackground">
+                                <button id="clearCustomBackground">Clear</button>
+                            </div>
                         </div>
                         
                     </div>
@@ -687,6 +700,61 @@
                 document.cookie = name + "=" + value + ";" + expires + ";path=/";
                 bouncesNumber.textContent = bouncesHyScore;
             }
+
+            document.addEventListener("DOMContentLoaded", () => {
+                const wallpaperInput = document.getElementById("customBackground");
+                wallpaperInput.addEventListener("change", () => {
+                    const files = wallpaperInput.files;
+                    const imageUrl = URL.createObjectURL(files[0]);
+                    document.body.style.backgroundImage = `url('${imageUrl}')`;
+                })
+                const clearCustomBackground = document.getElementById("clearCustomBackground");
+                clearCustomBackground.addEventListener("click", () => {
+                    document.body.style.backgroundImage = "url('https://hytale.com/static/countdown/bg.jpg')";
+                })
+            })
+            
+            
+            window.onmousemove = function (e) {
+                if (!e) e = window.event;
+                if (e.shiftKey) {
+                    document.getElementById("container").style.position = "absolute";
+                    dragElement(document.getElementById("container"));
+                    if (e.altKey) {
+                        document.getElementById("hytaleLogo").style.display = "none";
+                    }
+                }
+            }
+            
+            function dragElement(elmnt) {
+                let pos1 = 0, pos2 = 0;
+
+                elmnt.onmousedown = function(e) {
+                    e.preventDefault();
+                    
+                    pos1 = e.clientX - elmnt.offsetLeft;
+                    pos2 = e.clientY - elmnt.offsetTop;
+                    
+                    document.onmouseup = closeDragElement;
+                    document.onmousemove = elementDrag;
+                }
+
+                function elementDrag(e) {
+                    e.preventDefault();
+                    let newLeft = e.clientX - pos1;
+                    let newTop = e.clientY - pos2;
+
+                    elmnt.style.left = newLeft + "px";
+                    elmnt.style.top = newTop + "px";
+                }
+
+                function closeDragElement() {
+                    document.onmouseup = null;
+                    document.onmousemove = null;
+                }
+            }
+
+
 
 
 

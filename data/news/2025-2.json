@@ -1,6 +1,73 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team discusses gameplay systems, zones, Creative Mode blog.",
+        "mainText": "<p class='mainTextParagraph'>Simon started the day by stating that trap fishing might be able to be added to compensate for not currently having proper fishing. Answering a user's query about seasonal content, Simon confirmed he had personally made a new crafting bench with all seasonal content just two days prior. When asked about cooking systems, Simon said there previously wasn't a cooking system, and a 'v1' is being worked on. Simon would later release a statement, confirming the WIP assembly of a dedicated team for 'cozy' content, such as building cute homes, caring for animals, and cooking.</p><p class='mainTextParagraph'>\n\nDiscussing zones, Simon confirmed players can currently only spawn in Zone 1, with Zones 2 and 3 being much more dangerous, adding that new world gen does a much better job at balancing the spawns. Alleviating a user's concerns, Simon confirmed that all zones are accessible, but crafting does slow down in order to prevent skipping to late zones. Simon also stated that the goal is to keep all zones relevant throughout the whole game, in order to give players a true exploration experience.</p><p class='mainTextParagraph'>\n\nWhen asked about Zones 5 and 6, Simon sadly confirmed that they don't exist at the moment - though they might revisit the zones in the future, with new world gen.</p><p class='mainTextParagraph'>\n\nThe Hytale Team also shared a new blogpost, dedicated to <i><b><u>Hytale's Creative Mode.</u></b></i></p>",
+        "date": "11 25 2025",
+        "tags": [
+            "Simon",
+            "Blog",
+            "Tweet"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Trap Fishing",
+                    "https://xcancel.com/Simon_Hypixel/status/1993263848594293090?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Seasonal Content",
+                    "https://xcancel.com/Simon_Hypixel/status/1993383069282451853?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Cooking System",
+                    "https://xcancel.com/Simon_Hypixel/status/1993468044195316054?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Dedicated Cozy Team",
+                    "https://xcancel.com/Simon_Hypixel/status/1993472743405125859?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - Zone 1 Spawning",
+                    "https://xcancel.com/Simon_Hypixel/status/1993457378231304567?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Simon - Zone Accessibility",
+                    "https://xcancel.com/Simon_Hypixel/status/1993468664792674640?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Simon - Zone 5 and Zone 6",
+                    "https://xcancel.com/Simon_Hypixel/status/1993469218499792928?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Simon - Z5/Z6 potential return",
+                    "https://xcancel.com/Simon_Hypixel/status/1993470385539760587?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Hytale - BP - Creative Mode",
+                    "https://hytale.com/news/2025/11/hytale-creative-mode"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talks swamps and character models.",
         "mainText": "<p class='mainTextParagraph'>The Hytale Team kicked the day off strong by sharing a picture of a swamp, featuring a snake partially submerged in mud - clarifying it isn't a bug. Simon also teased a 'lot more' weapon types, none of which are configured. The Sloth also teased a creative mode gameplay video coming later in the week.</p><p class='mainTextParagraph'>\n\nSlikey also confirmed that pretty much any model can be used as a player model in Singleplayer (even a talking peanut), but noted that it wouldn't carry into multiplayer, where server owners have ultimate control. When asked about using heightmaps for continents, Slikey said it would likely require modifications to generation algorithms, as Hytale doesn't directly use heightmaps.</p>",
         "date": "11 24 2025",

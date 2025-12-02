@@ -6,12 +6,13 @@ var months = [ "January", "February", "March", "April", "May", "June", "July", "
 
 const currentDate = new Date();
 
-const newsContainer = document.getElementById("news");
+const newsContainer = document.getElementById("items");
 const scrollWatcher = document.createElement("div");
 scrollWatcher.id = "scrollWatcher";
 
 let itemsCreated = 0;
 let lastDay = null;
+let searchQuery = null;
 
 function loadFile(year, chunk) {
     const path = `./data/news/${year}-${chunk}.json`;
@@ -37,7 +38,7 @@ function getCachedOrFetch(year, chunk) {
     });
 }
 
-function createNewsElements(filters, minDate, maxDate){
+function createNewsElements(filters, minDate, maxDate, searchQuery){
     getCachedOrFetch(yearToGetJson, chunkToGetJson)
         .then(data => {
             let skippedItems = 0;
@@ -48,9 +49,9 @@ function createNewsElements(filters, minDate, maxDate){
                 console.log(i);
                 console.log(data[i]);
                 let item = data[i];
-                    if(filterItems(item, filters, minDate, maxDate)){
+                    if(filterItems(item, filters, minDate, maxDate, searchQuery)){
                         console.log("passed filter");
-                        const container = document.getElementById("news");
+                        const container = document.getElementById("items");
                         const newsItem = document.createElement('div');
                         const mainText = document.createElement('p');
                         const summary = document.createElement('h2');
@@ -152,7 +153,7 @@ function createNewsElements(filters, minDate, maxDate){
                     loadFile(yearToGetJson, chunkToGetJson)
                         .then(() => {
                             itemsCreated = 0;
-                            createNewsElements(filters, minDate, maxDate);
+                            createNewsElements(filters, minDate, maxDate, searchQuery);
                         })
                         .catch(err => {
                             if (err.message === "NO_FILE") {
@@ -165,11 +166,11 @@ function createNewsElements(filters, minDate, maxDate){
                                 }
 
                                 itemsCreated = 0;
-                                createNewsElements(filters, minDate, maxDate);
+                                createNewsElements(filters, minDate, maxDate, searchQuery);
                             } else {
                                 yearToGetJson -= 1;
                                 chunkToGetJson = Number(indexes[String(yearToGetJson)]) + 1 || 0;
-                                createNewsElements(filters, minDate, maxDate);
+                                createNewsElements(filters, minDate, maxDate, searchQuery);
                                 console.error(err);
                             }
                         });
@@ -191,53 +192,31 @@ function createNewsElements(filters, minDate, maxDate){
                     }
 
                     itemsCreated = 0;
-                    createNewsElements(filters, minDate, maxDate);
+                    createNewsElements(filters, minDate, maxDate, searchQuery);
                 }
                 
             });
              
 }
-function filterItems(item, filters, minDate, maxDate){
+function filterItems(item, filters, minDate, maxDate, searchQuery){
     let createDiv = true;
-    if (minDate != "null") {
-        const [m, d, y] = item.date.split(" ");
+    const [m, d, y] = item.date.split(" ").map(Number);
+    const itemDate = new Date(y, m - 1, d, 0, 0, 0, 0);
 
-        let itemDate = new Date();
-        itemDate.setMonth(parseInt(m) - 1);
-        itemDate.setDate(parseInt(d));
-        itemDate.setFullYear(parseInt(y));
-        itemDate.setHours(0,0,0,0);
+    if (minDate && minDate !== "null" && minDate !== "") {
+        const [Y, M, D] = minDate.split("-").map(Number);
+        const minLocal = new Date(Y, M - 1, D, 0, 0, 0, 0);
 
-
-
-        let setDate = new Date(minDate);
-        setDate.setTime(setDate.getTime());
-        setDate.setHours(0,0,0,0);
-
-        console.log("item date", itemDate, "set date", setDate);
-
-        if (itemDate.getTime() < setDate.getTime()) {
+        if (itemDate < minLocal){
             return false;
         }
     }
-    if (maxDate != "null") {
-        const [m, d, y] = item.date.split(" ");
 
-        let itemDate = new Date();
-        itemDate.setMonth(parseInt(m) - 1);
-        itemDate.setDate(parseInt(d));
-        itemDate.setFullYear(parseInt(y));
-        itemDate.setHours(0,0,0,0);
+    if (maxDate && maxDate !== "null" && maxDate !== "") {
+        const [Y, M, D] = maxDate.split("-").map(Number);
+        const maxLocal = new Date(Y, M - 1, D, 23, 59, 59, 999);
 
-
-
-        let setDate = new Date(maxDate);
-        setDate.setTime(setDate.getTime() + 86400000);
-        setDate.setHours(0,0,0,0);
-
-        console.log("item date", itemDate, "set date", setDate);
-
-        if (itemDate.getTime() > setDate.getTime()) {
+        if (itemDate > maxLocal){
             return false;
         }
     }
@@ -250,6 +229,12 @@ function filterItems(item, filters, minDate, maxDate){
                 console.log(filter);
             }
         })
+    }
+
+    if(searchQuery != null){
+        if(!item.mainText.toLowerCase().includes(searchQuery.toLowerCase()) && !item.summary.toLowerCase().includes(searchQuery.toLowerCase())){
+            createDiv = false;
+        }
     }
     return createDiv;
 }
@@ -272,7 +257,7 @@ window.addEventListener("load", async function() {
     const tagsJsonResponse = await this.fetch("./data/tags.json");
     tagsJson = await tagsJsonResponse.json();
 
-    createNewsElements("null", "null", "null");
+    createNewsElements("null", "null", "null", searchQuery);
 });
 
 
@@ -294,7 +279,7 @@ const scrollObvserver = new IntersectionObserver(entries => {
                 }
                 const minDate = document.getElementById("min-date-input").value;
                 const maxDate = document.getElementById("max-date-input").value;
-                createNewsElements(selectedTags, minDate, maxDate);
+                createNewsElements(selectedTags, minDate, maxDate, searchQuery);
             }
         });
     }, {
@@ -317,26 +302,12 @@ function createSources(){
 
     if(lastClickedDiv != clickedDiv){
     lastClickedDiv = clickedDiv;
-    const linksToRemove = document.getElementsByClassName("sourceLink");
-    const indicatorsToRemove = document.getElementsByClassName("sourceIndex");
-    const brToRemove = document.getElementsByClassName("sourceBr");
-
-    while(linksToRemove[0]){
-        linksToRemove[0].remove();
-    }
-    while(indicatorsToRemove[0]){
-        indicatorsToRemove[0].remove();
-    }
-    while(brToRemove[0]){
-        brToRemove[0].remove();
-    }
-
-    
 
     const sourcesDiv = document.getElementById("sources-div");
     sourcesDiv.style.display = "inherit";
     sourcesDiv.style.opacity = "0";
     sourcesDiv.classList.remove("SourceAnimate");
+    sourcesDiv.innerHTML = "<span id='xButton' class='xButton'>X</span><h3 id='sources-header' class='sourcesHeader'>Sources: </h3>";
     
 
     const xButton = document.getElementById("xButton");
@@ -426,27 +397,16 @@ function filter(){
         }
     }
     console.log(selectedTags);
-    const newsItemsToRemove = document.getElementsByClassName("news-item");
-    const dividersToRemove = document.getElementsByClassName("divider");
-    const datesToRemove = document.getElementsByClassName("date");
+    newsContainer.innerHTML = "";
     const minDate = document.getElementById("min-date-input").value;
     const maxDate = document.getElementById("max-date-input").value;
-    while(newsItemsToRemove[0]){
-        newsItemsToRemove[0].remove();
-    }
-    while(dividersToRemove[0]){
-        dividersToRemove[0].remove();
-    }
-    while(datesToRemove[0]){
-        datesToRemove[0].remove();
-    }
     itemsCreated = 0;
     if(selectedTags.length == 0){
-        createNewsElements("null", minDate, maxDate);
+        createNewsElements("null", minDate, maxDate, searchQuery);
     }
     else{
         console.log("creating news elements with filter");
-        createNewsElements(selectedTags, minDate, maxDate);
+        createNewsElements(selectedTags, minDate, maxDate, searchQuery);
     }
     document.getElementById("sources-div").style.display = "none";
     lastClickedDiv = "";
@@ -470,22 +430,11 @@ document.getElementById("clear-filters").addEventListener("click", () => {
         }
     }
     console.log(selectedTags);
-    const newsItemsToRemove = document.getElementsByClassName("news-item");
-    const dividersToRemove = document.getElementsByClassName("divider");
-    const datesToRemove = document.getElementsByClassName("date");
+    newsContainer.innerHTML = "";
     const minDate = document.getElementById("min-date-input").value;
     const maxDate = document.getElementById("max-date-input").value;
-    while(newsItemsToRemove[0]){
-        newsItemsToRemove[0].remove();
-    }
-    while(dividersToRemove[0]){
-        dividersToRemove[0].remove();
-    }
-    while(datesToRemove[0]){
-        datesToRemove[0].remove();
-    }
     itemsCreated = 0;
-    createNewsElements("null", minDate, maxDate)
+    createNewsElements("null", minDate, maxDate, searchQuery)
     document.getElementById("sources-div").style.display = "none";
     lastClickedDiv = "";
 })
@@ -510,25 +459,14 @@ document.getElementById("clear-dates").addEventListener("click", () => {
         }
     }
     console.log(selectedTags);
-    const newsItemsToRemove = document.getElementsByClassName("news-item");
-    const dividersToRemove = document.getElementsByClassName("divider");
-    const datesToRemove = document.getElementsByClassName("date");
-    while(newsItemsToRemove[0]){
-        newsItemsToRemove[0].remove();
-    }
-    while(dividersToRemove[0]){
-        dividersToRemove[0].remove();
-    }
-    while(datesToRemove[0]){
-        datesToRemove[0].remove();
-    }
+    newsContainer.innerHTML = "";
     itemsCreated = 0;
     if(selectedTags.length == 0){
-        createNewsElements("null", "null", "null");
+        createNewsElements("null", "null", "null", searchQuery);
     }
     else{
         console.log("creating news elements with filter");
-        createNewsElements(selectedTags, "null", "null");
+        createNewsElements(selectedTags, "null", "null", searchQuery);
     }
     document.getElementById("sources-div").style.display = "none";
     lastClickedDiv = "";
@@ -554,12 +492,21 @@ function goTo(day){
     else{
         if(yearToGetJson >= maxYear && yearToGetJson > 2024){
             console.log("looking for item to go to in", yearToGetJson);
-            createNewsElements("null", "null", "null");
+            createNewsElements("null", "null", "null", searchQuery);
         }
     }
 }
 
+const searchInput = document.getElementById("search");
+searchInput.addEventListener("input", () => {
+    searchQuery = searchInput.value;
+    if(searchQuery == ""){
+        searchQuery = null;
+    }
+    console.log(searchQuery);
+    filter();
 
+})
 
 let easterEggKeysPressed = [];
 document.addEventListener('keydown', function(event) {

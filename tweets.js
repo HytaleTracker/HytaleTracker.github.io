@@ -124,45 +124,23 @@ scrollObvserver.observe(scrollWatcher);
 
 function filterItems(item, filters, minDate, maxDate, searchQuery){
     let createDiv = true;
-    if (minDate != "null") {
-        const [m, d, y] = item.date.split(" ");
+    const [m, d, y] = item.date.split(" ").map(Number);
+    const itemDate = new Date(y, m - 1, d, 0, 0, 0, 0);
 
-        let itemDate = new Date();
-        itemDate.setMonth(parseInt(m) - 1);
-        itemDate.setDate(parseInt(d));
-        itemDate.setFullYear(parseInt(y));
-        itemDate.setHours(0,0,0,0);
+    if (minDate && minDate !== "null" && minDate !== "") {
+        const [Y, M, D] = minDate.split("-").map(Number);
+        const minLocal = new Date(Y, M - 1, D, 0, 0, 0, 0);
 
-
-
-        let setDate = new Date(minDate);
-        setDate.setTime(setDate.getTime());
-        setDate.setHours(0,0,0,0);
-
-        console.log("item date", itemDate, "set date", setDate);
-
-        if (itemDate.getTime() < setDate.getTime()) {
+        if (itemDate < minLocal){
             return false;
         }
     }
-    if (maxDate != "null") {
-        const [m, d, y] = item.date.split(" ");
 
-        let itemDate = new Date();
-        itemDate.setMonth(parseInt(m) - 1);
-        itemDate.setDate(parseInt(d));
-        itemDate.setFullYear(parseInt(y));
-        itemDate.setHours(0,0,0,0);
+    if (maxDate && maxDate !== "null" && maxDate !== "") {
+        const [Y, M, D] = maxDate.split("-").map(Number);
+        const maxLocal = new Date(Y, M - 1, D, 23, 59, 59, 999);
 
-
-
-        let setDate = new Date(maxDate);
-        setDate.setTime(setDate.getTime() + 86400000);
-        setDate.setHours(0,0,0,0);
-
-        console.log("item date", itemDate, "set date", setDate);
-
-        if (itemDate.getTime() > setDate.getTime()) {
+        if (itemDate > maxLocal){
             return false;
         }
     }

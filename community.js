@@ -168,39 +168,25 @@ function createCommunityElements(filters, minDate, maxDate){
                 
             });
 }
-function filterItems(item, filters, minDate, maxDate){
+function filterItems(item, filters, minDate, maxDate, searchQuery){
     let createDiv = true;
-    if (minDate != "null") {
-        const [m, d, y] = item.date.split(" ");
+    const [m, d, y] = item.date.split(" ").map(Number);
+    const itemDate = new Date(y, m - 1, d, 0, 0, 0, 0);
 
-        let itemDate = new Date();
-        itemDate.setMonth(parseInt(m) - 1);
-        itemDate.setDate(parseInt(d));
-        itemDate.setFullYear(parseInt(y));
+    if (minDate && minDate !== "null" && minDate !== "") {
+        const [Y, M, D] = minDate.split("-").map(Number);
+        const minLocal = new Date(Y, M - 1, D, 0, 0, 0, 0);
 
-        let setDate = new Date(minDate);
-        setDate.setTime(setDate.getTime())
-
-        console.log("item date", itemDate, "set date", setDate);
-
-        if (itemDate.getTime() < setDate.getTime()) {
+        if (itemDate < minLocal){
             return false;
         }
     }
-    if (maxDate != "null") {
-        const [m, d, y] = item.date.split(" ");
 
-        let itemDate = new Date();
-        itemDate.setMonth(parseInt(m) - 1);
-        itemDate.setDate(parseInt(d));
-        itemDate.setFullYear(parseInt(y));
+    if (maxDate && maxDate !== "null" && maxDate !== "") {
+        const [Y, M, D] = maxDate.split("-").map(Number);
+        const maxLocal = new Date(Y, M - 1, D, 23, 59, 59, 999);
 
-        let setDate = new Date(maxDate);
-        setDate.setTime(setDate.getTime() + 86400000)
-
-        console.log("item date", itemDate, "set date", setDate);
-
-        if (itemDate.getTime() > setDate.getTime()) {
+        if (itemDate > maxLocal){
             return false;
         }
     }
@@ -213,6 +199,12 @@ function filterItems(item, filters, minDate, maxDate){
                 console.log(filter);
             }
         })
+    }
+
+    if(searchQuery != null){
+        if(!item.mainText.toLowerCase().includes(searchQuery.toLowerCase()) && !item.summary.toLowerCase().includes(searchQuery.toLowerCase())){
+            createDiv = false;
+        }
     }
     return createDiv;
 }
@@ -291,20 +283,9 @@ function filter(){
         }
     }
     console.log(selectedTags);
-    const communityItemsToRemove = document.getElementsByClassName("community-item");
-    const dividersToRemove = document.getElementsByClassName("divider");
-    const datesToRemove = document.getElementsByClassName("date");
+    communityContainer.innerHTML="";
     const minDate = document.getElementById("min-date-input").value;
     const maxDate = document.getElementById("max-date-input").value;
-    while(communityItemsToRemove[0]){
-        communityItemsToRemove[0].remove();
-    }
-    while(dividersToRemove[0]){
-        dividersToRemove[0].remove();
-    }
-    while(datesToRemove[0]){
-        datesToRemove[0].remove();
-    }
     itemsCreated = 0;
     if(selectedTags.length == 0){
         createCommunityElements("null", minDate, maxDate);
@@ -333,20 +314,9 @@ document.getElementById("clear-filters").addEventListener("click", () => {
         }
     }
     console.log(selectedTags);
-    const communityItemsToRemove = document.getElementsByClassName("community-item");
-    const dividersToRemove = document.getElementsByClassName("divider");
-    const datesToRemove = document.getElementsByClassName("date");
+    communityContainer.innerHTML="";
     const minDate = document.getElementById("min-date-input").value;
     const maxDate = document.getElementById("max-date-input").value;
-    while(communityItemsToRemove[0]){
-        communityItemsToRemove[0].remove();
-    }
-    while(dividersToRemove[0]){
-        dividersToRemove[0].remove();
-    }
-    while(datesToRemove[0]){
-        datesToRemove[0].remove();
-    }
     itemsCreated = 0;
     createCommunityElements("null", minDate, maxDate);
 })
@@ -368,20 +338,9 @@ document.getElementById("clear-dates").addEventListener("click", () => {
         }
     }
     console.log(selectedTags);
-    const communityItemsToRemove = document.getElementsByClassName("community-item");
-    const dividersToRemove = document.getElementsByClassName("divider");
-    const datesToRemove = document.getElementsByClassName("date");
+    communityContainer.innerHTML="";
     const minDate = document.getElementById("min-date-input").value;
     const maxDate = document.getElementById("max-date-input").value;
-    while(communityItemsToRemove[0]){
-        communityItemsToRemove[0].remove();
-    }
-    while(dividersToRemove[0]){
-        dividersToRemove[0].remove();
-    }
-    while(datesToRemove[0]){
-        datesToRemove[0].remove();
-    }
     itemsCreated = 0;
     if(selectedTags.length == 0){
         createCommunityElements("null", "null", "null");

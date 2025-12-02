@@ -1,6 +1,31 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Simon shares screenshot for Thanksgiving, talks Hytale's underground.",
+        "mainText": "<p class='mainTextParagraph'>With the Hytale Team on break for Thanksgiving, Simon shared a screenshot of an autumnal biome in Hytale, featuring a turkey.</p><p class='mainTextParagraph'>\n\nSimon also discussed Hytale's underground, which he says has crypts, abandoned mines, natural caves, and more. Simon says players don’t need to 'dig straight down,' and instead can just walk around and find an interesting place to start your journey down. Simon promises this will improve with World Gen v2.</p>",
+        "date": "11 27 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Features"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Thanksgiving",
+                    "https://xcancel.com/Simon_Hypixel/status/1994208893489061918?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Underground",
+                    "https://xcancel.com/simon_hypixel/status/1994245509838410128?s=61"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talks food, crafting, seasons, and more.",
         "mainText": "<p class='mainTextParagraph'>On what is now considered a relatively 'slow' news day, Simon discussed Hytale's food system - acknowledging that it's difficult to make food engaging in a game - and revealed that the team will explore mixing ingredients for food that gives unique buffs, using activity-based meals (ex: mining stew for faster swings), combat meals, feeding NPC villages, getting a quality system tied into bonuses, and/or building food mastery. At the moment, however, Simon says there's not much fun in cooking in Hytale. When asked about the usefulness of potions with the current food system, Simon explained that they can be used for instant/short duration effects for emergencies. Simon also revealed that the world is warmer in the south, and colder in the north - though it doesn't affect farming, for now.</p><p class='mainTextParagraph'>\n\nWhen asked about crafting and chests, Simon revealed that chests have different sizes, and said crafting stations interacting with chests in close proximity was added just a few weeks ago.</p><p class='mainTextParagraph'>\n\nSimon also announced that Hytale's Release Date would be revealed on <u><i>Friday, at 10AM EST</i></u>. Setting community expectations, Simon confirmed that Hytale wouldn't release before the Holidays, due to the acquisition taking 'just long enough.'</p>",
         "date": "11 26 2025",

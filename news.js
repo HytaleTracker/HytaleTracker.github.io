@@ -307,15 +307,38 @@ function createSources(){
     sourcesDiv.style.display = "inherit";
     sourcesDiv.style.opacity = "0";
     sourcesDiv.classList.remove("SourceAnimate");
+    sourcesDiv.classList.remove("sourceDissapear");
     sourcesDiv.innerHTML = "<span id='xButton' class='xButton'>X</span><h3 id='sources-header' class='sourcesHeader'>Sources: </h3>";
     
 
-    const xButton = document.getElementById("xButton");
+    const xButton = document.getElementById("xButton"); 
 
     xButton.addEventListener("click", () => {
         sourcesDiv.style.display = "none";
         lastClickedDiv = "";
     })
+
+    //make it dissapear when stop hovering
+    clickedDiv.addEventListener("mouseout", () => {
+        console.log(event.clientX, clickedDiv.getBoundingClientRect().x)
+        if(event.clientX < clickedDiv.getBoundingClientRect().x){
+            sourcesDiv.classList.add("sourceDissapear");
+            lastClickedDiv = "";
+        }
+        if(event.clientY < clickedDiv.getBoundingClientRect().y){
+            sourcesDiv.classList.add("sourceDissapear");
+            lastClickedDiv = "";
+        }
+        if(event.clientY > clickedDiv.getBoundingClientRect().bottom){
+            sourcesDiv.classList.add("sourceDissapear");
+            lastClickedDiv = "";
+        }
+        if(event.clientY > sourcesDiv.getBoundingClientRect().bottom && event.clientX > clickedDiv.getBoundingClientRect().right){
+            sourcesDiv.classList.add("sourceDissapear");
+            lastClickedDiv = "";
+        }
+    })
+    
 
 
     //desktop
@@ -365,6 +388,7 @@ function createSources(){
     })
     }
     document.getElementById("sources-div").classList.add("SourceAnimate");
+    
 
 }
 

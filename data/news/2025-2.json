@@ -1,6 +1,63 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks swamps and character models.",
+        "mainText": "<p class='mainTextParagraph'>The Hytale Team kicked the day off strong by sharing a picture of a swamp, featuring a snake partially submerged in mud - clarifying it isn't a bug. Simon also teased a 'lot more' weapon types, none of which are configured. The Sloth also teased a creative mode gameplay video coming later in the week.</p><p class='mainTextParagraph'>\n\nSlikey also confirmed that pretty much any model can be used as a player model in Singleplayer (even a talking peanut), but noted that it wouldn't carry into multiplayer, where server owners have ultimate control. When asked about using heightmaps for continents, Slikey said it would likely require modifications to generation algorithms, as Hytale doesn't directly use heightmaps.</p>",
+        "date": "11 24 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Modding",
+            "Features",
+            "Slikey"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Hytale - Swamp Screenshot",
+                    "https://xcancel.com/Hytale/status/1993004211496534514?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Buddha - Sinking in mud",
+                    "https://xcancel.com/ItsBuddhaCat/status/1993040588439183704?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Weapons",
+                    "https://xcancel.com/Simon_Hypixel/status/1993000484806836469?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Creative Mode tease",
+                    "https://xcancel.com/Simon_Hypixel/status/1993093758888689997?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Slikey - SP Character Models",
+                    "https://xcancel.com/slikey_dev/status/1993078766088933403?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Slikey - MP Character Models",
+                    "https://xcancel.com/slikey_dev/status/1993080354215997916?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Slikey - Heightmaps and Continents",
+                    "https://xcancel.com/slikey_dev/status/1993108714623320525?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talks features, modding, and Support-A-Creator Program.",
         "mainText": "<p class='mainTextParagraph'>Taking to Twitter, Simon confirmed that a 'quick version' of backpacks do exist in Hytale, and announced a creative mode blogpost would be coming in the same week - teasing rulers and laser pointers. Simon also shared a map screenshot of an Outlander village, showcasing multiple death waypoints, a manually set waypoint, and a home icon. When a user complimented the generation of icebergs in the screenshot, Simon stated that the generation was <i>old world gen,</i> teasing the <i>new</i> world gen. Wrapping up the day's gameplay tweets, Simon confirmed the team would be showcasing content for the casual/farming community in the near future.</p><p class='mainTextParagraph'>\n\nDiscussing modding potential, Simon confirmed that dig speed, tool powers, loot distribution, and more can be edited while the game is running, along with WorldGen!</p><p class='mainTextParagraph'>\n\nSimon also made one major announcement - an official Support-A-Creator revenue share program for Hytale, with followers able to use Creator Codes. In a followup, Simon confirmed smaller community members will get a chance in the program.</p>",
         "date": "11 23 2025",

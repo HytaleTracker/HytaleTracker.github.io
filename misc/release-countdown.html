@@ -718,8 +718,10 @@
             window.onmousemove = function (e) {
                 if (!e) e = window.event;
                 if (e.shiftKey) {
-                    document.getElementById("container").style.position = "absolute";
-                    dragElement(document.getElementById("container"));
+                    if (e.ctrlKey) {
+                        document.getElementById("container").style.position = "absolute";
+                        dragElement(document.getElementById("container"));
+                    }
                     if (e.altKey) {
                         document.getElementById("hytaleLogo").style.display = "none";
                     }

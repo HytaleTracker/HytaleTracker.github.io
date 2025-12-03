@@ -1,6 +1,57 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks performance, and Reddoons shares an exclusive clip.",
+        "mainText": "<p class='mainTextParagraph'>When asked questions about Hytale's client and server performance, Slikey confirmed that the analysis was almost finished, and details would be shared soon.</p><p class='mainTextParagraph'>\n\nReddoons also shared an exclusive gameplay clip, which featured Kweebecs being shot with a pistol while inside one of their village.</p>",
+        "date": "11 28 2025",
+        "tags": [
+            "Tweet",
+            "Community",
+            "Slikey"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Slikey - Client/Server Performance",
+                    "https://xcancel.com/slikey_dev/status/1994539189724234152?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Reddoons - Exclusive Clip of Kweebecs",
+                    "https://xcancel.com/reddoons/status/1994607107505885637#m"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "The Hytale Team announces Early Access launch, pre-order dates.",
+        "mainText": "<p class='mainTextParagraph'>Following Simon's announcement from the day prior, The Hytale Team announced that the game would launch it's early access on <u><b><i>January 13th, 2026</i></b></u>, with pre-orders launching a month prior, on <u><b><i>December 13th, 2025</i></b></u>.</p>",
+        "date": "11 28 2025",
+        "tags": [
+            "Statement",
+            "Business",
+            "Early Access",
+            "Hytale"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Hytale - Early Access Launch Date",
+                    "https://xcancel.com/Hytale/status/1994421030991904777?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Hytale - Pre-Order Date",
+                    "https://xcancel.com/Hytale/status/1994421159467573500?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon shares screenshot for Thanksgiving, talks Hytale's underground.",
         "mainText": "<p class='mainTextParagraph'>With the Hytale Team on break for Thanksgiving, Simon shared a screenshot of an autumnal biome in Hytale, featuring a turkey.</p><p class='mainTextParagraph'>\n\nSimon also discussed Hytale's underground, which he says has crypts, abandoned mines, natural caves, and more. Simon says players don’t need to 'dig straight down,' and instead can just walk around and find an interesting place to start your journey down. Simon promises this will improve with World Gen v2.</p>",
         "date": "11 27 2025",

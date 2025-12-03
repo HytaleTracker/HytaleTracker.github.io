@@ -1,6 +1,312 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Paris, re: KC sharing his first ever Hytale video",
+    "mainText": "'Thank u'",
+    "date": "12 2 2025",
+    "tags": [
+      "Paris",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://vxtwitter.com/OctrDev/status/1996039335649427850?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Official Discord hitting 200K",
+    "mainText": "'We have many surprises for the discord community coming up!'",
+    "date": "12 2 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1996038352500638052?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Hytale Discord cosmetics",
+    "mainText": "'😯😯😯'",
+    "date": "12 2 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/1996037896244265442?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Blockbench Hytale plugin",
+    "mainText": "'Still working on it, we will post it as soon as it is ready.'",
+    "date": "12 2 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Modding",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1996001929126645877?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: cubic chunks",
+    "mainText": "'This doesn't require the 32x32x32 implementation we get asked about. We can do that with sparse column loading and in fact the client receives sections and not columns to prioritize over world data.'",
+    "date": "12 2 2025",
+    "tags": [
+      "Slikey",
+      "World Generation",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1996001310445822056?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: texture packs",
+    "mainText": "'You can change textures in single player already. The rest is subject of future plans.'",
+    "date": "12 2 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Modding",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1996000782357815592?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: chunks in Hytale",
+    "mainText": "'The chunks are sectioned into 32x32x32 but we always load the entire vertical column of 10 sections. This will eventually be changed but there are a bunch of things we need to tackle first. The client and server also act differently here. I don't really understand why people care so much lol. It's really an implementation detail that barely matters for expected gameplay benefits.'\n\n(Cubic Chunks confirmed!)",
+    "date": "12 2 2025",
+    "tags": [
+      "Slikey",
+      "World Generation",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1996000329142353954?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: OST on Spotify",
+    "mainText": "'It's coming:) at some point. Working on it!'",
+    "date": "12 2 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1995959013054578962?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Linux support",
+    "mainText": "'The Linux community doesn't make it easy. There are a lot of polar-opposite opinions being thrown our way and it's honestly quite frustrating. lol'",
+    "date": "12 2 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1995933151630344484?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying their potato can run Hytale",
+    "mainText": "'yeah'",
+    "date": "12 2 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1995933089433092482?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hawkon saying it's been a hell of a journey",
+    "mainText": "'yeah'",
+    "date": "12 2 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1995891712703758431?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: using WINE for Linux",
+    "mainText": "'I'll check with the team, current plan of attack still remains a native build but we can toss in a test on a team member's Linux machines.'",
+    "date": "12 2 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1995849311280922641?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: compiling natively for Hytale",
+    "mainText": "'Yeah, we made sure that we are using libraries that exist on pretty much every platform - just the past debt to solve now.'",
+    "date": "12 2 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey_dev/status/1995820200780804186?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: pet mechanics",
+    "mainText": "'None of this exists, but will eventually exist :)'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1995731281775083875?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hytale Hopium meme",
+    "mainText": "'this was my desktop wallpaper for a few months lol'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1995709969031680461?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares Early Access fanart",
+    "mainText": "'We’re coming home. \r\n\r\nHytale Early Access\r\nJanuary 13, 2026\r\n\r\nArt by the great @CrimzonKrow'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "Early Access",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1995707979232886950?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: preorder benefits",
     "mainText": "'this week'",
     "date": "12 1 2025",
@@ -1179,7 +1485,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon talks about World Gen v2",
-    "mainText": "'Everything shown in Hytale so far is World Gen v1, developed in 2017-2020.\r\n\r\nCan't wait for you all to see what World Gen v2 is capable of, it's already being used in-game outside of the world you spawn in... we have not shown any of it, no screenshots or videos yet, soon you will see :)\r\n\r\nAs you know, I have been very honest about the game state, saying how it is and how not good it is. \r\nThis time, no exaggeration: this new World Gen will redefine the block game genre.\r\nHytale might not be a good game yet, but that world gen v2 is years ahead of everything available. The potential is beyond imagination.\r\n\r\nEveryone, even non-devs, will be able to edit World Gen v2. World Gen artists will be a thing. Blog post coming soon, it's a big one. Be prepared. We are putting the world's creations in the hands of creatives.'",
+    "mainText": "'Everything shown in Hytale so far is World Gen v1, developed in 2017-2020.\n\nCan't wait for you all to see what World Gen v2 is capable of, it's already being used in-game outside of the world you spawn in... we have not shown any of it, no screenshots or videos yet, soon you will see :)\n\nAs you know, I have been very honest about the game state, saying how it is and how not good it is. \nThis time, no exaggeration: this new World Gen will redefine the block game genre.\nHytale might not be a good game yet, but that world gen v2 is years ahead of everything available. The potential is beyond imagination.\n\nEveryone, even non-devs, will be able to edit World Gen v2. World Gen artists will be a thing. Blog post coming soon, it's a big one. Be prepared. We are putting the world's creations in the hands of creatives.'",
     "date": "11 30 2025",
     "tags": [
       "Simon",

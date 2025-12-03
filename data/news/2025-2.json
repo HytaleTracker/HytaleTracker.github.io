@@ -1,6 +1,44 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks redesigned Kweebecs, gliders, and tech.",
+        "mainText": "<p class='mainTextParagraph'>On another slow news day, Simon confirmed the New Kweebecs - the redesigned version created under Riot - will also be in Hytale, though they will come later as they require some animation work. Simon also teased glider gameplay, saying the model and animations aren't currently implemented at the time.</p><p class='mainTextParagraph'>\n\nSlikey also said hardware requirements would be shared soon, and a server owner/game server provider manual would be shared at a later point.</p>",
+        "date": "11 29 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Features",
+            "Slikey"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Redesigned Kweebecs",
+                    "https://xcancel.com/Simon_Hypixel/status/1994734285971234974?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Glider Gameplay",
+                    "https://xcancel.com/Simon_Hypixel/status/1994759218302439561?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Slikey - Hardware Requirements",
+                    "https://xcancel.com/slikey_dev/status/1994931786263261661?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Slikey - Server Provider Manual",
+                    "https://xcancel.com/slikey_dev/status/1994965646732660773?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talks performance, and Reddoons shares an exclusive clip.",
         "mainText": "<p class='mainTextParagraph'>When asked questions about Hytale's client and server performance, Slikey confirmed that the analysis was almost finished, and details would be shared soon.</p><p class='mainTextParagraph'>\n\nReddoons also shared an exclusive gameplay clip, which featured Kweebecs being shot with a pistol while inside one of their village.</p>",
         "date": "11 28 2025",

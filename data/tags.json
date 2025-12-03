@@ -27,7 +27,8 @@
             "PXL_Panda",
             "Oscar Garvin",
             "DepNether",
-            "Mewen"
+            "Mewen",
+            "BuddhaCat"
         ]
     },
     {
@@ -52,6 +53,10 @@
                 ],
                 "Hytale Tracker": [
                     "#57263A"
+                ],
+                "BuddhaCat": [
+                    "ffe800",
+                    "000000"
                 ]
             }
         ]

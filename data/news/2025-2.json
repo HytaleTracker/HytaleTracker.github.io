@@ -1,6 +1,139 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks performance, and Reddoons shares an exclusive clip.",
+        "mainText": "<p class='mainTextParagraph'>When asked questions about Hytale's client and server performance, Slikey confirmed that the analysis was almost finished, and details would be shared soon.</p><p class='mainTextParagraph'>\n\nReddoons also shared an exclusive gameplay clip, which featured Kweebecs being shot with a pistol while inside one of their village.</p>",
+        "date": "11 28 2025",
+        "tags": [
+            "Tweet",
+            "Community",
+            "Slikey"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Slikey - Client/Server Performance",
+                    "https://xcancel.com/slikey_dev/status/1994539189724234152?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Reddoons - Exclusive Clip of Kweebecs",
+                    "https://xcancel.com/reddoons/status/1994607107505885637#m"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "The Hytale Team announces Early Access launch, pre-order dates.",
+        "mainText": "<p class='mainTextParagraph'>Following Simon's announcement from the day prior, The Hytale Team announced that the game would launch it's early access on <u><b><i>January 13th, 2026</i></b></u>, with pre-orders launching a month prior, on <u><b><i>December 13th, 2025</i></b></u>.</p>",
+        "date": "11 28 2025",
+        "tags": [
+            "Statement",
+            "Business",
+            "Early Access",
+            "Hytale"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Hytale - Early Access Launch Date",
+                    "https://xcancel.com/Hytale/status/1994421030991904777?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Hytale - Pre-Order Date",
+                    "https://xcancel.com/Hytale/status/1994421159467573500?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "Simon shares screenshot for Thanksgiving, talks Hytale's underground.",
+        "mainText": "<p class='mainTextParagraph'>With the Hytale Team on break for Thanksgiving, Simon shared a screenshot of an autumnal biome in Hytale, featuring a turkey.</p><p class='mainTextParagraph'>\n\nSimon also discussed Hytale's underground, which he says has crypts, abandoned mines, natural caves, and more. Simon says players don’t need to 'dig straight down,' and instead can just walk around and find an interesting place to start your journey down. Simon promises this will improve with World Gen v2.</p>",
+        "date": "11 27 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Features"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Thanksgiving",
+                    "https://xcancel.com/Simon_Hypixel/status/1994208893489061918?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Underground",
+                    "https://xcancel.com/simon_hypixel/status/1994245509838410128?s=61"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks food, crafting, seasons, and more.",
+        "mainText": "<p class='mainTextParagraph'>On what is now considered a relatively 'slow' news day, Simon discussed Hytale's food system - acknowledging that it's difficult to make food engaging in a game - and revealed that the team will explore mixing ingredients for food that gives unique buffs, using activity-based meals (ex: mining stew for faster swings), combat meals, feeding NPC villages, getting a quality system tied into bonuses, and/or building food mastery. At the moment, however, Simon says there's not much fun in cooking in Hytale. When asked about the usefulness of potions with the current food system, Simon explained that they can be used for instant/short duration effects for emergencies. Simon also revealed that the world is warmer in the south, and colder in the north - though it doesn't affect farming, for now.</p><p class='mainTextParagraph'>\n\nWhen asked about crafting and chests, Simon revealed that chests have different sizes, and said crafting stations interacting with chests in close proximity was added just a few weeks ago.</p><p class='mainTextParagraph'>\n\nSimon also announced that Hytale's Release Date would be revealed on <u><i>Friday, at 10AM EST</i></u>. Setting community expectations, Simon confirmed that Hytale wouldn't release before the Holidays, due to the acquisition taking 'just long enough.'</p>",
+        "date": "11 26 2025",
+        "tags": [
+            "Statement",
+            "Simon",
+            "Tweet",
+            "Early Access",
+            "Features"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Difficult to make food engaging",
+                    "https://xcancel.com/Simon_Hypixel/status/1993637634069971318?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Exploring Food Systems",
+                    "https://xcancel.com/Simon_Hypixel/status/1993635933636235422?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Cooking in Hytale",
+                    "https://xcancel.com/Simon_Hypixel/status/1993636817501851727?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Potions",
+                    "https://xcancel.com/Simon_Hypixel/status/1993637319404929120?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - Seasons",
+                    "https://xcancel.com/Simon_Hypixel/status/1993836460559016227?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Simon - Crafting/Chests",
+                    "https://xcancel.com/Simon_Hypixel/status/1993816018528162198?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Simon - Release Date Announcement... announcement",
+                    "https://xcancel.com/Simon_Hypixel/status/1993830322006302889?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team discusses gameplay systems, zones, Creative Mode blog.",
         "mainText": "<p class='mainTextParagraph'>Simon started the day by stating that trap fishing might be able to be added to compensate for not currently having proper fishing. Answering a user's query about seasonal content, Simon confirmed he had personally made a new crafting bench with all seasonal content just two days prior. When asked about cooking systems, Simon said there previously wasn't a cooking system, and a 'v1' is being worked on. Simon would later release a statement, confirming the WIP assembly of a dedicated team for 'cozy' content, such as building cute homes, caring for animals, and cooking.</p><p class='mainTextParagraph'>\n\nDiscussing zones, Simon confirmed players can currently only spawn in Zone 1, with Zones 2 and 3 being much more dangerous, adding that new world gen does a much better job at balancing the spawns. Alleviating a user's concerns, Simon confirmed that all zones are accessible, but crafting does slow down in order to prevent skipping to late zones. Simon also stated that the goal is to keep all zones relevant throughout the whole game, in order to give players a true exploration experience.</p><p class='mainTextParagraph'>\n\nWhen asked about Zones 5 and 6, Simon sadly confirmed that they don't exist at the moment - though they might revisit the zones in the future, with new world gen.</p><p class='mainTextParagraph'>\n\nThe Hytale Team also shared a new blogpost, dedicated to <i><b><u>Hytale's Creative Mode.</u></b></i></p>",
         "date": "11 25 2025",

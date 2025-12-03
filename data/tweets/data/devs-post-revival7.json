@@ -1,6 +1,584 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: preorder benefits",
+    "mainText": "'this week'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "Business",
+      "Early Access"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995704872763572570?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: wait for cozy gameplay",
+    "mainText": "'Im busy working on the game, fixing up the cozy gameplay :P'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995638517192687767?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: WorldGen v2",
+    "mainText": "'Nah, I want to let the people working on world gen v2 do a proper blogpost :)'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995637989998035095?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: dotnet upgrade",
+    "mainText": "'From .NET Framework 4.7.2 straight to .NET 10'",
+    "date": "12 1 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995633262212055471?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "D.S.N., re: his NAS",
+    "mainText": "'Built my own and used Unraid for the OS'",
+    "date": "12 1 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1995618022980288571?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "D.S.N., re: his 102TB drive",
+    "mainText": "'Its my NAS, I use it for storing all sorts of files, backups and Linux ISOs'",
+    "date": "12 1 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1995617498478284928?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Oasis biome screenshot",
+    "mainText": "'I’m holding myself to not post the one from gen 2 😭'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Tech",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995615254831833421?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: thoughts on hardware testing",
+    "mainText": "'We are pretty happy. I think we are offering a good package with specs we can take even further into the future. The hardware you need for this game can be easily purchased used on eBay for a reasonable amount. Hytale is much more accessible than other games coming out today.'",
+    "date": "12 1 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995614098734895282?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "D.S.N., re: 'can I borrow some storage'",
+    "mainText": "'I got u (IMG: Hytale drive - 18.9TB free of 102TB)'",
+    "date": "12 1 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1995613867913990393?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Hytale on Proton on Linux",
+    "mainText": "'We won't recommend it or really put effort in testing it - we rather work on bringing it natively. There are too many factors in virtualization and results vary too much to really say anything reliable.'",
+    "date": "12 1 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995609350002593855?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Lyall, re: Hawkon commenting that the blog is thorough",
+    "mainText": "'What can I say; I'm lucky to be working with the most talented folks in the industry :)'",
+    "date": "12 1 2025",
+    "tags": [
+      "Lyall",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Lyall",
+          "https://xcancel.com/Lyall_PD/status/1995603629504700627?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: 'negatively affect your immersion'",
+    "mainText": "'It's simply not the standard and you risk that you may not be as surprised or so. I personally enjoy larger view distances too but it's really up to personal preference and we just design around our recommended view distance so that the game is most enjoyable for most users.'",
+    "date": "12 1 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995602555188216227?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user offering to test for Mac",
+    "mainText": "'No'",
+    "date": "12 1 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995591139240649016?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: what's preventing a port to Linux/macOS",
+    "mainText": "'There is a very old version of CoherentUI in the codebase which we replace with Noesis but we need to convert some things from that old framework in order to not break the game\r\n'",
+    "date": "12 1 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995589952378470669?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: auto-detecting hardware",
+    "mainText": "'We have some auto detection based on hardware readout to give you sensible defaults but you will have to go beyond 384 yourself. We design the game and play it with 384 view distance, so going beyond that can negatively affect your immersion in favor for eye candy.'",
+    "date": "12 1 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995589627781185855?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: SSD vs HDD",
+    "mainText": "'You are likely fine if you use a fast / modern HDD but we really don't want to recommend it due to the fragmentation issue on HDDs.'",
+    "date": "12 1 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995586191031484543?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: GPU acceleration for chunk generation",
+    "mainText": "'Not worth it. World generation needs to run on servers and modern SIMD instructions are a sweet compromise that get incredible performance without the need for a GPU and thus limits platforms or waste dev time on 2 implementations.'",
+    "date": "12 1 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "World Generation",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995585858398028146?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: world folders",
+    "mainText": "'damn lol, tbh easy to add post launch'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995578735517729237?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: request for world folders",
+    "mainText": "'In the future UI/UX we will consider yes'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995577603579846773?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shows world selection screen",
+    "mainText": "'All menus/UI will be reworked post-launch, but this is what it looks like when you first open the game. The background has variants (RNG). (IMAGES)'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "Screenshot",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995569958701736080?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares two screenshots of Hytale main menu",
+    "mainText": "'IMAGES'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "Screenshot",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995567186723963111?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: communicating while acquiring Hytale",
+    "mainText": "'It’s probably why I had to pay way more than I was expecting 😅'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995561083403432047?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Lyall, re: blogpost",
+    "mainText": "'Since system requirements was one of the most asked questions in the past month, Slikey went ahead and gotten an answer for all of you.'",
+    "date": "12 1 2025",
+    "tags": [
+      "Lyall",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Lyall",
+          "https://xcancel.com/Lyall_PD/status/1995560967791575371?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: VRAM for recommended specs",
+    "mainText": "'2GB min, 4GB recommended'",
+    "date": "12 1 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995559899166863556?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: view distance on high preset",
+    "mainText": "'384 blocks but you can try higher and it will probably work fine until you run out of RAM'",
+    "date": "12 1 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995559234218684782?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: view distance",
+    "mainText": "'768 is the safe limit but you can go to 1024 which will be demanding but works for higher end PCs with enough RAM.'",
+    "date": "12 1 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995558779203805603?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Mac/Linux Support",
+    "mainText": "'RE: Mac & Linux Support\r\n\r\nAs the blog post lays out, we are actively working right now on Mac and Linux support. Let me explain the reason for us not being able to commit to a timeline yet.\r\n\r\nWhen we build an application, we have to \"compile\" it. With that we have to make sure every single library / software dependency we use is also compiling.\r\n\r\nWe are finishing up ripping out the last library that currently prevents us from compiling for Mac & Linux (x64 / arm64). \r\n\r\nOnce that is done, we can compile for Mac & Linux. But only then we can actually see if it works correctly and what bugs there are. We need to fix anything coming up and it is not estimate-able right now.\r\n\r\nIf there are no roadblocks during that final testing stage, we may be able to launch with support. If not, we need more time to fix those bugs. \r\n\r\nWe simply can't predict what the outcome is but as soon as we know, we will let you know and we will keep you in the loop to make sure you are aware when we have more data.'",
+    "date": "12 1 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1995556742944477344?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "D.S.N. shares Tech Requirements post",
+    "mainText": "'Is your PC ready to curse break?'",
+    "date": "12 1 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1995554887170469987?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares Hardware Requirements blogpost",
+    "mainText": "'In today’s blog post, we discuss the PC performance and system requirements for Hytale!\r\nWe outline what was tested so far, why certain hardware matters, and the current minimum, recommended, and recording/streamer system requirements. #Hytale \r\nhttps://hytale.com/news/2025/12/hytale-hardware-requirements\r'",
+    "date": "12 1 2025",
+    "tags": [
+      "Hytale",
+      "General",
+      "Tech",
+      "Blogpost"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/1995553698177552420?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: main menu of Hytale",
+    "mainText": "'Not going to spend much time on menus/ui right now, need to fix the game first! We are going to use what was ingame at the time, we will revisit all menus/UI much later!'",
+    "date": "12 1 2025",
+    "tags": [
+      "Simon",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1995549135345221906?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: saying game isn't good",
     "mainText": "'me: game is not good yet\r\ncommunity: its marketing strategy \r\nmainstream: its marketing strategy\r\n\r\nI can’t 😂'",
     "date": "12 1 2025",

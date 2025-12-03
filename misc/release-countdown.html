@@ -272,6 +272,9 @@
                                 <button id="clearCustomBackground">Clear</button>
                             </div>
                         </div>
+                        <button id="setDraggable">Toggle Draggable</button>
+                        <button id="removeLogo">Toggle Logo</button>
+                        <button id="resetDefault">Reset to default</button>
                         
                     </div>
                     <button id="toggleExtras">Toggle Extras</button>
@@ -701,61 +704,124 @@
                 bouncesNumber.textContent = bouncesHyScore;
             }
 
+
+            const container = document.getElementById("container");
+
             document.addEventListener("DOMContentLoaded", () => {
-                const wallpaperInput = document.getElementById("customBackground");
-                wallpaperInput.addEventListener("change", () => {
-                    const files = wallpaperInput.files;
-                    const imageUrl = URL.createObjectURL(files[0]);
-                    document.body.style.backgroundImage = `url('${imageUrl}')`;
-                })
-                const clearCustomBackground = document.getElementById("clearCustomBackground");
-                clearCustomBackground.addEventListener("click", () => {
-                    document.body.style.backgroundImage = "url('https://hytale.com/static/countdown/bg.jpg')";
-                })
+            const wallpaperInput = document.getElementById("customBackground");
+            const clearCustomBackground = document.getElementById("clearCustomBackground");
+
+            const savedBG = localStorage.getItem("customBackground");
+            if (savedBG) {
+                document.body.style.backgroundImage = `url('${savedBG}')`;
+            }
+            if(getCookie("x") && getCookie("y")){
+                container.style.position = "absolute";
+                container.style.left = getCookie("x");
+                container.style.top = getCookie("y");
+            }
+            const logoCookie = getCookie("logo");
+            if (logoCookie) {
+                document.getElementById("hytaleLogo").style.display = (logoCookie === "true") ? "inherit" : "none";
+            } else {
+                document.getElementById("hytaleLogo").style.display = "inherit";
+            }
+
+            wallpaperInput.addEventListener("change", () => {
+                const file = wallpaperInput.files[0];
+                if (!file) return;
+
+                const reader = new FileReader();
+                reader.onload = () => {
+                    const dataURL = reader.result;
+                    localStorage.setItem("customBackground", dataURL);
+                    document.body.style.backgroundImage = `url('${dataURL}')`;
+                };
+                reader.readAsDataURL(file);
+            });
+
+            clearCustomBackground.addEventListener("click", () => {
+                localStorage.removeItem("customBackground");
+                document.body.style.backgroundImage = "url('https://hytale.com/static/countdown/bg.jpg')";
+            });
+        });
+
+            
+            
+            let Draggable = false;
+
+
+            dragElement(container);
+
+            function setDraggableEnabled(enable) {
+                Draggable = enable;
+
+                container.style.cursor = enable ? "move" : "default";
+                container.style.position = enable ? "absolute" : "inherit";
+                if(enable){
+                    container.style.left = getCookie("x") || 0;
+                    container.style.top = getCookie("y") || 0;
+                }
+            }
+
+            document.getElementById("setDraggable")
+                .addEventListener("click", () => setDraggableEnabled(!Draggable));
+
+            setDraggableEnabled(false);
+
+            function dragElement(el) {
+                let offsetX = 0, offsetY = 0;
+
+                el.addEventListener("mousedown", e => {
+                    if (!Draggable) return;
+
+                    offsetX = e.clientX - parseInt(el.style.left);
+                    offsetY = e.clientY - parseInt(el.style.top);
+
+                    document.addEventListener("mousemove", mousemove);
+                    document.addEventListener("mouseup", mouseup);
+                });
+
+                function mousemove(e) {
+                    if (!Draggable) return;
+
+                    el.style.left = (e.clientX - offsetX) + "px";
+                    el.style.top  = (e.clientY - offsetY) + "px";
+                }
+
+                function mouseup() {
+                    document.removeEventListener("mousemove", mousemove);
+                    document.removeEventListener("mouseup", mouseup);
+                    setCookie("x", el.style.left, 30);
+                    setCookie("y", el.style.top, 30);
+                }
+            }
+
+            const hytaleLogo = document.getElementById("hytaleLogo");
+            const toggleHytaleLogo = document.getElementById("removeLogo");
+
+            toggleHytaleLogo.addEventListener("click", () => {
+                console.log("test", hytaleLogo);
+                if(hytaleLogo.style.display == "none"){
+                    hytaleLogo.style.display = "inherit";
+                    setCookie("logo", true, 30);
+                }else{
+                    hytaleLogo.style.display = "none";
+                    setCookie("logo", false, 30);
+                }
             })
-            
-            
-            window.onmousemove = function (e) {
-                if (!e) e = window.event;
-                if (e.shiftKey) {
-                    document.getElementById("container").style.position = "absolute";
-                    dragElement(document.getElementById("container"));
-                    if (e.altKey) {
-                        document.getElementById("hytaleLogo").style.display = "none";
-                    }
-                }
-            }
-            
-            function dragElement(elmnt) {
-                let pos1 = 0, pos2 = 0;
 
-                elmnt.onmousedown = function(e) {
-                    e.preventDefault();
-                    
-                    pos1 = e.clientX - elmnt.offsetLeft;
-                    pos2 = e.clientY - elmnt.offsetTop;
-                    
-                    document.onmouseup = closeDragElement;
-                    document.onmousemove = elementDrag;
-                }
+            const resetButton = document.getElementById("resetDefault");
 
-                function elementDrag(e) {
-                    e.preventDefault();
-                    let newLeft = e.clientX - pos1;
-                    let newTop = e.clientY - pos2;
-
-                    elmnt.style.left = newLeft + "px";
-                    elmnt.style.top = newTop + "px";
-                }
-
-                function closeDragElement() {
-                    document.onmouseup = null;
-                    document.onmousemove = null;
-                }
-            }
-
-
-
+            resetButton.addEventListener("click", () => {
+                hytaleLogo.style.display = "inherit";
+                setDraggableEnabled(false);
+                document.body.style.backgroundImage = "url('https://hytale.com/static/countdown/bg.jpg')";
+                localStorage.removeItem("customBackground");
+                setCookie("x", null, -1);
+                setCookie("y", null, -1);
+                setCookie("logo", null, -1);
+            })
 
 
         </script>

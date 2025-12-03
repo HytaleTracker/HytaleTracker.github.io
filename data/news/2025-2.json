@@ -1,6 +1,87 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks Gliders, Scaraks, and World Gen v2.",
+        "mainText": "<p class='mainTextParagraph'>Starting the day off strong, The Hytale Team shared official in-dev gameplay of gliders, with Simon sharing that momentum, wind effects/sounds, animations, and more updates will be made in Early Access. Simon also confirmed that the redesigned Scaraks will eventually be implemented into the game, separate from the originals.</p><p class='mainTextParagraph'>\n\nOn the technical side of Hytale, Slikey announced that Hytale's Hardware Requirements would be shared on <u><i>Monday, at 1 PM EST</i></u>, and also confirmed Hytale does support ultrawide monitors. Discussing the node graph with world generation result on the modding blog post, Slikey confirmed it was real and functional, and even though it was still a prototype, it would be fully usable on day one.</p><p class='mainTextParagraph'>\n\nIn a standalone Twitter post, Simon teased Hytale's <i>World Gen v2</i>, boldly stating that the new World Gen would <b><u>redefine the block game genre</u></b>, and promised a dedicated blog post 'coming soon,' most likely in early/mid December. Simon went on to state that the new world gen is separate from v1, and will be slowly introduced before a 'big entrance' later on, with more and more content using it after early access launch. In a reply to Myne, Simon stated the big difference between v2 and Minecraft world gen mods is that artists can learn to use world gen v2.</p>",
+        "date": "11 30 2025",
+        "tags": [
+            "Simon",
+            "Early Access",
+            "Features",
+            "Slikey",
+            "Hytale"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Hytale - Glider Gameplay",
+                    "https://xcancel.com/Hytale/status/1995169902756327816?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Notes on Gliders",
+                    "https://xcancel.com/Simon_Hypixel/status/1995182083602583642?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Scarak Redesign",
+                    "https://xcancel.com/Simon_Hypixel/status/1995166106785579363?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Slikey - Hardware Requirements Post",
+                    "https://xcancel.com/slikey_dev/status/1995245366636380659?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Slikey - Ultrawide",
+                    "https://xcancel.com/slikey_dev/status/1995089933024075832?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Slikey - Node Graph",
+                    "https://xcancel.com/slikey_dev/status/1995341419523752201?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Simon - World Gen v2",
+                    "https://xcancel.com/Simon_Hypixel/status/1995231684804182052?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Simon - Blog in early/mid December",
+                    "https://xcancel.com/Simon_Hypixel/status/1995232111301931322?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Simon - v1 and v2 are separate",
+                    "https://xcancel.com/Simon_Hypixel/status/1995233398089195973?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Simon - Content using v2 after launch",
+                    "https://xcancel.com/Simon_Hypixel/status/1995235366660723126?s=20"
+                ]
+            },
+            {
+                "11": [
+                    "Simon - World Gen Artists",
+                    "https://xcancel.com/Simon_Hypixel/status/1995237861713658097?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talks redesigned Kweebecs, gliders, and tech.",
         "mainText": "<p class='mainTextParagraph'>On another slow news day, Simon confirmed the New Kweebecs - the redesigned version created under Riot - will also be in Hytale, though they will come later as they require some animation work. Simon also teased glider gameplay, saying the model and animations aren't currently implemented at the time.</p><p class='mainTextParagraph'>\n\nSlikey also said hardware requirements would be shared soon, and a server owner/game server provider manual would be shared at a later point.</p>",
         "date": "11 29 2025",

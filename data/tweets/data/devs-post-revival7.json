@@ -1,6 +1,158 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Prowl talking about baby dragons in Hytale",
+    "mainText": "'They are not babies, but they got baby bird brains for sure right now lol'",
+    "date": "12 3 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1996229429341606306?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user's specs",
+    "mainText": "'Thats far below the minimum requirements we gave out tho.'",
+    "date": "12 3 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1996229281467220451?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: compatability with ARM architectures",
+    "mainText": "'Working on the build pipeline at the moment, we plan to support arm64.'",
+    "date": "12 3 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1996226569660932505?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: WorldGen v2 potentially impacting performance",
+    "mainText": "'Performance has gotten better over the last 3 months, not worse.'",
+    "date": "12 3 2025",
+    "tags": [
+      "Slikey",
+      "World Generation",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1996208778983931971?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: hypothetical video about building cheap PC",
+    "mainText": "'It would be Scrapyard Wars: Hytale Edition'",
+    "date": "12 3 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1996208579913949288?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: cheapest PC build",
+    "mainText": "'I found parts on eBay for less than $200 USD to build a complete PC. Another $50 gets me a monitor, mouse and keyboard :x'",
+    "date": "12 3 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1996208143026799010?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: system requirements",
+    "mainText": "'So, you had some time to digest the Hytale system requirements. What is the cheapest PC you can build from used parts to play it? I tried myself but haven't seen someone else 😅'",
+    "date": "12 3 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1996190171281469929?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: the vibe in the Hytale Team",
+    "mainText": "'Better because we have a release date and are more determined than ever.'",
+    "date": "12 2 2025",
+    "tags": [
+      "Slikey",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1996060338765398042?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Paris, re: KC sharing his first ever Hytale video",
     "mainText": "'Thank u'",
     "date": "12 2 2025",
@@ -12,7 +164,7 @@
       {
         "1": [
           "tweet by Paris",
-          "https://vxtwitter.com/OctrDev/status/1996039335649427850?s=20"
+          "https://xcancel.com/OctrDev/status/1996039335649427850?s=20"
         ]
       }
     ]
@@ -33,7 +185,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1996038352500638052?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1996038352500638052?s=20"
         ]
       }
     ]
@@ -51,7 +203,7 @@
       {
         "1": [
           "tweet by BuddhaCat",
-          "https://vxtwitter.com/ItsBuddhaCat/status/1996037896244265442?s=20"
+          "https://xcancel.com/ItsBuddhaCat/status/1996037896244265442?s=20"
         ]
       }
     ]
@@ -71,7 +223,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1996001929126645877?s=20"
+          "https://xcancel.com/slikey_dev/status/1996001929126645877?s=20"
         ]
       }
     ]
@@ -90,7 +242,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1996001310445822056?s=20"
+          "https://xcancel.com/slikey_dev/status/1996001310445822056?s=20"
         ]
       }
     ]
@@ -110,7 +262,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1996000782357815592?s=20"
+          "https://xcancel.com/slikey_dev/status/1996000782357815592?s=20"
         ]
       }
     ]
@@ -129,7 +281,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1996000329142353954?s=20"
+          "https://xcancel.com/slikey_dev/status/1996000329142353954?s=20"
         ]
       }
     ]
@@ -147,7 +299,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1995959013054578962?s=20"
+          "https://xcancel.com/onpujam/status/1995959013054578962?s=20"
         ]
       }
     ]
@@ -166,7 +318,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1995933151630344484?s=20"
+          "https://xcancel.com/slikey_dev/status/1995933151630344484?s=20"
         ]
       }
     ]
@@ -185,7 +337,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1995933089433092482?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1995933089433092482?s=20"
         ]
       }
     ]
@@ -203,7 +355,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1995891712703758431?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1995891712703758431?s=20"
         ]
       }
     ]
@@ -222,7 +374,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1995849311280922641?s=20"
+          "https://xcancel.com/slikey_dev/status/1995849311280922641?s=20"
         ]
       }
     ]
@@ -241,7 +393,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey_dev/status/1995820200780804186?s=20"
+          "https://xcancel.com/slikey_dev/status/1995820200780804186?s=20"
         ]
       }
     ]
@@ -261,7 +413,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1995731281775083875?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1995731281775083875?s=20"
         ]
       }
     ]
@@ -281,7 +433,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1995709969031680461?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1995709969031680461?s=20"
         ]
       }
     ]
@@ -300,7 +452,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1995707979232886950?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1995707979232886950?s=20"
         ]
       }
     ]
@@ -809,7 +961,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey, re: Mac/Linux Support",
-    "mainText": "'RE: Mac & Linux Support\r\n\r\nAs the blog post lays out, we are actively working right now on Mac and Linux support. Let me explain the reason for us not being able to commit to a timeline yet.\r\n\r\nWhen we build an application, we have to \"compile\" it. With that we have to make sure every single library / software dependency we use is also compiling.\r\n\r\nWe are finishing up ripping out the last library that currently prevents us from compiling for Mac & Linux (x64 / arm64). \r\n\r\nOnce that is done, we can compile for Mac & Linux. But only then we can actually see if it works correctly and what bugs there are. We need to fix anything coming up and it is not estimate-able right now.\r\n\r\nIf there are no roadblocks during that final testing stage, we may be able to launch with support. If not, we need more time to fix those bugs. \r\n\r\nWe simply can't predict what the outcome is but as soon as we know, we will let you know and we will keep you in the loop to make sure you are aware when we have more data.'",
+    "mainText": "'RE: Mac & Linux Support\n\nAs the blog post lays out, we are actively working right now on Mac and Linux support. Let me explain the reason for us not being able to commit to a timeline yet.\n\nWhen we build an application, we have to \"compile\" it. With that we have to make sure every single library / software dependency we use is also compiling.\n\nWe are finishing up ripping out the last library that currently prevents us from compiling for Mac & Linux (x64 / arm64). \n\nOnce that is done, we can compile for Mac & Linux. But only then we can actually see if it works correctly and what bugs there are. We need to fix anything coming up and it is not estimate-able right now.\n\nIf there are no roadblocks during that final testing stage, we may be able to launch with support. If not, we need more time to fix those bugs. \n\nWe simply can't predict what the outcome is but as soon as we know, we will let you know and we will keep you in the loop to make sure you are aware when we have more data.'",
     "date": "12 1 2025",
     "tags": [
       "Slikey",
@@ -847,7 +999,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Hytale shares Hardware Requirements blogpost",
-    "mainText": "'In today’s blog post, we discuss the PC performance and system requirements for Hytale!\r\nWe outline what was tested so far, why certain hardware matters, and the current minimum, recommended, and recording/streamer system requirements. #Hytale \r\nhttps://hytale.com/news/2025/12/hytale-hardware-requirements\r'",
+    "mainText": "'In today’s blog post, we discuss the PC performance and system requirements for Hytale!\nWe outline what was tested so far, why certain hardware matters, and the current minimum, recommended, and recording/streamer system requirements. #Hytale \nhttps://hytale.com/news/2025/12/hytale-hardware-requirements\n'",
     "date": "12 1 2025",
     "tags": [
       "Hytale",

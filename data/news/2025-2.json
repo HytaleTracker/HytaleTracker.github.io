@@ -1,6 +1,45 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team discuss Linux, chunks, and Discord surprises.",
+        "mainText": "<p class='mainTextParagraph'>Discussing Hytale's supported platforms, Slikey stated that the team is using libraries that exist on 'pretty much every platform,' with only past debt left to solve. He also acknowledged potentially using WINE for Linux support, but stated the current plan is to support Linux natively.</p><p class='mainTextParagraph'>\n\nWhen discussing Hytale's chunk system, Slikey confirmed the rumored 32x32x32 figure, noting that Hytale does currently load the entire world top to bottom regardless of the 'cubic chunks' - something he said will eventually be changed.</p><p class='mainTextParagraph'>\n\nSimon also teases 'many surprises' for Hytale's Discord community.</p>",
+        "date": "12 02 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Features",
+            "Engine",
+            "Servers"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Slikey - Compiling Natively",
+                    "https://xcancel.com/slikey_dev/status/1995820200780804186?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Slikey - WINE for Linux",
+                    "https://xcancel.com/slikey_dev/status/1995849311280922641?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Slikey - Chunks",
+                    "https://xcancel.com/slikey_dev/status/1996000329142353954?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Discord Surprises",
+                    "https://xcancel.com/Simon_Hypixel/status/1996038352500638052?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team discuss Hytale's main menu, pet mechanics, and preorder benefits.",
         "mainText": "<p class='mainTextParagraph'>Talking on Twitter, Simon shared screenshots of Hytale's main menu that showed two different scenes, which he says is determined by RNG. Additionally, Simon also shared a screenshot of Hytale's 'worlds' menu, where players can create or edit their worlds. Importantly, Simon said all of Hytale's menus and UI will be reworked post-launch.</p><p class='mainTextParagraph'>\n\nSimon also shared that while Hytale doesn't yet have in-depth pet mechanics, it will eventually.</p><p class='mainTextParagraph'>\n\nSimon also confirmed pre-order benefits will be shared this week.</p>",
         "date": "12 01 2025",

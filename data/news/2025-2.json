@@ -1,6 +1,77 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team discuss Hytale's main menu, pet mechanics, and preorder benefits.",
+        "mainText": "<p class='mainTextParagraph'>Talking on Twitter, Simon shared screenshots of Hytale's main menu that showed two different scenes, which he says is determined by RNG. Additionally, Simon also shared a screenshot of Hytale's 'worlds' menu, where players can create or edit their worlds. Importantly, Simon said all of Hytale's menus and UI will be reworked post-launch.</p><p class='mainTextParagraph'>\n\nSimon also shared that while Hytale doesn't yet have in-depth pet mechanics, it will eventually.</p><p class='mainTextParagraph'>\n\nSimon also confirmed pre-order benefits will be shared this week.</p>",
+        "date": "12 01 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Early Access",
+            "Features"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Main Menu Screenshots",
+                    "https://xcancel.com/Simon_Hypixel/status/1995567186723963111?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - World Menu Screenshot",
+                    "https://xcancel.com/Simon_Hypixel/status/1995569958701736080?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Pet Mechanics",
+                    "https://xcancel.com/Simon_Hypixel/status/1995731281775083875?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Preorder Benefits",
+                    "https://xcancel.com/Simon_Hypixel/status/1995704872763572570?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "blog",
+        "summary": "The Hytale Team share the Hardware Requirements blogpost, discuss Mac/Linux support.",
+        "mainText": "<p class='mainTextParagraph'>Starting December strong, the Hytale Team shared an in-depth blogpost that revealed the minimum and recommended hardware specifications, along with recommended hardware for content creators. The blogpost also revealed that chunk sizes are 32x32, and that the game is designed around a 384 block view distance, with Slikey clarifying that while a view distance of 768 blocks is Hytale's 'safe limit,' it can be pushed to 1024.</p><p class='mainTextParagraph'>\n\nIn a separate post on Twitter, Slikey discussed Mac and Linux support, explaining that they're nearly able to fully compile Hytale on Mac & Linux, but only then can testing for those systems start. In his post, Slikey says - barring roadblocks in the testing stage - Hytale might be able to launch with support for Mac & Linux.</p>",
+        "date": "12 01 2025",
+        "tags": [
+            "Blog",
+            "Tweet",
+            "Engine",
+            "Slikey",
+            "Hytale"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Blogpost - Hardware Requirements",
+                    "https://hytale.com/news/2025/12/hytale-hardware-requirements"
+                ]
+            },
+            {
+                "2": [
+                    "Slikey - View Distance",
+                    "https://xcancel.com/slikey_dev/status/1995558779203805603?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Slikey - Mac/Linux Support",
+                    "https://xcancel.com/slikey_dev/status/1995556742944477344?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talks Gliders, Scaraks, and World Gen v2.",
         "mainText": "<p class='mainTextParagraph'>Starting the day off strong, The Hytale Team shared official in-dev gameplay of gliders, with Simon sharing that momentum, wind effects/sounds, animations, and more updates will be made in Early Access. Simon also confirmed that the redesigned Scaraks will eventually be implemented into the game, separate from the originals.</p><p class='mainTextParagraph'>\n\nOn the technical side of Hytale, Slikey announced that Hytale's Hardware Requirements would be shared on <u><i>Monday, at 1 PM EST</i></u>, and also confirmed Hytale does support ultrawide monitors. Discussing the node graph with world generation result on the modding blog post, Slikey confirmed it was real and functional, and even though it was still a prototype, it would be fully usable on day one.</p><p class='mainTextParagraph'>\n\nIn a standalone Twitter post, Simon teased Hytale's <i>World Gen v2</i>, boldly stating that the new World Gen would <b><u>redefine the block game genre</u></b>, and promised a dedicated blog post 'coming soon,' most likely in early/mid December. Simon went on to state that the new world gen is separate from v1, and will be slowly introduced before a 'big entrance' later on, with more and more content using it after early access launch. In a reply to Myne, Simon stated the big difference between v2 and Minecraft world gen mods is that artists can learn to use world gen v2.</p>",
         "date": "11 30 2025",

@@ -1,6 +1,80 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Creator Program opening",
+    "mainText": "'before pre-order is the hope!'",
+    "date": "12 3 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Business",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1996374833031217523?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: certain screenshots being PNGs, others JPGs",
+    "mainText": "'yes..'",
+    "date": "12 3 2025",
+    "tags": [
+      "Propzie",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/1996368450823106791?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Peak",
+    "mainText": "'null'\n\n(More images)",
+    "date": "12 3 2025",
+    "tags": [
+      "Paris",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/1996363034982551748?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Peak",
+    "mainText": "'I miss my wife'\n\n(Image)",
+    "date": "12 3 2025",
+    "tags": [
+      "Paris",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/1996362232872206721?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Propzie, re: CanadianFlash NOT being at work when a blog drops",
     "mainText": "'WAT'",
     "date": "12 3 2025",
@@ -173,7 +247,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon, re: server owners using marketplace",
-    "mainText": "'There is no marketplace; you use your own stores.\r\nAt least that's the plan for early access.\r\nWe do not want to micro-manage server owners, but that also means you need to offer customer support and other services to your players!'",
+    "mainText": "'There is no marketplace; you use your own stores.\nAt least that's the plan for early access.\nWe do not want to micro-manage server owners, but that also means you need to offer customer support and other services to your players!'",
     "date": "12 3 2025",
     "tags": [
       "Simon",

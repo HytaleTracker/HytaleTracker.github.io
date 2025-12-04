@@ -1,5 +1,45 @@
 [
     {
+        "mainPlatform": "blog",
+        "summary": "The Hytale Team shares it's first FAQ blogpost!",
+        "mainText": "<p class='mainTextParagraph'>In a surprise move, the Hytale Team dropped a surprise blogpost covering some of the game's frequently asked questions. The blog, written by Hytale's Executive Director Patrick 'Lyall' Derbic, confirmed that Hytale will not be on Steam (at least initially), and the only confirmed early access versions of Hytale will be for PC (with Mac & Linux still TBD). A console release is planned for a later stage, and the team states they are still evaluating if a mobile version is feasible.</p><p class='mainTextParagraph'>\n\nThe blog post also addresses the <b><u>different editions of Hytale</u></b>, teasing an upcoming reveal for what each edition contains, and confirming players can choose to upgrade between each version even after purchase. The Hytale Team also confirms that there will be no bonuses for pre-purchasing Hytale, to avoid creating FOMO, and that gifting is still being worked on.</p><p class='mainTextParagraph'>\n\nAddressing <b><u>gameplay questions</u></b>, the blog post confirms pets, animal taming, and fishing systems are planned, but are not currently implemented into the game.</p><p class='mainTextParagraph'>\n\nShifting focus to Hytale's <b><u>monetization</u></b>, the team reconfirmed that Hytale will take a 0% cut from third-party server or modding transactions for <u>the first two years</u>, and confirmed a hard cap of a 20% cut after that two year period has lapsed. In a Tweet, Simon promised the Hytale Team would provide players, assets, and/or code if/when they take a % of transactions. On the subject of <b><u>Hytale's Creator Program</u></b>, the team announces that <i>anyone</i> that creates Hytale content regularly - videos, music, mods, art, streams, etc - can sign up for the program and (if their code is used) receive 5% from any sales, with plans to raise that percentage to 7%. Simon later revealed that the team is hoping to open the Creator Program before pre-orders.</p><p class='mainTextParagraph'>\n\nThe blog post also discussed <b><u>regional pricing</u></b>, confirming that the team is working to get it functional for a limited number of countries to start with - with the hope being to get it done in time for the pre-purchase. On Twitter, Lyall said regional pricing is his <b>main focus</b>, other than legal work.</p>",
+        "date": "12 03 2025",
+        "tags": [
+            "Simon",
+            "Blog",
+            "Tweet",
+            "Early Access",
+            "Lyall",
+            "Hytale"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Hytale - FAQ Blogpost",
+                    "https://hytale.com/news/2025/12/hytale-s-1st-faq"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Providing assets/code/players",
+                    "https://xcancel.com/Simon_Hypixel/status/1996342377150382136?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Creator Program opening",
+                    "https://xcancel.com/Simon_Hypixel/status/1996374833031217523?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Lyall - Regional Pricing",
+                    "https://xcancel.com/Lyall_PD/status/1996351596041847221?s=20"
+                ]
+            }
+        ]
+    },
+    {
         "mainPlatform": "tweet",
         "summary": "The Hytale Team discuss Linux, chunks, and Discord surprises.",
         "mainText": "<p class='mainTextParagraph'>Discussing Hytale's supported platforms, Slikey stated that the team is using libraries that exist on 'pretty much every platform,' with only past debt left to solve. He also acknowledged potentially using WINE for Linux support, but stated the current plan is to support Linux natively.</p><p class='mainTextParagraph'>\n\nWhen discussing Hytale's chunk system, Slikey confirmed the rumored 32x32x32 figure, noting that Hytale does currently load the entire world top to bottom regardless of the 'cubic chunks' - something he said will eventually be changed.</p><p class='mainTextParagraph'>\n\nSimon also teases 'many surprises' for Hytale's Discord community.</p>",

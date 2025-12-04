@@ -1,6 +1,25 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Lyall, re: localized pricing for Brazil",
+    "mainText": "'I’ll do my best to make this happen even before pre-purchase starts, but I can’t promise we can get it done in time.'",
+    "date": "12 4 2025",
+    "tags": [
+      "Lyall",
+      "Community",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Lyall",
+          "https://xcancel.com/Lyall_PD/status/1996488041125597621?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Paris, re: @mosshorn's recreation of SoyFarfadox's MC Skin in Hytale",
     "mainText": "'GIF: \"so beautiful\"'",
     "date": "12 3 2025",

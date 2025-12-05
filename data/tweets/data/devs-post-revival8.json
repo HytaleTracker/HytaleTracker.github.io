@@ -1,6 +1,120 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Hitler search results",
+    "mainText": "'null'\n\n(IMG)",
+    "date": "12 4 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1996755140263473445?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: UI changes",
+    "mainText": "'Minor UI changes will happen before launch and big overhaul later'",
+    "date": "12 4 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1996750535089651778?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: actively killing hype",
+    "mainText": "'Good'",
+    "date": "12 4 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1996749928731725927?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: combat blogpost",
+    "mainText": "'We are quite busy working on the game loop so probably not a blog post, will just do more gameplay videos later on'",
+    "date": "12 4 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1996747610833801380?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: screenshot",
+    "mainText": "'Lots has and is still improving since my last gameplay video! Ton of fun to work on the game!'",
+    "date": "12 4 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1996747139498889322?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares PvE combat screenshot",
+    "mainText": "'Lots of variety in weapons and play styles. We are excited to show you more about Hytale's combat very soon! ⚔️ #Hytale'\n\n(Very cool)",
+    "date": "12 4 2025",
+    "tags": [
+      "Hytale",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/1996746745091408097?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: user saying devs who say their games are bad end up becoming 'bangers'",
     "mainText": "'thats the dream!'",
     "date": "12 4 2025",
@@ -103,7 +217,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon, re: user saying Steam's features don't help with playing the game",
-    "mainText": "'In fact, some features we want to do are not yet possible on Steam, so we would need to cut some features to go on Steam. \r\n\r\nWe will be contacting Steam after launch to see what's possible. But I suspect we are a small fish in the pond.'",
+    "mainText": "'In fact, some features we want to do are not yet possible on Steam, so we would need to cut some features to go on Steam. \n\nWe will be contacting Steam after launch to see what's possible. But I suspect we are a small fish in the pond.'",
     "date": "12 4 2025",
     "tags": [
       "Simon",
@@ -472,7 +586,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon, re: Gaia",
-    "mainText": "'Gaia is going to be central to the lore, even in early access! \r\nI was walking around in her temple today, just to give you some context 😅\r\n\r\nVaryn will also be part of the lore later on. 👀'",
+    "mainText": "'Gaia is going to be central to the lore, even in early access! \nI was walking around in her temple today, just to give you some context 😅\n\nVaryn will also be part of the lore later on. 👀'",
     "date": "12 4 2025",
     "tags": [
       "Simon",

@@ -275,6 +275,7 @@
                         <button id="setDraggable">Toggle Draggable</button>
                         <button id="removeLogo">Toggle Logo</button>
                         <button id="resetDefault">Reset to default</button>
+                        <button id="noDecoration">No Decoration</button>
                         
                     </div>
                     <button id="toggleExtras">Toggle Extras</button>
@@ -323,6 +324,7 @@
             let secondsRelease;
             let secondsPreOrder;
             let extrasShown = false;
+            let createKweebs = true;
 
             const releaseDaysText = document.getElementById("releaseDaysText");
             const ReleaseHoursText = document.getElementById("releaseHoursText");
@@ -582,7 +584,7 @@
             }
 
             function floatyGuys() {
-                if (Math.floor(Math.random() * 300) == 1) {
+                if (Math.floor(Math.random() * 300) == 1 && createKweebs) {
                     const image = document.createElement("img");
                     image.style.position = "fixed";
                     const images = ["./images/kweebec.png", "./images/kweebecSit.png"];
@@ -821,6 +823,13 @@
                 setCookie("x", null, -1);
                 setCookie("y", null, -1);
                 setCookie("logo", null, -1);
+            })
+
+            const noDecoration = document.getElementById("noDecoration");
+            noDecoration.addEventListener("click", () => {
+                document.body.style.backgroundImage = "none";
+                hytaleLogo.style.display = "none";
+                createKweebs = false;
             })
 
 

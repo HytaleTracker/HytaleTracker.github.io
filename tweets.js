@@ -48,6 +48,10 @@ window.addEventListener("load", async function() {
     const tweetCount = await tweetCountRes.json();
     document.getElementById("tweetCount").textContent = `Post Revival Tweet Count: ${tweetCount}`;
 
+    const updatedRes = await fetch("./data/tweets/data/lastUpdated.json", { cache: "no-store" });
+    const LastUpdated = await updatedRes.json();
+    document.getElementById("updated").textContent = `Last Updated: ${Math.floor((Date.now() - new Date(LastUpdated)) / 3600000)} Hours Ago`;
+
 
     createTweetElements("null", "null", "null", searchQuery);
 })

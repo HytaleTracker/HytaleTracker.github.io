@@ -1,5 +1,80 @@
 [
     {
+        "mainPlatform": "tweet",
+        "summary": "Simon discusses pausing and/or resetting Hytale's Lore, Steam release, and combat screenshot.",
+        "mainText": "<p class='mainTextParagraph'>In a surprise post on Twitter, <b><u>Simon</u></b> shared that the entirety of Hytale's lore is <u><i>reset</i></u> and/or <u><i>on hold for review</i></u>, with the 'Cursebreaker' arc allowing the team to reset the lore and have a starting point. Simon went on to explain that 'resetting' doesn't mean 'deleting,' and instead means a complete review of the lore must be done. Simon further clarified that the general lore of Hytale <i>will</i> stay the same, but there are multiple 'very different' lore paths, and they don't want lore to block the creation of a good game.</p><p class='mainTextParagraph'>\n\nSimon confirmed that Gaia and Varyn are still parts of the lore, with Gaia being important 'even in early access.'</p><p class='mainTextParagraph'>\n\nWhen a user pointed out that Hytale's lore is what drew many people to the game, Simon pointed out that theorized lore is not the same as actual lore.</p><p class='mainTextParagraph'>\n\nWhile discussing a Steam release, Simon pointed out that some of Hytale's planned features aren't yet possible on Steam, specifically the Steam Workshop.</p><p class='mainTextParagraph'>\n\nThe Hytale account on Twitter also shared a new PvE Combat screenshot, with Simon saying a lot has/is improving since his video.</p>",
+        "date": "12 04 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Business",
+            "Early Access",
+            "Lore"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Statement on Lore",
+                    "https://xcancel.com/Simon_Hypixel/status/1996670282711306615?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Explanation of 'reset'",
+                    "https://xcancel.com/Simon_Hypixel/status/1996671400652816481?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - General Lore staying the same",
+                    "https://xcancel.com/Simon_Hypixel/status/1996671924965908820?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Lore Versions",
+                    "https://xcancel.com/Simon_Hypixel/status/1996674499643953233?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - Gaia",
+                    "https://xcancel.com/Simon_Hypixel/status/1996675358897410253?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Simon - Lore Theories",
+                    "https://xcancel.com/Simon_Hypixel/status/1996680215876321455?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Simon - Planned Features not possible on Steam",
+                    "https://xcancel.com/Simon_Hypixel/status/1996720009679151238?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Simon - Steam Workshop",
+                    "https://xcancel.com/Simon_Hypixel/status/1996723063228924045?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Hytale - PvE Combat screenshot",
+                    "https://xcancel.com/Hytale/status/1996746745091408097?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Simon - Improvements",
+                    "https://xcancel.com/Simon_Hypixel/status/1996747139498889322?s=20"
+                ]
+            }
+        ]
+    },
+    {
         "mainPlatform": "blog",
         "summary": "The Hytale Team shares it's first FAQ blogpost!",
         "mainText": "<p class='mainTextParagraph'>In a surprise move, the Hytale Team dropped a surprise blogpost covering some of the game's frequently asked questions. The blog, written by Hytale's Executive Director Patrick 'Lyall' Derbic, confirmed that Hytale will not be on Steam (at least initially), and the only confirmed early access versions of Hytale will be for PC (with Mac & Linux still TBD). A console release is planned for a later stage, and the team states they are still evaluating if a mobile version is feasible.</p><p class='mainTextParagraph'>\n\nThe blog post also addresses the <b><u>different editions of Hytale</u></b>, teasing an upcoming reveal for what each edition contains, and confirming players can choose to upgrade between each version even after purchase. The Hytale Team also confirms that there will be no bonuses for pre-purchasing Hytale, to avoid creating FOMO, and that gifting is still being worked on.</p><p class='mainTextParagraph'>\n\nAddressing <b><u>gameplay questions</u></b>, the blog post confirms pets, animal taming, and fishing systems are planned, but are not currently implemented into the game.</p><p class='mainTextParagraph'>\n\nShifting focus to Hytale's <b><u>monetization</u></b>, the team reconfirmed that Hytale will take a 0% cut from third-party server or modding transactions for <u>the first two years</u>, and confirmed a hard cap of a 20% cut after that two year period has lapsed. In a Tweet, Simon promised the Hytale Team would provide players, assets, and/or code if/when they take a % of transactions. On the subject of <b><u>Hytale's Creator Program</u></b>, the team announces that <i>anyone</i> that creates Hytale content regularly - videos, music, mods, art, streams, etc - can sign up for the program and (if their code is used) receive 5% from any sales, with plans to raise that percentage to 7%. Simon later revealed that the team is hoping to open the Creator Program before pre-orders.</p><p class='mainTextParagraph'>\n\nThe blog post also discussed <b><u>regional pricing</u></b>, confirming that the team is working to get it functional for a limited number of countries to start with - with the hope being to get it done in time for the pre-purchase. On Twitter, Lyall said regional pricing is his <b>main focus</b>, other than legal work.</p>",

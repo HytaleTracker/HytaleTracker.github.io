@@ -1,6 +1,405 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "BuddhaCat, re: upgrading between editions",
+    "mainText": "'Yep :)'",
+    "date": "12 6 2025",
+    "tags": [
+      "BuddhaCat"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/1997347599301455980?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen, re: Hytale cosmetics",
+    "mainText": "'Get a glimpse of some of the things that will be included in the various editions available at launch on January 13th 2026!'",
+    "date": "12 6 2025",
+    "tags": [
+      "Mewen"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1997341434093990145?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: resolution for textures",
+    "mainText": "'it’s 64x64 for player‘s stuff, yeah'",
+    "date": "12 6 2025",
+    "tags": [
+      "Polina"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/1997333688434999719?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: user complimenting gold cape",
+    "mainText": "'I made that one! :D'",
+    "date": "12 6 2025",
+    "tags": [
+      "Propzie"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://vxtwitter.com/Propzie/status/1997329546618482689?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: user asking if players can mix and match pieces",
+    "mainText": "'yes, you can mix and match, of course! There are even color options for some!'",
+    "date": "12 6 2025",
+    "tags": [
+      "Polina"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/1997328880936386599?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: Hytale cosmetics",
+    "mainText": "'The rest of the art team and I have been making lots of cosmetics! take a look!'",
+    "date": "12 6 2025",
+    "tags": [
+      "Propzie"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://vxtwitter.com/Propzie/status/1997328786346414440?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: Russian user asking if the team sleeps",
+    "mainText": "'🥲 очень хотим побольше к релизу сделать!\r'\n\n(Translation: 🥲 We really want to get more done before the release!\n)",
+    "date": "12 6 2025",
+    "tags": [
+      "Polina"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/1997327829017534628?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: Russian user complimenting the cosmetics",
+    "mainText": "'только подумать, что мы получили игру меньше месяца назад!!! the team is amazing'\n\n(Translation: Just think, we got the game less than a month ago!!! the team is amazing\r\n)",
+    "date": "12 6 2025",
+    "tags": [
+      "Polina"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/1997326890562965608?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking if cosmetics can be recolored",
+    "mainText": "'You can pick extra specific colours, but no palette like this just yet, need to investigate if possible in the future!'",
+    "date": "12 6 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1997324577043587220?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: user complimenting Void Hero set",
+    "mainText": "'I KNOW!!'",
+    "date": "12 6 2025",
+    "tags": [
+      "Polina"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/1997321086703206874?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Lyall, re: Hytale cosmetics",
+    "mainText": "'If you are curious to see some of the cosmetics we have in our Early Access edition, check out todays post.'",
+    "date": "12 6 2025",
+    "tags": [
+      "Lyall"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Lyall",
+          "https://vxtwitter.com/Lyall_PD/status/1997320472371867756?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: Hytale cosmetics",
+    "mainText": "'Babe wake up, hytale cosmetics dropped!'",
+    "date": "12 6 2025",
+    "tags": [
+      "Polina"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/1997320441719848980?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares screenshots of Cursebreaker Edition cosmetics",
+    "mainText": "'Cursebreaker Edition (+ all sets from Standard and Supporter editions)\r\n- Hope of Gaia Set\r\n- Void Hero Set\r\n- Pop Star Set\r\n- More coming soon!'",
+    "date": "12 6 2025",
+    "tags": [
+      "Hytale",
+      "Screenshot",
+      "Early Access",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://vxtwitter.com/Hytale/status/1997320208315256863?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares screenshots of Supporter Edition cosmetics",
+    "mainText": "'Supporter Edition (+ all sets from Standard edition)\r\n- Scavenger Set\r\n- Featherbound Set\r\n- Arctic Scout Set\r\n- More coming soon!'",
+    "date": "12 6 2025",
+    "tags": [
+      "Hytale",
+      "Screenshot",
+      "Early Access",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://vxtwitter.com/Hytale/status/1997320206415221070?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares screenshots of Standard Edition cosmetics",
+    "mainText": "'Standard Edition\r\n- Forest Guardian Set\r\n- Voyager Set\r\n- More coming soon!'",
+    "date": "12 6 2025",
+    "tags": [
+      "Hytale",
+      "Screenshot",
+      "Early Access",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://vxtwitter.com/Hytale/status/1997320204611641630?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares first look video of capes from Early Access editions",
+    "mainText": "'A first look at some of the extra cosmetics found in each Hytale Early Access edition!\r\n\r\n- You can mix every piece from the new sets with any existing in-game ones! Style your Avatar your way!\r\n- If you purchase either the Supporter or Cursebreaker editions, you will also get all the cosmetics in the tier below (eg, if you are buying the Cursebreaker Edition, you’ll also receive everything in the Supporter and Standard editions)\r\n- We will be expanding the content of each edition!\r\n\r\nHere’s a peek at some of the exclusive capes included with the Early Access editions. #Hytale'\n\n(VIDEO)",
+    "date": "12 6 2025",
+    "tags": [
+      "Hytale",
+      "Video",
+      "Early Access",
+      "Business",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://vxtwitter.com/Hytale/status/1997320203038798327?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: user asking why he thinks genAI is bad",
+    "mainText": "'Imagine a world where we have fed all our creative efforts into AI. No one bothers to make music or art anymore because people have grown accustomed to getting it for free, instantly and en masse. Handmade art becomes increasingly hard to come by until it's dead.'",
+    "date": "12 6 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Music",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1997295364270092572?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: no AI restriction",
+    "mainText": "'The reason is because 1. It feeds my music to a machine that is now trained on my content forever, on a style I spent 10 years to develop. 2. It undermines the creative process (brainrot). 3. It's illegal.'",
+    "date": "12 6 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Music",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1997290932199383280?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Using Hytale OST",
+    "mainText": "'You can take the Hytale OST and re-work it freely, chop it into pieces and remix it to make something of your own. But promise me one thing: Never use AI in the process. I explicitly prohibit this kind of use.'",
+    "date": "12 6 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Music",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1997289058289225883?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying the Hitler games don't appear on Steam",
+    "mainText": "'Make sure you have filters off. It was reported to Valve so it might now be fixed.'",
+    "date": "12 6 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1997280105199243442?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user calling him a liar and a 'dumb cxnt'",
+    "mainText": "'Which part?'",
+    "date": "12 6 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1997279663153201403?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying he's waffling 'nonsense.'",
+    "mainText": "'Which part of the post is non-sense to you?'",
+    "date": "12 6 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1997279538624201015?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: prioritizing players vs modders",
     "mainText": "'We are really prioritizing both and we don't pretend to have an answer right now. We believe that things like Patreon have really low click-thru rates, so the first logical step would be to bring the mods together with that voluntary support and bring the barrier to support down. We may even find other ways to even directly benefit from supporting a modders. \nThere are many oppurtunities that haven't been explored yet and I am optimistic that we can keep the modding ecosystem accessible and still bring more revenue to modders. We will try our best to innovate here and stay on top of feedback.'",
     "date": "12 5 2025",

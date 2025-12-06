@@ -1,6 +1,85 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: prioritizing players vs modders",
+    "mainText": "'We are really prioritizing both and we don't pretend to have an answer right now. We believe that things like Patreon have really low click-thru rates, so the first logical step would be to bring the mods together with that voluntary support and bring the barrier to support down. We may even find other ways to even directly benefit from supporting a modders. \nThere are many oppurtunities that haven't been explored yet and I am optimistic that we can keep the modding ecosystem accessible and still bring more revenue to modders. We will try our best to innovate here and stay on top of feedback.'",
+    "date": "12 5 2025",
+    "tags": [
+      "Slikey",
+      "Early Access",
+      "Modding",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1997101013107352037?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: InTheLittleWood wondering if capes are rigid or have physics",
+    "mainText": "'Capes have animations!'",
+    "date": "12 5 2025",
+    "tags": [
+      "Simon",
+      "Early Access",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1997093218886795512?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: user's cottagecore Hytale avatar",
+    "mainText": "'This is soooooooooooo pretty 😭'",
+    "date": "12 5 2025",
+    "tags": [
+      "Paris",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/1997077214089593029?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey talks approaches to modding",
+    "mainText": "'We are not controlling the modding space and distribution. So at launch, there can't really be a walled garden. I think especially initially it won't be a problem as everyone is still learning and working together. \n\nWe have talked a lot with modders over the past few weeks and there seems to be a sentiment that there are 2 approaches to mods: (1) Mod Assets and (2) Mods for Players. \n\n(1) Is basically an asset marketplace like http://Fab.com etc. This is pretty much entirely outside of our control and we don't have any plans around that at the moment.\n(2) Mods for Players generally have multiple options aswell. There are (I) Free Mods, (II) Donation / Humble Bundle / Itch, (III) Freemium Mods, (IV) Paid Mods and (V) Closed Mods.\n\nI. Free Mods generally have the highest level of acceptance and most vibrant ecosystems. The majority of modders prefer their mods to be free but they also would like a future where they can pay themselves and potentially expand to a team. These mods are often supported by platforms like CurseForge through Ads / Premium subscriptions.\n\nII. Donation / Humble Bundle / Itch have a \"Pay what you want\" approach and generally well done mods show good revenue data - especially if players are prompted and the creator behind it is transparent with the funds. Some modders offer a patreon to emulate this model. This also doesn't have the drawback of a walled garden and high acceptance. Sadly there is also no \"security\" in here.\n\nIII. Freemium Mods can offer the base mod but accept payment for certain benefits. One example here would be Optifine where you could purchase an Optifine cape. This provides an adventage and generally the Optifine cape seemed to be well accepted in the community. \n\nIV. Paid Mods are generally a more \"safe\" income approach for modders, especially when they are putting significant upfront effort into it but they are really inaccessible and turn a mod browser into a shopping mall. Feedback from players is extremely negative while that obviously depends on the platform - PC players is much more negative about them due to mods being traditionally free. Additionally it results in modding piracy.\n\nV. Closed Mods are usually done by server networks. Hypixel Network uses server-side software to modify the server software to offer their own gameplay experience which allows various avenues for monetization. e.g. a World of Tanks minigame which would unlock new cosmetics for your tank and beyond. I think closed mods / running a server network is most \"stable\" income source but also has all the trouble of running a GaaS environment with all the positives and negatives.\n\nOur initial approach is a \"Wild West\". We are internally not a fan of the inaccessibility of shopping mall modding which strongly associates mods with money. We don't have a solid strategy yet and when we bring modding into the game itself, we'd probably try to make the (II.) approach our first shot while finding a way to passively support creators using our creator program. We are also open to other strategies that strike this find balance of \"accessible but rewarding\" in a way that results in a great experience for everyone.'",
+    "date": "12 5 2025",
+    "tags": [
+      "Slikey",
+      "Early Access",
+      "Modding",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey_dev/status/1997073940263624941?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Hytale shares a screenshot of Outlander archer standing guard",
     "mainText": "'The ever vigilant Outlander archer stands guard... 🏹 #Hytale'",
     "date": "12 5 2025",
@@ -13,7 +92,7 @@
       {
         "1": [
           "tweet by Hytale",
-          "https://vxtwitter.com/Hytale/status/1997064051407667420?s=20"
+          "https://xcancel.com/Hytale/status/1997064051407667420?s=20"
         ]
       }
     ]
@@ -274,7 +353,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Lyall, re: updating FAQ",
-    "mainText": "'After some misinterpretation yesterday, Simon went ahead to update one of the answers I gave.\r\nSorry for not being clear enough with my wording and for causing confusion within the community.\r\n\r\nWish I could say this is going to be the last time but as a non-native speaker simple errors might happen.\r\n\r\nYou are always free to ask clarifying questions in cases of uncertainty - if I'm able to answer them, I will.'",
+    "mainText": "'After some misinterpretation yesterday, Simon went ahead to update one of the answers I gave.\nSorry for not being clear enough with my wording and for causing confusion within the community.\n\nWish I could say this is going to be the last time but as a non-native speaker simple errors might happen.\n\nYou are always free to ask clarifying questions in cases of uncertainty - if I'm able to answer them, I will.'",
     "date": "12 5 2025",
     "tags": [
       "Lyall",
@@ -312,7 +391,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon, re: answer to Steam release in FAQ",
-    "mainText": "'I updated Patrick’s answer about Steam on the blog. The wording around “over-indexing ” was confusing and misinterpreted by many, making it sound like we were avoiding Steam because of negative reviews. \r\nIf you’ve been reading my posts on X lately, you know very well I’ve been brutally honest about the state of the game. It would be pretty out of place for us to suddenly avoid Steam for doing the same! \r\n\r\nWe’re both non-native English speakers, so that's on us for not being clear with the wording. I rewrote it to reflect better what we actually meant to say.\r\n\r\nDidn't expect millions of views, posts and articles about this in the past few hours, thanks for the free advertising though😅'",
+    "mainText": "'I updated Patrick’s answer about Steam on the blog. The wording around “over-indexing ” was confusing and misinterpreted by many, making it sound like we were avoiding Steam because of negative reviews. \nIf you’ve been reading my posts on X lately, you know very well I’ve been brutally honest about the state of the game. It would be pretty out of place for us to suddenly avoid Steam for doing the same! \n\nWe’re both non-native English speakers, so that's on us for not being clear with the wording. I rewrote it to reflect better what we actually meant to say.\n\nDidn't expect millions of views, posts and articles about this in the past few hours, thanks for the free advertising though😅'",
     "date": "12 5 2025",
     "tags": [
       "Simon",

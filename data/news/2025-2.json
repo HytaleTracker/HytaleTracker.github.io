@@ -1,6 +1,65 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talk Steam release, early access supporter cosmetics, modding.",
+        "mainText": "<p class='mainTextParagraph'>After a convoluted discussion on Twitter the previous day, Simon announced he had updated the answer to a Steam release question in the FAQ blog. The updated answer clarifies that the goal is to spend Early Access working with the existing community to improve the game, rather than reacting to a flood of cold first impressions that could overcorrect the game's direction. Simply put, the Hytale Team want the first steps of Hytale's journey to be influenced by informed players. The statement notes that Steam doesn't currently support some of Hytale's modding features.</p><p class='mainTextParagraph'>\n\nOn a brighter note, Simon announced that Hytale will be sharing screenshots of the cosmetic sets included in the Early Access editions (Standard, Supporter, and Founders Edition) on <b><u><i>December 6th, at 10AM EST</i></u></b>, with a short clip showcasing the capes in motion. Simon also confirmed that more cosmetics will be added to each edition over the duration of Early Access, and each tier gets the cosmetics from the tiers beneath it. Simon also confirmed that the capes will have animations.</p><p class='mainTextParagraph'>\n\nRegarding modding in Hytale, Slikey addressed the two approaches to mods - Mod Assets vs Mods for Players. While a mod asset 'marketplace' is not a planned 1st party feature for Hytale, 'Mods for Players' has five different options.</p><p class='mainTextParagraph'>\n\nThe first option is <b><u><i>free mods</i></u></b>, which Slikey notes generally have the highest acceptance and most vibrant ecosystems. Slikey notes that modders themselves free mods, but would also like a future where they can pay themselves and potentially expand to a team -- these mods are usually supported by platforms via ads or premium subscriptions.</p><p class='mainTextParagraph'>\n\nThe second option is <b><u><i>Donations</i></u></b> or a <b><u><i>Pay What You Want</i></u></b> approach. Slikey says this shows good revenue data for well done mods, isn't a walled garden, and has high acceptance - but there's no security in this approach.</p><p class='mainTextParagraph'>\n\nThe third option is <b><u><i>Freemium Mods</i></u></b>, where the base mod is free, but you can pay for certain benefits. An example would be Minecraft's <i>Optifine</i> mod.</p><p class='mainTextParagraph'>\n\nThe fourth option is <b><u><i>Paid Mods</i></u></b>, which is a safer income option for modders, but is more accessible to players and turns a mod browser into a marketplace. Slikey notes that players view this very negatively, with it also creating a piracy situation.</p><p class='mainTextParagraph'>\n\nThe fifth option is <b><u><i>Closed Mods</i></u></b>, which Slikey views as the most 'stable' income source, but brings all the positives and negatives of a GaaS environment.</p><p class='mainTextParagraph'>\n\nFor the moment, Hytale's approach is <b><u><i>Wild West</i></u></b>. Slikey notes that the team does not want to create a system that strongly associates mods with money, and while the team doesn't have a solid strategy yet, they will probably try Option 2 as their first shot while they explore ways to passively support creators w/ the creator program and find a balance that creates an 'accessible but rewarding' experience for everyone.</p><p class='mainTextParagraph'>\n\nImportantly, Slikey says the team is trying to prioritize both players and modders, and promises to try to innovate and stay on top of feedback.</p>",
+        "date": "12 05 2025",
+        "tags": [
+            "Statement",
+            "Simon",
+            "Tweet",
+            "Modding",
+            "Business",
+            "Early Access",
+            "Slikey"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Updated FAQ answer",
+                    "https://xcancel.com/Simon_Hypixel/status/1996925268263366806?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Date for showcasing cosmetic sets included in Early Access editions",
+                    "https://xcancel.com/Simon_Hypixel/status/1997050351518679269?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Adding Cosmetics during E.A.",
+                    "https://xcancel.com/Simon_Hypixel/status/1997051449856139731?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Cosmetics from lower tiers",
+                    "https://xcancel.com/Simon_Hypixel/status/1997053862780293496?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - Capes have animations",
+                    "https://xcancel.com/Simon_Hypixel/status/1997093218886795512?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Slikey - Different approaches to modding",
+                    "https://xcancel.com/slikey_dev/status/1997073940263624941?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Slikey - Prioritizing players & modders",
+                    "https://xcancel.com/slikey_dev/status/1997101013107352037?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Simon discusses pausing and/or resetting Hytale's Lore, Steam release, & combat screenshot.",
         "mainText": "<p class='mainTextParagraph'>In a surprise post on Twitter, <b><u>Simon</u></b> shared that the entirety of Hytale's lore is <u><i>reset</i></u> and/or <u><i>on hold for review</i></u>, with the 'Cursebreaker' arc allowing the team to reset the lore and have a starting point. Simon went on to explain that 'resetting' doesn't mean 'deleting,' and instead means a complete review of the lore must be done. Simon further clarified that the general lore of Hytale <i>will</i> stay the same, but there are multiple 'very different' lore paths, and they don't want lore to block the creation of a good game.</p><p class='mainTextParagraph'>\n\nSimon confirmed that Gaia and Varyn are still parts of the lore, with Gaia being important 'even in early access.'</p><p class='mainTextParagraph'>\n\nWhen a user pointed out that Hytale's lore is what drew many people to the game, Simon pointed out that theorized lore is not the same as actual lore.</p><p class='mainTextParagraph'>\n\nWhile discussing a Steam release, Simon pointed out that some of Hytale's planned features aren't yet possible on Steam, specifically the Steam Workshop.</p><p class='mainTextParagraph'>\n\nThe Hytale account on Twitter also shared a new PvE Combat screenshot, with Simon saying a lot has/is improving since his video.</p>",
         "date": "12 04 2025",

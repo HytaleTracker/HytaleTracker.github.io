@@ -1,6 +1,219 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: wardrobe furniture item to save cosmetic sets in-game",
+    "mainText": "'Already in the plans long term after launch!'",
+    "date": "12 7 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1997694889623159279?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares screenshots of farming",
+    "mainText": "'We have been making some progress on Hytale's farming and overall cozy feel! We are excited to show you more soon! 🌽🌾 #Hytale'",
+    "date": "12 7 2025",
+    "tags": [
+      "Hytale",
+      "Screenshot",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://vxtwitter.com/Hytale/status/1997682518863343853?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: opening the client for community contributions",
+    "mainText": "'Not really considered this and don't think this will be possible as a lot of client side libraries are bound to NDAs. This is commonly why you don't see cross-platform / console port codebases be open source.\r\nI could imagine hiring specific Modders though and allow them to add their capabilities under NDA to take their mod to the next level.'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Engine - Legacy",
+      "Tech",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1997666438060945504?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: providing stems from the OST",
+    "mainText": "'If you're looking for a specific stem i can think about it, but it would generally take too much time at this point to bounce all stems of the hours and hours of OST.. and take up 30-40 times the space on my computer😂'",
+    "date": "12 7 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1997641797107921333?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: making mods",
+    "mainText": "'I would really recommend biting the bullet and make your plugins with our Plugin system in Java. If want to write a native library in C# and compile it down using NativeAOT and use that within a JNI interface. You would then have to figure out platform dependencies though.'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Engine - Legacy",
+      "Tech",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1997638414615609435?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: using JNI4NET for Hytale modding",
+    "mainText": "'Isn't this library super outdated? Not sure what you'd want to use it for - can you explain the usecase?'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Engine - Legacy",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1997635133055103481?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: console support requiring maintaining a renderer per platform",
+    "mainText": "'And that is exactly why we make the game good first before touching other platforms. The effort is high and we are highly dedicated to first make this game great on PC. Once we have dug ourselves out of that the project's history, we can look at the horizon with a strong identity that allows us to not get lost chasing platforms and bigger features.'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Engine - Legacy",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1997568842881523978?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: using Vulkan",
+    "mainText": "'Just Vulkan wouldn't cut it. Vulkan isn't supported on the XBOX (DX12) or PS5 (Gnm). MoltenVK has been Open-Sourced recently, so that is an option to combine VK and Metal. Overall there isn't a silver bullet that doesn't involve some sort of higher level abstraction, which often has it's own issues too. https://ravbug.com/graphics/'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Engine - Legacy",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1997554792780947787?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: using OpenGL for Mac",
+    "mainText": "'That's why we target OpenGL 4.1 at the moment. Apple deprecated support but didn't drop it. So we have MacOS support without having to do the heavy lifting of going Metal / MoltenVK yet.'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Engine - Legacy",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1997550550985138551?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: hypothetically using Steam's Fex translation layer instead of making native port for every platform",
+    "mainText": "'The complication isn't necessarily the inability to compile for these platforms. We can compile for these targets but it involves so much more to reach these platforms.\r\n1. Graphics: We currently have a renderer based on OpenGL 3.3 / 4.1. Mobile devices usually use Vulkan or OpenGL ES. We plan to support to Vulkan / Metal / DX12 for PC Platform reason (e.g. async buffer writes) anyway, so we want to wait for that.\r\n2. UI / UX: Playing a game on phones is vastly different to keyboard+mouse / gamepad. The screensize is much smaller, network connection is limitted, battery power is most limitted, touch controls, etc.\r\n3. Compliance / Store Integration: Any phone target also comes with drastic differences in our ability to service patches, feature rollouts, payment methods, etc. \r\n\r\nOverall this is something that is quite a bit more than just x86 vs arm. We are targetting arm64 anyway with our builds for native MacOS M1+ support, so FEX doesn't really solve anything for us.'",
+    "date": "12 6 2025",
+    "tags": [
+      "Slikey",
+      "Engine - Legacy",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1997537591592116609?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: discovery of player-made mods",
+    "mainText": "'Websites for launch, ingame later on! Will be high priority'",
+    "date": "12 6 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1997529446493073918?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Creating/Sharing custom models",
     "mainText": "'Yep, tutorials for this will be easy to make and understand'",
     "date": "12 6 2025",

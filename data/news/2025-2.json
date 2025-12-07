@@ -1,6 +1,93 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team shares first look at E.A. cosmetics, modding, OST.",
+        "mainText": "<p class='mainTextParagraph'>The Hytale Team shared the first look at the extra cosmetics that come in each of Hytale's Early Access editions, including eight total cosmetic sets and ten different capes! Screenshots and videos can be found linked in the sources on this post.</p><p class='mainTextParagraph'>\n\nSimon confirmed that users can pick from specific colors to recolor some of the cosmetics, with a color palette option being investigated in the future. Polina also confirmed that players can mix and match cosmetics, and the resolution for player cosmetics is 64x64. Simon later linked an old avatar customization blogpost, which he says looks correct from a glance.</p><p class='mainTextParagraph'>\n\nWhen asked about the possibility of a <i>Create: Aeronautics</i> style mod in Hytale, Slikey explained that features that make that type of mod possible are on a 'future work' list, which currently has no timeline. Discussing server-side physics, Slikey says interpolation exists, but prediction is currently limited, and consistency can't be relied on, with more data being required to see where to invest effort.</p><p class='mainTextParagraph'>\n\nFinally, Oscar shared on Twitter than the Hytale OST can be reworked, chopped up, and remixed freely - <i>as long as AI is not used in the process.</i></p>",
+        "date": "12 06 2025",
+        "tags": [
+            "Statement",
+            "Simon",
+            "Tweet",
+            "Modding",
+            "Business",
+            "Early Access",
+            "Features",
+            "Slikey",
+            "Polina",
+            "Hytale",
+            "Oscar Garvin"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Hytale - Capes video",
+                    "https://xcancel.com/Hytale/status/1997320203038798327?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Hytale - Standard Edition Cosmetics",
+                    "https://xcancel.com/Hytale/status/1997320204611641630?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Hytale - Supporter Edition Cosmetics",
+                    "https://xcancel.com/Hytale/status/1997320206415221070?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Hytale - Cursebreaker Edition Cosmetics",
+                    "https://xcancel.com/Hytale/status/1997320208315256863?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - Specific Colors",
+                    "https://xcancel.com/Simon_Hypixel/status/1997324577043587220?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Polina - Mix and Match",
+                    "https://xcancel.com/LogadoPolina/status/1997328880936386599?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Polina - Texture Resolution",
+                    "https://xcancel.com/LogadoPolina/status/1997333688434999719?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Simon - Old Blog - Customizing Your Character In Hytale",
+                    "https://hytale.com/news/2019/2/customizing-your-character-in-hytale"
+                ]
+            },
+            {
+                "9": [
+                    "Slikey - Create Aeronautics",
+                    "https://xcancel.com/slikey/status/1997397765807059324?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Slikey - Server-Side Physics",
+                    "https://xcancel.com/slikey/status/1997398144204623930?s=20"
+                ]
+            },
+            {
+                "11": [
+                    "Oscar - Using Hytale OST",
+                    "https://xcancel.com/onpujam/status/1997289058289225883?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talk Steam release, early access supporter cosmetics, modding.",
         "mainText": "<p class='mainTextParagraph'>After a convoluted discussion on Twitter the previous day, Simon announced he had updated the answer to a Steam release question in the FAQ blog. The updated answer clarifies that the goal is to spend Early Access working with the existing community to improve the game, rather than reacting to a flood of cold first impressions that could overcorrect the game's direction. Simply put, the Hytale Team want the first steps of Hytale's journey to be influenced by informed players. The statement notes that Steam doesn't currently support some of Hytale's modding features.</p><p class='mainTextParagraph'>\n\nOn a brighter note, Simon announced that Hytale will be sharing screenshots of the cosmetic sets included in the Early Access editions (Standard, Supporter, and Founders Edition) on <b><u><i>December 6th, at 10AM EST</i></u></b>, with a short clip showcasing the capes in motion. Simon also confirmed that more cosmetics will be added to each edition over the duration of Early Access, and each tier gets the cosmetics from the tiers beneath it. Simon also confirmed that the capes will have animations.</p><p class='mainTextParagraph'>\n\nRegarding modding in Hytale, Slikey addressed the two approaches to mods - Mod Assets vs Mods for Players. While a mod asset 'marketplace' is not a planned 1st party feature for Hytale, 'Mods for Players' has five different options.</p><p class='mainTextParagraph'>\n\nThe first option is <b><u><i>free mods</i></u></b>, which Slikey notes generally have the highest acceptance and most vibrant ecosystems. Slikey notes that modders themselves free mods, but would also like a future where they can pay themselves and potentially expand to a team -- these mods are usually supported by platforms via ads or premium subscriptions.</p><p class='mainTextParagraph'>\n\nThe second option is <b><u><i>Donations</i></u></b> or a <b><u><i>Pay What You Want</i></u></b> approach. Slikey says this shows good revenue data for well done mods, isn't a walled garden, and has high acceptance - but there's no security in this approach.</p><p class='mainTextParagraph'>\n\nThe third option is <b><u><i>Freemium Mods</i></u></b>, where the base mod is free, but you can pay for certain benefits. An example would be Minecraft's <i>Optifine</i> mod.</p><p class='mainTextParagraph'>\n\nThe fourth option is <b><u><i>Paid Mods</i></u></b>, which is a safer income option for modders, but is more accessible to players and turns a mod browser into a marketplace. Slikey notes that players view this very negatively, with it also creating a piracy situation.</p><p class='mainTextParagraph'>\n\nThe fifth option is <b><u><i>Closed Mods</i></u></b>, which Slikey views as the most 'stable' income source, but brings all the positives and negatives of a GaaS environment.</p><p class='mainTextParagraph'>\n\nFor the moment, Hytale's approach is <b><u><i>Wild West</i></u></b>. Slikey notes that the team does not want to create a system that strongly associates mods with money, and while the team doesn't have a solid strategy yet, they will probably try Option 2 as their first shot while they explore ways to passively support creators w/ the creator program and find a balance that creates an 'accessible but rewarding' experience for everyone.</p><p class='mainTextParagraph'>\n\nImportantly, Slikey says the team is trying to prioritize both players and modders, and promises to try to innovate and stay on top of feedback.</p>",
         "date": "12 05 2025",

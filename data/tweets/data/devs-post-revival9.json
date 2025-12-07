@@ -1,6 +1,46 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Creating/Sharing custom models",
+    "mainText": "'Yep, tutorials for this will be easy to make and understand'",
+    "date": "12 6 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/simon_hypixel/status/1997526020488925280?s=61"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: custom models/avatars",
+    "mainText": "'You can modify the game as you please, so you can make your own skin/cosmetics. Not saying YouTubers only, everyone can. I was just saying as a YouTuber you could make your own world and record with your own skin/cosmetics.\nBut only you, or servers that use your mod, would see it!'",
+    "date": "12 6 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/simon_hypixel/status/1997518543990960379?s=61"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: custom models/avatars in private worlds/servers",
     "mainText": "'Correct! As a YouTuber you could do this'",
     "date": "12 6 2025",

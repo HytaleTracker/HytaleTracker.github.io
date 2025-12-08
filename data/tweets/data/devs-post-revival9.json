@@ -1,6 +1,274 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Oscar, re: first game you ever beat",
+    "mainText": "'Rayman Gif'",
+    "date": "12 7 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1997799818186617287?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: ideas for campfires",
+    "mainText": "'I have some ideas but dont want to get quoted for years to come 😅'",
+    "date": "12 7 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1997791264629231887?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: campfires in Hytale",
+    "mainText": "'Id like to make campfires be useful other than cooking, I have some ideas for adventure mode that will come later'",
+    "date": "12 7 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1997780226726866993?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "D.S.N., re: parental controls",
+    "mainText": "'We have already started building functionality around this, our upcoming account system already has some of the points you've listed (account linking and parental consent for registration), and we're planning to continue adding more so that parents can control the types of experiences their children have in Hytale.\r\n\r\nMany of the items in your list are planned and will be added along side the implementations of their respective features. We plan on notifying parents when these features expand in functionality as they’re released so they can adjust their childs account permissions as they see fit.\r\n\r\nWe're always looking for ways to make the experience for both parents and children better, so please keep sending us feedback like this when you think of it!'",
+    "date": "12 7 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1997761675932618937?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: mods breaking with updates",
+    "mainText": "'Mods are only affected if we change the underlying system and interference will be mitigated with a deprecation policy. Updates in the first few months won't follow our deprecation policy as we expect a lot of problems we need to fix fast. Afterwards you can always access the upcoming release in the pre-release patch line to ensure compatibility of your mods. Generally we expect asset packs to break the least.'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1997755721950073057?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Server Manual",
+    "mainText": "'The server manual is coming in later than expected as we are still tweaking some performance issues on high player counts. Last test with 56 players showed us some systems misbehaving and we had to discard the data. I hope that tomorrow we have ironed most things out and get a more stable idea.'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1997755052623003837?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: needing Radmin or Hamachi",
+    "mainText": "'Yeah no need for any of that. Currently your router ND ISP needs to support upnp which sometimes is a problem if you have a bad ISP. We are working on a upgrading this system further but it will not work for every user at the moment. You can probably ask an AI of your choice to check if it works for you. Alternatively you can always rent a server until we are done upgrading our system.'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Feature",
+      "Social System",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1997732979297107993?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Thanksmas",
+    "mainText": "'CatJam gif'",
+    "date": "12 7 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1997731670053855304?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: transfer packet",
+    "mainText": "'It has a 4KB payload you can use however you want. We definitely recommend to use an HMAC message if you want to transmit trustable data. It also contains the referrer so you can see which server sent the client. Additionally we are making the destination an array now in case the transfer doesn't work so that you can add fallbacks.'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1997729233079034033?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: joining your friends' worlds",
+    "mainText": "'Yep! We have a video in the making to show your how it works. Right now I can go into my single player, click Online Play in the ESC menu and share a code to my friend. The friend uses to code to join me in my singleplayer world. You can also rent a server from a hosting provider but for a simple coop you can just use our singleplayer friend join.'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Feature",
+      "Social System"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1997727072018739431?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: ping in Hytale",
+    "mainText": "'This is where the transfer packet comes in. On Hypixel network we had to connect you to one of our proxies (BungeeCord) which are all in the US. In Hytale you can connect to a server network and the initial \"load balancer\" redirects you to a server that is much closer to you. The server can then take ping into account for matchmaking and the more distributed they are, the better the average ping for players.'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1997726488058318923?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: sharing PC version's code publicly",
+    "mainText": "'Even PC only libraries we use are closed source and under a strict license. We just can't do it. For the server we were able to avoid those licensing issues but the client wasn't as fortunate.'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1997725742625698013?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: fanart of Zone 4 Caves",
+    "mainText": "'Awesome art! Love it'",
+    "date": "12 7 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1997725621016023311?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: players not manually installing mods when they join a modded world/server",
+    "mainText": "'This is a core part of Hytale modding strategy. The server is at the core of modding and you will never have to download any mods to play on a modded server. We want the mods to be seamless. When you connect to your friends single player or to a multi-player server: You automatically download all mods required to play. If you want to, you can even make a mod together on your friends single player server by editing assets together in the game and seeing the results in real time.'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1997725278651514965?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: wardrobe furniture item to save cosmetic sets in-game",
     "mainText": "'Already in the plans long term after launch!'",
     "date": "12 7 2025",
@@ -15,7 +283,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1997694889623159279?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1997694889623159279?s=20"
         ]
       }
     ]
@@ -34,7 +302,7 @@
       {
         "1": [
           "tweet by Hytale",
-          "https://vxtwitter.com/Hytale/status/1997682518863343853?s=20"
+          "https://xcancel.com/Hytale/status/1997682518863343853?s=20"
         ]
       }
     ]
@@ -54,7 +322,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1997666438060945504?s=20"
+          "https://xcancel.com/slikey/status/1997666438060945504?s=20"
         ]
       }
     ]
@@ -73,7 +341,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1997641797107921333?s=20"
+          "https://xcancel.com/onpujam/status/1997641797107921333?s=20"
         ]
       }
     ]
@@ -93,7 +361,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1997638414615609435?s=20"
+          "https://xcancel.com/slikey/status/1997638414615609435?s=20"
         ]
       }
     ]
@@ -112,7 +380,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1997635133055103481?s=20"
+          "https://xcancel.com/slikey/status/1997635133055103481?s=20"
         ]
       }
     ]
@@ -131,7 +399,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1997568842881523978?s=20"
+          "https://xcancel.com/slikey/status/1997568842881523978?s=20"
         ]
       }
     ]
@@ -150,7 +418,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1997554792780947787?s=20"
+          "https://xcancel.com/slikey/status/1997554792780947787?s=20"
         ]
       }
     ]
@@ -169,7 +437,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1997550550985138551?s=20"
+          "https://xcancel.com/slikey/status/1997550550985138551?s=20"
         ]
       }
     ]
@@ -188,7 +456,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1997537591592116609?s=20"
+          "https://xcancel.com/slikey/status/1997537591592116609?s=20"
         ]
       }
     ]
@@ -207,7 +475,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1997529446493073918?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1997529446493073918?s=20"
         ]
       }
     ]

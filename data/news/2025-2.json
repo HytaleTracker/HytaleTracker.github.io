@@ -1,6 +1,88 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks modding, server performance, gameplay features, parental controls, and share a farming screenshot.",
+        "mainText": "<p class='mainTextParagraph'>When asked about joining modded worlds/instances, Slikey confirmed that players will automatically download all mods required to play on a friend's modded world or multiplayer server. Slikey also shared that joining a friend's world is as easy as sharing a code and using it to join. When asked about mods breaking with each update, Slikey says mods are only affected if an underlying system is changed, and interference will be mitigated with a deprecation policy - after the first few months - with asset packs being expected to break the least.</p><p class='mainTextParagraph'>\n\nDiscussing installing mods, Slikey says you can select mods per-world, which are then shared with friends when they join the world.\n\nRegarding the promised server manual, Slikey stated that it would come later than initially expected, due to discovering performance issues on high player counts; a 56 player test showed systems misbehaving, though Slikey later revealed the discovery that the errors weren't due to the player count, but the NPC spawning system malfunctioning and spawning over 3000 active NPCs.</p><p class='mainTextParagraph'>\n\nIn a short discussion about gameplay features, Simon revealed that a wardrobe furniture item that allows players to save and swap between cosmetic presets in-game is planned, later adding that he had ideas for campfires being useful for more than cooking in adventure mode in the future.</p><p class='mainTextParagraph'>\n\nDevSlashNull also revealed that some parental control features are already implemented - account linking and consent for registration specifically - with much more planned.</p><p class='mainTextParagraph'>\n\nThe official Hytale account also shared an in-game screenshot of a farm in Hytale, showcasing eleven rows of different crops inside a fenced-in area with two scarecrows. The tweet's caption revealed the team has been making progress on Hytale's farming and overall cozy feel, and teased more to be shown in the future.</p>",
+        "date": "12 07 2025",
+        "tags": [
+            "Tweet",
+            "Features",
+            "Servers",
+            "DevSlashNull",
+            "Hytale",
+            "Simon",
+            "Slikey",
+            "Gameplay",
+            "Modding",
+            "Screenshot",
+            "Social System",
+            "Tech"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Slikey - Automatically downloading mods",
+                    "https://xcancel.com/slikey/status/1997725278651514965?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Slikey - Joining your friend's world",
+                    "https://xcancel.com/slikey/status/1997727072018739431?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Slikey - Deprecation policy",
+                    "https://xcancel.com/slikey/status/1997755721950073057?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Slikey - Installing and sharing mods",
+                    "https://xcancel.com/slikey/status/1997888060747366792?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Slikey - Server Manual",
+                    "https://xcancel.com/slikey/status/1997755052623003837?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Slikey - Reddit - 3000 NPCs",
+                    "https://www.reddit.com/r/hytale/comments/1pgpapl/comment/nsuls9w/"
+                ]
+            },
+            {
+                "7": [
+                    "Simon - Wardrobe",
+                    "https://xcancel.com/Simon_Hypixel/status/1997694889623159279?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Simon - Campfire",
+                    "https://xcancel.com/Simon_Hypixel/status/1997780226726866993?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "DevSlashNull - Parental Controls",
+                    "https://xcancel.com/DevSlash_Null/status/1997761675932618937?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Hytale - Farming Screenshot",
+                    "https://xcancel.com/Hytale/status/1997682518863343853?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team shares first look at E.A. cosmetics, modding, OST.",
         "mainText": "<p class='mainTextParagraph'>The Hytale Team shared the first look at the extra cosmetics that come in each of Hytale's Early Access editions, including eight total cosmetic sets and ten different capes! Screenshots and videos can be found linked in the sources on this post.</p><p class='mainTextParagraph'>\n\nSimon confirmed that users can pick from specific colors to recolor some of the cosmetics, with a color palette option being investigated in the future. Polina also confirmed that players can mix and match cosmetics, and the resolution for player cosmetics is 64x64. Simon later linked an old avatar customization blogpost, which he says looks correct from a glance.</p><p class='mainTextParagraph'>\n\nWhen asked about the possibility of a <i>Create: Aeronautics</i> style mod in Hytale, Slikey explained that features that make that type of mod possible are on a 'future work' list, which currently has no timeline. Discussing server-side physics, Slikey says interpolation exists, but prediction is currently limited, and consistency can't be relied on, with more data being required to see where to invest effort.</p><p class='mainTextParagraph'>\n\nFinally, Oscar shared on Twitter than the Hytale OST can be reworked, chopped up, and remixed freely - <i>as long as AI is not used in the process.</i></p>",
         "date": "12 06 2025",

@@ -1,6 +1,44 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: modding",
+    "mainText": "'When you add them via your curseforge app, you can select the mods you want for your singleplayer world. Once you are in your world you invite your friend and the friend would automatically get a copy when they join your singleplayer.'",
+    "date": "12 7 2025",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1997888060747366792?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: RokoArt's Zone 4 Caves fanart",
+    "mainText": "'Absolutely stunning!! So insanely good 🔥🔥🔥'",
+    "date": "12 7 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1997881046520766821?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Propzie, re: Zone 4 Caves fanart",
     "mainText": "'Whaaaaaat!! This is insanely good \r\n@RokoArts'",
     "date": "12 7 2025",
@@ -99,7 +137,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "D.S.N., re: parental controls",
-    "mainText": "'We have already started building functionality around this, our upcoming account system already has some of the points you've listed (account linking and parental consent for registration), and we're planning to continue adding more so that parents can control the types of experiences their children have in Hytale.\r\n\r\nMany of the items in your list are planned and will be added along side the implementations of their respective features. We plan on notifying parents when these features expand in functionality as they’re released so they can adjust their childs account permissions as they see fit.\r\n\r\nWe're always looking for ways to make the experience for both parents and children better, so please keep sending us feedback like this when you think of it!'",
+    "mainText": "'We have already started building functionality around this, our upcoming account system already has some of the points you've listed (account linking and parental consent for registration), and we're planning to continue adding more so that parents can control the types of experiences their children have in Hytale.\n\nMany of the items in your list are planned and will be added along side the implementations of their respective features. We plan on notifying parents when these features expand in functionality as they’re released so they can adjust their childs account permissions as they see fit.\n\nWe're always looking for ways to make the experience for both parents and children better, so please keep sending us feedback like this when you think of it!'",
     "date": "12 7 2025",
     "tags": [
       "DevSlashNull",

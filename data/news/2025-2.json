@@ -5,12 +5,12 @@
         "mainText": "<p class='mainTextParagraph'>When asked about joining modded worlds/instances, Slikey confirmed that players will automatically download all mods required to play on a friend's modded world or multiplayer server. Slikey also shared that joining a friend's world is as easy as sharing a code and using it to join. When asked about mods breaking with each update, Slikey says mods are only affected if an underlying system is changed, and interference will be mitigated with a deprecation policy - after the first few months - with asset packs being expected to break the least.</p><p class='mainTextParagraph'>\n\nDiscussing installing mods, Slikey says you can select mods per-world, which are then shared with friends when they join the world.\n\nRegarding the promised server manual, Slikey stated that it would come later than initially expected, due to discovering performance issues on high player counts; a 56 player test showed systems misbehaving, though Slikey later revealed the discovery that the errors weren't due to the player count, but the NPC spawning system malfunctioning and spawning over 3000 active NPCs.</p><p class='mainTextParagraph'>\n\nIn a short discussion about gameplay features, Simon revealed that a wardrobe furniture item that allows players to save and swap between cosmetic presets in-game is planned, later adding that he had ideas for campfires being useful for more than cooking in adventure mode in the future.</p><p class='mainTextParagraph'>\n\nDevSlashNull also revealed that some parental control features are already implemented - account linking and consent for registration specifically - with much more planned.</p><p class='mainTextParagraph'>\n\nThe official Hytale account also shared an in-game screenshot of a farm in Hytale, showcasing eleven rows of different crops inside a fenced-in area with two scarecrows. The tweet's caption revealed the team has been making progress on Hytale's farming and overall cozy feel, and teased more to be shown in the future.</p>",
         "date": "12 07 2025",
         "tags": [
+            "Simon",
             "Tweet",
             "Features",
             "Servers",
             "DevSlashNull",
             "Hytale",
-            "Simon",
             "Slikey",
             "Gameplay",
             "Modding",

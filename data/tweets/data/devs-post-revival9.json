@@ -1,6 +1,679 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking how they know user passwords have been breached",
+    "mainText": "'https://haveibeenpwned.com/API/v3#PwnedPasswordsNTLM'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998074131129205026?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: account system",
+    "mainText": "'This entire system has been developed from scratch. All of this was created within the last 3 months.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998072924599882074?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: translation compat layer like Proton",
+    "mainText": "'That is true for games that are not built with Linux in mind. We are giving you an actual native game that isn't just a port. We believe flatpak is the best possible experience for Linux users.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998072679656501366?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Riot sending emails",
+    "mainText": "'That is intended due to data privacy and protection regulation. Riot Games is involved in this process.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998071706636910923?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: user posting This Is Fine gif about the servers",
+    "mainText": "'Man In Front Of Fire 'Look What I Have Created' GIF'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlash_Null/status/1998071207913033970?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: user discovering password breach",
+    "mainText": "'Our sign-in system uses HIBP https://haveibeenpwned.com\r\n\r\nHighly recommend not re using passwords and using a password manager to manage unique per platform passwords'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlash_Null/status/1998070803863134213?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user learning their password was breached when creating Hytale account",
+    "mainText": "'We also help you be more secure :)'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998070792022810880?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DepNether, re: SMPTP servers crying",
+    "mainText": "'It's me, I'm the one crying :'('",
+    "date": "12 8 2025",
+    "tags": [
+      "DepNether",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DepNether",
+          "https://vxtwitter.com/DepNether/status/1998069756994245117?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: verification emails",
+    "mainText": "'Thanks for your patience, we're making further changes to speed up email sending.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlash_Null/status/1998069526437519526?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: more signups than expected",
+    "mainText": "'Dog Wiping Brow - Gif'",
+    "date": "12 8 2025",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1998065826906399002?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Linux x86 or ARM64",
+    "mainText": "'We are focussing on Linux x86 and Mac arm64 as first targets. Eventually we will cover all Windows, Mac,  Linux on both x86 and arm64. This is really all just a matter of how fast we can do the CICD and test each configuration.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998062510759350341?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: hiding emails",
+    "mainText": "'We will look at adding this'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlash_Null/status/1998061644765905387?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: multiple game profiles",
+    "mainText": "'That is correct, multiple game profiles can live under an account! No need for multiple accounts for your alt game profiles.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlash_Null/status/1998061581717143608?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: email sending",
+    "mainText": "'We've made some changes on our side to speed up the email sending, you should get them a lot quicker now'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlash_Null/status/1998061394865135861?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Linux version of Hytale",
+    "mainText": "'Its the exact same thing as Windows. There is no difference in terms of features.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998060192085287061?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Epic Games launcher",
+    "mainText": "'No, we will not be on the Epic Games launcher; we are only using their login services!'",
+    "date": "12 8 2025",
+    "tags": [
+      "Simon",
+      "Tech",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1998057411282678257?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: verification emails",
+    "mainText": "'Please be patient if you do not get your verification email, we're getting quite a lot more signups than expected!'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlash_Null/status/1998056156502106442?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hugo being first",
+    "mainText": "'congrats to @HugoTrork for account #1'",
+    "date": "12 8 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1998055577629475248?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: Hugo being first account created",
+    "mainText": "'Can confirm Hugo was first'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlash_Null/status/1998054874894782763?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: other Linux options than flatpak",
+    "mainText": "'No, we only do flatpak. Given the small audience on Linux, we think this should cover 95%+ and we can't build CICD pipelines for individual users.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998054364452212778?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: error",
+    "mainText": "'Will have someone reach out to collect some logs from you so we can take a deeper look'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlash_Null/status/1998054347297492992?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull tweets account creation link",
+    "mainText": "'Help us test our accounts system for Hytale by making an account here: https://accounts.hytale.com   \r\n\r\nTokens for reserving your name will be coming out in the next couple days, keep your eyes peeled for that! Having your account ready to go will make you 1 step quicker to getting your name reserved.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Statement",
+      "Tech",
+      "Devs",
+      "Early Access"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlash_Null/status/1998053578586349916?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull tweets picture of Hytale website login page",
+    "mainText": "'👀'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Hints",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlash_Null/status/1998046724896743891?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: controller support",
+    "mainText": "'We won't have decent controller support for launch. There is no development capacity for it. It will have to wait and players can buy the game once we actually added it, which shouldn't be too far in the future.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Accessibility",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998035408828149842?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Apple devices being impacted by RAM surge",
+    "mainText": "'They will also be affected but less so as they are one of the largest buyers for NAND. They also don't buy DRAM chips the same way that RAM suppliers do. It is likely going to be less bad.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998034533246288139?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: gamepad support",
+    "mainText": "'No, we don't have gamepad support at launch. It is the next step on the multiplatform / accessibility roadmap.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Accessibility",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998033361315741897?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Mac support",
+    "mainText": "'Mac is really a priority to us as we observe RAM prices being completely out of control and Apple Macbooks / Mac Minis becoming unbeatable in value.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998031531600978387?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: farming screenshot",
+    "mainText": "'That's me 👀 I've been reading through the comments here and on Reddit and there's a lot of great feedback, suggestions and hopes for the future for farming in Hytale.\r\n\r\nI'm beyond excited to see how this community will shape Hytale's future as early as next month 👀'",
+    "date": "12 8 2025",
+    "tags": [
+      "Paris",
+      "Gameplay",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://vxtwitter.com/OctrDev/status/1998031484868080109?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Steamdeck support",
+    "mainText": "'Thats a different story. Steamdeck may be technically possible but you still have the small screen size, gamepad controls and battery optimizations. We treat Steamdeck as a seperate platform in terms of development. We won't prevent you from installing it and trying but we need to do more work to really support it.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998030713937940835?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Mac & Linux Support",
+    "mainText": "'RE: Mac & Linux Support\r\n\r\nWe have finally removed the last library that was causing trouble for Mac and Linux support.\r\n\r\nWe are able to build for Linux now using flatpak. Mac builds are work in progress. There is more work on the CICD pipeline to host the files required for flatpak.\r\n\r\nThis is still NO CONFIRMATION for Linux / Mac support at launch but we are getting closer to that becoming a reality.\r\n\r\nMore in-depth testing remains, will keep updating as we move forward.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1998020881499513243?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: auto downloading mods",
+    "mainText": "'You won't be downloading any jar file. You will only download the asset packs. There is no security risk like jar files would expose you to.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/1997995719039312234?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: user excited about his streams",
+    "mainText": "'Welcome! 😁'",
+    "date": "12 8 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1997960025709613531?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: stems for This Is Our Tale",
+    "mainText": "'I'd have to ask the performers, but they might not be ok with it.. TBD! I'll find out.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1997936191044468921?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: making silvagunner rips",
+    "mainText": "'Yeah of course🌚'",
+    "date": "12 8 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1997934608747499558?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: user wanting to see how the OST is made",
+    "mainText": "'I do a music making stream every Wednesday night, 9pm CET over at \r\n@ogrpgmusic  https://twitch.com/ogrpgmusic 🎹🎛️🎚️🎧🎶'",
+    "date": "12 8 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/1997934234070114705?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen, re: RokoArts' Zone 4 caves fanart",
+    "mainText": "'Damn... the Twitter crop didn't do it justice, glad I opened it! Amazing work!'",
+    "date": "12 7 2025",
+    "tags": [
+      "Mewen",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/1997912699972321462?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: modding",
     "mainText": "'When you add them via your curseforge app, you can select the mods you want for your singleplayer world. Once you are in your world you invite your friend and the friend would automatically get a copy when they join your singleplayer.'",
     "date": "12 7 2025",

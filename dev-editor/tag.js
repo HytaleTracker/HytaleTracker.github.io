@@ -28,11 +28,28 @@ document.addEventListener("DOMContentLoaded", () => {
         document.getElementById("tag-colors").before(wrap);
     });
 
+
     document.getElementById("new-tag-tweet").addEventListener("click", () => {
         const input = document.createElement("input");
         input.classList.add("tag-tweet");
         document.getElementById("new-tag-tweet").before(input);
     });
+
+    document.getElementById("new-remove-tag").addEventListener("click", () => {
+        const wrap = document.createElement("div");
+        wrap.classList.add("remove-tag-pair");
+
+        wrap.innerHTML = `
+            <input class="remove-catagory" placeholder="catagory">
+            <input class="remove-name" placeholder="name">
+        `;
+
+        document.getElementById("new-remove-tag").before(wrap);
+    });
+    document.getElementById("remove-tag-remove").addEventListener("click", () => {
+        const list = document.querySelectorAll(".remove-tag-pair");
+        list[list.length - 1].remove();
+    })
 
     
     document.getElementById("create").addEventListener("click", () => {
@@ -93,29 +110,31 @@ document.addEventListener("DOMContentLoaded", () => {
                 ...colorObj
             };
         }
-        const nameValue = document.getElementById("name").value.trim();
-        const catValue = document.getElementById("catagory").value.trim().toLowerCase();
 
-        if (nameValue && catValue) {
-            switch (catValue) {
-                case "news":
-                    json[0].news = json[0].news.filter(tag => tag !== nameValue);
-                    break;
-                case "community":
-                    json[1].community = json[1].community.filter(tag => tag !== nameValue);
-                    break;
-                case "colors":
-                    
-                    if (json[2].colors[0][nameValue]) {
-                        delete json[2].colors[0][nameValue];
-                    }
-                    break;
-                default:
-                    console.warn("Unknown category:", catValue);
-            }
-        }
+        json[3].tweets.push(...tweets);
+        
 
-        json[3].tweets.push(...tweets)
+        const removePairs = document.querySelectorAll(".remove-tag-pair");
+
+        removePairs.forEach(pair => {
+            const category = pair.querySelector(".remove-catagory").value.trim().toLowerCase();
+            const name = pair.querySelector(".remove-name").value.trim(); // DO NOT lowercase
+
+            let arr = null;
+
+            if (category === "tweets") arr = json[3].tweets;
+            if (category === "news") arr = json[0].news;
+            if (category === "community") arr = json[1].community;
+
+            if (!arr) return;
+
+            const index = arr.indexOf(name);
+            if (index !== -1) arr.splice(index, 1);
+        });
+
+
+
+        
 
 
 
@@ -138,8 +157,7 @@ document.addEventListener("DOMContentLoaded", () => {
         removeElementsByClass("tag-community");
         removeElementsByClass("tag-news");
         removeElementsByClass("color-pair");
-        document.getElementById("catagory").value = "";
-        document.getElementById("name").value = "";
+        removeElementsByClass("remove-tag-pair");
 
             });
 });

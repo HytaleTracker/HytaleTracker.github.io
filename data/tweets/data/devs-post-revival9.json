@@ -1,6 +1,45 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Propzie, re: Zone 4 Caves fanart",
+    "mainText": "'Whaaaaaat!! This is insanely good \r\n@RokoArts'",
+    "date": "12 7 2025",
+    "tags": [
+      "Propzie",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/1997827792147550651?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: if The Klop's Hidey Hole still exist",
+    "mainText": "'yea'",
+    "date": "12 7 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1997818501877440970?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Oscar, re: first game you ever beat",
     "mainText": "'Rayman Gif'",
     "date": "12 7 2025",
@@ -98,7 +137,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey, re: Server Manual",
-    "mainText": "'The server manual is coming in later than expected as we are still tweaking some performance issues on high player counts. Last test with 56 players showed us some systems misbehaving and we had to discard the data. I hope that tomorrow we have ironed most things out and get a more stable idea.'",
+    "mainText": "'The server manual is coming in later than expected as we are still tweaking some performance issues on high player counts. Last test with 56 players showed us some systems misbehaving and we had to discard the data. I hope that tomorrow we have ironed most things out and get a more stable idea.'\n\n(Note: Slikey said on r/Hytale the server spawned 3K active NPCs, so it wasn't the player count that caused the lag. Link)",
     "date": "12 7 2025",
     "tags": [
       "Slikey",

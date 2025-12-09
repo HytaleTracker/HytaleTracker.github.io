@@ -1,6 +1,88 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks modding, Mac/Linux support, and launches account creation.",
+        "mainText": "<p class='mainTextParagraph'>Early in the day, Slikey clarified that users won't download any jar files when joining modded servers, only asset packs.</p><p class='mainTextParagraph'>\n\nFollowing that tweet, Slikey announced that the team had finally removed the last library causing trouble for Mac/Linux support, and they were finally able to build for Linux using flatpack, which should cover 95% of Linux users, with Mac builds still in progress. When asked about Steam Deck support, Slikey revealed that the the team treats it as a separate platform in terms of development. Slikey says the Linux build of Hytale is the 'exact same' as Windows, with no feature differences.</p><p class='mainTextParagraph'>\n\nOut of the blue, DevSlashNull tweeted the link to Hytale's account creation page, setting off a chaotic storm that created errors and confusion, and revealed multiple game profiles can live under a single account. When questioned on name reservation tokens being sent by both Hypixel Studios and Riot Games, Slikey confirmed it is intended due to data privacy and data regulations.</p><p class='mainTextParagraph'>\n\nWith regards to name reservation tokens, which will be sent out over the next few days, DevSlashNull revealed they are a one time use, with a limit of one per account. After a mess of confusion, Simon clarified that there are two email lists - Hytale Beta Signups, and Hypixel Newsletter. Beta Signups email list is not in Hypixel Studios' control, and tokens from that list will be sent by Riot Games -- and the list is 65% smaller than it was before Simon left because there was a re-registration campaign, which Simon is surprised to learn many didn't get the notification to re-register.</p><p class='mainTextParagraph'>\n\nIn accordance to that, Simon promises the team will provide additional username tokens this week to people who created a Hytale account directly on the website.</p>",
+        "date": "12 08 2025",
+        "tags": [
+            "Simon",
+            "Statement",
+            "Tweet",
+            "DevSlashNull",
+            "Hytale",
+            "Creative Mode",
+            "Early Access",
+            "Future Stuff",
+            "Modding",
+            "Simon Notes",
+            "Social System",
+            "Tech"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Slikey - Jar Files",
+                    "https://xcancel.com/slikey/status/1997995719039312234?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Slikey - Mac/Linux Support",
+                    "https://xcancel.com/slikey/status/1998020881499513243?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Slikey - 95% Linux Users",
+                    "https://xcancel.com/slikey/status/1998054364452212778?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Slikey - Steam Deck Support",
+                    "https://xcancel.com/slikey/status/1998030713937940835?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Slikey - Linux vs Windows version",
+                    "https://xcancel.com/slikey/status/1998060192085287061?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "DevSlashNull - Account Creation",
+                    "https://xcancel.com/DevSlash_Null/status/1998053578586349916?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "DevSlashNull - Profiles under one account",
+                    "https://xcancel.com/DevSlash_Null/status/1998177931407790218?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Slikey - Riot sending emails",
+                    "https://xcancel.com/slikey/status/1998071706636910923?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "DevSlashNull - Name Reservation Tokens",
+                    "https://xcancel.com/DevSlash_Null/status/1998091911416955250?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Simon - Email List confusion",
+                    "https://xcancel.com/Simon_Hypixel/status/1998221920945234113?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talks modding, server performance, gameplay features, parental controls, and share a farming screenshot.",
         "mainText": "<p class='mainTextParagraph'>When asked about joining modded worlds/instances, Slikey confirmed that players will automatically download all mods required to play on a friend's modded world or multiplayer server. Slikey also shared that joining a friend's world is as easy as sharing a code and using it to join. When asked about mods breaking with each update, Slikey says mods are only affected if an underlying system is changed, and interference will be mitigated with a deprecation policy - after the first few months - with asset packs being expected to break the least.</p><p class='mainTextParagraph'>\n\nDiscussing installing mods, Slikey says you can select mods per-world, which are then shared with friends when they join the world.\n\nRegarding the promised server manual, Slikey stated that it would come later than initially expected, due to discovering performance issues on high player counts; a 56 player test showed systems misbehaving, though Slikey later revealed the discovery that the errors weren't due to the player count, but the NPC spawning system malfunctioning and spawning over 3000 active NPCs.</p><p class='mainTextParagraph'>\n\nIn a short discussion about gameplay features, Simon revealed that a wardrobe furniture item that allows players to save and swap between cosmetic presets in-game is planned, later adding that he had ideas for campfires being useful for more than cooking in adventure mode in the future.</p><p class='mainTextParagraph'>\n\nDevSlashNull also revealed that some parental control features are already implemented - account linking and consent for registration specifically - with much more planned.</p><p class='mainTextParagraph'>\n\nThe official Hytale account also shared an in-game screenshot of a farm in Hytale, showcasing eleven rows of different crops inside a fenced-in area with two scarecrows. The tweet's caption revealed the team has been making progress on Hytale's farming and overall cozy feel, and teased more to be shown in the future.</p>",
         "date": "12 07 2025",

@@ -1,6 +1,483 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: lost beta signups",
+    "mainText": "'Yeah, I'm pretty annoyed, too! I wish the emails were intact. It would have made the whole thing way easier to handle! A lot of these people will never know Hytale is back as well, it sucks.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998238211039248641?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: beta email from march 2024",
+    "mainText": "'You are fine. To make extra sure, sign up on the Hytale website as well.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Simon",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998232223858975056?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: using tokens",
+    "mainText": "'Emails from beta sign-ups and the mailing list are handled separately from the email address you use for your Hytale account.\n\nYou can claim the name reservation token on any account once you receive it.\n\nExample:\n2019: Registered under bob@test.com\nToday: Hytale account newbob@test.com\n\nThe token you get from bob@test.com can be used on your newbob@test.com Hytale account.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998230156343746659?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: confusion",
+    "mainText": "'For those confused about the beta signups situation around Hytale name reservations please checkout Simons reply below'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998222769163825313?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: verification issues",
+    "mainText": "'Fix should be out for this, if you wait for the email to come through it should work for ya now'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998221937739481548?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "SImon, re: confusions about email lists",
+    "mainText": "'To clear up some confusion: there are 2 email lists, Hytale Beta Signups and Hypixel Newsletter.\n\nThe Hytale Beta Signups email list is not within our control; we have limited information and were not given access when we repurchased Hytale IP 3 weeks ago. Riot Games will send that list.\n\nThe only information that I have is that there was a re-registration campaign during the time I was not there, between 2020 and 2025. This list is about 65% smaller than what it was in 2020 before I left Hytale.\n\nJust now, after reading your comments tonight, I'm learning that many of you didn't get the re-registration campaign email, so imagine my surprise and frustration, as I have put a lot of value in these emails.\n\nThe good news is, we want to make sure the process is as fair as possible for everyone and give people a shot at reserving the names they want. We will provide additional username tokens this week to people who sign up for Hytale accounts directly on the website.\n\nThese will come during the email campaign as it rolls out later this week.\n\nCheers!'",
+    "date": "12 8 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998221920945234113?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: tokens",
+    "mainText": "'We will issue out more tokens along side the email blast to those that have made accounts this week and via social media, make sure you're following \r\n@Hytale'\n\n(DELETED)",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998208639056929065?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: re-registering",
+    "mainText": "'There was a point where the entire email list was asked to re register, if you did that you should get an email. This would've been around 2023'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998205933479178586?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: verification emails expiring",
+    "mainText": "'We're testing some fixes for this, looking to have a fixed rolled out ASAP'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998202670109335582?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: registering for beta",
+    "mainText": "'There was a point where the entire email list was asked to re register, if you did that you should get an email.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998202255896699362?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: potential for blogpost for servers/server tools",
+    "mainText": "'I am sure at some point we will release knowledge base articles or a blog post about it'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Server",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998200828881146173?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: server owners banning players",
+    "mainText": "'There will still be tools that server owners can use to remove players from their servers regardless of the profile used.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Gameplay",
+      "Server",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998200005606383806?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: wording of 'Hypixel is sending out emails containing tokens to players who are subscribed to the newsletter.'",
+    "mainText": "'This is with regards to the @HypixelNetwork. We will improve the wording to make that more clear.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1998199114572739014?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: running multiple instances at one time",
+    "mainText": "'Yep! '",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998199030262964239?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: sharing accounts",
+    "mainText": "'We never recommend sharing accounts, it puts your account and game profiles at risk. This is more for you to be able to have different accounts with different names, avatar, cosmetics, etc'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998198964647288839?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: 2FA backup codes",
+    "mainText": "'Backup Codes are coming tomorrow.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1998198393244733728?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: verification emails",
+    "mainText": "'Yeah sorry I misread the initial tweet. I thought its a verification issue. Getting too tired after this day 😅 Name reservation tokens will come over the next few days.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1998195520955875444?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: verification emails",
+    "mainText": "'Okay, so you are verified. The token will then arrive in the coming days if are eligible.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1998195077383147554?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: name reserve token",
+    "mainText": "'When was the last time you requested a verification? The queue is empty, so you should receive it within minutes.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1998193492271493582?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: delayed verification emails",
+    "mainText": "'We're still investigating, thanks for being patient we hope to have this resolved ASAP'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998190916017029174?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: accounts being like Runescape",
+    "mainText": "'Exactly like that'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998190784437539152?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: possibility of MC Realms-like system",
+    "mainText": "'There will be server providers for day 1, we're working with companies that have been in the server hosting business for years. We don't see any point in us handling this as a 1st party service when there are other companies that can offer the experience we'd want for our players and at a cheaper price. This lets us focus on making the game as great as can be rather than focusing on many different areas to try and serve.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998186854818943253?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: how bans work",
+    "mainText": "'For very serious cases we would issue a full account ban that would cover any game profiles in the account.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Gameplay",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998185126979875083?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: how being banned works",
+    "mainText": "'Your profile / game license would be banned, not the entire account. When it concerns the game each profile is a separate identity.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Gameplay",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1998183525594595627?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: verification emails coming late",
+    "mainText": "'Thank you, taking a look into this now. Will reach out for some info'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998178112794919047?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull shares more info about how Hytale accounts work",
+    "mainText": "'Some more information about how Hytale accounts work: \n\nOur accounts system is broken into 2 parts, we have Hytale accounts and game profiles\n\nA Hytale account is used to sign in and is where your authentication methods live. \n\nA game profile is tied to a username (1 per game profile) and is where your license to play the game is stored along with your avatar and any game specific information. \n\nThis means you can have multiple game profiles under 1 hytale account removing the need to store and track multiple logins to have alt account. \n\nFor example, \nHytale Account: test@test.com (no hack plz)\nCan have under the same account:\nGame Profile 1: therealtest (supporter edition)\nGame Profile 2: testthereal (curse breaker edition)'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998177931407790218?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "DevSlashNull, re: verification emails lasting 24hrs",
     "mainText": "'This should be for emails sent after the tweet, plz give it another shot!'",
     "date": "12 8 2025",

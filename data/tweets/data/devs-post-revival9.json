@@ -39,7 +39,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Hytale shares that account creation is open",
-    "mainText": "'You can now create your Hytale account on the official website! 🎉\r\nWe’re getting ready for pre-purchases on December 13, so you can set up your account ahead of time and prepare for upcoming username reservations.\r\n\r\nPlease note: Signups spiked in the last few hours, so email confirmations might be slow. Verifications last ~24 hours, so no need to retry the request email button if it doesn't come through!\r\n\r\nIf you have previously signed up for the Hytale beta or Hytale/Hypixel newsletters, we will be sending you an email to reserve your username. Bear in mind, there are millions of emails being sent, so we are slowly rolling them out throughout the week.\r\nIf you have not previously signed up, you will need to wait until pre-purchase time (Dec 13) to claim your username.\r\n\r\nThank you for your patience, everyone! ❤️ #Hytale'",
+    "mainText": "'You can now create your Hytale account on the official website! 🎉\nWe’re getting ready for pre-purchases on December 13, so you can set up your account ahead of time and prepare for upcoming username reservations.\n\nPlease note: Signups spiked in the last few hours, so email confirmations might be slow. Verifications last ~24 hours, so no need to retry the request email button if it doesn't come through!\n\nIf you have previously signed up for the Hytale beta or Hytale/Hypixel newsletters, we will be sending you an email to reserve your username. Bear in mind, there are millions of emails being sent, so we are slowly rolling them out throughout the week.\nIf you have not previously signed up, you will need to wait until pre-purchase time (Dec 13) to claim your username.\n\nThank you for your patience, everyone! ❤️ #Hytale'",
     "date": "12 8 2025",
     "tags": [
       "Hytale",
@@ -310,7 +310,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "DevSlashNull, re: Tokens for Hytale Name Reservation",
-    "mainText": "'RE: Tokens for Hytale name reservation \r\n\r\nTokens are one time use, and one per account. The mailing for these tokens will happen over the next few days, we wanted to make sure we had the accounts system stabilized first before rolling codes out. \r\n\r\nIf you were signed up for Beta under the old Hypixel Studios, Riot Games will be sending out emails to those folks with tokens to reserve their names.\r\n\r\nIf you were signed up to the Hypixel MC forums and are opted into the mailing list you will also receive one.'",
+    "mainText": "'RE: Tokens for Hytale name reservation \n\nTokens are one time use, and one per account. The mailing for these tokens will happen over the next few days, we wanted to make sure we had the accounts system stabilized first before rolling codes out. \n\nIf you were signed up for Beta under the old Hypixel Studios, Riot Games will be sending out emails to those folks with tokens to reserve their names.\n\nIf you were signed up to the Hypixel MC forums and are opted into the mailing list you will also receive one.'",
     "date": "12 8 2025",
     "tags": [
       "DevSlashNull",
@@ -768,7 +768,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "DevSlashNull tweets account creation link",
-    "mainText": "'Help us test our accounts system for Hytale by making an account here: https://accounts.hytale.com   \r\n\r\nTokens for reserving your name will be coming out in the next couple days, keep your eyes peeled for that! Having your account ready to go will make you 1 step quicker to getting your name reserved.'",
+    "mainText": "'Help us test our accounts system for Hytale by making an account here: https://accounts.hytale.com\n\nTokens for reserving your name will be coming out in the next couple days, keep your eyes peeled for that! Having your account ready to go will make you 1 step quicker to getting your name reserved.'",
     "date": "12 8 2025",
     "tags": [
       "DevSlashNull",
@@ -922,7 +922,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey, re: Mac & Linux Support",
-    "mainText": "'RE: Mac & Linux Support\r\n\r\nWe have finally removed the last library that was causing trouble for Mac and Linux support.\r\n\r\nWe are able to build for Linux now using flatpak. Mac builds are work in progress. There is more work on the CICD pipeline to host the files required for flatpak.\r\n\r\nThis is still NO CONFIRMATION for Linux / Mac support at launch but we are getting closer to that becoming a reality.\r\n\r\nMore in-depth testing remains, will keep updating as we move forward.'",
+    "mainText": "'RE: Mac & Linux Support\n\nWe have finally removed the last library that was causing trouble for Mac and Linux support.\n\nWe are able to build for Linux now using flatpak. Mac builds are work in progress. There is more work on the CICD pipeline to host the files required for flatpak.\n\nThis is still NO CONFIRMATION for Linux / Mac support at launch but we are getting closer to that becoming a reality.\n\nMore in-depth testing remains, will keep updating as we move forward.'",
     "date": "12 8 2025",
     "tags": [
       "Slikey",

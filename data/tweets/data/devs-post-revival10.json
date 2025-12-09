@@ -1,6 +1,211 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: signing up for beta and getting email",
+    "mainText": "'Great! Yeah, people need to wait a bit; emails are still being sent.'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1998450038679232513?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user playing MC infdev, alpha + release of Cube World",
+    "mainText": "'true warrior'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1998449347999183148?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: extremely unfair",
+    "mainText": "'Working on a solution right now.'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998448045248151935?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: age verification stuck",
+    "mainText": "'Please give it a shot on desktop, we're aware of some issues with users on mobile and are working to resolve'",
+    "date": "12 9 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998445650459959730?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: emails being lost",
+    "mainText": "'Yeah, I’m beyond annoyed that emails were lost. Hopefully yours comes in soon, emails are still being sent so there’s still some hope!'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998440193339138537?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "SImon, re: emails going out",
+    "mainText": "'Emails will continue to go out for the next few hours and days. Keep an eye out! Sending emails is a slow process.\nIf the previous team discarded your email, I have no control over it or any information about it.\n\nRest assured, I'll send more emails before pre-orders go live if you have a Hytale account.'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998439184495947899?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: RokoArts zone 4 caves fanart",
+    "mainText": "'That's so cool 😄'",
+    "date": "12 9 2025",
+    "tags": [
+      "Oscar Garvin"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1998439036021604463?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "SImon, re: name reservation methods",
+    "mainText": "'Correct!\r\n\r\nWe can't have a first-come, first-served system without causing significant issues. There are hundreds of thousands of people trying to make accounts and reserve their usernames.\r\n\r\nWe are prioritizing older signups for usernames to be fair, but we don't have all the details because we don't own these emails; they weren't acquired in the Hytale acquisition 3 weeks ago.\r\n\r\nWe are doing our best with what we have. Some people will be happy, others will be sad. All scenarios end up in the same situation, but this one is the safest and fairest!'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998436749694112004?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: symbol on the Gold E.A. cape",
+    "mainText": "'Not denying or confirming anything... But these could simply be variations of the evil contain symbol -  Sometimes representing Varyn eye (Diamond) sometimes representing the Void (spiral)'",
+    "date": "12 9 2025",
+    "tags": [
+      "Thomas Frick",
+      "Art",
+      "Hints"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/1998379735097958513?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: retweeting RokoArts' fanart",
+    "mainText": "'It is awesome and I was so glad to see that ☺️ - please keep drawing!!'",
+    "date": "12 9 2025",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/1998296846008193452?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Twitter feed",
+    "mainText": "'My Twitter feed looks like 90% @HIDEO_KOJIMA_EN spamming with Death stranding tweets, 9% weird semi-pornographic content forced onto me, and 1% actual art content I'm looking for. Who relates?'",
+    "date": "12 9 2025",
+    "tags": [
+      "Thomas Frick",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/1998292706536394964?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: lost beta signups",
     "mainText": "'Yeah, I'm pretty annoyed, too! I wish the emails were intact. It would have made the whole thing way easier to handle! A lot of these people will never know Hytale is back as well, it sucks.'",
     "date": "12 8 2025",

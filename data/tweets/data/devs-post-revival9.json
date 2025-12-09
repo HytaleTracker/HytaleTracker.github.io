@@ -1,6 +1,386 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: user requesting a token",
+    "mainText": "'Why don't you try waiting in the line! (Gif)'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998148221403848931?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: 2FA mobile issue",
+    "mainText": "'This should be live now!'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998146351427956994?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares that account creation is open",
+    "mainText": "'You can now create your Hytale account on the official website! 🎉\r\nWe’re getting ready for pre-purchases on December 13, so you can set up your account ahead of time and prepare for upcoming username reservations.\r\n\r\nPlease note: Signups spiked in the last few hours, so email confirmations might be slow. Verifications last ~24 hours, so no need to retry the request email button if it doesn't come through!\r\n\r\nIf you have previously signed up for the Hytale beta or Hytale/Hypixel newsletters, we will be sending you an email to reserve your username. Bear in mind, there are millions of emails being sent, so we are slowly rolling them out throughout the week.\r\nIf you have not previously signed up, you will need to wait until pre-purchase time (Dec 13) to claim your username.\r\n\r\nThank you for your patience, everyone! ❤️ #Hytale'",
+    "date": "12 8 2025",
+    "tags": [
+      "Hytale",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/1998144270147231818?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: name reservation token emails vs newsletter",
+    "mainText": "'The name reservation token emails are separate from this, you wont cause any issues from enabling that on your Hytale account.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998136068609315011?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: age verification over VPN creating errors",
+    "mainText": "'I would delete that so you dont have your DOB public, that being said we're looking into this and will let you know. Please try on a desktop if possible, seems the issue is on android mobile.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998134645985362329?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: Riot Games involvement in some token emails",
+    "mainText": "'That is intended due to data privacy and protection regulation, Riot Games is involved in this process and is sending emails to all the old signups.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998129829225615667?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: verification emails",
+    "mainText": "'The queue is now gone, should work now.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/1998129782077501733?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: verification emails",
+    "mainText": "'We've made further adjustments, new verification emails going out should live a lot longer than the 15 min previously. As well the timeout for requesting a new email has been increased. Thank you all again for the help with testing and getting your Hytale accounts prepped for name reservations.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998128798689341704?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: first LoL champion that comes to mind",
+    "mainText": "'Yasuo, although I never played him. I mained Sona or Zac.'",
+    "date": "12 8 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1998122945172922403?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: blank emails",
+    "mainText": "'Press these 3 dots and it should show you the full email (img)'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998114425396433046?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: blank emails",
+    "mainText": "'Press these 3 dots (img)'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998114276058316990?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: gmail issues",
+    "mainText": "'This should be resolved now, emails are flowing through now for gmail.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998111719546102087?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: email issues",
+    "mainText": "'We are aware there are some emails that haven't been coming through, this seems to be primarily through gmail. We're working on this now.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998105602824802413?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: DSN's 'key your eyes peeled' for name reservations",
+    "mainText": "'my eyes are always peeled open (eyes forcibly held open gif)'",
+    "date": "12 8 2025",
+    "tags": [
+      "Polina",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://xcancel.com/LogadoPolina/status/1998105583220818006?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: old beta signups receiving tokens",
+    "mainText": "'Yes you should get a token if you were signed up'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998098720546852912?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: more 2FA methods",
+    "mainText": "'Eventually for sure, i'd love to see passkeys'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998098500954042758?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: infinite verify load error",
+    "mainText": "'This issue should be resolved now for all users experiencing it'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998098384138514568?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: Tokens for Hytale Name Reservation",
+    "mainText": "'RE: Tokens for Hytale name reservation \r\n\r\nTokens are one time use, and one per account. The mailing for these tokens will happen over the next few days, we wanted to make sure we had the accounts system stabilized first before rolling codes out. \r\n\r\nIf you were signed up for Beta under the old Hypixel Studios, Riot Games will be sending out emails to those folks with tokens to reserve their names.\r\n\r\nIf you were signed up to the Hypixel MC forums and are opted into the mailing list you will also receive one.'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998091911416955250?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: unable to turn on 2FA if on mobile",
+    "mainText": "'Will add to our list for us to take a look into'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998090371436536080?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: email issues",
+    "mainText": "'Issues with email sending should be resolved, if you didn't get your confirmation email you can go through and re request one now :)'",
+    "date": "12 8 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998090112748716468?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Myne questioning how devs always seem to under estimate demand",
+    "mainText": "'brother you are not mentally prepared for a real true early access 😂'",
+    "date": "12 8 2025",
+    "tags": [
+      "Simon",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998082439592522080?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: user asking how they know user passwords have been breached",
     "mainText": "'https://haveibeenpwned.com/API/v3#PwnedPasswordsNTLM'",
     "date": "12 8 2025",
@@ -12,7 +392,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998074131129205026?s=20"
+          "https://xcancel.com/slikey/status/1998074131129205026?s=20"
         ]
       }
     ]
@@ -31,7 +411,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998072924599882074?s=20"
+          "https://xcancel.com/slikey/status/1998072924599882074?s=20"
         ]
       }
     ]
@@ -49,7 +429,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998072679656501366?s=20"
+          "https://xcancel.com/slikey/status/1998072679656501366?s=20"
         ]
       }
     ]
@@ -68,7 +448,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998071706636910923?s=20"
+          "https://xcancel.com/slikey/status/1998071706636910923?s=20"
         ]
       }
     ]
@@ -86,7 +466,7 @@
       {
         "1": [
           "tweet by DevSlashNull",
-          "https://vxtwitter.com/DevSlash_Null/status/1998071207913033970?s=20"
+          "https://xcancel.com/DevSlash_Null/status/1998071207913033970?s=20"
         ]
       }
     ]
@@ -104,7 +484,7 @@
       {
         "1": [
           "tweet by DevSlashNull",
-          "https://vxtwitter.com/DevSlash_Null/status/1998070803863134213?s=20"
+          "https://xcancel.com/DevSlash_Null/status/1998070803863134213?s=20"
         ]
       }
     ]
@@ -122,7 +502,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998070792022810880?s=20"
+          "https://xcancel.com/slikey/status/1998070792022810880?s=20"
         ]
       }
     ]
@@ -141,7 +521,7 @@
       {
         "1": [
           "tweet by DepNether",
-          "https://vxtwitter.com/DepNether/status/1998069756994245117?s=20"
+          "https://xcancel.com/DepNether/status/1998069756994245117?s=20"
         ]
       }
     ]
@@ -159,7 +539,7 @@
       {
         "1": [
           "tweet by DevSlashNull",
-          "https://vxtwitter.com/DevSlash_Null/status/1998069526437519526?s=20"
+          "https://xcancel.com/DevSlash_Null/status/1998069526437519526?s=20"
         ]
       }
     ]
@@ -177,7 +557,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1998065826906399002?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1998065826906399002?s=20"
         ]
       }
     ]
@@ -196,7 +576,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998062510759350341?s=20"
+          "https://xcancel.com/slikey/status/1998062510759350341?s=20"
         ]
       }
     ]
@@ -214,7 +594,7 @@
       {
         "1": [
           "tweet by DevSlashNull",
-          "https://vxtwitter.com/DevSlash_Null/status/1998061644765905387?s=20"
+          "https://xcancel.com/DevSlash_Null/status/1998061644765905387?s=20"
         ]
       }
     ]
@@ -233,7 +613,7 @@
       {
         "1": [
           "tweet by DevSlashNull",
-          "https://vxtwitter.com/DevSlash_Null/status/1998061581717143608?s=20"
+          "https://xcancel.com/DevSlash_Null/status/1998061581717143608?s=20"
         ]
       }
     ]
@@ -251,7 +631,7 @@
       {
         "1": [
           "tweet by DevSlashNull",
-          "https://vxtwitter.com/DevSlash_Null/status/1998061394865135861?s=20"
+          "https://xcancel.com/DevSlash_Null/status/1998061394865135861?s=20"
         ]
       }
     ]
@@ -269,7 +649,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998060192085287061?s=20"
+          "https://xcancel.com/slikey/status/1998060192085287061?s=20"
         ]
       }
     ]
@@ -288,7 +668,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1998057411282678257?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1998057411282678257?s=20"
         ]
       }
     ]
@@ -306,7 +686,7 @@
       {
         "1": [
           "tweet by DevSlashNull",
-          "https://vxtwitter.com/DevSlash_Null/status/1998056156502106442?s=20"
+          "https://xcancel.com/DevSlash_Null/status/1998056156502106442?s=20"
         ]
       }
     ]
@@ -325,7 +705,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1998055577629475248?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1998055577629475248?s=20"
         ]
       }
     ]
@@ -344,7 +724,7 @@
       {
         "1": [
           "tweet by DevSlashNull",
-          "https://vxtwitter.com/DevSlash_Null/status/1998054874894782763?s=20"
+          "https://xcancel.com/DevSlash_Null/status/1998054874894782763?s=20"
         ]
       }
     ]
@@ -362,7 +742,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998054364452212778?s=20"
+          "https://xcancel.com/slikey/status/1998054364452212778?s=20"
         ]
       }
     ]
@@ -380,7 +760,7 @@
       {
         "1": [
           "tweet by DevSlashNull",
-          "https://vxtwitter.com/DevSlash_Null/status/1998054347297492992?s=20"
+          "https://xcancel.com/DevSlash_Null/status/1998054347297492992?s=20"
         ]
       }
     ]
@@ -401,7 +781,7 @@
       {
         "1": [
           "tweet by DevSlashNull",
-          "https://vxtwitter.com/DevSlash_Null/status/1998053578586349916?s=20"
+          "https://xcancel.com/DevSlash_Null/status/1998053578586349916?s=20"
         ]
       }
     ]
@@ -420,7 +800,7 @@
       {
         "1": [
           "tweet by DevSlashNull",
-          "https://vxtwitter.com/DevSlash_Null/status/1998046724896743891?s=20"
+          "https://xcancel.com/DevSlash_Null/status/1998046724896743891?s=20"
         ]
       }
     ]
@@ -439,7 +819,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998035408828149842?s=20"
+          "https://xcancel.com/slikey/status/1998035408828149842?s=20"
         ]
       }
     ]
@@ -458,7 +838,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998034533246288139?s=20"
+          "https://xcancel.com/slikey/status/1998034533246288139?s=20"
         ]
       }
     ]
@@ -477,7 +857,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998033361315741897?s=20"
+          "https://xcancel.com/slikey/status/1998033361315741897?s=20"
         ]
       }
     ]
@@ -496,7 +876,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998031531600978387?s=20"
+          "https://xcancel.com/slikey/status/1998031531600978387?s=20"
         ]
       }
     ]
@@ -515,7 +895,7 @@
       {
         "1": [
           "tweet by Paris",
-          "https://vxtwitter.com/OctrDev/status/1998031484868080109?s=20"
+          "https://xcancel.com/OctrDev/status/1998031484868080109?s=20"
         ]
       }
     ]
@@ -534,7 +914,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998030713937940835?s=20"
+          "https://xcancel.com/slikey/status/1998030713937940835?s=20"
         ]
       }
     ]
@@ -553,7 +933,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1998020881499513243?s=20"
+          "https://xcancel.com/slikey/status/1998020881499513243?s=20"
         ]
       }
     ]
@@ -572,7 +952,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/1997995719039312234?s=20"
+          "https://xcancel.com/slikey/status/1997995719039312234?s=20"
         ]
       }
     ]
@@ -591,7 +971,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1997960025709613531?s=20"
+          "https://xcancel.com/onpujam/status/1997960025709613531?s=20"
         ]
       }
     ]
@@ -610,7 +990,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1997936191044468921?s=20"
+          "https://xcancel.com/onpujam/status/1997936191044468921?s=20"
         ]
       }
     ]
@@ -629,7 +1009,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1997934608747499558?s=20"
+          "https://xcancel.com/onpujam/status/1997934608747499558?s=20"
         ]
       }
     ]
@@ -648,7 +1028,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/1997934234070114705?s=20"
+          "https://xcancel.com/onpujam/status/1997934234070114705?s=20"
         ]
       }
     ]
@@ -667,7 +1047,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/1997912699972321462?s=20"
+          "https://xcancel.com/MewSoul/status/1997912699972321462?s=20"
         ]
       }
     ]

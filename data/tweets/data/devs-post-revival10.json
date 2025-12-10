@@ -1,6 +1,204 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "SImon, re: Hawkon's hunger video",
+    "mainText": "'Yeah thats its pretty much where I want to go, no hunger just positives - the health bar stuff is something we want to explore later on as well.\r\nFeasts would be fun yep yep, at some point!'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998604587872432505?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hawkon's new hunger video",
+    "mainText": "'watching'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998600730484293766?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: creator program having different levels",
+    "mainText": "'Want to keep it simple for now, don't really have a team to handle that just yet!'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Business",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998584249814016171?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: more avatar customization",
+    "mainText": "'We will add a ton more yep! 😎'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Art",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998563616463921458?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hypixel Studios ownership",
+    "mainText": "'Hypixel Studios Canada is a new company, we bought the trademark not the company!'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998563428152049783?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: Lynn jokingly saying people should crash the Hytale website again",
+    "mainText": "'plz no'",
+    "date": "12 9 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998559417831412115?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: creator system including modders",
+    "mainText": "'For now yes, if all goes well it will expand. As long as its low maintenance for us so we keep the team small'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Business",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998556377359462831?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: avatar appearance feedback",
+    "mainText": "'I get it but we are far away from having time to rework the avatars. They will improve over time (however not cut the resolution), some of our NPC are much better'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Art",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998556219062235362?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hutz getting his username",
+    "mainText": "'You don’t need to do anything for now! Keep an eye open for our creator program coming up'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998555621168394323?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: FitMC not getting his username",
+    "mainText": "'All YouTubers' usernames are reserved, and you can contact creators@hytale.com to get access!'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998546505435697326?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "DevSlashNull, re: expired session error",
     "mainText": "'This should be resolved now'",
     "date": "12 9 2025",
@@ -131,7 +329,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon, re: name reservation tokens",
-    "mainText": "'If you created your Hytale account yesterday, you’ll start getting your username token in the coming hours as emails roll out!\r\n\r\nWe’re sending them in the order of account creation.\r\nThanks for your patience!'",
+    "mainText": "'If you created your Hytale account yesterday, you’ll start getting your username token in the coming hours as emails roll out!\n\nWe’re sending them in the order of account creation.\nThanks for your patience!'",
     "date": "12 9 2025",
     "tags": [
       "Simon",
@@ -319,7 +517,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "SImon, re: name reservation methods",
-    "mainText": "'Correct!\r\n\r\nWe can't have a first-come, first-served system without causing significant issues. There are hundreds of thousands of people trying to make accounts and reserve their usernames.\r\n\r\nWe are prioritizing older signups for usernames to be fair, but we don't have all the details because we don't own these emails; they weren't acquired in the Hytale acquisition 3 weeks ago.\r\n\r\nWe are doing our best with what we have. Some people will be happy, others will be sad. All scenarios end up in the same situation, but this one is the safest and fairest!'",
+    "mainText": "'Correct!\n\nWe can't have a first-come, first-served system without causing significant issues. There are hundreds of thousands of people trying to make accounts and reserve their usernames.\n\nWe are prioritizing older signups for usernames to be fair, but we don't have all the details because we don't own these emails; they weren't acquired in the Hytale acquisition 3 weeks ago.\n\nWe are doing our best with what we have. Some people will be happy, others will be sad. All scenarios end up in the same situation, but this one is the safest and fairest!'",
     "date": "12 9 2025",
     "tags": [
       "Simon",

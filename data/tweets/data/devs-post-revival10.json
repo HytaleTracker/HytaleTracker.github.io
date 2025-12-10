@@ -1,6 +1,191 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: expired session error",
+    "mainText": "'This should be resolved now'",
+    "date": "12 9 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998521241444209100?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: expired session error",
+    "mainText": "'This should be resolved now'",
+    "date": "12 9 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998521092802265550?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: 'java' username",
+    "mainText": "'Good one!'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998505657184780609?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user getting 'huh' username",
+    "mainText": "'HUH cat gif'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998504321403740476?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: history",
+    "mainText": "'I was not in charge of Hyale in the last five years, and the emails were lost. I was told that people were given a chance to re-register during that period, but apparently, many didn't receive the email.\r\n\r\nI tried to get them back when I acquired Hytale 3 weeks ago, but to no avail. \r\n\r\nNothing I can do, unfortunately.'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Historical",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998499609661071749?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: name reservations",
+    "mainText": "'It does, name reservations are limited to 1 per account.'",
+    "date": "12 9 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998497322049876416?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: tokens being sent out",
+    "mainText": "'This is the moment you made your account, verification isnt taken into account.'",
+    "date": "12 9 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlash_Null/status/1998463930503508046?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: name reservation tokens",
+    "mainText": "'If you created your Hytale account yesterday, you’ll start getting your username token in the coming hours as emails roll out!\r\n\r\nWe’re sending them in the order of account creation.\r\nThanks for your patience!'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998462697717850509?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: being patient",
+    "mainText": "'Cheers!'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998459784903741860?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: emails",
+    "mainText": "'Emails are still being sent out for 2018-2025 beta sign-ups.\r\nIt will take a while; it's moving as fast as emails can.'",
+    "date": "12 9 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998456190397804579?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: signing up for beta and getting email",
     "mainText": "'Great! Yeah, people need to wait a bit; emails are still being sent.'",
     "date": "12 9 2025",
@@ -13,7 +198,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1998450038679232513?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1998450038679232513?s=20"
         ]
       }
     ]
@@ -32,7 +217,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1998449347999183148?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/1998449347999183148?s=20"
         ]
       }
     ]
@@ -118,7 +303,9 @@
     "mainText": "'That's so cool 😄'",
     "date": "12 9 2025",
     "tags": [
-      "Oscar Garvin"
+      "Oscar Garvin",
+      "Community",
+      "Art"
     ],
     "sources": [
       {

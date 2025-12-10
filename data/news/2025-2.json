@@ -1,6 +1,48 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team launches name reservations, discusses avatars and Creator Program.",
+        "mainText": "<p class='mainTextParagraph'>The Hytale Team began dispensing name reservation tokens to players, with Riot Games sending tokens out to players that remained on their mailing list after losing 65% of the original beta signups - which Simon said he was 'beyond annoyed' at. Around 12:40 PM CST, Simon announced tokens would be sent out to Hytale account holders shortly.</p><p class='mainTextParagraph'>\n\nAnswering a thread with users suggesting changes to the appearance of Hytale's avatars, Simon promised they will improve over time - though he says the team is 'far away' from having time to do it - with much more customization coming down the line.</p><p class='mainTextParagraph'>\n\nDiscussing the Creator Program, Simon confirmed it will expand to include modders 'if all goes well' and 'as long as its low maintenance.'</p><p class='mainTextParagraph'></p>",
+        "date": "12 09 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Community",
+            "Early Access",
+            "Features",
+            "Future Stuff",
+            "Modding",
+            "Simon Notes"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Beyond Annoyed",
+                    "https://xcancel.com/Simon_Hypixel/status/1998440193339138537?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Tokens Being Sent Out",
+                    "https://xcancel.com/Simon_Hypixel/status/1998462697717850509?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Avatar Appearance Feedback",
+                    "https://xcancel.com/Simon_Hypixel/status/1998556219062235362?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Modders in Creator Program",
+                    "https://xcancel.com/Simon_Hypixel/status/1998556377359462831?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talks modding, Mac/Linux support, and launches account creation.",
         "mainText": "<p class='mainTextParagraph'>Early in the day, Slikey clarified that users won't download any jar files when joining modded servers, only asset packs.</p><p class='mainTextParagraph'>\n\nFollowing that tweet, Slikey announced that the team had finally removed the last library causing trouble for Mac/Linux support, and they were finally able to build for Linux using flatpack, which should cover 95% of Linux users, with Mac builds still in progress. When asked about Steam Deck support, Slikey revealed that the the team treats it as a separate platform in terms of development. Slikey says the Linux build of Hytale is the 'exact same' as Windows, with no feature differences.</p><p class='mainTextParagraph'>\n\nOut of the blue, DevSlashNull tweeted the link to Hytale's account creation page, setting off a chaotic storm that created errors and confusion, and revealed multiple game profiles can live under a single account. When questioned on name reservation tokens being sent by both Hypixel Studios and Riot Games, Slikey confirmed it is intended due to data privacy and data regulations.</p><p class='mainTextParagraph'>\n\nWith regards to name reservation tokens, which will be sent out over the next few days, DevSlashNull revealed they are a one time use, with a limit of one per account. After a mess of confusion, Simon clarified that there are two email lists - Hytale Beta Signups, and Hypixel Newsletter. Beta Signups email list is not in Hypixel Studios' control, and tokens from that list will be sent by Riot Games -- and the list is 65% smaller than it was before Simon left because there was a re-registration campaign, which Simon is surprised to learn many didn't get the notification to re-register.</p><p class='mainTextParagraph'>\n\nIn accordance to that, Simon promises the team will provide additional username tokens this week to people who created a Hytale account directly on the website.</p>",
         "date": "12 08 2025",

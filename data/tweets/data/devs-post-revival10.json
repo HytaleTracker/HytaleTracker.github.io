@@ -1,6 +1,23 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "SImon, re: user asking if their name was taken by Hytale",
+    "mainText": "'Oui! svp contacte creators@hytale.com on va s’occuper de toi dans les prochains jours 😎'\n\n(Yes! please contact creators@hytale.com we'll take care of you in the next few days 😎)",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1998739957045743754?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "SImon, re: Hawkon's hunger video",
     "mainText": "'Yeah thats its pretty much where I want to go, no hunger just positives - the health bar stuff is something we want to explore later on as well.\r\nFeasts would be fun yep yep, at some point!'",
     "date": "12 9 2025",

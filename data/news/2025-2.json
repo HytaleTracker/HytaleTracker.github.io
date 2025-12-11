@@ -1,6 +1,61 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talk status of cozy gameplay video, health bar UI, and profiles.",
+        "mainText": "<p class='mainTextParagraph'>On a slow news day, Simon gave an update on the aforementioned cozy gameplay video, stating he doesn't think it would happen any time soon, as the team is busy working on the game and he doesn't want to add stress.</p><p class='mainTextParagraph'>\n\nResponding to a specific idea mentioned in Hawkon's Hunger System video, Simon created a quick mockup of the segmented health bar idea, which he said might not make it into the game in time for early access, but it 'feels right.'</p><p class='mainTextParagraph'>\n\nFinally, DevSlashNull confirmed that there are no plans to allow for Hytale account/profile merging.</p>",
+        "date": "12 10 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "DevSlashNull",
+            "Community",
+            "Future Stuff",
+            "Gameplay",
+            "Screenshot",
+            "Simon Notes",
+            "Tech"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Cozy Gameplay Video",
+                    "https://xcancel.com/Simon_Hypixel/status/1998757227591774360?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Not adding stress",
+                    "https://xcancel.com/Simon_Hypixel/status/1998763210900701675?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Hawkon - Video - Hytale Does Hunger Right",
+                    "https://www.youtube.com/watch?v=piNElHbPmfY"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Segmented HP bar mockup",
+                    "https://xcancel.com/Simon_Hypixel/status/1998839851123126596?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - Segmented HP bar feels fun",
+                    "https://xcancel.com/Simon_Hypixel/status/1998840011341349020?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "DevSlashNull - Profile Merging",
+                    "https://xcancel.com/DevSlashNulled/status/1998821636099739701?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team launches name reservations, discusses avatars and Creator Program.",
         "mainText": "<p class='mainTextParagraph'>The Hytale Team began dispensing name reservation tokens to players, with Riot Games sending tokens out to players that remained on their mailing list after losing 65% of the original beta signups - which Simon said he was 'beyond annoyed' at. Around 12:40 PM CST, Simon announced tokens would be sent out to Hytale account holders shortly.</p><p class='mainTextParagraph'>\n\nAnswering a thread with users suggesting changes to the appearance of Hytale's avatars, Simon promised they will improve over time - though he says the team is 'far away' from having time to do it - with much more customization coming down the line.</p><p class='mainTextParagraph'>\n\nDiscussing the Creator Program, Simon confirmed it will expand to include modders 'if all goes well' and 'as long as its low maintenance.'</p><p class='mainTextParagraph'></p>",
         "date": "12 09 2025",

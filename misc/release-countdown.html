@@ -324,12 +324,15 @@
             let secondsRelease;
             let secondsPreOrder;
             let extrasShown = false;
-            let createKweebs = true;
+            let createKweebs;
 
             const queryString = window.location.search;
             const urlParams = new URLSearchParams(queryString);
             if(urlParams.get("showKweebecs")){
                 createKweebs = urlParams.get("showKweebecs");
+            }
+            else{
+                createKweebs = true;
             }
 
             const releaseDaysText = document.getElementById("releaseDaysText");
@@ -590,7 +593,7 @@
             }
 
             function floatyGuys() {
-                if (Math.floor(Math.random() * 300) == 1 && createKweebs) {
+                if (Math.floor(Math.random() * 300) == 1 && createKweebs == true) {
                     const image = document.createElement("img");
                     image.style.position = "fixed";
                     const images = ["./images/kweebec.png", "./images/kweebecSit.png"];

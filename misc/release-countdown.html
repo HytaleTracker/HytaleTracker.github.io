@@ -326,6 +326,12 @@
             let extrasShown = false;
             let createKweebs = true;
 
+            const queryString = window.location.search;
+            const urlParams = new URLSearchParams(queryString);
+            if(urlParams.get("showKweebecs")){
+                createKweebs = urlParams.get("showKweebecs");
+            }
+
             const releaseDaysText = document.getElementById("releaseDaysText");
             const ReleaseHoursText = document.getElementById("releaseHoursText");
             const releaseMinutesText = document.getElementById("releaseMinutesText");

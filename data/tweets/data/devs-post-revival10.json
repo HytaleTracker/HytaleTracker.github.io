@@ -1,17 +1,540 @@
 [
   {
     "mainPlatform": "tweet",
-    "summary": "SImon, re: user asking if their name was taken by Hytale",
-    "mainText": "'Oui! svp contacte creators@hytale.com on va s’occuper de toi dans les prochains jours 😎'\n\n(Yes! please contact creators@hytale.com we'll take care of you in the next few days 😎)",
+    "summary": "DevSlashNull, re; user asking why they'd get locked out of Hytale account",
+    "mainText": "'If you lose your 2fa method, backup codes allow you to get back in'",
     "date": "12 10 2025",
     "tags": [
-      "Simon"
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/1998899011923906635?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: terminating old sessions when 2FA/Email/Password is changed",
+    "mainText": "'Its in the works'",
+    "date": "12 10 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/1998898853777658202?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Reddoons' saying there was a miscommunication about his Hytale Creator Code post",
+    "mainText": "'my bad 😣😓😭'",
+    "date": "12 10 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/1998890272126877943?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: security key",
+    "mainText": "'Soon (TM)'\n\n(Image included)",
+    "date": "12 10 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/1998875912767680721?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: passkey support",
+    "mainText": "'We're working on this but will take more time to implement, keep your eyes peeled we'll post when its good to go'",
+    "date": "12 10 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/1998860100682072543?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: importance of backup codes",
+    "mainText": "'If you enabled additional 2fa (we always recommend to do so in case your Microsoft account is compromised) you should 100% keep backup codes'",
+    "date": "12 10 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/1998856896577724806?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hugo's 'HYTALE'",
+    "mainText": "'ok'",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon",
+      "Community"
     ],
     "sources": [
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/1998739957045743754?s=20"
+          "https://vxtwitter.com/Simon_Hypixel/status/1998845807433495016?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: UI changes for proposed HP Bar changes",
+    "mainText": "'yeah the UI would need work'",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1998845726789636376?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: Hugo's 'HYTALE'",
+    "mainText": "'HYTALE!'",
+    "date": "12 10 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/1998845507062640646?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: 'is 2FA enough?'",
+    "mainText": "'2FA is great, but what if you lose your 2FA method? Backup codes add a way for you to get back in and make changes incase.'",
+    "date": "12 10 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/1998842612913156602?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: option to download backup codes as .txt file",
+    "mainText": "'This is now live :)'",
+    "date": "12 10 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/1998842416791740683?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: UI changes for proposed HP Bar changes",
+    "mainText": "'if it goes ahead to production, will get the UI cleaned up etc, just testing if it feels right (it does)'",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1998840011341349020?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: HP Bar UI change proposal",
+    "mainText": "'I took some time to have fun and quickly experiment with something for the HP bar. This is a pure prototype and might not make it into the game in time for early access. No UI rework; code to see how it would behave.\r\n\r\n100hp vs 144hp'\n\n(Images included)",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Screenshot",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/1998839851123126596?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: option to download backup codes as .txt file",
+    "mainText": "'On the list to do'",
+    "date": "12 10 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/1998839095376711809?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: 'McBuddha'",
+    "mainText": "'McDonalds Cat zoom gif'",
+    "date": "12 10 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1998830659817672767?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: passkey support",
+    "mainText": "'We're working on it, no ETA atm but will post when its there!'",
+    "date": "12 10 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1998829509064220912?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: not seeing backup codes option",
+    "mainText": "'Enable 2FA first, then the option will show up'",
+    "date": "12 10 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1998829259859935362?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: password requirement for 2FA",
+    "mainText": "'You do not need to set a password to enable 2FA or enable backup codes, this works even if your account only has an SSO provider like google linked'",
+    "date": "12 10 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1998822799968973278?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: backup codes",
+    "mainText": "'If you haven't already, go enable back up codes for your account so you don't get locked out!'",
+    "date": "12 10 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1998821783307223136?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: profile merging",
+    "mainText": "'We do not have any plans to allow profile merging, each account is unique and individual'",
+    "date": "12 10 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1998821636099739701?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: KryticZeuz username being reserved",
+    "mainText": "'WE DID! 😅\r\nContact us at creators@hytale.com and we'll fix it!'",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998817334472094160?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: CraftMasterman saying their username is reserved already",
+    "mainText": "'It means we secured the name for you, contact us at creators@hytale.com and Ill fix it 😎'",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998800895182778587?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: creator reserved usernames",
+    "mainText": "'Si tu peut me contacter creators@hytale.com et ont va regarder pour toi dans les prochains jours! Si tu as le YT rank sur Hypixel ont a mit le mm username'\n\n(If you can contact me at creators@hytale.com and we will look for you in the next few days! If you have the YT rank on Hypixel we have put the same username)",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998792780433293539?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: getting rest",
+    "mainText": "'no'",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998763829736648911?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: assigning someone to make a cozy gameplay video",
+    "mainText": "'Whole team working on the game though, don’t want others to stress over recording when they could work on the game! I usually record late at night'",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998763210900701675?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: meme about logging into Hytale with Club Penguin",
+    "mainText": "'imagine I buy club penguin'",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998757483695972420?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Externalizable's legitness",
+    "mainText": "'yes legit lol'\n\n((regarding if Externalizable works for Hypixel/Hytale))",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998757377043214710?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: cozy gameplay video",
+    "mainText": "'Unfortunately, I don’t think that’s gonna happen any time soon, I’ve been too busy past few days and what matters right now is to get back working on the game ASAP as the time is ticking! Will see if I can do some clips late a nights when I’m out of current storms'",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998757227591774360?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "SImon, re: user asking if their name was taken by Hytale",
+    "mainText": "'Oui! svp contacte creators@hytale.com on va s’occuper de toi dans les prochains jours 😎'\n\n(Yes! please contact creators@hytale.com we'll take care of you in the next few days 😎)",
+    "date": "12 10 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Social System"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1998739957045743754?s=20"
         ]
       }
     ]

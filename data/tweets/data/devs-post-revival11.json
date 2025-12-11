@@ -1,6 +1,101 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: age verification issues",
+    "mainText": "'We're aware of an issue affecting certain mobile users, please try desktop while we work to resolve'",
+    "date": "12 11 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999159995905024299?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Hytale OST on Spotify",
+    "mainText": "'Working on it:)'",
+    "date": "12 11 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1999117831275692238?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Slamma wanting Hytale Fan Art Showcase Blogposts brought back",
+    "mainText": "'This would be amazing to bring back! Will likely be post-release like you mentioned, but we have a few ideas on how we could showcase the incredible art from our community :)'",
+    "date": "12 11 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Art",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1999104301382156355?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Dep, re: user saying their reserved name was revoked",
+    "mainText": "'Hey, I just checked our database. vaan is still under the same acct that initially reserved the name on Tues. Could be Google signed you in with the wrong account when you reserved, sometimes Google just decides which one to use. Tokens aren't tied to the email they were sent to'",
+    "date": "12 11 2025",
+    "tags": [
+      "DepNether",
+      "Community",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DepNether",
+          "https://xcancel.com/DepNether/status/1999041324910346281?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: LegitHytaleLeaks saying Hytale servers are not running on a potato",
+    "mainText": "'This hasn't been confirmed'",
+    "date": "12 11 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1999030358994502128?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "DevSlashNull, re: email issue dms",
     "mainText": "'Thank you for all the messages, we're going to continue looking into it and working with providers to get this resolved ASAP'",
     "date": "12 10 2025",

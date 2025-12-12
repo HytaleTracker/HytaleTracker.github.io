@@ -1,6 +1,49 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team discusses Fan Art Showcase and parental controls.",
+        "mainText": "<p class='mainTextParagraph'>When asked about the possibility of Fan Art Showcase blogposts returning, Simon stated he's very excited to bring that back, with BuddhaCat adding that it would likely be post-release.</p><p class='mainTextParagraph'>\n\nDiscussing kids accounts and profiles, DevSlashNull stated kid accounts should be separate from parental accounts, but parental controls would remain on the parent account - with a more in-depth parental control system coming with/after launch.</p>",
+        "date": "12 11 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "BuddhaCat",
+            "DevSlashNull",
+            "Art",
+            "Community",
+            "Devs",
+            "Social System",
+            "Tech"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Fan Art Showcase",
+                    "https://xcancel.com/Simon_Hypixel/status/1999188165567918292?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Buddha - Fan Art Showcase",
+                    "https://xcancel.com/ItsBuddhaCat/status/1999104301382156355?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "DevSlashNull - Parental vs Kid accounts",
+                    "https://xcancel.com/DevSlashNulled/status/1999249298840564139?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "DevSlashNull - Parental Controls",
+                    "https://xcancel.com/DevSlashNulled/status/1999250949983076449?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talk status of cozy gameplay video, health bar UI, and profiles.",
         "mainText": "<p class='mainTextParagraph'>On a slow news day, Simon gave an update on the aforementioned cozy gameplay video, stating he doesn't think it would happen any time soon, as the team is busy working on the game and he doesn't want to add stress.</p><p class='mainTextParagraph'>\n\nResponding to a specific idea mentioned in Hawkon's Hunger System video, Simon created a quick mockup of the segmented health bar idea, which he said might not make it into the game in time for early access, but it 'feels right.'</p><p class='mainTextParagraph'>\n\nFinally, DevSlashNull confirmed that there are no plans to allow for Hytale account/profile merging.</p>",
         "date": "12 10 2025",

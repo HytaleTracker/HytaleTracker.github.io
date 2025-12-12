@@ -1,6 +1,83 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Baldur's Gate 3 winning Best Community Support award",
+    "mainText": "'The most important award, congrats!'",
+    "date": "12 11 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999333722617675860?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Acorn saying he's starving for a blogpost",
+    "mainText": "'Confused cat zoom gif'",
+    "date": "12 11 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999321126326178161?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon posts picture of Reddoons' in-game model",
+    "mainText": "'PICTURE'",
+    "date": "12 11 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999302221889245280?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: new interview tomorrow",
+    "mainText": "'BR community, don’t miss this one! Big news in there!'",
+    "date": "12 11 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999287269447073871?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "DevSlashNull, re: parental controls",
     "mainText": "'We have a base level implementation already for account signups, when the game launches we will have a more indepth parental control system to enable and toggle features such as chat or ability to join servers.'",
     "date": "12 11 2025",

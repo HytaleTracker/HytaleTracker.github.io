@@ -1,6 +1,188 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: parental controls",
+    "mainText": "'We have a base level implementation already for account signups, when the game launches we will have a more indepth parental control system to enable and toggle features such as chat or ability to join servers.'",
+    "date": "12 11 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999250949983076449?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: user asking if Hytale can share the email they signed up with due to confusion",
+    "mainText": "'We can't disclose that for privacy reasons :( however I recommend checking what emails you got the verification email on and logging into those accounts'",
+    "date": "12 11 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999250145024905399?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: email issues",
+    "mainText": "'We have collected a bunch of information since my tweet last night, we're working with the provider to figure out why there are delays on delivery. We will update once this is resolved.'",
+    "date": "12 11 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999249932390400061?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: if kids should be under the parents' account",
+    "mainText": "'No, kids accounts and profiles should remain separate from a parental account, the game should be purchased on the childs account but parental control for game features will remain on the parent account.'",
+    "date": "12 11 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999249298840564139?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: 'line' option/tool in Hytale",
+    "mainText": "'Yeah! It needs some additional work to be a perfect implementation, but it exists and is good enough right now.'",
+    "date": "12 11 2025",
+    "tags": [
+      "Ktar",
+      "Gameplay",
+      "Feature",
+      "Creative Mode"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/1999214742104342907?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: @Mosshorn saying they signed a document in 2023 to have a model shown in the next fanart showcase, but it never happened",
+    "mainText": "'We need to make that right 😭'",
+    "date": "12 11 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Art",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1999207170030575924?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hypixel Network's Ravengard minigame blogpost",
+    "mainText": "'this is crazy, gg'",
+    "date": "12 11 2025",
+    "tags": [
+      "Simon",
+      "Off Topic",
+      "Server",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999197185154400283?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: DarthMicroT wanting 'Blight' minigame in Hytale",
+    "mainText": "'Was watching your PoE 2 0.4 Fate of the Vaal build and plan video as I saw this tweet😅\r\nThis might mean something. We need more PoE-inspired mechanics🤔'",
+    "date": "12 11 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Gameplay",
+      "Future stuff",
+      "Server",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999192056523112751?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Slamma wanting Hytale Fan Art Showcase Blogposts brought back",
+    "mainText": "'We will feature a ton of fan art/content, yes! Very excited to do so, I've seen some crazy good stuff!'",
+    "date": "12 11 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999188165567918292?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "DevSlashNull, re: age verification issues",
     "mainText": "'We're aware of an issue affecting certain mobile users, please try desktop while we work to resolve'",
     "date": "12 11 2025",

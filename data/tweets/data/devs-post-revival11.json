@@ -1,6 +1,129 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: pre-orders, future plans",
+    "mainText": "'Once again, please don't pre-purchase or buy the game if you're not comfortable with early access! \r\n\r\nSupport us only if you believe in the long-term plan to make Hytale a great game of its own; we are not trying to be like any other game out there, we are making Hytale.\r\n\r\nThe future of Hytale\r\nSome of the things we are planning to do, subject to change of course.\r\n\r\n- Add more living world features and interactions\r\n- Add more combat content, dungeons/bosses, and more challenges\r\n- Finish World Gen v2 to restore Orbis\r\n- Support modders along the way, add missing features for them and add modding discovery in-game and allow players to install mods from in-game. 1 click install and auto-install on server joins.\r\n- Support server owners by developing our own minigames and giving them access to assets/code and features, and let them outcompete us.\r\n- Add social features like friends list, guilds, prox voice chat and more. Increase user retention by creating a good, safe space. \r\n- Complete our adventure mode by introducing quests and other systems that make a great adventure, possibly voice actors, in-game cinematics and more!\r\n- The game is funded as a passion project, and I want to have proper parental controls so that when my kids are playing, I feel comfortable with it.\r\n- Add automation systems at some point and other systems that extend the game's appeal for players who love to tinker. \r\n- Add accessibility options (including controllers)\r\n- Level up the visuals across the whole game, lighting improvements and much more\r\n- Listen and interact with the community\r\n\r\nand much much more.'",
+    "date": "12 12 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Early Access",
+      "Feature",
+      "Future stuff",
+      "Business",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999541314015105113?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: DMs",
+    "mainText": "'It was not ignored! Simply too many to reply to all, we got the information we needed it and are working with the affected providers to resolve.'",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999485623691092359?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Support a Creator/Modders program",
+    "mainText": "'We are slowly rolling out the Support a Creators/Modders program. Please be patient; we are processing this manually at the moment. Will reach out to more as we expand our team and open the application process in the coming days!'",
+    "date": "12 12 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Early Access",
+      "Business",
+      "Simon Notes",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999483792906686557?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon announces preorders",
+    "mainText": "'Hytale pre-purchase starts tomorrow, December 13, around 10:00 AM EST.\r\n\r\nFor the first time, Hytale will be funded directly by the community. ❤️\r\n\r\nWe’ve got a long road ahead to get Hytale where it needs to be, and soon, you can be part of that journey. \r\n\r\nThank you.'",
+    "date": "12 12 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Early Access",
+      "Business",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999481464635949376?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: DMing about email issues",
+    "mainText": "'DMs were closed up, we got a lot of useful information and forwarded it to the affected providers'",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999481105825902645?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: RokoArts giving credit to his song in a Reel",
+    "mainText": "'Thanks for the credit 😊'",
+    "date": "12 12 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Art",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1999398139661279431?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Baldur's Gate 3 winning Best Community Support award",
     "mainText": "'The most important award, congrats!'",
     "date": "12 11 2025",

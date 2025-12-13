@@ -1,6 +1,60 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team discuss preorders, future plans, and Creator Program.",
+        "mainText": "<p class='mainTextParagraph'>Simon began the day by announcing that Hytale's preorders will go live tomorrow (12/13/2025) at <u>10 AM EST</u>. Shortly after, Simon released a statement that discussed many areas of the game that the team is looking to focus on, including living world features/interactions, combat/dungeons, World Gen V2, social features, accessibility features, and parental controls.</p><p class='mainTextParagraph'>\n\nSimon also announced the beginning of the Support a Creator/Modder program, stating applications are processed manually and will open in the coming days.</p><p class='mainTextParagraph'>\n\nDevSlashNull also revealed that users will be able to change their usernames once every 30 days, though capitalization can be changed at any time regardless of the cooldown. The Technical Producer also revealed each game profile with a name has its own UUID.</p>",
+        "date": "12 12 2025",
+        "tags": [
+            "Simon",
+            "Statement",
+            "Tweet",
+            "DevSlashNull",
+            "Accessibility",
+            "Business",
+            "Community",
+            "Early Access",
+            "Features",
+            "Future Stuff",
+            "Simon Notes",
+            "Social System",
+            "Tech",
+            "World Generation"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Preorder Announcement",
+                    "https://xcancel.com/Simon_Hypixel/status/1999481464635949376?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Future Plans",
+                    "https://xcancel.com/Simon_Hypixel/status/1999541314015105113?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - SaC Program",
+                    "https://xcancel.com/Simon_Hypixel/status/1999483792906686557?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "DevSlashNull - Changing Names",
+                    "https://xcancel.com/DevSlashNulled/status/1999697673948135817?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "DevSlashNull - UUIDs",
+                    "https://xcancel.com/DevSlashNulled/status/1999697765312737770?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team discusses Fan Art Showcase and parental controls.",
         "mainText": "<p class='mainTextParagraph'>When asked about the possibility of Fan Art Showcase blogposts returning, Simon stated he's very excited to bring that back, with BuddhaCat adding that it would likely be post-release.</p><p class='mainTextParagraph'>\n\nDiscussing kids accounts and profiles, DevSlashNull stated kid accounts should be separate from parental accounts, but parental controls would remain on the parent account - with a more in-depth parental control system coming with/after launch.</p>",
         "date": "12 11 2025",

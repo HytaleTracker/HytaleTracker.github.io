@@ -1,6 +1,248 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: tokens and preorders",
+    "mainText": "'You dont need a token if you pre purchase, you can immediately lock in a name or use one that you've reserved with a token if you got one'",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999699595044233500?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: permanent names",
+    "mainText": "'Well it is permanent if you never change it :P'",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999699284128854026?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: UUIDs",
+    "mainText": "'Each game profile which the name is bound too has its own UUID yes'",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999697765312737770?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: changing names",
+    "mainText": "'You can name change once every 30 days, when you change your name your profile has a username change cooldown. You can change the capitalization of your name at any time regardless of the cooldown status.'",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999697673948135817?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: name reservations",
+    "mainText": "'You can have 1 name per game profile, I have 3 pre purchases as I was doing some testing'",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999697219029803259?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: usernames during purchase tomorrow",
+    "mainText": "'If you pre purchase tomorrow you will be able to immediately lock in any name that hasnt been reserved yet'\n\n(screenshot)",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Business",
+      "Early Access",
+      "Devs",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999687360074908116?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: changing capitalization after applying",
+    "mainText": "'Yes you can'\n\n(screenshot)",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Business",
+      "Early Access",
+      "Devs",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999684694716350840?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: CloudFlare Access Admin Control Panel for the Store being accessible",
+    "mainText": "'This is in preparation for tomorrow, at 10 AM EST you will be able to access it'",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Business",
+      "Early Access",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999683871307379158?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull gives sneak peek of preordering Hytale",
+    "mainText": "'A sneak peak of tomorrow, you will be able to apply your reserved username to your pre purchase or pick a new one if you don't like the one you reserved!'",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Business",
+      "Early Access",
+      "Devs",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999682769203658961?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: AntVenom purchasing Hytale",
+    "mainText": "'First customer! Hytale has officially earned money for the first time. Thanks for testing!'",
+    "date": "12 12 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Business",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999674447150895230?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hlamingo fanart",
+    "mainText": "'❤️'",
+    "date": "12 12 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999672425978724362?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Syprus thanking him and the team",
+    "mainText": "'Thank you, it means a lot to see this message! Very stressful moments ahead for the team :)'",
+    "date": "12 12 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999636192606945302?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Thomas posts concert video",
     "mainText": "'So... How is your evening going? Mine : #gojira'",
     "date": "12 12 2025",
@@ -137,7 +379,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon, re: pre-orders, future plans",
-    "mainText": "'Once again, please don't pre-purchase or buy the game if you're not comfortable with early access! \r\n\r\nSupport us only if you believe in the long-term plan to make Hytale a great game of its own; we are not trying to be like any other game out there, we are making Hytale.\r\n\r\nThe future of Hytale\r\nSome of the things we are planning to do, subject to change of course.\r\n\r\n- Add more living world features and interactions\r\n- Add more combat content, dungeons/bosses, and more challenges\r\n- Finish World Gen v2 to restore Orbis\r\n- Support modders along the way, add missing features for them and add modding discovery in-game and allow players to install mods from in-game. 1 click install and auto-install on server joins.\r\n- Support server owners by developing our own minigames and giving them access to assets/code and features, and let them outcompete us.\r\n- Add social features like friends list, guilds, prox voice chat and more. Increase user retention by creating a good, safe space. \r\n- Complete our adventure mode by introducing quests and other systems that make a great adventure, possibly voice actors, in-game cinematics and more!\r\n- The game is funded as a passion project, and I want to have proper parental controls so that when my kids are playing, I feel comfortable with it.\r\n- Add automation systems at some point and other systems that extend the game's appeal for players who love to tinker. \r\n- Add accessibility options (including controllers)\r\n- Level up the visuals across the whole game, lighting improvements and much more\r\n- Listen and interact with the community\r\n\r\nand much much more.'",
+    "mainText": "'Once again, please don't pre-purchase or buy the game if you're not comfortable with early access! \n\nSupport us only if you believe in the long-term plan to make Hytale a great game of its own; we are not trying to be like any other game out there, we are making Hytale.\n\nThe future of Hytale\nSome of the things we are planning to do, subject to change of course.\n\n- Add more living world features and interactions\n- Add more combat content, dungeons/bosses, and more challenges\n- Finish World Gen v2 to restore Orbis\n- Support modders along the way, add missing features for them and add modding discovery in-game and allow players to install mods from in-game. 1 click install and auto-install on server joins.\n- Support server owners by developing our own minigames and giving them access to assets/code and features, and let them outcompete us.\n- Add social features like friends list, guilds, prox voice chat and more. Increase user retention by creating a good, safe space. \n- Complete our adventure mode by introducing quests and other systems that make a great adventure, possibly voice actors, in-game cinematics and more!\n- The game is funded as a passion project, and I want to have proper parental controls so that when my kids are playing, I feel comfortable with it.\n- Add automation systems at some point and other systems that extend the game's appeal for players who love to tinker. \n- Add accessibility options (including controllers)\n- Level up the visuals across the whole game, lighting improvements and much more\n- Listen and interact with the community\n\nand much much more.'",
     "date": "12 12 2025",
     "tags": [
       "Simon",
@@ -201,7 +443,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon announces preorders",
-    "mainText": "'Hytale pre-purchase starts tomorrow, December 13, around 10:00 AM EST.\r\n\r\nFor the first time, Hytale will be funded directly by the community. ❤️\r\n\r\nWe’ve got a long road ahead to get Hytale where it needs to be, and soon, you can be part of that journey. \r\n\r\nThank you.'",
+    "mainText": "'Hytale pre-purchase starts tomorrow, December 13, around 10:00 AM EST.\n\nFor the first time, Hytale will be funded directly by the community. ❤️\n\nWe’ve got a long road ahead to get Hytale where it needs to be, and soon, you can be part of that journey. \n\nThank you.'",
     "date": "12 12 2025",
     "tags": [
       "Simon",

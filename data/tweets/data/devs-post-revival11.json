@@ -1,6 +1,509 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Buddha, re: user 'summoning' a blogpost",
+    "mainText": "'epic <3\r\n'",
+    "date": "12 13 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1999903444170117598?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon jokes about community 'achievements.'",
+    "mainText": "'Achievements unlocked by the community so far:\r\n\r\nCrash account creation✅\r\nCrash payment provider ✅\r\n\r\nJust one more to go... 👀'",
+    "date": "12 13 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999899456905564451?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon releases statement on pre-purchase of Hytale",
+    "mainText": "'The beginning of a long journey, thank you all for supporting Hytale.\r\n\r\nSee you all in 30 days, in the Echoes of Orbis.'",
+    "date": "12 13 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Early Access",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999897434387083509?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: praying to servers meme",
+    "mainText": "'🙏'",
+    "date": "12 13 2025",
+    "tags": [
+      "Paris",
+      "Early Access",
+      "Tech",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/1999887468913639517?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: payment declined error",
+    "mainText": "'If you are getting payment declined on Tebex, we're aware of the issue and are working with them to resolve.'",
+    "date": "12 13 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Business",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999870581873983530?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas Frick, re: preorders going live",
+    "mainText": "'Is this dimension real?'",
+    "date": "12 13 2025",
+    "tags": [
+      "Thomas Frick",
+      "Early Access",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/1999866238361817150?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas Frick, re: preorders going live",
+    "mainText": "'Let's GOOOOOOOOOOOOOOOOOOO'",
+    "date": "12 13 2025",
+    "tags": [
+      "Thomas Frick",
+      "Early Access",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/1999866150692250009?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares statement on preorders, 7 year anniversary",
+    "mainText": "'Today is the 7 year anniversary of the Hytale Announcement Trailer.\r\n\r\nAlthough this is yet another milestone on that journey, this one is a bit unprecedented as it will be the first time Hytale is going to be directly funded by the community.\r\n\r\nOn that note, we’d like to remind everyone again that if you are not comfortable pre-purchasing Hytale in its Early Access state - please don’t.\r\n\r\nAs \r\n@Simon_Hypixel\r\n has mentioned - please support us only if you believe in the long-term plan to make Hytale a great game that stands on its own.\r\n\r\nWhether you pre-purchase or you are choosing to wait - we want to sincerely thank everyone who has supported us throughout this crazy journey. We hope to make you all proud.\r\n\r\n- The Hytale Team'",
+    "date": "12 13 2025",
+    "tags": [
+      "Hytale",
+      "Statement",
+      "Early Access",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/1999865483810554017?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale launches pre-purchases",
+    "mainText": "'Pre-purchases are now AVAILABLE!\r\nhttps://store.hytale.com'",
+    "date": "12 13 2025",
+    "tags": [
+      "Hytale",
+      "Statement",
+      "Early Access",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/1999865142474068239?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: usernames being unique despite capitalization",
+    "mainText": "'Correct, a name is truly unique'",
+    "date": "12 13 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999844605894787557?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: CloudFlare Access Admin Control Panel for the Store being accessible",
+    "mainText": "'It will be removed as soon as we're going live with the store at 10 AM EST'",
+    "date": "12 13 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999841133111783591?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: CloudFlare Access Admin Control Panel for the Store being accessible",
+    "mainText": "'That is correct :) when it goes live it will be removed'",
+    "date": "12 13 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999840888852296002?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: email issues",
+    "mainText": "'If you were having issues getting your Hytale account verification email please re sign in, wait the 1 minute and re request an email. Emails to affected providers with long delays such as Gmail should be resolved.'",
+    "date": "12 13 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999838573424443907?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: how is the sun on fire without oxygen",
+    "mainText": "'Sun is fake confirmed'",
+    "date": "12 13 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/1999830796022988907?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: Hugo joking he wanted the username wideties727",
+    "mainText": "'Parrot shaking head fast gif'",
+    "date": "12 13 2025",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999816858862514335?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: email issues",
+    "mainText": "'Unfortunately when we start sending out tons of emails from a domain that has never email sent theres going to be some issues. We're working with providers like Gmail to try and resolve, some folks are getting them instantly, some delayed and some extremely delayed, but the issue is out of our control atm sadly. We will update once we have more information but for the time being we recommend making an account with a different email provider if possible even though we know its not ideal.'",
+    "date": "12 13 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999815066577690988?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: limit of package sales",
+    "mainText": "'All packages are available through to release with no limits'",
+    "date": "12 13 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999811416434327902?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: self-hosting servers",
+    "mainText": "'You can run the server on any platform atm'",
+    "date": "12 13 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999806119116750994?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: sleeping/eating properly",
+    "mainText": "'Ron Swanson nod'",
+    "date": "12 13 2025",
+    "tags": [
+      "DevSlashNull",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999805931685564697?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: changing names",
+    "mainText": "'Yes you will, every 30 days you can change name'",
+    "date": "12 13 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999805828379857271?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull reveals he is Canadian",
+    "mainText": "'Canadian Flag Emoji'",
+    "date": "12 13 2025",
+    "tags": [
+      "DevSlashNull",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999805724898275838?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: preorders",
+    "mainText": "'Pre orders open at 10 AM est today, you can use your existing hytale account when it goes live.'",
+    "date": "12 13 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999787182522003608?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas posts concert video",
+    "mainText": "'So... How is your evening going? Mine : #gojira'",
+    "date": "12 13 2025",
+    "tags": [
+      "Thomas Frick",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/1999726422076571952?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: checking username availability",
+    "mainText": "'That is already implemented, simply type the name into the forum and a checkmark will appear if available or an x if taken'",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999717417963126955?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: claiming names",
+    "mainText": "'Yes you will have till the end of the expiration of the name to claim it if you wish'",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999711903573279028?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: tokens and preorders",
+    "mainText": "'You dont need a code to reserve a name tomorrow, after pre purchase you can lock one in immediately'",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999710356478865579?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "DevSlashNull, re: tokens and preorders",
     "mainText": "'You dont need a token if you pre purchase, you can immediately lock in a name or use one that you've reserved with a token if you got one'",
     "date": "12 12 2025",
@@ -244,7 +747,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Thomas posts concert video",
-    "mainText": "'So... How is your evening going? Mine : #gojira'",
+    "mainText": "'So... How is your evening going? Mine : #gojira'\n\n(Deleted, reposted later)",
     "date": "12 12 2025",
     "tags": [
       "Thomas Frick",

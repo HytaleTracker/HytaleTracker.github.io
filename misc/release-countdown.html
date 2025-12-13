@@ -355,10 +355,10 @@
                 const time = new Date();
                 const diffRelease = releaseDate - time;
 
-                daysRelease = Math.floor(diffRelease / 86400000);
-                hoursRelease = Math.floor((diffRelease % 86400000) / 3600000);
-                minutesRelease = Math.floor((diffRelease % 3600000) / 60000);
-                secondsRelease = Math.floor((diffRelease % 60000) / 1000);
+                daysRelease = Math.trunc(diffRelease / 86400000);
+                hoursRelease = Math.trunc((diffRelease % 86400000) / 3600000);
+                minutesRelease = Math.trunc((diffRelease % 3600000) / 60000);
+                secondsRelease = Math.trunc((diffRelease % 60000) / 1000);
 
                 releaseDaysText.textContent = daysRelease;
                 releaseHoursText.textContent = hoursRelease;
@@ -367,10 +367,10 @@
 
                 const diffPreOrder = preOrderDate - time;
 
-                daysPreOrder = Math.floor(diffPreOrder / 86400000);
-                hoursPreOrder = Math.floor((diffPreOrder % 86400000) / 3600000);
-                minutesPreOrder = Math.floor((diffPreOrder % 3600000) / 60000);
-                secondsPreOrder = Math.floor((diffPreOrder % 60000) / 1000);
+                daysPreOrder = Math.trunc(diffPreOrder / 86400000);
+                hoursPreOrder = Math.trunc((diffPreOrder % 86400000) / 3600000);
+                minutesPreOrder = Math.trunc((diffPreOrder % 3600000) / 60000);
+                secondsPreOrder = Math.trunc((diffPreOrder % 60000) / 1000);
 
                 preOrdersDaysText.textContent = daysPreOrder;
                 preOrdersHoursText.textContent = hoursPreOrder;
@@ -646,7 +646,7 @@
                             if (x <= 0 || x + image.width >= window.innerWidth || y <= 0 || y + image.height >= window.innerHeight) {
                                 if(bouncable == true){
                                     bouncable = false;
-                                    if(Math.floor(Math.random() * 3) == 1){
+                                    if(Math.trunc(Math.random() * 3) == 1){
                                         if (x <= 0 || x + image.width >= window.innerWidth) {
                                             vx = -vx;
                                             bounces += 1;

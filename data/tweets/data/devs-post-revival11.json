@@ -1,6 +1,141 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Thomas posts concert video",
+    "mainText": "'So... How is your evening going? Mine : #gojira'",
+    "date": "12 12 2025",
+    "tags": [
+      "Thomas Frick",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/1999610128857813283?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user doubting his passion/motivations",
+    "mainText": "'Do you realize I wasn't 100% in control back then? I did a few tweets/posts about it in the past, but clearly, there were signs on the road in different directions in 2019, and we needed money to keep going. I cannot tell the whole story, as you might understand. I did what was best for the game back then; I left and walked away from much bigger financial exit options to make sure the team was taken care of.\r\n\r\nAlso, bought back at minimum value? HAHA, I wish. I hope the numbers will become public someday so you can see the truth. Did you see the post where they said they had multiple offers for Hytale? I had to fight for it, and I did. I gambled my entire future on it. Given the game's low price, I don't see any return on investment for a couple of years. I do not get a salary. I would have been better off to keep my retirement funds in the S&P500 at that point! \r\n\r\nI also have to sacrifice time with my family and kids to make this happen. For the past 3 months, I haven't taken a single day off. There are days when I see my kids for 10 minutes max.\r\n\r\nWhy do I even do this? I was already retired and living a good life, so why bother buying this game and trying to fix it? Do you ever think that maybe, just maybe, instead of buying a yacht, I could buy a game that I'm passionate about? Also, why the fuck would I buy a yacht if I have motion sickness on boats? 😅'",
+    "date": "12 12 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999601919787245936?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: user wanting a creator code",
+    "mainText": "'👍❤️'",
+    "date": "12 12 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/1999599619571847411?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: future plans tweet",
+    "mainText": "'To clarify, some things are already done or planned for the early access launch, such as the server sending mods to players on join. :)'",
+    "date": "12 12 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999596919337746850?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: Gmail on list of affected providers",
+    "mainText": "'They are, we're still working to resolve'",
+    "date": "12 12 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/1999567610057277861?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: WorldGenV2 at launch",
+    "mainText": "'Partially but its a spoiler to explain for now :)'",
+    "date": "12 12 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999554156038611220?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: what he means by Guilds",
+    "mainText": "'Like a large group of friends with shared chat'",
+    "date": "12 12 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/1999553940564631917?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: pre-orders, future plans",
     "mainText": "'Once again, please don't pre-purchase or buy the game if you're not comfortable with early access! \r\n\r\nSupport us only if you believe in the long-term plan to make Hytale a great game of its own; we are not trying to be like any other game out there, we are making Hytale.\r\n\r\nThe future of Hytale\r\nSome of the things we are planning to do, subject to change of course.\r\n\r\n- Add more living world features and interactions\r\n- Add more combat content, dungeons/bosses, and more challenges\r\n- Finish World Gen v2 to restore Orbis\r\n- Support modders along the way, add missing features for them and add modding discovery in-game and allow players to install mods from in-game. 1 click install and auto-install on server joins.\r\n- Support server owners by developing our own minigames and giving them access to assets/code and features, and let them outcompete us.\r\n- Add social features like friends list, guilds, prox voice chat and more. Increase user retention by creating a good, safe space. \r\n- Complete our adventure mode by introducing quests and other systems that make a great adventure, possibly voice actors, in-game cinematics and more!\r\n- The game is funded as a passion project, and I want to have proper parental controls so that when my kids are playing, I feel comfortable with it.\r\n- Add automation systems at some point and other systems that extend the game's appeal for players who love to tinker. \r\n- Add accessibility options (including controllers)\r\n- Level up the visuals across the whole game, lighting improvements and much more\r\n- Listen and interact with the community\r\n\r\nand much much more.'",
     "date": "12 12 2025",

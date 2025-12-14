@@ -1,6 +1,50 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "Hytale launches preorders, Simon gives statement and teases video.",
+        "mainText": "<p class='mainTextParagraph'>At 9 AM CST on the seventh anniversary of Hytale's Announcement Trailer, The Hytale Team officially launched preorders, providing a brief statement talking about how unprecedented the moment is and reminding players to not preorder if they are uncomfortable with the game in its Early Access state.</p><p class='mainTextParagraph'>\n\nSimon also released a brief statement, dubbing the moment 'the beginning of a long journey' and saying he'd see us all in Echoes of Orbis in 30 days.</p><p class='mainTextParagraph'>\n\nLater, Simon tweeted that he had watched a video which he described as 'the most disturbing Hytale video\" he had ever seen... and promising it would be posted tomorrow at 9 AM CST.</p>",
+        "date": "12 13 2025",
+        "tags": [
+            "Simon",
+            "Statement",
+            "Tweet",
+            "Hytale",
+            "Business",
+            "Early Access",
+            "Hints",
+            "Simon Notes",
+            "Video",
+            "Website"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Hytale - Preorder Launch",
+                    "https://xcancel.com/Hytale/status/1999865142474068239?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Hytale - Statement",
+                    "https://xcancel.com/Hytale/status/1999865483810554017?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Statement",
+                    "https://xcancel.com/Simon_Hypixel/status/1999897434387083509?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Disturbing Video Tease",
+                    "https://xcancel.com/Simon_Hypixel/status/1999937415197446607?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team discuss preorders, future plans, and Creator Program.",
         "mainText": "<p class='mainTextParagraph'>Simon began the day by announcing that Hytale's preorders will go live tomorrow (12/13/2025) at <u>10 AM EST</u>. Shortly after, Simon released a statement that discussed many areas of the game that the team is looking to focus on, including living world features/interactions, combat/dungeons, World Gen V2, social features, accessibility features, and parental controls.</p><p class='mainTextParagraph'>\n\nSimon also announced the beginning of the Support a Creator/Modder program, stating applications are processed manually and will open in the coming days.</p><p class='mainTextParagraph'>\n\nDevSlashNull also revealed that users will be able to change their usernames once every 30 days, though capitalization can be changed at any time regardless of the cooldown. The Technical Producer also revealed each game profile with a name has its own UUID.</p>",
         "date": "12 12 2025",

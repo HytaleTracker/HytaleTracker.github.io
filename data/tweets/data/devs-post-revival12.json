@@ -1,6 +1,423 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Paris, re: user saying Hytale is the first game they've pre-ordered",
+    "mainText": "'😭Thank you!'",
+    "date": "12 14 2025",
+    "tags": [
+      "Paris",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2000238806633762827?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Kanno winking at someone's guess on the first part of the video",
+    "mainText": "'null'\n\n(Dexter detective staring at camera montage gif)",
+    "date": "12 14 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000234964139589836?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: BigDude following Kanno",
+    "mainText": "'I'll forgive you. Kanno is genuinely one of the most talented and kindest individuals I know (which is why its even more horrifying that it was made by him 😂 )'",
+    "date": "12 14 2025",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000232841289060569?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Olegro asking who made the video",
+    "mainText": "'BLAME @KannoArt'",
+    "date": "12 14 2025",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000231739571208520?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Hutz asking what wasn't shown",
+    "mainText": "'Lets just say it would have made @Bucky_cm and the Palworld team proud 😅😂'",
+    "date": "12 14 2025",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000230566298542257?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Kanno saying he can't share the rest of the video",
+    "mainText": "'ITS FOR EVERYONE'S SAFETY, I SWEAR!!!'",
+    "date": "12 14 2025",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000229162129535028?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: BigDude saying he wishes he saw the first half",
+    "mainText": "'null'\n\n(Tobey Maguire Spiderman crying)",
+    "date": "12 14 2025",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000228676273623165?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Memetheew saying the video is better than they expected",
+    "mainText": "'You're just lucky you didn't see that first half 😅'",
+    "date": "12 14 2025",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000227604490838180?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: KannoArt saying he did nothing wrong",
+    "mainText": "'Brilliant animation by a brilliant animator.\r\n\r\n...but also...\r\n\r\nOne of the most disturbing animations I've ever seen 😂'",
+    "date": "12 14 2025",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000227321954115980?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Kanno saying the first half of the video is forever hidden for the good of the community",
+    "mainText": "'I hope so hahaha'",
+    "date": "12 14 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000226967371624691?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: KannoArt saying he did nothign wrong",
+    "mainText": "'You did the crimes, I’m just reporting the news 😂'",
+    "date": "12 14 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000226815852298636?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: KannoArt side eye gif",
+    "mainText": "'null'\n\n(dog side-eye gif)",
+    "date": "12 14 2025",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000225798670925837?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Simon's video",
+    "mainText": "'null'\n\n(Crying dog gif)",
+    "date": "12 14 2025",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000224906244428049?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares a clip of disturbing Hytale video",
+    "mainText": "'I'm not comfortable posting the full video, but I figured I could share the 2nd half.\r\n\r\nI found this in the massive media archive I went through... You can make your guesses of what the first half was like based on the last ingredient... 😅\r\n\r\nPlease, do not let the Trorks win.'",
+    "date": "12 14 2025",
+    "tags": [
+      "Simon",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000219226393723289?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying 'first ever Simon L'",
+    "mainText": "'true'",
+    "date": "12 14 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000210585011601520?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar Garvin, re: Hogwarts Legacy",
+    "mainText": "'The main quest bugged out halfway through so the NPC kept walking into a wall so I couldn't continue the story so I stopped playing'",
+    "date": "12 14 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2000199845898760702?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user booing his last tweet",
+    "mainText": "'null'\n\n(Rick and Morty - Your BOOS mean NOTHING I've seen what makes you cheer - gif)",
+    "date": "12 14 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000196172686766515?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: teased video",
+    "mainText": "'Alright, everyone voted against posting the full video (including myself), so I'll post a heavily edited version and give some context.'",
+    "date": "12 14 2025",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Future stuff",
+      "Video",
+      "Hints"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000194046443008183?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: modding",
+    "mainText": "'I can't because it doesn't exist in Minecraft. This will be the biggest issue of Hytale modding: People have to leave their Minecraft modding brain at the door and accept new paradigms. There are many differences that will be confusing at first contact.'",
+    "date": "12 14 2025",
+    "tags": [
+      "Slikey",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000048831832940615?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Big Dude/Slamma song",
+    "mainText": "'Beautiful song, thank you both for making it :)'",
+    "date": "12 13 2025",
+    "tags": [
+      "Paris",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2000048447076839473?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: modding",
+    "mainText": "'It really shouldn't be too hard to imagine how it will all function in the vision if someone researches Unreal Engine, Roblox and Minecraft. Yes the concept for Hytale UGC is new but none of the parts are new and we are just bundling it all together into a vision that we believe is striking the balance between empowering, compatible and accessible.'",
+    "date": "12 13 2025",
+    "tags": [
+      "Slikey",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000045741478166534?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: modding",
+    "mainText": "'As we follow the Unreal Blueprints model, you will be able to create new visual nodes with your own Java Logic and use those nodes in visual scripting easily. All of these things are solved conceptually in Unreal Engine.\r\nThe client side visual scripts will be more limited but also just focus on better client prediction and some basic UX improvements which are less critical for now.'",
+    "date": "12 13 2025",
+    "tags": [
+      "Slikey",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000044401347719180?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: latest post",
     "mainText": "'null'\n\n(Ted Lasso - Believe Gif)",
     "date": "12 13 2025",

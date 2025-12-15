@@ -1,6 +1,321 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Oscar, re: Blender Artist showing their work",
+    "mainText": "'A real artist doing real work... Keep it up🙏🏻'",
+    "date": "12 14 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Off Topic",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2000359019022827969?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Client Side Scripts",
+    "mainText": "'We said we don't want client modding but client-local scripts are something we can absolutely support. It would hinge on a very limitted API but absolutely within the realm of possibility and doesn't violate any of our core principles to UGC.'",
+    "date": "12 14 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "Tech",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000348066101268677?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "BuddhaCat, re: Vippori saying she'll wear her iconic violet jacket, with an image",
+    "mainText": "'Yesssss 💜'",
+    "date": "12 14 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000340968529400300?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey continues his last tweet",
+    "mainText": "'Here is some additional documentation from Unreal Engine's most modern gameplay architecture: https://github.com/tranek/GASDocumentation?tab=readme-ov-file#concepts-p\r\n\r\nYou can see here how a data-driven system can be used to implement client prediction and make sensible limits. \r\n\r\n\"Epic's mindset is to only predict what you \"can get away with\". For  example, Paragon and Fortnite do not predict damage. Most likely they  use ExecutionCalculations for their damage which cannot be predicted anyway.\"\r\n\r\nWe already have a range of analogue capabilities in our \"Interaction\" system which does partial prediction and state management. We have work to do there but talking about fundamental architecture constraints is just Dunning-Kruger.'",
+    "date": "12 14 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000340593600340367?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey continues his last tweet",
+    "mainText": "'You refer to client side prediction in your message but then make no effort to imagine how our asset system and the game may support it. Client modding is not required when you have a rich SDK.'",
+    "date": "12 14 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000336925115465957?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user saying server-side mods mean latency is major factor",
+    "mainText": "'You are confidently wrong. You are making assumptions based on inexperience. Please refer to https://gabrielgambetta.com/client-side-prediction-server-reconciliation.html to get started on client-side prediction and then try to imagine how our assets and scripts could be used to predict outcomes and enable latency compensation.'",
+    "date": "12 14 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000335886467432453?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: Paris saying it isn't 'just basil.'",
+    "mainText": "'null'\n\n(Man crying on a bus gif)",
+    "date": "12 14 2025",
+    "tags": [
+      "DevSlashNull",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2000300427620040806?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Kanno asking he if can make a part 2 of the Trork Chef video",
+    "mainText": "'Let's actually finish the game 😅'",
+    "date": "12 14 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000300248561025519?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Hatsuya's 32x resource pack for Hytale",
+    "mainText": "'👀'",
+    "date": "12 14 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Devs",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000299610477404176?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: joining Creator Program",
+    "mainText": "'If you want to be in our Hytale Support Creator program, please get in touch with us at creators@hytale.com. We may take a few days to reply, as we are a small team, but we will get to you as soon as possible!\r\n\r\nYouTubers, Modders, Map Makers, Artists and Streamers are welcome!'",
+    "date": "12 14 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs",
+      "Business",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000291407991554335?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares short statement on Creator Code usage",
+    "mainText": "'Glad to see all the Hytale creators receiving strong support from their communities with the creator codes!\r\n\r\nThe future is looking great! Thank you, everyone, for supporting them through the years ❤️'\n\n((Edited to fix typos))",
+    "date": "12 14 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs",
+      "Business",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000290549149135138?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: ChippyGaming thanking everyone for using his Code",
+    "mainText": "'use code chippy'",
+    "date": "12 14 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000287242737320053?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Kanno laughing abt the video he made",
+    "mainText": "'😂'",
+    "date": "12 14 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2000256455925276817?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: ChimkenFingers saying 'that's just basil, right?'",
+    "mainText": "'null'\n\n(Jim from The Office shaking his head gif)",
+    "date": "12 14 2025",
+    "tags": [
+      "Paris",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2000256410769330675?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Trork Chef video",
+    "mainText": "'Omg I remember this😂 absolutely diabolical'",
+    "date": "12 14 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2000252912556270008?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar. re: Hytale OST on Spotify",
+    "mainText": "'Hopefully before release, but potentially after. Were working on it :)'",
+    "date": "12 14 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Devs",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2000250925081055442?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Paris, re: user saying Hytale is the first game they've pre-ordered",
     "mainText": "'😭Thank you!'",
     "date": "12 14 2025",

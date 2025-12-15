@@ -1,6 +1,63 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: disabling certain vanilla features",
+    "mainText": "'Yes to all of them. You dont just disable it but you can entirely unload the capabilities from the classloader and replace them with custom solutions.'",
+    "date": "12 15 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000622332604264798?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: server manual 'blogpost'",
+    "mainText": "'I wouldn't call it a blog post. It is more of a technical manual with some example data. Just wrapped up a playtest with 70 people on various hardware until we finally crashed the server. \r\nThere is a lot of context such as \"minigame server\" vs \"exploration mode SMP\".  We believe that a 3 vCore + 8 GB server can sustain 6-8 players. A Ryzen 7950x with 12 GB RAM server, we were able to push 70 players but TPS degraded until the server crashed (~45 minutes). \r\nI think we will defintiely see 200 player minigames such as Mega Walls or Super Sky Wars. While vanilla SMP is going to require some beefy hardware to push 100 players in a single SMP.\r\nWe are continuing our effort to improve stability and further add performance optimizations to get those big anarchy servers.'",
+    "date": "12 15 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000608313977810946?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Server Hosting Manual",
+    "mainText": "'Server Hosting itself will only become available with the Early Access launch. There is some more documentation releasing before launch though to give some best practice for hosting a server yourself or as a server provider but it takes longer than expected due to performance improvements.'",
+    "date": "12 15 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000566749750612036?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Oscar, re: Blender Artist showing their work",
     "mainText": "'A real artist doing real work... Keep it up🙏🏻'",
     "date": "12 14 2025",

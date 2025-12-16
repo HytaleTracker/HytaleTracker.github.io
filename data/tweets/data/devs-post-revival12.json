@@ -1,6 +1,174 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking how complex a server network would be day one",
+    "mainText": "'The point is that you don't need BungeeCord. We built the protocol to not need it in order to build a respectable network.'",
+    "date": "12 15 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000711320132268052?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking if the game has one main branch",
+    "mainText": "'A single main branch with a branch for pre-release and release. Highly efficient but requires us all to pay a lot of attention 👍'",
+    "date": "12 15 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000711006662558082?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hugo saying 'never ask a Hytale dev what happened on October 23rd'",
+    "mainText": "'We entered the timeline where Hytale is saved at that precise time'",
+    "date": "12 15 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000710747794419772?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Hawkon saying the video makes it look like an infestation that'll wipe out 80% of humanity",
+    "mainText": "'Eradicate 80% of your time, yes.'",
+    "date": "12 15 2025",
+    "tags": [
+      "Slikey",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000710504071786548?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user wanting spec estimate for 1700 players",
+    "mainText": "'You will want a server network for that hosting multiple servers and transfer players between those servers using our referral / transfer packets.'",
+    "date": "12 15 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000709521484779978?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: visual from the video",
+    "mainText": "'I thought the program crashed when I saw that 🤣'",
+    "date": "12 15 2025",
+    "tags": [
+      "Slikey",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000708804351062340?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Slikey's video",
+    "mainText": "'October:'\n\n(Thanos infinity gauntlet gif)",
+    "date": "12 15 2025",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000707959878308247?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey shares 'new Hytale footage'",
+    "mainText": "'New Hytale Footage... Kind of.. Well. Nerd Video!!! I was asked to show how our Github looks like using \"Gource\" visualization. \r\nHere it is.. I wonder if you can see the part where collapsed the 300 branches into a single new main branch. Enjoy ;)'",
+    "date": "12 15 2025",
+    "tags": [
+      "Slikey",
+      "Video",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000706973075955761?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: server-side requirements being hide",
+    "mainText": "'GSPs have told us that it seems similar to the other block game.. Also highly depends on how much world generation and how many NPCs are active. You can tweak limits for better performance but its always a trade-off.'",
+    "date": "12 15 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000706441703755979?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: disabling certain vanilla features",
     "mainText": "'Yes to all of them. You dont just disable it but you can entirely unload the capabilities from the classloader and replace them with custom solutions.'",
     "date": "12 15 2025",

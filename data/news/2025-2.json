@@ -1,6 +1,56 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks server tech requirements, networking, and world generation.",
+        "mainText": "<p class='mainTextParagraph'>Shining light on the server technical requirements, Slikey revealed the team had just wrapped a playtest with 70 players on various hardware until the server finally crashed, and stated the belief that a 3 vCore + 8 GB server can sustain 6-8 players, while a Ryzen 7950x with a 12 GB RAM server could be able to push 70 players -- though TPS degraded for 45 minutes until the server finally crashed. Slikey stated that that service providers told them this performance seems similar to Minecraft, and clarified that performance depends on world generation and active NPC counts.</p><p class='mainTextParagraph'>\n\nWhen asked about how a ~1700 user server would be accomplished - specifically if libraries similar to BungeeCord might be required, Slikey stated that Hytale's protocol was built to not require such things in order to build a 'respectable network.'</p><p class='mainTextParagraph'>\n\nSetting off a storm late in the day, Simon revealed that the Hytale Team would be reviewing the game's Zones after getting Infinite Worlds working properly with WorldGen V1 a few days ago, thus requiring a balance-pass and tweaks to ensure some zones near spawn aren't too small. Simon <i>also</i> revealed that the team would be locking in and confirming the names of the Zones this week, instead of simply referring to them by number. When a user asked if Hytale would be doing a central spawn continent on launch, Simon confirmed the team was trying to replicate the idea with an infinite world.</p>",
+        "date": "12 15 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Slikey",
+            "Early Access",
+            "Engine",
+            "Features",
+            "Future Stuff",
+            "Servers",
+            "Tech",
+            "World Generation"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Slikey - Server Tech Requirements",
+                    "https://xcancel.com/slikey/status/2000608313977810946?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Slikey - Similar to Minecraft",
+                    "https://xcancel.com/slikey/status/2000706441703755979?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Slikey - Hytale Protocol",
+                    "https://xcancel.com/slikey/status/2000711320132268052?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Zone Review",
+                    "https://xcancel.com/Simon_Hypixel/status/2000738597733847164?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - Central Spawn Continent Idea",
+                    "https://xcancel.com/Simon_Hypixel/status/2000743078403952853?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "Hytale launches preorders, Simon gives statement and teases video.",
         "mainText": "<p class='mainTextParagraph'>At 9 AM CST on the seventh anniversary of Hytale's Announcement Trailer, The Hytale Team officially launched preorders, providing a brief statement talking about how unprecedented the moment is and reminding players to not preorder if they are uncomfortable with the game in its Early Access state.</p><p class='mainTextParagraph'>\n\nSimon also released a brief statement, dubbing the moment 'the beginning of a long journey' and saying he'd see us all in Echoes of Orbis in 30 days.</p><p class='mainTextParagraph'>\n\nLater, Simon tweeted that he had watched a video which he described as 'the most disturbing Hytale video\" he had ever seen... and promising it would be posted tomorrow at 9 AM CST.</p>",
         "date": "12 13 2025",

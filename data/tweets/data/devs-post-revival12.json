@@ -1,6 +1,201 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Ahsan saying Z3 needs a rename but others are perfect",
+    "mainText": "'I agree, give ideas bois cc @flash_canadian'",
+    "date": "12 15 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "World Generation",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000750227393741176?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Flash asking for more concept art",
+    "mainText": "'less concept, more game'",
+    "date": "12 15 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Art",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000748884310601911?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Flash asking for clarification on where players spawn",
+    "mainText": "'Read the image I sent you; Echoes of Orbis'",
+    "date": "12 15 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Tech",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000748123258257886?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: continent -> ocean -> infinite world idea",
+    "mainText": "'yes but no time to perfect that tech in time before launch, therefore will try to make it work'",
+    "date": "12 15 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Tech",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000744099620479387?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: central spawn continent idea",
+    "mainText": "'trying to replicate this a bit with the infinite world, it's a \"pick your poison\" kind of challenge lol'",
+    "date": "12 15 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Tech",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000743078403952853?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: zones",
+    "mainText": "'Zones are being reviewed this week for several reasons!\n\nThe team successfully got Infinite Worlds working properly with world gen v1 just a few days ago. We need to complete a tuning/configuration pass, and we should be ready to launch with it. I tested today and spent a few hours just flying around and having fun finding happy little accidents.\n\nThis changes A LOT; every playthrough will be vastly different, so we want to make sure gameplay-wise it's still balanced and that we don't have issues where some zones near spawn are too small, etc. \n\nRight now, the tech can verify that Zone 1 is large enough to spawn the player, but we want to make sure Z2-3-4 are OK. Maybe it's fine if sometimes they are small, as the world is infinite, you could still travel to see bigger ones anyway.\n\nThat said, we need to lock in the zone names instead of using Zone 1, 2, 3, and 4.\n\nThe names shouldn't change much from what the public knows, but maybe a tiny bit to clarify and avoid confusion with regions (biomes) names. Will confirm this week.'",
+    "date": "12 15 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Tech",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000738597733847164?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Prowl asking how many copies of Hytale sold in the first 24hrs",
+    "mainText": "'a bit too many 😮‍💨 working on game rn to make sure its ready'",
+    "date": "12 15 2025",
+    "tags": [
+      "Simon",
+      "Early Access",
+      "Business",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000723612643233885?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Zero's joke",
+    "mainText": "'\"I pushed, see you all after my vacation!\"'\n\n(Tom and Jerry meme img)",
+    "date": "12 15 2025",
+    "tags": [
+      "Slikey",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000718472859296139?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Zero, re: Slikey's github video",
+    "mainText": "'October 23rd: \"Hey, can you review my PR?\"'",
+    "date": "12 15 2025",
+    "tags": [
+      "Zero",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Zero",
+          "https://xcancel.com/ZeroErrors/status/2000715461072183716?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: transfer packets/proxies",
+    "mainText": "'Yes, then you need a proxy but you don't need a bungee cord then, you can use a simple QUIC proxy such as Nginx to route your traffic.'",
+    "date": "12 15 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000712433376088246?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: user asking how complex a server network would be day one",
     "mainText": "'The point is that you don't need BungeeCord. We built the protocol to not need it in order to build a respectable network.'",
     "date": "12 15 2025",
@@ -150,7 +345,7 @@
   },
   {
     "mainPlatform": "tweet",
-    "summary": "Slikey, re: server-side requirements being hide",
+    "summary": "Slikey, re: server-side requirements being high",
     "mainText": "'GSPs have told us that it seems similar to the other block game.. Also highly depends on how much world generation and how many NPCs are active. You can tweak limits for better performance but its always a trade-off.'",
     "date": "12 15 2025",
     "tags": [
@@ -189,7 +384,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey, re: server manual 'blogpost'",
-    "mainText": "'I wouldn't call it a blog post. It is more of a technical manual with some example data. Just wrapped up a playtest with 70 people on various hardware until we finally crashed the server. \r\nThere is a lot of context such as \"minigame server\" vs \"exploration mode SMP\".  We believe that a 3 vCore + 8 GB server can sustain 6-8 players. A Ryzen 7950x with 12 GB RAM server, we were able to push 70 players but TPS degraded until the server crashed (~45 minutes). \r\nI think we will defintiely see 200 player minigames such as Mega Walls or Super Sky Wars. While vanilla SMP is going to require some beefy hardware to push 100 players in a single SMP.\r\nWe are continuing our effort to improve stability and further add performance optimizations to get those big anarchy servers.'",
+    "mainText": "'I wouldn't call it a blog post. It is more of a technical manual with some example data. Just wrapped up a playtest with 70 people on various hardware until we finally crashed the server. \nThere is a lot of context such as \"minigame server\" vs \"exploration mode SMP\".  We believe that a 3 vCore + 8 GB server can sustain 6-8 players. A Ryzen 7950x with 12 GB RAM server, we were able to push 70 players but TPS degraded until the server crashed (~45 minutes). \nI think we will defintiely see 200 player minigames such as Mega Walls or Super Sky Wars. While vanilla SMP is going to require some beefy hardware to push 100 players in a single SMP.\nWe are continuing our effort to improve stability and further add performance optimizations to get those big anarchy servers.'",
     "date": "12 15 2025",
     "tags": [
       "Slikey",

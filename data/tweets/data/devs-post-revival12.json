@@ -1,6 +1,142 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Buddha, re: AcademiaOrbis asking Buddha abt Creator Code",
+    "mainText": "'Check your DMs!'",
+    "date": "12 16 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Early Access",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000969630396166553?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Chayzur saying he's the best",
+    "mainText": "' '\n\n(Cat with raised paws, flashing heart - Gif)",
+    "date": "12 16 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000969163700101239?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon releases important statement on Hytale",
+    "mainText": "'We are delivering on our promise and releasing Hytale into Early Access on January 13, 2026, with all the consequences that come with that decision.\r\n\r\nIn just a few weeks, we merged roughly 300 branches, modernized a four-year-old code & asset base, scaled the team from 8 people to 50 core developers plus ~250 helping hands, tracked close to 1,000 bugs and fixed hundreds of them, added Mac and Linux support, and built an Exploration Mode that simply did not exist before.\r\n\r\nWhen we started the mission to save Hytale, we made a clear promise: Launch without any delays, at any cost.\r\n\r\nWe are keeping that promise, even though it is a herculean task. In an alternate timeline, the most intelligent production decision would be to delay launch by 3-4 months, complete the obvious work in front of us, and avoid the overhead and distractions of maintaining a live product. The game would objectively be better on day one. That is not what we are doing.\r\n\r\nMoving this fast also comes with very real downsides, and you have already seen them. We make visible progress every week, sometimes so much that key community members work overtime to keep up with the news - but you have also seen us drop the ball.\r\n\r\nSome concrete examples:\r\n\r\n1- Name reservations were intended to reward longtime fans. Still, we lacked sufficient time and information to verify the email list's integrity, and some longtime fans were missing from it.\r\n2- The username generator produced unintended results, and our name filters failed to catch some unacceptable cases.\r\n3- The payment system continues to report issues.\r\n4- Communication regarding avatar customization, Steam release, modding, and pricing was insufficiently detailed, leading to misinterpretation or confusion.\r\n5- Blog posts and technical write-ups have landed on an unpredictable schedule.\r\n6- Game server providers, server owners, creators, and business inquiries are not receiving responses as quickly as we would like or as they deserve.\r\n\r\nThis is the tradeoff we all have to accept: You can’t make an omelette without breaking a few eggs. We wish we had more time to double-check every step and spend more time on communication, but that time comes at a steep opportunity cost. Extra polishing reduces the overall impression of Hytale on January 13. Our primary focus is the game.\r\n\r\nThe team is in a constant release cycle. Every week until launch is tightly scheduled, and we are doing this with a core team of around 50 people assembled in weeks, not a massive AAA organization. That means we are taking hundreds of calculated risks every day. Most pay off. A small fraction doesn’t - and when they don’t, the impact is very evident.\r\n\r\nIf I could ask for one thing from the community, it’s this: Please keep reminding each other what this pace implies - especially newer players who were not around for the #SaveHytale moment and may not know what the Early Access experience is meant to be for us. \r\nSome people will not be able to get their desired username. Some will run into payment issues. Some information will arrive later than it ideally should. This is not because we don’t know better; it’s because we are choosing to keep a promise.\r\n\r\nFor us, Early Access success looks like this: you start a world, and the first impression and immersion leave you thinking, “This is much better than they said.” After more time, you also start to see the rough edges - and still end your first day thinking, “This game has a lot of potential. I’ll come back and keep up with updates,” or get you inspired to get into making maps, content, mods or a minigame server.\r\n\r\nAs you will be playing through the first week of Hytale, we will already follow up with the first patch. We will release updates rapidly in the first few weeks, with pre-releases available more frequently. You start on the 4-year-old archeology project, but within months, you will find yourself in a flow of rapid development, previously unthinkable.\r\n\r\nWe appreciate that the community has high expectations for Hytale, but please remember that we are fulfilling a promise we made early on: to release as soon as possible. That is what the core community asked for. Our biggest fear right now is not criticism - it’s that the story of #SaveHytale gets forgotten during Early Access, and the team ends up wishing we had simply delayed those extra four months instead of keeping our word.'",
+    "date": "12 16 2025",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Early Access",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2000964638880505988?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: User asking if there's a limit to profiles under a single Hytale account",
+    "mainText": "'I have 18 profiles from all the testing on our staging environment, there is no limit to the profiles you can have on 1 account.'",
+    "date": "12 16 2025",
+    "tags": [
+      "DevSlashNull",
+      "Tech",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2000932946082193628?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Chayzur getting a Creator Code",
+    "mainText": "'Congrats, Chayzur!!! <3'",
+    "date": "12 16 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Early Access",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000922085833760902?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: user 'asking' if anyone knows how to fix a full hard drive",
+    "mainText": "'Just delete program files, it always takes up so much space'",
+    "date": "12 16 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2000921178463199418?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: the flash in the video on October 23rd",
+    "mainText": "'Yep. That is the \"singularity\".'",
+    "date": "12 16 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Video"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000811767526752673?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Ahsan saying Z3 needs a rename but others are perfect",
     "mainText": "'I agree, give ideas bois cc @flash_canadian'",
     "date": "12 15 2025",

@@ -1,6 +1,66 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks Early Access, modding strategy, server specs, and tease future blogposts.",
+        "mainText": "<p class='mainTextParagraph'>Starting the day off strong, Simon released a lengthy statement on Twitter, discussing Hytale's status and his fears. Simon began with a detailed recap of the work that has been done so far - modernizing a four-year-old code & asset base, bug tracking and fixing, and creating Exploration Mode. Describing the work required to launch without any delays as a 'herculean task,' Simon reaffirmed the team's commitment to keeping that promise, rather than delay 3-4 months. Simon also recapped where the team has 'dropped the ball,' including name reservations, username generator producing 'unacceptable' results, and many other issues. Simon ended his statement by asking the community to inform the uninformed, and to remember the #SaveHytale movement.</p><p class='mainTextParagraph'>\n\nNot to be outdone, Slikey released his own statement on Hytale's modding strategy, describing it as 'incomplete' and '[flawed].' Slikey continued by acknowledging that Hytale's approach to modding might look arbitrary, and saying the team is working on the 'high-priority, foundational problems that must be solved first' before they can move to the features that they want Hytale to have. Slikey later added that Hytale's asset, plugin, and entity-component systems build the modularity backbone they want for servers.</p><p class='mainTextParagraph'>\n\nRegarding server performance, Slikey stated that Hytale is too custom and dependant on various variables to provide specific server specifications, and stated that he would rather go back to improving server performance and focus on launch, rather than trying to get players more data.</p><p class='mainTextParagraph'>\n\nFinally, Thomas Frick teased a future Art Blogpost <i>and</i> a World-Gen Blogpost.</p>",
+        "date": "12 16 2025",
+        "tags": [
+            "Simon",
+            "Statement",
+            "Tweet",
+            "Slikey",
+            "Thomas Frick",
+            "Devs",
+            "Early Access",
+            "Features",
+            "Future Stuff",
+            "General",
+            "Modding",
+            "Servers",
+            "Tech",
+            "World Generation"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Important Statement",
+                    "https://xcancel.com/Simon_Hypixel/status/2000964638880505988?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Slikey - Statement on Hytale's Modding Strategy",
+                    "https://xcancel.com/slikey/status/2000994713953096032?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Slikey - Modularity Backbone",
+                    "https://xcancel.com/slikey/status/2000998354839597221?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Slikey - Server Performance",
+                    "https://xcancel.com/slikey/status/2001019872105398409?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Thomas - Art Blogpost Tease",
+                    "https://xcancel.com/ThomasFrick/status/2001006617974988909?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Thomas - WorldGen V2 Blogpost Tease",
+                    "https://xcancel.com/ThomasFrick/status/2001007263419654533?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talks server tech requirements, networking, and world generation.",
         "mainText": "<p class='mainTextParagraph'>Shining light on the server technical requirements, Slikey revealed the team had just wrapped a playtest with 70 players on various hardware until the server finally crashed, and stated the belief that a 3 vCore + 8 GB server can sustain 6-8 players, while a Ryzen 7950x with a 12 GB RAM server could be able to push 70 players -- though TPS degraded for 45 minutes until the server finally crashed. Slikey stated that that service providers told them this performance seems similar to Minecraft, and clarified that performance depends on world generation and active NPC counts.</p><p class='mainTextParagraph'>\n\nWhen asked about how a ~1700 user server would be accomplished - specifically if libraries similar to BungeeCord might be required, Slikey stated that Hytale's protocol was built to not require such things in order to build a 'respectable network.'</p><p class='mainTextParagraph'>\n\nSetting off a storm late in the day, Simon revealed that the Hytale Team would be reviewing the game's Zones after getting Infinite Worlds working properly with WorldGen V1 a few days ago, thus requiring a balance-pass and tweaks to ensure some zones near spawn aren't too small. Simon <i>also</i> revealed that the team would be locking in and confirming the names of the Zones this week, instead of simply referring to them by number. When a user asked if Hytale would be doing a central spawn continent on launch, Simon confirmed the team was trying to replicate the idea with an infinite world.</p>",
         "date": "12 15 2025",

@@ -1,6 +1,100 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Oscar, re: LegitHytaleLeaks saying Scott Cawthon won't be involved in Hytale",
+    "mainText": "'Now do a post each about all the other ones that also aren't involved 🤪 see you when Half-Life 3 releases'",
+    "date": "12 17 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/2001248529520714217?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Zero, re: using gitlab",
+    "mainText": "'Yeah but its been many years so I'm sure a lot has changed'",
+    "date": "12 17 2025",
+    "tags": [
+      "Zero",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Zero",
+          "https://vxtwitter.com/ZeroErrors/status/2001240772071579753?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen, re: fanart",
+    "mainText": "'Love the concept!'",
+    "date": "12 17 2025",
+    "tags": [
+      "Mewen",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/2001195766233137421?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: server plugin dev asking for information",
+    "mainText": "'It starts January 13 - if we were to now partially release the game, it wouldn't help anyone truly, create more noise for us and in the end result in more frustrations. There is no reason for FOMO on such a new ecosystem where everyone has to learn from scratch.'",
+    "date": "12 16 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2001170430074191993?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: fanart",
+    "mainText": "'Incredible art! Love it!'",
+    "date": "12 16 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001160072332784019?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: physics engine via mods in Minecraft",
     "mainText": "'You mean the work @RyanHCode has been doing?'",
     "date": "12 16 2025",

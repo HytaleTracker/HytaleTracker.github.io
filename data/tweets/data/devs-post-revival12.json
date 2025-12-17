@@ -1,6 +1,423 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Oscar, re: Syprus video",
+    "mainText": "'I watched the video:) Thanks for appreciating the music in Hytale and supporting the game! Excited for you to enjoy the music in game🎶'",
+    "date": "12 16 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2001062735191097728?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: music in-game",
+    "mainText": "'There is a lot of music in game, but not all of the music I shared in my portfolio is used in adventure mode. It is however in the game for you guys to use if you want to:)'",
+    "date": "12 16 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2001062015888966035?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: pre-generating world",
+    "mainText": "'Yeah, inside of the world configuration, you simply set the pregeneration region and it will ensure that this area is generated before players can join. This should definitely reduce runtime world generation overhead.'",
+    "date": "12 16 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech",
+      "World Generation"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2001032986695811152?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: development roadmap",
+    "mainText": "'Crafting these roadmaps is one of my ongoing tasks until launch and beyond. Maintaining the roadmaps and technical product strategies are my primary job as the technical director. \nRight now, they are on our internal Gitbook but after launch we want to bring a subset of our internal documentation into the public - including these strategies and roadmaps.'",
+    "date": "12 16 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2001025970246181152?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: co-op hosting",
+    "mainText": "'Generally the best idea to play on the singleplayer of the friend with the most powerful computer and most stable internet connection.'",
+    "date": "12 16 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2001023871802335422?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: User saying they thought they'd spawn on an island with all the zones and then outside of that is non-zone based world gen",
+    "mainText": "'Thats what we are trying to change and replicate with infinite world gen without the use of any static masks for the main island. Difficult task given the time we have left.'",
+    "date": "12 16 2025",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001020701055311905?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Athina saying they can't imagine the stress/excitement",
+    "mainText": "' '\n\n(Dog wiping brow gif)",
+    "date": "12 16 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001020251472114091?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey shares info regarding server performance",
+    "mainText": "'Thanks for the writeup. I would like to highlight a post by Nitrado in this screenshot. \r\nI do not think I can really provide those server specs. There are way too many different configurations and we don't have a standardized test-scenario. Hytale is too custom and depends on way too many things. \r\nMinigame server may easily hit 200+ players with a static world and without NPCs. When you abuse an exploration mode server just right, you can tank it's performance on 8 players or have a playable experience with 50 people depending on what you exactly you do.\r\n\r\nThis whole server hardware conversation simply doesn't have a good answer. Instead of trying to get more and more data, I rather go back to improving server performance and focus on launch. It is not what the community of server hosters wants to hear but: You will have to try it out and see. I do not think I can give you reliable data.'\n\n(Important image attached)",
+    "date": "12 16 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2001019872105398409?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: screenshot",
+    "mainText": "'I’m so happy we saved Hytale'",
+    "date": "12 16 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001013230081286283?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Chippy saying he'll be building a wooden box like Terraria",
+    "mainText": "'Lucky for you, no fire spread… yet'",
+    "date": "12 16 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001012585827881167?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares new screenshot of a fortified build",
+    "mainText": "'One of our level designers created this cozy, yet fortified build. \r\n\r\nWe can’t wait to see what everyone is planning to build in their first week! ⚒️ #Hytale'",
+    "date": "12 16 2025",
+    "tags": [
+      "Hytale",
+      "Gameplay",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/2001010326867988502?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: art blogpost document",
+    "mainText": "'What could it possibly mean?!?'",
+    "date": "12 16 2025",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2001008272787300825?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: WorldGen V2 Blog Post",
+    "mainText": "'I've heard some other people might be sitting in front of a document named like it too'",
+    "date": "12 16 2025",
+    "tags": [
+      "Thomas Frick",
+      "Future stuff",
+      "Blogpost",
+      "World Generation"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2001007263419654533?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: blogpost",
+    "mainText": "'Sitting in front of a wip document atm...and the title says \"Art Blogpost\" #Hytale'",
+    "date": "12 16 2025",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Art",
+      "Blogpost"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2001006617974988909?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Prowl saying Hytale would be adding modding features",
+    "mainText": "'\"they will likely be adding new modding features for the life of the game\"\r\n\r\nYeah.. I mean. That is a guarantee. On launch: Hytale modding will be the worst modding Hytale will ever have. We will improve it and enrich it as we are also improving and enriching our Survival game.'",
+    "date": "12 16 2025",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2001001513590894820?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: user saying it is his turn to do a long tweet",
+    "mainText": "'Don't tempt me...'",
+    "date": "12 16 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2000998932433002519?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Mac/Linux crossplay ",
+    "mainText": "'Yes, they are all the same and there is no difference in platform.'",
+    "date": "12 16 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000998597371027831?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: using ECS",
+    "mainText": "'The asset system, plugin system and entity-component system build the modularity backbone we want for the server. Each of these systems ensure we are moddable by default.'",
+    "date": "12 16 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000998354839597221?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey corrects his modding statement",
+    "mainText": "'oops.. \"and the next step is...\" to modernize the chunk component storage under the ECS architecture.\r\n\r\nWas too technical and forgot to type it out.🤣'",
+    "date": "12 16 2025",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000996635464360250?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: how to make the video from yesterday",
+    "mainText": "'gource.io'",
+    "date": "12 16 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Off Topic",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000994846551552415?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: modding in Hytale",
+    "mainText": "'If I had to add one more thing: the modding strategy I posted has flaws. I said that explicitly, multiple times. It is incomplete, and we are continuing to iterate on it.\r\n\r\nOne concrete example is client-local scripts and client-local asset packs. I did not properly account for the amount of client customization that is possible without client modification. Through our equivalent of data packs, we can actually do quite a lot here.\r\n\r\nYes, this approach appears limiting. Yes, Hytale is more limited than Unreal, Unity, or true Wild West modding.\r\n\r\nThose limits are not arbitrary. They exist because they allow modders - and us - to reach a massive audience, keep players safe, and build a UGC ecosystem that can scale. Our goal is to push UGC into a new golden age, with a model that simply hasn't existed before.\r\n\r\nOn features like shaders, LODs, cubic chunks, etc.: I love these topics. Trust me, we want to make Hytale the golden standard for block game technology. How that all looks years from now is unpredictable. We work on many things we don't talk about, and some of them may eventually materialize in one form or another.\r\n\r\nWe have very high aspirations for Hytale but for now: We will release ASAP. Take LODs and cubic chunks as an example. We are already working on chunks and voxel storage at a level more fundamental than cubic chunks. This is an order-of-operations problem. One step at a time and the next step is.\r\n\r\nSo I don't want you to fish for promises - because we wish our promises to remain special and reliable. Judge us by our actions, and hold us accountable for whether this direction is the right one.\r\nThe honest answer to most \"will you add X?\" questions is: we could. If you ask, \"Do you want this in Hytale?\"- the answer is more than likely yes.\r\nRight now, we have a list of high-priority, foundational problems that must be solved first. While doing that, we'll continue picking up smaller community improvements where it makes sense - often while we're already performing \"surgery\" on adjacent systems.\r\n\r\nFor modders specifically: please work with creators who can help surface concerns clearly and constructively - people like \r\n@Kaupenjoe\r\n or \r\n@Zeusley\r\n. Form a focused group, articulate real problems and real needs, and bring that feedback with a unified, constructive voice. That is how we make this better together.'",
+    "date": "12 16 2025",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000994713953096032?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Mac/Linux support",
+    "mainText": "'We have team members work productively on Mac M4s and Linux now. We are still missing some final CICD steps for code signing and the final packaging. Doesn't seem like it's that unrealistic to complete the pipeline. Too early to say 100% though.'",
+    "date": "12 16 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2000981780015276142?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Buddha, re: AcademiaOrbis asking Buddha abt Creator Code",
     "mainText": "'Check your DMs!'",
     "date": "12 16 2025",

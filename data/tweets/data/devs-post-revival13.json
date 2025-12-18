@@ -1,6 +1,474 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: potential Peaceful mode function",
+    "mainText": "'yeah, make them neutral unless attacked first'",
+    "date": "12 18 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001703205412245915?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying some people don't want hostile mobs",
+    "mainText": "'We are planning dungeons, boss fights, quests and other challenges that involve a lot of hostile monsters though.\r\n\r\nThis is not Minecraft 😅'",
+    "date": "12 18 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001702718063133173?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Olegro suggesting reduced health, no signature moves, etc.",
+    "mainText": "'Yes'",
+    "date": "12 18 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001700126340133172?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking for Hostile Mobs toggle",
+    "mainText": "'Some crafting is tied to mob drops, this is not minecraft'",
+    "date": "12 18 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001698899107496120?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Prowl8413 saying a Peaceful mode will exist",
+    "mainText": "'I didn't say specifically they wouldn't have to deal with any hostile mobs, though; it's core to the gameplay! Maybe in the lowest setting, the hostile mobs would be trivial.'",
+    "date": "12 18 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001698094224703839?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: 'only Normal mode for now?'",
+    "mainText": "'Trying to add some settings in time, idk if we can make it'",
+    "date": "12 18 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001697207272251634?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: difficulty modes",
+    "mainText": "'not for release, planned eventually'",
+    "date": "12 18 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001696646912991234?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: suggestion to relax",
+    "mainText": "'Im chilling watching TV with the kids right now, tweeting is relaxing 😅'",
+    "date": "12 18 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001684904057180203?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hawkon using reverse psychology and saying he hates Prox Chat",
+    "mainText": "'Already got prototype working'",
+    "date": "12 18 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Social System",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001682683223773320?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking abt new videos",
+    "mainText": "'Caught bad case of influenza so Ive been saving my energy to work on the game, will do some videos after Christmas'",
+    "date": "12 18 2025",
+    "tags": [
+      "Simon",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001682583395197171?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying people just want to rile up the devs",
+    "mainText": "'Bro, if only they knew who I was, I will literally go harder when people hate 😅\r\nI have bookmarks of tweets saying I couldn’t buy back Hytale 😂'",
+    "date": "12 18 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001681771230838940?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Creator Code application",
+    "mainText": "'🙏❤️'",
+    "date": "12 18 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2001681454263054468?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: applying for Creator Code",
+    "mainText": "'It’s up to you! \r\nThere’s no deadline here. If you’d like, you can go ahead and establish more content and apply a bit later :) !'",
+    "date": "12 18 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2001681387317833953?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Creator Code application requirements",
+    "mainText": "'We just need some form of content (YT channel, Twitch, mods, portfolio, etc.) to be able to review and approve :)'",
+    "date": "12 18 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2001679777384555000?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Creator Code application",
+    "mainText": "'👍❤️'",
+    "date": "12 18 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2001678658608431179?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Syprus Creator Code application",
+    "mainText": "'🫡❤️'",
+    "date": "12 18 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2001678334389030953?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Chayzur & SyprusBuilds recreating the Hytale build in Minecraft",
+    "mainText": "'I enjoyed it!'",
+    "date": "12 18 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001676690846515699?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Minecraft fans being upset about Hytale being compared to Minecraft",
+    "mainText": "'Oh no, trillion dollar company has a tiny bit of « competition » that is going in a completely different direction! \r\n\r\nHow dare Hytale is working on a passion project, how will my trillion dollar company pay their shareholders!\r\n\r\nFYI I have a lot of Microsoft stocks, do they? 😅 \r\n\r\nReal gamers understand that new games are good, look how impactful PoE was to the genre. Completely changed the space and how Blizzard pushed their season’s content!\r\n\r\nMeanwhile:'\n\n(Reddit Screenshot Attached)",
+    "date": "12 18 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001675626462286002?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: last tweet",
+    "mainText": "'Additional note: Our creators can also go through our support website (https://support.hytale.com) ! \r\nI've attached a screenshot of the ticket submission > select 'Creator Support'.\r\nOur support service is fantastic for organizing and tracking queries.'",
+    "date": "12 18 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2001675245447500170?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Twitter Thread becoming the Creator Code Application",
+    "mainText": "'Lol! Well, candidly - we are getting lots of requests (which is INCREDIBLE!!). So if it's been a few days without a reply, please feel free to give me a poke on here ❤️🫡\r\n(I sincerely appreciate everyone's patience!)'",
+    "date": "12 18 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2001674872003424292?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: JuzuLive bumping their Creator Code application",
+    "mainText": "'i gotchu 👍'",
+    "date": "12 18 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2001663199783842135?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: sharing Hytale builds unsigned to Mac users while waiting approval",
+    "mainText": "'That's what we currently have to do internally but obviously we would rather someone just click that approve button after we assembled all these documents for the Xth time.'",
+    "date": "12 18 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2001548253863493866?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: hosting servers Day One",
+    "mainText": "'Dedicated servers for self-hosters are available with the game download on day 1.'",
+    "date": "12 18 2025",
+    "tags": [
+      "Slikey",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2001547762639225284?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: doing a lot to ensure support on platforms with a small playerbase",
+    "mainText": "'Thank you! I think Mac is going to see a lot more demand in the future - the times have seriously changed and it would be foolish to ignore them as a games platform. I just wish they would make it less of a hassle.\r\n\r\nPeople always ask and demand more - may appear annoying at times but I appreciate the pressure. Keeps me engaged and challenged to deliver more and better results.\r\n\r\nAnd when it gets too much: \"No.\" is a powerful statement ;)'",
+    "date": "12 17 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2001520227725549692?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Mac support",
+    "mainText": "'The only thing holding back Mac support at this point is Apple's incredibly bloated and slow approval process for Code Signing and Notarization.\r\nGiven that holidays are coming up, I am not expecting to be able to confirm Mac support on launch day before End-Of-Year.'",
+    "date": "12 17 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2001513628441440698?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Old UI Concept",
     "mainText": "'It was never implemented I’m pretty sure, will do something similar post launch'",
     "date": "12 17 2025",

@@ -1,6 +1,26 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Old UI Concept",
+    "mainText": "'It was never implemented I’m pretty sure, will do something similar post launch'",
+    "date": "12 17 2025",
+    "tags": [
+      "Simon",
+      "Future stuff",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2001450075520741799?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Buddha, re: LANgeek getting a Creator Code",
     "mainText": "'🫡❤️'",
     "date": "12 17 2025",

@@ -1,6 +1,320 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon shares Slikey interview with Kaupenjoe",
+    "mainText": "'Modders, please watch this interview by \n@Kaupenjoe - lots of great questions! https://www.youtube.com/watch?v=s9yMGwKawlw'",
+    "date": "12 19 2025",
+    "tags": [
+      "Simon",
+      "Modding",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2002071183790153987?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Myne saying Hytale might be craziest game - pasting entirety of NYC.",
+    "mainText": "'it is what it is'",
+    "date": "12 19 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2002021425813614900?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: his PC",
+    "mainText": "'A pretty high end gaming PC.'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001907858330521616?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: cutscenes in Machinima Tools",
+    "mainText": "'Cutscenes are hopefully coming in the first few months after launch.'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001902447468646476?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: importing entirety of NYC",
+    "mainText": "'It took a minute.... but it worked 😂'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001901865353814126?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Hugo pointing out that the Model Importer video pasted 800K blocks",
+    "mainText": "'I pasted and obj of the entirety of NYC today. 20M blocks. No biggie.'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001901719278751811?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: user pointing out that the tool setting categories can be rearranged",
+    "mainText": "'yup!'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001901374007841012?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: UI changes for creative tools",
+    "mainText": "'It did say WIP in the first one ;) Good 👁️ I'm making UI improvements  to Hytale almost daily. I'm so glad I get to make Hytale features more accessible and discoverable. If only you actually knew how many updates we make.'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001901328038269214?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: fanart",
+    "mainText": "'This is so beautiful'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001900372202512443?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: possibility of game calculating colors of blocks to best apply preset texture to imported model structures",
+    "mainText": "'Planned. Post launch'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001900006836752698?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: game state capture",
+    "mainText": "'It's in the roadmap for, ideally, before early access is over. I know that's vague. But machinima editor improvement is coming in the first months after launch which will be the beginning of the technical foundation for allowing game capture.'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001899925626589431?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: importing texture of models",
+    "mainText": "'SoonTM -- Post launch planned.'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001899542271402213?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: removal of 'World Gen Editor' tab in Creative Mode",
+    "mainText": "'Because it works on more asset types than just world gen now ;) it's the asset node editor now.'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001898943781986445?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: flip/rotate/shrink tools",
+    "mainText": "'Yah definitely'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001898831034880099?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: ITLW asking if Model Importing tool will allow for block palettes, gradients, etc.",
+    "mainText": "'Sup king, we're going to be implementing comprehensive block gradient support post launch.'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001898772989964641?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Simon saying he's letting Ktar go crazy on creative tools",
+    "mainText": "'Can't stop, won't stop.'",
+    "date": "12 19 2025",
+    "tags": [
+      "Ktar",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2001898609680531470?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Propzie, re: Owel posting picture of a Propzie model",
     "mainText": "'🤠'",
     "date": "12 18 2025",

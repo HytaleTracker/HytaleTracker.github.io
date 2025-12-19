@@ -1,6 +1,86 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks difficulty modes, teleportation gateways, showcase new Model Importing tool.",
+        "mainText": "<p class='mainTextParagraph'>Simon spent a portion of the day discussing Hytale's current difficulty system, or lack thereof. Simon revealed that Hytale currently doesn't have difficulty modes, but they are planned to be implemented eventually, though the team is trying to add settings to the current difficulty mode. When discussing a hypothetical peaceful mode, Simon stated that hostile mobs are too core to Hytale's gameplay, and some crafting is even tied to mob drops. When a user brought up that some players don't want hostile mobs, Simon commented that maybe hostile mobs could be neutral in the lowest difficulty. Simon finished the difficulty discussion by saying a Hardcore Mode would come in the far future, when the game is stable.</p><p class='mainTextParagraph'>\n\nSimon also confirmed that Hytale has teleportation gateways in Exploration Mode, and they don't make the player drop materials when using them.</p><p class='mainTextParagraph'>\n\nSlikey also confirmed offhandedly that Hytale supports custom sounds and music with custom logic on servers!</p><p class='mainTextParagraph'>\n\nThe official Hytale Twitter account also tweeted a short video, showcasing the brand new Model Importing tool, which allows players to import .obj files and turn them into in-game structures!</p>",
+        "date": "12 18 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Hytale",
+            "Slikey",
+            "Creative Mode",
+            "Early Access",
+            "Exploration Mode",
+            "Features",
+            "Future Stuff",
+            "Video"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Difficulty Modes planned for post-release",
+                    "https://xcancel.com/Simon_Hypixel/status/2001696646912991234?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Settings being added",
+                    "https://xcancel.com/Simon_Hypixel/status/2001697207272251634?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Hostile Mobs part of core gameplay",
+                    "https://xcancel.com/Simon_Hypixel/status/2001698094224703839?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Crafting tied to mob drops",
+                    "https://xcancel.com/Simon_Hypixel/status/2001698899107496120?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - Neutral Mobs",
+                    "https://xcancel.com/Simon_Hypixel/status/2001703205412245915?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Simon - Hardcore Mode",
+                    "https://xcancel.com/Simon_Hypixel/status/2001719432242970642?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Simon - Teleportation Gateways",
+                    "https://xcancel.com/Simon_Hypixel/status/2001728264050532659?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Simon - No Material Dropping",
+                    "https://xcancel.com/Simon_Hypixel/status/2001728922543939853?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Slikey - Custom Sounds/Music",
+                    "https://xcancel.com/slikey/status/2001736676352110981?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Hytale - Video - Model Importing Tool",
+                    "https://xcancel.com/Hytale/status/2001762337615749412?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talks Early Access, modding strategy, server specs, and tease future blogposts.",
         "mainText": "<p class='mainTextParagraph'>Starting the day off strong, Simon released a lengthy statement on Twitter, discussing Hytale's status and his fears. Simon began with a detailed recap of the work that has been done so far - modernizing a four-year-old code & asset base, bug tracking and fixing, and creating Exploration Mode. Describing the work required to launch without any delays as a 'herculean task,' Simon reaffirmed the team's commitment to keeping that promise, rather than delay 3-4 months. Simon also recapped where the team has 'dropped the ball,' including name reservations, username generator producing 'unacceptable' results, and many other issues. Simon ended his statement by asking the community to inform the uninformed, and to remember the #SaveHytale movement.</p><p class='mainTextParagraph'>\n\nNot to be outdone, Slikey released his own statement on Hytale's modding strategy, describing it as 'incomplete' and '[flawed].' Slikey continued by acknowledging that Hytale's approach to modding might look arbitrary, and saying the team is working on the 'high-priority, foundational problems that must be solved first' before they can move to the features that they want Hytale to have. Slikey later added that Hytale's asset, plugin, and entity-component systems build the modularity backbone they want for servers.</p><p class='mainTextParagraph'>\n\nRegarding server performance, Slikey stated that Hytale is too custom and dependant on various variables to provide specific server specifications, and stated that he would rather go back to improving server performance and focus on launch, rather than trying to get players more data.</p><p class='mainTextParagraph'>\n\nFinally, Thomas Frick teased a future Art Blogpost <i>and</i> a World-Gen Blogpost.</p>",
         "date": "12 16 2025",

@@ -1,6 +1,24 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Propzie, re: Owel posting picture of a Propzie model",
+    "mainText": "'🤠'",
+    "date": "12 18 2025",
+    "tags": [
+      "Propzie",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/2001827679545495889?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon celebrates being Caffeine Free for over ten years",
     "mainText": "'Caffeine free for 10+ years 😂'",
     "date": "12 18 2025",
@@ -393,7 +411,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon, re: user saying some people don't want hostile mobs",
-    "mainText": "'We are planning dungeons, boss fights, quests and other challenges that involve a lot of hostile monsters though.\r\n\r\nThis is not Minecraft 😅'",
+    "mainText": "'We are planning dungeons, boss fights, quests and other challenges that involve a lot of hostile monsters though.\n\nThis is not Minecraft 😅'",
     "date": "12 18 2025",
     "tags": [
       "Simon",

@@ -1,6 +1,73 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks Creative Mode tools and progression.",
+        "mainText": "<p class='mainTextParagraph'>In a rare appearance, Ktar made many tweets about Creative Mode tools, revealing and confirming various features/plans for Creative Mode tools, such as Model Importer tool supporting comprehensive block gradient in the future, tools to flip/rotate/shrink selections, importing/predicting what blocks to use when importing a model, and plans for game state capture support for the Machinima tool, with cutscene support hopefully coming in the first few months after launch. Ktar also explained that the World Gen Editor has been expanded, which is why it's now named the 'asset node editor.'</p><p class='mainTextParagraph'>\n\nWhen asked about the forms of progression in Hytale, Simon explained that players will upgrade crafting stations to unlock more crafting options and other bonuses, with Hytale being mostly designed around world/item-based progression for now. Simon later said he likes Path of Exile 2's gem system, and it's a system he might experiment with for Hytale.</p>",
+        "date": "12 19 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Hytale",
+            "Ktar",
+            "Creative Mode",
+            "Exploration Mode",
+            "Features",
+            "Future Stuff",
+            "Gameplay"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Ktar - Block Gradient Support",
+                    "https://xcancel.com/Ktar5/status/2001898772989964641?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Ktar - Flip/Rotate/Shrink tools",
+                    "https://xcancel.com/Ktar5/status/2001898831034880099?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Ktar - Predict blocks to use",
+                    "https://xcancel.com/Ktar5/status/2001900006836752698?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Ktar - Game State Capture",
+                    "https://xcancel.com/Ktar5/status/2001899925626589431?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Ktar - Cutscenes",
+                    "https://xcancel.com/Ktar5/status/2001902447468646476?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Ktar - Asset Node Editor",
+                    "https://xcancel.com/Ktar5/status/2001898943781986445?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Simon - Forms of Progression",
+                    "https://xcancel.com/Simon_Hypixel/status/2002142582672142528?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Simon - Gem System",
+                    "https://xcancel.com/Simon_Hypixel/status/2002144221923598444?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talks difficulty modes, teleportation gateways, showcase new Model Importing tool.",
         "mainText": "<p class='mainTextParagraph'>Simon spent a portion of the day discussing Hytale's current difficulty system, or lack thereof. Simon revealed that Hytale currently doesn't have difficulty modes, but they are planned to be implemented eventually, though the team is trying to add settings to the current difficulty mode. When discussing a hypothetical peaceful mode, Simon stated that hostile mobs are too core to Hytale's gameplay, and some crafting is even tied to mob drops. When a user brought up that some players don't want hostile mobs, Simon commented that maybe hostile mobs could be neutral in the lowest difficulty. Simon finished the difficulty discussion by saying a Hardcore Mode would come in the far future, when the game is stable.</p><p class='mainTextParagraph'>\n\nSimon also confirmed that Hytale has teleportation gateways in Exploration Mode, and they don't make the player drop materials when using them.</p><p class='mainTextParagraph'>\n\nSlikey also confirmed offhandedly that Hytale supports custom sounds and music with custom logic on servers!</p><p class='mainTextParagraph'>\n\nThe official Hytale Twitter account also tweeted a short video, showcasing the brand new Model Importing tool, which allows players to import .obj files and turn them into in-game structures!</p>",
         "date": "12 18 2025",

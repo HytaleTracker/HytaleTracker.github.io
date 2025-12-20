@@ -1,6 +1,64 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: World Gen blog post",
+    "mainText": "'After Christmas, art blog early next week though!'",
+    "date": "12 19 2025",
+    "tags": [
+      "Simon",
+      "Blogpost",
+      "World Generation",
+      "Art",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2002107149040955577?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hytale tweet",
+    "mainText": "'I'm taking over social media'\n\n(Grinch riding tiny toy car - gif)",
+    "date": "12 19 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2002106244409315602?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares Holiday postcard",
+    "mainText": "'Wishing everyone a very happy holidays from the Hytale team! ❄️✨'",
+    "date": "12 19 2025",
+    "tags": [
+      "Hytale",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/2002105477468156175?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon shares Slikey interview with Kaupenjoe",
     "mainText": "'Modders, please watch this interview by \n@Kaupenjoe - lots of great questions! https://www.youtube.com/watch?v=s9yMGwKawlw'",
     "date": "12 19 2025",

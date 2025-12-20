@@ -1,6 +1,102 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Terraria-like progression",
+    "mainText": "'the goat'",
+    "date": "12 19 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2002143144242991599?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: character progression mod",
+    "mainText": "'Of course'",
+    "date": "12 19 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2002143109740966030?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: forms of progression",
+    "mainText": "'You upgrade your crafting stations to unlock more crafting options and other bonuses.\n\nThere is no per-character progression skill system, its mostly world/item based progression, at least for now. Its something we want to avoid for a while. Complex design to talk over tweets, but some people will understand why we avoiding character progression, especially in this game genre.'",
+    "date": "12 19 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2002142582672142528?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha shares holiday message",
+    "mainText": "'Happy Holidays, Hytale Community!! ❤️\r\n\r\nWhat an insane year it has been, but I'm so grateful for you all.\r\nCan't wait to see you all in-game (soon!)'",
+    "date": "12 19 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2002128492624818293?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user being happy seeing Holiday Kweebec",
+    "mainText": "'Imagine, they could all have been gone forever 😭'",
+    "date": "12 19 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2002111145818345724?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: World Gen blog post",
     "mainText": "'After Christmas, art blog early next week though!'",
     "date": "12 19 2025",

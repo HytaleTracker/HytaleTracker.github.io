@@ -1,6 +1,66 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talks new official Zone names, zone difficulty, and old concepts.",
+        "mainText": "<p class='mainTextParagraph'>Simon set off a firestorm on Twitter by announcing the new official names of Zones 1-4; Emerald Wilds, Howling Sands, Whisperfrost Frontiers, and Devastated Lands. After a lengthy back and forth, Simon shared additional information about zones, revealing that each Zone has at least two Regions, which are bundles of biomes, and explained that Regions can be treated as difficulty tiers. Accompanying this tweet, Simon shared screenshots of an in-game pop-up players will see when they discover a new region.</p><p class='mainTextParagraph'>\n\nWhen asked, Simon confirmed that average gear can let players survive everywhere, and that players can go to any zone at any time, but specific places might be a bit dangerous for 'average' armor.</p><p class='mainTextParagraph'>\n\nSimon also confirmed that the 'imprisoned Sand Empress instance' (from old Sand Palace concept art) was never implemented into Hytale (though he says they'll get to it), but the temple and portal are currently in the game.</p><p class='mainTextParagraph'>\n\nSlikey also revealed that the team has discussed modpacks, which are internally named 'bundles,' and he hopes to get them in earlier rather than later.</p>",
+        "date": "12 20 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Early Access",
+            "Exploration Mode",
+            "Features",
+            "Gameplay",
+            "Simon Notes",
+            "World Generation"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Official Zone Names",
+                    "https://xcancel.com/Simon_Hypixel/status/2002446724577763592?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - More Info on Zones",
+                    "https://xcancel.com/Simon_Hypixel/status/2002461172784877581?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Average Gear",
+                    "https://xcancel.com/Simon_Hypixel/status/2002463022510747733?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Go to Any Zone",
+                    "https://xcancel.com/Simon_Hypixel/status/2002463610262507968?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - Sand Empress Instance",
+                    "https://xcancel.com/Simon_Hypixel/status/2002469711301480547?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Simon - Sand Palace info",
+                    "https://xcancel.com/Simon_Hypixel/status/2002470011060040107?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Slikey - Modpacks",
+                    "https://xcancel.com/slikey/status/2002468415030911188?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talks Creative Mode tools and progression.",
         "mainText": "<p class='mainTextParagraph'>In a rare appearance, Ktar made many tweets about Creative Mode tools, revealing and confirming various features/plans for Creative Mode tools, such as Model Importer tool supporting comprehensive block gradient in the future, tools to flip/rotate/shrink selections, importing/predicting what blocks to use when importing a model, and plans for game state capture support for the Machinima tool, with cutscene support hopefully coming in the first few months after launch. Ktar also explained that the World Gen Editor has been expanded, which is why it's now named the 'asset node editor.'</p><p class='mainTextParagraph'>\n\nWhen asked about the forms of progression in Hytale, Simon explained that players will upgrade crafting stations to unlock more crafting options and other bonuses, with Hytale being mostly designed around world/item-based progression for now. Simon later said he likes Path of Exile 2's gem system, and it's a system he might experiment with for Hytale.</p>",
         "date": "12 19 2025",

@@ -1,6 +1,43 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: no external tools/mods required for server moderation",
+    "mainText": "",
+    "date": "12 21 2025",
+    "tags": [
+      "Slikey"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2002789852883095811?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: server moderation tools",
+    "mainText": "'Whitelist, Bans and Permissions for sure - don't have the source in front of me for the other moderation relevant features.'",
+    "date": "12 21 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Social System",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2002783214054854677?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Hytale being WIP",
     "mainText": "'The game we have today versus 4 months ago is actually insane. If we keep this up for 2-3 years it’s going to be incredible. Very excited.'",
     "date": "12 20 2025",

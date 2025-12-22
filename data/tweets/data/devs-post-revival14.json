@@ -1,6 +1,460 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Buddha, re: user thanking the team",
+    "mainText": "' '\n\n(Cat Flashing Heart  - Gif)",
+    "date": "12 22 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2003165858567495712?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: image of Hytale model with sphere head",
+    "mainText": "'@Propzie and I are head shaming an innocent bypasser 🥲'",
+    "date": "12 22 2025",
+    "tags": [
+      "Polina",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://xcancel.com/LogadoPolina/status/2003162802459234481?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Blockbench Plugin",
+    "mainText": "'Absolutely awesome blog post covering in high detail how to make Hytale art. Man this is a beautiful post. Great work Mr Frick \r\n@ThomasFrick'",
+    "date": "12 22 2025",
+    "tags": [
+      "Ktar",
+      "Devs",
+      "Art",
+      "Blogpost"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2003162545839047106?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: Blockbench Plugin",
+    "mainText": "'Blockbench plugin for Hytale is out and we have a tutorial to kick start your creations!'",
+    "date": "12 22 2025",
+    "tags": [
+      "Polina",
+      "Devs",
+      "Art",
+      "Blogpost"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://xcancel.com/LogadoPolina/status/2003161916475334680?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Model Blogpost",
+    "mainText": "'Getting this out before Christmas was a big task. This was only possible due to the incredible dedication of Jannis from \r\n@blockbench, @KannoArt and our beloved artists!\r\nThis Plugin simply did not exist when we got Hytale back. \r\n\r\nWe worked hard to abandon our internal Model Editor and join our community on their preferred tool.\r\n\r\nI know there is a lot more work to be done and we will continue on making this Plugin great, but this was what we consider an MVP (minimum viable product).\r\n\r\nThe Plugin is release under GPL-3 Open Source. Enjoy the holidays, absorb the lesson from @ThomasFrick and on January 13: Import your work into the game.'",
+    "date": "12 22 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Art",
+      "Blogpost"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2003161718164541897?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Scooter, re: Model Blogpost",
+    "mainText": "'🎨 Here's a comprehensive guide to creating models in Hytale's unique art style.\r\n\r\nFrom our custom Blockbench plugin to texture techniques and modeling principles, Thomas shares the foundations that will help you bring your creative visions to life.'",
+    "date": "12 22 2025",
+    "tags": [
+      "Scooter",
+      "Devs",
+      "Art",
+      "Blogpost"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Scooter",
+          "https://xcancel.com/ScotScooter/status/2003160870579581237?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: lack of base player model being released",
+    "mainText": "'We know...Base player model is a complicated topic. It's composed of so many detached parts and it's still being polished as we speak. The lack of documentation on how to attach things properly with the plugin will make it confusing for everyone, so it'll come later, sorry 😔'",
+    "date": "12 22 2025",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Art",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2003156271562916181?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user jokingly saying they won't follow this style",
+    "mainText": "'I'm really serious when I say that rules are made to be broken. Use the guide so you know what the engine expects and what we do internally. Then break the rules and try your own stuff! Art is exploration!'",
+    "date": "12 22 2025",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Art",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2003155378910167420?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: OST sounding like it uses Minecraft lemotif",
+    "mainText": "'I see what you mean😅 it's accidental haha'",
+    "date": "12 22 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2003155353622708729?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Jannis announcing Blockbench supports Hytale",
+    "mainText": "'Thanks @JannisX11, without you this wouldn't be possible'",
+    "date": "12 22 2025",
+    "tags": [
+      "Thomas Frick",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2003153794205618238?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: nothing being perfect",
+    "mainText": "'Also, it's a huge team work. Many talented artists have worked on making this in such way :)'",
+    "date": "12 22 2025",
+    "tags": [
+      "Thomas Frick",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2003152775233044505?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: user saying Santa BuddhaCat brought an early present",
+    "mainText": "'I'm more of a helper elf cat :P\n(@ThomasFrick is the Santa here 🎅🎁)'",
+    "date": "12 22 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2003152690415817211?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user saying the art style is perfect",
+    "mainText": "'Nothing is ever perfect, and we'll keep improving the textures and models, but I deeply appreciate your message 💘'",
+    "date": "12 22 2025",
+    "tags": [
+      "Thomas Frick",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2003152634006634888?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: user celebrating plugin release",
+    "mainText": "'  '\n\n(Christmas Cat Walking - Gif)",
+    "date": "12 22 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2003152408269271432?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: no spheres allowed quote",
+    "mainText": "'peak block game humour'",
+    "date": "12 22 2025",
+    "tags": [
+      "Thomas Frick",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2003151593055953039?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Blockbench shares Model Blogpost",
+    "mainText": "'Hytale support is here!\r\n\r\nIn this new blog post, Hytale Art Director @ThomasFrick explains how to use Blockbench to create models for the game!\r\nThe new Hytale Models plugin can be installed from inside Blockbench! (click File > Plugins)'",
+    "date": "12 22 2025",
+    "tags": [
+      "Blockbench",
+      "Devs",
+      "Art",
+      "Blogpost"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Blockbench",
+          "https://xcancel.com/blockbench/status/2003149804873097392?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Model Blogpost",
+    "mainText": "'I know I'm supposed to be on break, but I snuck my way back into the socials to help post this 👀\r\n\r\n(trust me - this blog post is worth it!!)'",
+    "date": "12 22 2025",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2003150538805014785?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Model Blogpost",
+    "mainText": "'You can't imagine how happy this makes me to share this 🥳'",
+    "date": "12 22 2025",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2003149099034640659?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Model Blogpost",
+    "mainText": "'We're thrilled to be able to share some tips about @Hytale Art Style at last:\nIn our latest blogpost, I recorded 2 video tutorials for concepting and modeling a small creature in \n@blockbench . Please keep in mind that it is only the start of many more shareouts on the topic 🖌️'",
+    "date": "12 22 2025",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2003148792192028950?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares official Modelling blogpost",
+    "mainText": "'In today’s blog post, Thomas Frick gives an in-depth introduction on creating models in Hytale. ⚙️\r\nEverything you need to know to start making models in Hytale - including our Blockbench plugin, video tutorials, and MUCH more! #Hytale\r\nhttps://hytale.com/news/2025/12/an-introduction-to-making-models-for-hytale\r'",
+    "date": "12 22 2025",
+    "tags": [
+      "Hytale",
+      "Art",
+      "Blogpost"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/2003148695123239286?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: certain part of the OST sounds like it uses Minecraft lemotif",
+    "mainText": "'When? I don't think I've ever intentionally referenced the mc ost (although it's great of course)'",
+    "date": "12 22 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2003018644301959452?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: collab with Slamma",
+    "mainText": "'It was a lot of fun! Happy to finally get to collab with you😁'",
+    "date": "12 22 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2003013421982466229?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Technoblade Hytale fan model`",
+    "mainText": "'❤️❤️❤️'",
+    "date": "12 21 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2002960688885780546?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Hytale Brasil asking for Creator Code help",
+    "mainText": "'🫡❤️'",
+    "date": "12 21 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2002960376846275061?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Buddha, re: user saying they love cats",
     "mainText": "'I love cats too (I have six lol!)'",
     "date": "12 21 2025",

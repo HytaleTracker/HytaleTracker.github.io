@@ -1,17 +1,227 @@
 [
   {
     "mainPlatform": "tweet",
-    "summary": "Slikey, re: no external tools/mods required for server moderation",
-    "mainText": "",
+    "summary": "Buddha, re: user saying they love cats",
+    "mainText": "'I love cats too (I have six lol!)'",
     "date": "12 21 2025",
     "tags": [
-      "Slikey"
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2002947061579468890?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Syprus celebrating Creator Code",
+    "mainText": "'🙌🎉'",
+    "date": "12 21 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2002946014731477494?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: user summoning Code, no response for week",
+    "mainText": "' '\n\n(Cat Thumbs Up  - Gif)",
+    "date": "12 21 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2002944493885300977?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: user summoning Creator Code in Buddha's abscence",
+    "mainText": "' '\n\n(Cat Thumbs Up  - Gif)",
+    "date": "12 21 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2002944273705275609?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Simon being on loose",
+    "mainText": "' '\n\n(Cat Eating Popcorn - Gif)",
+    "date": "12 21 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2002943161690415578?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: importing limitations",
+    "mainText": "'I just imported a city'",
+    "date": "12 21 2025",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Creative Mode",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2002925808978100674?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: size",
+    "mainText": "'It’s a massive ship, I’m actually far from it. It takes a lot of time to travel on it a normal speed!'",
+    "date": "12 21 2025",
+    "tags": [
+      "Simon",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2002924216468001121?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares new Model Importer video",
+    "mainText": "'Imported a spaceship model for fun using the new feature, I guess now I need to decorate the interior and do some paint work😅'\n\n(Featuring a slightly redesigned Character Window)",
+    "date": "12 21 2025",
+    "tags": [
+      "Simon",
+      "Creative Mode",
+      "Video",
+      "Gameplay",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2002923553717715341?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: user creating a 1:1 scale Puerto Rico in Minecraft",
+    "mainText": "'Wow! Can you explain to me your workflow? This sounds super unique and I'd love to find out how to support all creators!'",
+    "date": "12 21 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Tech",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2002908870075929027?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: if 'New Horizons' is inspired by Cascade Kingdom from Mario Odyssey",
+    "mainText": "'Yes haha'",
+    "date": "12 21 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2002812280069845093?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Hawkon doing reverse psychology",
+    "mainText": "'I think it's working Hawkon!'\n\n(Thumbs Up - Gif)",
+    "date": "12 21 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2002811359680147911?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: no external tools/mods required for server moderation",
+    "mainText": "'I wouldn't say no external tools or mods required - I can definitely see someone making a proper \"Server Mod\" panel and make it a standalone plugin. We really only have some basic commands.'",
+    "date": "12 21 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Social System",
+      "Tech"
     ],
     "sources": [
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/2002789852883095811?s=20"
+          "https://xcancel.com/slikey/status/2002789852883095811?s=20"
         ]
       }
     ]
@@ -31,7 +241,7 @@
       {
         "1": [
           "tweet by Slikey",
-          "https://vxtwitter.com/slikey/status/2002783214054854677?s=20"
+          "https://xcancel.com/slikey/status/2002783214054854677?s=20"
         ]
       }
     ]

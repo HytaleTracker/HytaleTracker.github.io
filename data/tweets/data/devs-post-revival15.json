@@ -1,6 +1,44 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Jannis joking that Simon had to have had insider information when he said Hytale would be using Blockbench going forward",
+    "mainText": "'please dont tell anyone'",
+    "date": "12 22 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2003240976253387123?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Model Blogpost",
+    "mainText": "'send me clips/screenshots of your experimentations 👀'",
+    "date": "12 22 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Art",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2003240044145099077?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Thomas, re: Hugo liking the Magma Golem Concept Video",
     "mainText": "'Happy it helps! Tried to keep as short as possible - and I was recording that while being sick haha..Challenging'",
     "date": "12 22 2025",

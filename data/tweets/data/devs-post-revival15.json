@@ -1,6 +1,62 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: user saying it's nice to see the devs watching community videos",
+    "mainText": "'We may not reply to everything but we pretty much read all the comments, watch all the video and discuss it in our community channels. It's crucial to understand how the community understands us.'",
+    "date": "12 23 2025",
+    "tags": [
+      "Slikey",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2003668952325718040?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: BrokenMiniFridge's art video",
+    "mainText": "'I have just found this video from @BrokenColdBox: The analysis is really good and in the end he puts into perspective how far we go to support modders / creators to immerse their entire creativity into Hytale.'\n\n(Video Linked)",
+    "date": "12 23 2025",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Art",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2003659758092657039?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Zero, re: LegitHytaleLeaks saying Hytale won't contain US Nuclear Codes",
+    "mainText": "'00000000'",
+    "date": "12 23 2025",
+    "tags": [
+      "Zero",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Zero",
+          "https://xcancel.com/ZeroErrors/status/2003630338799800383?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Mewen, re: user finding studio with soul",
     "mainText": "'That for sure, I've no doubt there will be always be existing and new studios crafting games that way, and they will stand out from the rest'",
     "date": "12 23 2025",
@@ -12,7 +68,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/2003553765354533370?s=20"
+          "https://xcancel.com/MewSoul/status/2003553765354533370?s=20"
         ]
       }
     ]
@@ -30,7 +86,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/2003551651911909840?s=20"
+          "https://xcancel.com/MewSoul/status/2003551651911909840?s=20"
         ]
       }
     ]
@@ -50,7 +106,7 @@
       {
         "1": [
           "tweet by Thomas Frick",
-          "https://vxtwitter.com/ThomasFrick/status/2003485026097492455?s=20"
+          "https://xcancel.com/ThomasFrick/status/2003485026097492455?s=20"
         ]
       }
     ]
@@ -70,7 +126,7 @@
       {
         "1": [
           "tweet by Thomas Frick",
-          "https://vxtwitter.com/ThomasFrick/status/2003483237465956480?s=20"
+          "https://xcancel.com/ThomasFrick/status/2003483237465956480?s=20"
         ]
       }
     ]
@@ -91,7 +147,7 @@
       {
         "1": [
           "tweet by Thomas Frick",
-          "https://vxtwitter.com/ThomasFrick/status/2003408033913987583?s=20"
+          "https://xcancel.com/ThomasFrick/status/2003408033913987583?s=20"
         ]
       }
     ]

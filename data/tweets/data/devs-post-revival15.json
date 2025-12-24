@@ -1,7 +1,104 @@
 [
   {
     "mainPlatform": "tweet",
-    "summary": "Buddha, re: GrumpyOnVal getting a Hytale code",
+    "summary": "Mewen, re: user finding studio with soul",
+    "mainText": "'That for sure, I've no doubt there will be always be existing and new studios crafting games that way, and they will stand out from the rest'",
+    "date": "12 23 2025",
+    "tags": [
+      "Mewen",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/2003553765354533370?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen, re: Level-5's CEO claim that 80%-90% of game code is written by AI",
+    "mainText": "'Damn... I imagine that the majority of the studio didn't choose to work that way, and they have to endure it, it must suck the life out of you... Can't imagine the mess they have to deal with'",
+    "date": "12 23 2025",
+    "tags": [
+      "Mewen",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/2003551651911909840?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Hatsuya appreciating Hytale's artstyle",
+    "mainText": "'I really appreciate @HatsuyaDev. I love your creations too. Keep doing nice things! Also, it's not only into my hands, we are a small team of very talented artists who are pouring their skills into the visuals. I'm not alone!'",
+    "date": "12 23 2025",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Art",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2003485026097492455?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Hatsuya's alt face texturing",
+    "mainText": "'I think the left one looks very cute, and that our current character creator will allow very similar options, we just haven't shown everything yet. Also character customization is a huge topic and looooots of things we want to improve in the future. We just need time 😌'",
+    "date": "12 23 2025",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Art",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2003483237465956480?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: making more videos",
+    "mainText": "'Thanks! Artists from the team will make more too :)\r\nFor the next one we were thinking about showing how to rig for attachments and anim. This just requires a bit of planing, it's additional work on top of the work we do for release!'",
+    "date": "12 23 2025",
+    "tags": [
+      "Thomas Frick",
+      "Art",
+      "Devs",
+      "Video",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2003408033913987583?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: GrumpyOnVal getting a Hytale Creator Code",
     "mainText": "' '\n\n(Cat Flashing Heart  - Gif)",
     "date": "12 22 2025",
     "tags": [

@@ -1,5 +1,26 @@
 [
     {
+        "mainPlatform": "blog",
+        "summary": "An Introduction to Making Models for Hytale",
+        "mainText": "<p class='mainTextParagraph'>Hytale's Art Director, Thomas Frick, shared a lengthy blogpost covering tips and tricks on how to make models in the style of Hytale. The blogpost covered many topics, such as the four main pillars of Hytale's Art Style, how Hytale's renderer works, proportions, texture resolution, and more!</p><p class='mainTextParagraph'>\n\nAccompanying the blog was the official release of the Hytale plugin for Blockbench, two video tutorials, and a small selection of example models to tinker with!</p>",
+        "date": "12 22 2025",
+        "tags": [
+            "Blog",
+            "Thomas Frick",
+            "Art",
+            "Blogpost",
+            "Modding"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Hytale - An Introduction to Making Models for Hytale - Blogpost",
+                    "https://hytale.com/news/2025/12/an-introduction-to-making-models-for-hytale"
+                ]
+            }
+        ]
+    },
+    {
         "mainPlatform": "tweet",
         "summary": "The Hytale Team talks new official Zone names, zone difficulty, and old concepts.",
         "mainText": "<p class='mainTextParagraph'>Simon set off a firestorm on Twitter by announcing the new official names of Zones 1-4; Emerald Wilds, Howling Sands, Whisperfrost Frontiers, and Devastated Lands. After a lengthy back and forth, Simon shared additional information about zones, revealing that each Zone has at least two Regions, which are bundles of biomes, and explained that Regions can be treated as difficulty tiers. Accompanying this tweet, Simon shared screenshots of an in-game pop-up players will see when they discover a new region.</p><p class='mainTextParagraph'>\n\nWhen asked, Simon confirmed that average gear can let players survive everywhere, and that players can go to any zone at any time, but specific places might be a bit dangerous for 'average' armor.</p><p class='mainTextParagraph'>\n\nSimon also confirmed that the 'imprisoned Sand Empress instance' (from old Sand Palace concept art) was never implemented into Hytale (though he says they'll get to it), but the temple and portal are currently in the game.</p><p class='mainTextParagraph'>\n\nSlikey also revealed that the team has discussed modpacks, which are internally named 'bundles,' and he hopes to get them in earlier rather than later.</p>",

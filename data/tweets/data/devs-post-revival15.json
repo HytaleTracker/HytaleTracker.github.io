@@ -1,6 +1,102 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Thomas, re: Hytale's Art Guidelines",
+    "mainText": "'Most of the artistic guidelines are just advices for people who want to do things at the level of quality and in the style of Hytale. But anyone is free to express and try other things. On the other hand, the engine has technical limitations we have to work around, unfortunately'",
+    "date": "12 24 2025",
+    "tags": [
+      "Thomas Frick",
+      "Art",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2003943407010590769?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Chayzur stating their appreciation for Hytale/Hytale team",
+    "mainText": "'You are such a gem. ❤️'",
+    "date": "12 24 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2003921387430596916?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: working with TacticalShroom",
+    "mainText": "'I've enjoyed working with you too \r\n@tacticalshroom\r\n :D you've done a stellar job of getting everything hooked up and working and it's made my life easy⭐'",
+    "date": "12 24 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2003911577544646886?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares a short statement",
+    "mainText": "'Really excited for 2026 and beyond. Working on Hytale is a dream, and I can’t wait to have you all with us!\r\n\r\nMerry Christmas and happy holidays!'",
+    "date": "12 24 2025",
+    "tags": [
+      "Simon",
+      "Off Topic",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2003908195644068223?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: HBrightStudio's new game",
+    "mainText": "'I love working on games, and continuing my work with @hbright_studio I spent much of November designing audio for Peckers, a desktop overlay idle resource manager with RPG elements. Recording all the vocalizations (over 750 files) as the only voice actor was a fun challenge😂'",
+    "date": "12 24 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2003851899984863269?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: user saying it's nice to see the devs watching community videos",
     "mainText": "'We may not reply to everything but we pretty much read all the comments, watch all the video and discuss it in our community channels. It's crucial to understand how the community understands us.'",
     "date": "12 23 2025",

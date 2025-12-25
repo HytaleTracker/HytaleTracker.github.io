@@ -1,6 +1,64 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Oscar, re: Blanky on sale",
+    "mainText": "'My latest game release is now on sale! It's perfect for lazy end of year holidays and features me singing and laughing as a maniac clown. A tasty 1-2 hour experience, check it out!! https://t.co/rexkpr2sXU'",
+    "date": "12 25 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2004241577653289285?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: AI Art in community",
+    "mainText": "'Proud of #Hytale community members taking a stand against Gen AI and its countless unethical uses - it's harder than ever to be an artist in 2025, but we keep your heads up. No billionaires or Ai thieves can kill our creativity. Human Art is what makes this world worth living in.'",
+    "date": "12 25 2025",
+    "tags": [
+      "Thomas Frick",
+      "Art",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2004241349391086010?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas wishes everyone a Merry Christmas",
+    "mainText": "'Merry Christmas everyone ❤️'",
+    "date": "12 24 2025",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2003964178290422030?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Thomas, re: Hytale's Art Guidelines",
     "mainText": "'Most of the artistic guidelines are just advices for people who want to do things at the level of quality and in the style of Hytale. But anyone is free to express and try other things. On the other hand, the engine has technical limitations we have to work around, unfortunately'",
     "date": "12 24 2025",

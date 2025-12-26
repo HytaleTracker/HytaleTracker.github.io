@@ -1,6 +1,43 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying a friend gifted money to buy Hytale for Christmas",
+    "mainText": "'good friends getting ready for core memories'",
+    "date": "12 25 2025",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2004348743152476292?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: dedicated event items vs temporarily reskinned items for holidays",
+    "mainText": "'Eventually, I want Christmas and Halloween to feel special, not just reskins! \r\nI’m a big fan of creating core memories for players with holidays'",
+    "date": "12 25 2025",
+    "tags": [
+      "Simon",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2004328637085233578?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Thomas, re: user saying AI has uses",
     "mainText": "'Thanks for the kind words anyway 🙏'",
     "date": "12 25 2025",

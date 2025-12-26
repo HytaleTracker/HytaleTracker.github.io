@@ -1,6 +1,44 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Thomas, re: user saying AI has uses",
+    "mainText": "'Thanks for the kind words anyway 🙏'",
+    "date": "12 25 2025",
+    "tags": [
+      "Thomas Frick",
+      "Art",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2004268156249100740?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user saying AI has good uses",
+    "mainText": "'I'm speaking about generative Ai only. And yes, it is 100% designed and to massively steal artworks from artists around the world, without their consent, blends it into a soulless algorithm and spits a copy. And don't tell me humans do the same. We can't do that at this scale'",
+    "date": "12 25 2025",
+    "tags": [
+      "Thomas Frick",
+      "Art",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2004267877437002127?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Oscar, re: Blanky on sale",
     "mainText": "'My latest game release is now on sale! It's perfect for lazy end of year holidays and features me singing and laughing as a maniac clown. A tasty 1-2 hour experience, check it out!! https://t.co/rexkpr2sXU'",
     "date": "12 25 2025",

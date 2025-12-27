@@ -1,6 +1,25 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Oscar, re: his OGRPGMusic YouTube channel",
+    "mainText": "'This is from my hobby YouTube channel where I write music for TTRPGs, like DnD and Pathfinder, for people to use in their games as background music 😄 I've been DMing dungeons & dragons for years, scoring my own games, so I thought I'd take it public!'",
+    "date": "12 26 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/2004479130511777816?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: user saying a friend gifted money to buy Hytale for Christmas",
     "mainText": "'good friends getting ready for core memories'",
     "date": "12 25 2025",

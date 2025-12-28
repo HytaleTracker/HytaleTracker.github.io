@@ -1,6 +1,25 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Thomas, re: user appreciating the Modeling videos/blog",
+    "mainText": "'Merci ! Ça me touche beaucoup !! (quel accent ?! 😏)'\n\n(Thank you! That means a lot to me!! (What accent?! 😏))",
+    "date": "12 28 2025",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2005193959430390207?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Ktar, re: user appreciating all the tools, saying they'll lead to millions of hours of creations.",
     "mainText": "'And this is only the beginning!'",
     "date": "12 27 2025",

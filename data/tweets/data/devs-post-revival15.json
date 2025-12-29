@@ -1,6 +1,258 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Ktar, re: user working on stuff to add to Hytale",
+    "mainText": "'Watched your video, love it! Can't wait to see you import.'",
+    "date": "12 28 2025",
+    "tags": [
+      "Ktar",
+      "Art",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2005498186404876552?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user joking abt Simon being an asshole and posting the best thing ever at 5 am and then go back to sleep",
+    "mainText": "'true'",
+    "date": "12 28 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005489207935164475?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon replies to the gameplay clip again",
+    "mainText": "'We have an incredible journey ahead of us, and to think it was all gone for a moment.\n\nThank you all for your incredible support. We are pouring everything into this game, and we hope to make you proud in years to come.'",
+    "date": "12 28 2025",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Community",
+      "Devs",
+      "General"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005484954793455920?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Chayzur joking about people asking for shaders in Hytale",
+    "mainText": "'People need to trust the long-term vision! We will add visual enhancements later on and make it all work in harmony, art and engineering :)'",
+    "date": "12 28 2025",
+    "tags": [
+      "Simon",
+      "Community",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005484348351402259?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon replies to the gameplay clip",
+    "mainText": "'  '\n\n(Location title, 'Forgotten Temple' in the 'Edge Of The Echo')",
+    "date": "12 28 2025",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Gameplay",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005483654017864178?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: old statement about updating Hytale's lighting",
+    "mainText": "' '\n\n(Robert Redford Zoom and Nod - Gif)",
+    "date": "12 28 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005482606436266159?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares new Hytale clip",
+    "mainText": "'I love Hytale'\n\n(5:27 video, showing Hytale's day/night cycle (sped up), later revealed to be 'Forgotten Temple' in the 'Edge Of The Echo')",
+    "date": "12 28 2025",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Video",
+      "Gameplay"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005481098726539498?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user celebrating his return",
+    "mainText": "'you guys were used to 6 months of silence, and now I go off social media for 2 days and you lose your minds XD'",
+    "date": "12 28 2025",
+    "tags": [
+      "Simon",
+      "Off Topic",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005476625128059322?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: WorldGen V2 Blogpost ETA",
+    "mainText": "'Hopefully, this week, I'm going to review tomorrow'",
+    "date": "12 28 2025",
+    "tags": [
+      "Simon",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005476446723322328?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Prowl's dream about fruit trees in Hytale",
+    "mainText": "'It's got berry bushes, but no fruit trees yet!'",
+    "date": "12 28 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005476318079795307?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user hoping the Skyblock team makes more content",
+    "mainText": "'they got the greenlight to go hard'",
+    "date": "12 28 2025",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005476059379335266?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Skyblock gameplay",
+    "mainText": "'I dont even understand this game anymore lmao'",
+    "date": "12 28 2025",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005475718000676868?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: animatable FOV",
+    "mainText": "'We do have animatable fov. I've used it many times in Machinima!'",
+    "date": "12 28 2025",
+    "tags": [
+      "Propzie",
+      "Devs",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/2005450207266521302?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Ktar, re: Hawkon wanting to do a dolly zoom in Hytale",
     "mainText": "'Dang, that was slick. I don't remember if we have animatable fov. I'll look into it.'",
     "date": "12 28 2025",

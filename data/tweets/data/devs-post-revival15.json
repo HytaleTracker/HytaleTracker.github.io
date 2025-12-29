@@ -1,6 +1,161 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Ktar, re: exporting to .obj",
+    "mainText": "'Good point! This doesn't exist yet and won't exist until after EA launch, but this is something we can 100% add to the base game.'",
+    "date": "12 29 2025",
+    "tags": [
+      "Ktar",
+      "Devs",
+      "Community",
+      "Feature",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2005697119550865897?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: user saying all of the work would've been for nothing if the game was cancelled",
+    "mainText": "'Not for nothing. There was still the friends we made along the way🐵'",
+    "date": "12 29 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2005674605583704466?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: previous Pokemon tweet",
+    "mainText": "'And now to put the game down forever😂'",
+    "date": "12 29 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2005674315782463979?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user inquiring about exporting Hytale maps to .obj files",
+    "mainText": "'I think we did something like this at some point (to .fbx) but not sure if that stuff is still around.. @Ktar5 may need to revive that.'",
+    "date": "12 29 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Community",
+      "Feature",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2005657012261241094?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: old version of previous tweet",
+    "mainText": "'Haha I messed up the name tag XD'",
+    "date": "12 29 2025",
+    "tags": [
+      "Thomas Frick",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2005650093970751663?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Simon's new gameplay clip",
+    "mainText": "'#Hytale is coming out the 13th of January.\n\nThis is unprecedented after being cancelled, and I still struggle believing it.\nThe project is the sum of so many creative spirits, like @onpujam, who was always able to put tears in my eyes with his songs. Like this one...🥺'",
+    "date": "12 29 2025",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2005649407115719133?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Pokemon",
+    "mainText": "'After opening 270 shining revelry packs I finally got enough pack points (1350) to buy black Charizard outright. It just wouldn't drop 💀'",
+    "date": "12 29 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2005598917816201299?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Machinima scenes always being supported in future updates",
+    "mainText": "'I will do all that I can to keep compatibility. At this time it seems unlikely anything will break compatibility in the upgrade. But until the upgrade is done I cannot say definitively.'",
+    "date": "12 29 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2005530915053940881?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Ktar, re: user working on stuff to add to Hytale",
     "mainText": "'Watched your video, love it! Can't wait to see you import.'",
     "date": "12 28 2025",

@@ -1,5 +1,54 @@
 [
     {
+        "mainPlatform": "tweet",
+        "summary": "The Hytale Team reveal gameplay of the Forgotten Temple, talk upcoming blogpost, and Machinima features.",
+        "mainText": "<p class='mainTextParagraph'>In a surprise flurry of tweets on Sunday night, Simon returned to Twitter and dropped a brand new gameplay video, showcasing the game's lighting via a sped-up day/night cycle in a temple, which he later revealed was the 'Forgotten Temple' in the 'Edge Of The Echo.' Simon followed up these reveals with a short statement thanking the community for their support.</p><p class='mainTextParagraph'>\n\nSimon also revealed that he will be reviewing the World Generation V2 blogpost tomorrow (12/29/2025), and he hopes it can be released this week.</p><p class='mainTextParagraph'>\n\nFinally, Propzie shared confirmation that Hytale's Machinima mode has an animatable FOV feature, enabling the creation of dolly zoom effects.</p>",
+        "date": "12 28 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Propzie",
+            "Features",
+            "Future Stuff",
+            "Gameplay",
+            "Screenshot",
+            "Simon Notes",
+            "Video"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Gameplay Video",
+                    "https://xcancel.com/Simon_Hypixel/status/2005481098726539498?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Forgotten Temple",
+                    "https://xcancel.com/Simon_Hypixel/status/2005483654017864178?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Statement",
+                    "https://xcancel.com/Simon_Hypixel/status/2005484954793455920?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Reviewing blogpost",
+                    "https://xcancel.com/Simon_Hypixel/status/2005476446723322328?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Propzie - Animatable FOV",
+                    "https://xcancel.com/Propzie/status/2005450207266521302?s=20"
+                ]
+            }
+        ]
+    },
+    {
         "mainPlatform": "blog",
         "summary": "An Introduction to Making Models for Hytale",
         "mainText": "<p class='mainTextParagraph'>Hytale's Art Director, Thomas Frick, shared a lengthy blogpost covering tips and tricks on how to make models in the style of Hytale. The blogpost covered many topics, such as the four main pillars of Hytale's Art Style, how Hytale's renderer works, proportions, texture resolution, and more!</p><p class='mainTextParagraph'>\n\nAccompanying the blog was the official release of the Hytale plugin for Blockbench, two video tutorials, and a small selection of example models to tinker with!</p>",

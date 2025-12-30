@@ -1,6 +1,45 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Ktar importing Simon's PFP into the game",
+    "mainText": "'thats me'",
+    "date": "12 29 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005809417841729970?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: smooth lighting",
+    "mainText": "'This is now fixed in time for early access.\r\nDidn't require a new engine, just ~64 lines of code for a temp fix that is good enough for now.'\n\n(Image showcasing fixed lighting)",
+    "date": "12 29 2025",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Tech",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005791801404441056?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: Account Bans",
     "mainText": "'I'll float it with our security engineers. I understand the need but I also don't want bans to be final like that - mostly bans are a good way to add a punishment. \r\n\r\nExtreme cases where the user actually broke the law for some despicable things we could still fish out account bans due to TOS violations. \r\n\r\nThere are many implementation considerations here but ultimately we need to observe the problems and let the cat and mouse game commence. I am sure we can figure out something that reduces the problem by 80-90%.'",
     "date": "12 29 2025",

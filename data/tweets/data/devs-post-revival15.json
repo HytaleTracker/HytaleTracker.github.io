@@ -1,6 +1,250 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: Account Bans",
+    "mainText": "'I'll float it with our security engineers. I understand the need but I also don't want bans to be final like that - mostly bans are a good way to add a punishment. \r\n\r\nExtreme cases where the user actually broke the law for some despicable things we could still fish out account bans due to TOS violations. \r\n\r\nThere are many implementation considerations here but ultimately we need to observe the problems and let the cat and mouse game commence. I am sure we can figure out something that reduces the problem by 80-90%.'",
+    "date": "12 29 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2005746401406275855?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: user asking for examples of old tech that isn't moddable",
+    "mainText": "'Line tool, brush preview rendering, selection tool, machinima tool. Theyre quite hardcoded.'",
+    "date": "12 29 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff",
+      "Tech",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2005743186564485325?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Flash questioning abt prefabs shown on maps",
+    "mainText": "'big tree prefabs as part of worldgen'",
+    "date": "12 29 2025",
+    "tags": [
+      "Ktar",
+      "Community",
+      "Devs",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2005734292144677141?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: creating creative tools with mods",
+    "mainText": "'Its a mix right now to be honest. A lot of pieces of tools are customizable and asset driven, but a lot of older parts of the tech are not moddable/extensible. Its very high on my roadmap to refactor tools to be more moddable during EA.'",
+    "date": "12 29 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff",
+      "Tech",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2005731839651332150?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Account Bans",
+    "mainText": "'No, because that would not actually solve anything. If we did that, people would simply use multiple accounts instead of a single account. The result is that the problem is exactly the same for servers but now we have many accounts that are less secure and more easily compromised.\r\n\r\nUsually players have one \"main\" account with 2FA and proper security and then a bunch of alt account with email + simple password and overall bad security maintenance. \r\n\r\nWe make sure that players can create multiple profiles under one security umbrella and avoid that whole problem. If servers want to ban people rather than profiles, you need a different whitelist method - accounts vs profiles are not the solution you want.'",
+    "date": "12 29 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2005728630962352213?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: user inquiring about UI element",
+    "mainText": "'Random asset warnings from in-dev assets. Doesn't really affect anything except asset quality so these are usually ignored. You won't see these in non-dev builds of the game.'",
+    "date": "12 29 2025",
+    "tags": [
+      "Ktar",
+      "Community",
+      "Devs",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2005728279110770783?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: user being excited for the new feature being used in minigames",
+    "mainText": "'I've previously used this kind of feature in Minecraft for contracts that I received from cities or companies to rebuild something that already exists. It would allow us to get shapes and regions from maps and satellite data in game to have correct scale.'",
+    "date": "12 29 2025",
+    "tags": [
+      "Ktar",
+      "Community",
+      "Devs",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2005727390505525481?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Account IDs on servers",
+    "mainText": "'Account IDs will not be transmitted to the servers. Game Profiles are totally independent game licenses and servers can't determine a connection without the player actively creating such an association.'",
+    "date": "12 29 2025",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2005718749798883740?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: new feature post",
+    "mainText": "'This is the precursor to shading and gradient style commands. Probably not before EA Launch, but soonTM'",
+    "date": "12 29 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Feature",
+      "Future stuff",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2005717633304519049?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Hugo pointing out UI improvement",
+    "mainText": "'😂 I don't even know what UI improvement you're talking about.'",
+    "date": "12 29 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Gameplay",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2005715565630079322?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Thomas's first tweet of the day",
+    "mainText": "'My man❤️ it's been a long journey and finally we've arrived'",
+    "date": "12 29 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2005711189301461139?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar shares new Image Importing with block color mapping",
+    "mainText": "'New Hytale feature for your late Christmas gift. Image importing with block color mapping, WIP texture/material sampling for 3d models as well (not pictured). Enjoy this import of Simon into Hytale using blocks and pictured on the world map. Same UI as obj importer.'",
+    "date": "12 29 2025",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Gameplay",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2005711134406680740?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Ktar, re: exporting to .obj",
     "mainText": "'Good point! This doesn't exist yet and won't exist until after EA launch, but this is something we can 100% add to the base game.'",
     "date": "12 29 2025",

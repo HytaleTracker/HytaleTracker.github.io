@@ -1,0 +1,119 @@
+[
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: LAN play without internet",
+    "mainText": "'You can, but there is no good flow for putting the server into offline mode yet. It may be a bit more difficult and require additional work to get a proper offline LAN experience. Technically possible but not trivial yet.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006093000942727556?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking why abandon the C++ engine forever",
+    "mainText": "'It's years behind and no longer has any upsides.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Simon",
+      "Tech",
+      "Engine - Legacy",
+      "Historical"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006090899126902889?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: how he feels getting Hytale back",
+    "mainText": "'People ask me how I feel about getting Hytale back and getting closer to release. Honestly, the transparent answer is anger.\r\n\r\nThe game has insane potential, but four years of engineering went into rebuilding the engine rather than gameplay features. That leaves us with a four-year gap and a lot of catching up to do, and that rebuilt engine is never gonna be used. \r\n\r\nWhen you don’t invest in gameplay, you don’t just lose time. You lose momentum, iteration, and player feedback. Now the focus has to be on gameplay first and rebuilding trust by actually shipping things at a rapid pace.\r\n\r\nIt’s a damn miracle we were able to salvage Hytale. It was barely playable. All basics were broken. Camera, movement, combat, crafting, building, gameloop, sounds, rendering. Everything, everything was wrong.\r\n\r\nIt should have taken years to fix, but within weeks, we got the game into a playable, fun state. And now, instead of slowing down or celebrating a release, we have to keep pushing for years to make up for the time that was lost.\r\n\r\nSo yes, I feel anger. And I’m turning that into focus and execution. I’m committing more money, more time, and personal sacrifice to deliver the game this vision deserves.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Simon",
+      "General",
+      "Historical",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006090043665088900?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: programming language usage",
+    "mainText": "'Depends on what you want to do. It's a bit like power tools. Are you a carpenter or mason?\r\n\r\nWeb / Backend Service -> Go\r\nHigh Performance Libraries -> Rust / C++\r\nAI / ML -> Python\r\nReverse Engineering -> ASM / Ghidra'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006088508604309705?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user saying Java will be pried from their cold dead hands",
+    "mainText": "'I love Java for how flexible it's runtime is. It's a great language but by the lord I wish Project Valhalla would finally move in it's grave. https://openjdk.org/projects/valhalla/\r\n'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006086761240199569?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking for C++ engine source dump for fun",
+    "mainText": "'Won't be possible as the SDKs from Nintendo, Sony and Microsoft were all in there for multiplatform support. Those are under NDA and any attempt to make it functional without it, would be a waste of time. We have maybe looked at the engine ~5 times over the past few months.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Engine - Legacy",
+      "Historical"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006086189007118348?s=20"
+        ]
+      }
+    ]
+  }
+]

@@ -1,6 +1,282 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: user saying C# is fun and easy, wanting to learn other languages alongside C#",
+    "mainText": "'It's always smart to learn other languages and especially for systems engineering / high performance libraries I cannot downplay the role of C (esp. microprocessors) / C++ and Rust. They are powerful languages to write high-performance and regulated code.\r\n\r\nI just don't see teams produce stable results at high velocity in C++ that isn't HEAVILY abstracted effectively turning them back into C# / Java.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006085582812750332?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Hatsuya saying people are stuck in narrative of C# being useless",
+    "mainText": "'Whenever someone starting out programming asks me \"what language should I learn\": C#. It is not even close. It is by far the best balance of performance, usability, learnability and ecosystem support. \r\n\r\nC# will absolutely dominate application development and I am willing to die on this hill.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006083712836911318?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Prowl asking how console support is possible if Hytale is in Java",
+    "mainText": "'The ELI5 is: Java is just text. That text describes how the computer should do things. We can use that text in any way we want and translate it. \r\nImagine C# is French but the Computer only speaks German and English. We translate (compile) French to German. \r\nNow Java is Spanish and we can translate that however we want to make the computer understand. \r\nIt's a problem but not a blocker.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Future stuff",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006079850944102480?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: offline play",
+    "mainText": "'Yeah of course. Once you downloaded the game, you will be able to play offline-singleplayer on PC from Day 1 of Early Access. \r\nOn Jan 13th, you will be able to download the game, install it and pull the network cable to play the game all without an internet connection.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Gameplay"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006078659380359272?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: worst part about mods is them breaking or relying on certain versions",
+    "mainText": "'This is usually a result of modders having to build against obfuscated code or native memory addresses. Our servers comes unobfuscated - so you can build directly against it as a dependency. \r\n\r\nYou may see underlying functionality change, methods disappear after deprecation or other general changes - but that is the same as working with any software library out there.\r\n\r\nThe major difference is that you have to keep that dependency updated where traditional libraries can stay on older versions. As Hytale matures and our APIs get more settled, the mean-time-between-incompatibility will go up and mods will remain functional for longer.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Tech",
+      "Early Access"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006078038212063486?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: bringing Hytale to other platforms",
+    "mainText": "'We will first focus on bringing multiplayer only to all platforms and by that time, who knows how tech looks like and what resources we have. Adding offline singleplayer - especially with mod support is more of a policy / compliance problem rather than a technological problem. \r\n\r\nBringing singleplayer to other platforms is less of a priority for now as the other challenges are much bigger than singleplayer itself (e.g. UI / UX, Rendering, Controls, Gameplay, Networking, Battery usage, etc. etc.)\r\n\r\nOnce all these other problems are solved, we can look at offline singleplayer on other platforms and picking one of the many options we have to make that happen.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Statement",
+      "Future stuff",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006076954512867662?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: if mods will be unusable when new updates for game are released",
+    "mainText": "'It highly depends. Some internal modders have been trialing modding for 2 months and are still able to load their mods from day 1. Other things are breaking a bit faster. \r\nRight now as flux is high, mods may break. In the future  (3+ months into Early Access) we will adhere to a stronger deprecation policy to ensure that modders are more prepared.\r\nAdditionally we ship 2 patchlines:\r\n- Release: The patch that players are recommended to play on and generally considered the \"official\" version.\r\n- Pre-Release: Our snapshots for upcoming changes. Useful to modders and server operators.\r\n\r\nUsing Pre-Release modders can check if their mods need adjustments for upcoming release updates.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Tech",
+      "Early Access"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006075417078235342?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: discussion on returning to 'New Engine'",
+    "mainText": "'Keep seeing comments and posts about people speculating when we pick up the \"new engine\" again: We will not. It is 100% abandoned and archived. The \"legacy\" engine is just the engine now and it will stay the engine.\r\nWe can achieve our multi-platforms goals using this engine in the years to come and there no reason for us to drop our engine. We may refactor things here and rewrite smaller features / modules there - but we are never going to change the engine again and there will be no second engine / engine split in the future.\r\nHytale runs on the Hytale Engine and that it is for the future. Modders don't have to be afraid of their work being invalidated and our community will not be fragmented across 2 versions of the game.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Statement",
+      "Engine - Legacy"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006073445260411123?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Labubu fan model next to lava golem",
+    "mainText": "'Definitely a menace to the golem'",
+    "date": "12 30 2025",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2005968657202176443?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Flash saying it's so far away",
+    "mainText": "'(Gif - Yoda - Patience You Must Learn)'",
+    "date": "12 29 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2005839528464912822?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Flash wanting to see the game so bad",
+    "mainText": "'(Image - Countdown timer)'",
+    "date": "12 29 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2005839274747285697?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user saying Hytale's engine and renderer is better than old Minecraft",
+    "mainText": "'Tell that to our 2727 line chunk meshing algorithm that is a complete nightmare to work with. Every developer on the team wants to take behind the shed with a double-barrel 🤣'",
+    "date": "12 29 2025",
+    "tags": [
+      "Slikey",
+      "Gameplay",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2005839085856760295?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: lighting being fixed",
+    "mainText": "'The engine ain't perfect but the developers on the team are incredibly creative and skilled in their craft to find solutions where they are needed.\r\nIf you rewatch the 16 minute of gameplay - especially in the underground jungle: You see these hard lighting issues everywhere. Our artists were incredibly annoyed by this issue.\r\nNow it's gone. We make it exist, then we make it good and in the future we make it perfect. I can't wait for our rendering team to find the long-term perfect solution that brings this level of block game beauty to every platform 🥰'",
+    "date": "12 29 2025",
+    "tags": [
+      "Slikey",
+      "Gameplay",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2005837072582516892?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: more gameplay videos",
+    "mainText": "'I’m highly focused on delivering the game right now and time is running out, not sure Ill be able to give much more videos, there will be thousands of them after launch 😅\r\n\r\nLots of last minute changes being made, every second counts\r\n\r\nEven though we will be doing patches/updates for many years to come, there is a LOT to fix and get ready for launch'",
+    "date": "12 29 2025",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2005835661769588771?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Ktar importing Simon's PFP into the game",
     "mainText": "'thats me'",
     "date": "12 29 2025",

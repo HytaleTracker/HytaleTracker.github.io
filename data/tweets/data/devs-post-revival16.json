@@ -1,6 +1,175 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Ktar, re: tint brush feature",
+    "mainText": "'Yup. Still in the game. There's a brush called the \"tint brush\" that allows you to paint tints. There's also commands.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Ktar",
+      "Feature",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2006227415723635149?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: hypothetical future version of Hytale that breaks significant number of mods, like 1.12/1.13 of MC",
+    "mainText": "'I wouldn't worry about any such breakage like that. We are so far from it that the path is blurry and we will figure out the best way forward together with the community when the time comes. We may not need it because Java has NativeAOT, or we have Java and C# or we have a perfect C# port or we just don't care about offline singleplayer. So many hypotheticals.. We make the game perfect first before we worry about any of that.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006213530597425558?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Hollaph getting a Creator Code",
+    "mainText": "'Congrats! 🎉 ❤️'",
+    "date": "12 30 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2006202938155307511?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Hayze getting a creator code",
+    "mainText": "'🙌❤️'",
+    "date": "12 30 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2006202577029857547?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Hawkon posting abt Avatar game",
+    "mainText": "'That’s sick! I thoroughly enjoyed this game. Thought the world design was so beautiful.'",
+    "date": "12 30 2025",
+    "tags": [
+      "BuddhaCat",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2006202433584660822?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking why C# is only used for Hytale's client",
+    "mainText": "'Historical - if we did it again today, we'd pick C# for client and server but for now it's fine. We can make the game perfect like this and maybe one day - in many years - we have better options to support Java and C# servers :) On Minecraft there are many different servers and we can have a lot of diversity with servers.'",
+    "date": "12 30 2025",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006196603753787876?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar shares music from OG RPG Music channel",
+    "mainText": "'https://www.youtube.com/watch?v=ubyUapwydzg'",
+    "date": "12 30 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2006152641131512162?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar shares post from his OG RPG Music account",
+    "mainText": "'Here's my latest music release:) subscribe to my DnD background music channel for more fantasy vibes!'",
+    "date": "12 30 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2006152376214778052?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: user asking what Oscar calls a specific tune from Hytale",
+    "mainText": "'It's the theme of the hero. The theme of YOU! 💪🏻⭐'",
+    "date": "12 30 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2006149417200406642?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: LAN play without internet",
     "mainText": "'You can, but there is no good flow for putting the server into offline mode yet. It may be a bit more difficult and require additional work to get a proper offline LAN experience. Technically possible but not trivial yet.'",
     "date": "12 30 2025",

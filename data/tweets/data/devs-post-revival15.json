@@ -79,7 +79,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey, re: worst part about mods is them breaking or relying on certain versions",
-    "mainText": "'This is usually a result of modders having to build against obfuscated code or native memory addresses. Our servers comes unobfuscated - so you can build directly against it as a dependency. \r\n\r\nYou may see underlying functionality change, methods disappear after deprecation or other general changes - but that is the same as working with any software library out there.\r\n\r\nThe major difference is that you have to keep that dependency updated where traditional libraries can stay on older versions. As Hytale matures and our APIs get more settled, the mean-time-between-incompatibility will go up and mods will remain functional for longer.'",
+    "mainText": "'This is usually a result of modders having to build against obfuscated code or native memory addresses. Our servers comes unobfuscated - so you can build directly against it as a dependency. \n\nYou may see underlying functionality change, methods disappear after deprecation or other general changes - but that is the same as working with any software library out there.\n\nThe major difference is that you have to keep that dependency updated where traditional libraries can stay on older versions. As Hytale matures and our APIs get more settled, the mean-time-between-incompatibility will go up and mods will remain functional for longer.'",
     "date": "12 30 2025",
     "tags": [
       "Slikey",
@@ -99,7 +99,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey, re: bringing Hytale to other platforms",
-    "mainText": "'We will first focus on bringing multiplayer only to all platforms and by that time, who knows how tech looks like and what resources we have. Adding offline singleplayer - especially with mod support is more of a policy / compliance problem rather than a technological problem. \r\n\r\nBringing singleplayer to other platforms is less of a priority for now as the other challenges are much bigger than singleplayer itself (e.g. UI / UX, Rendering, Controls, Gameplay, Networking, Battery usage, etc. etc.)\r\n\r\nOnce all these other problems are solved, we can look at offline singleplayer on other platforms and picking one of the many options we have to make that happen.'",
+    "mainText": "'We will first focus on bringing multiplayer only to all platforms and by that time, who knows how tech looks like and what resources we have. Adding offline singleplayer - especially with mod support is more of a policy / compliance problem rather than a technological problem. \n\nBringing singleplayer to other platforms is less of a priority for now as the other challenges are much bigger than singleplayer itself (e.g. UI / UX, Rendering, Controls, Gameplay, Networking, Battery usage, etc. etc.)\n\nOnce all these other problems are solved, we can look at offline singleplayer on other platforms and picking one of the many options we have to make that happen.'",
     "date": "12 30 2025",
     "tags": [
       "Slikey",
@@ -120,7 +120,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey, re: if mods will be unusable when new updates for game are released",
-    "mainText": "'It highly depends. Some internal modders have been trialing modding for 2 months and are still able to load their mods from day 1. Other things are breaking a bit faster. \r\nRight now as flux is high, mods may break. In the future  (3+ months into Early Access) we will adhere to a stronger deprecation policy to ensure that modders are more prepared.\r\nAdditionally we ship 2 patchlines:\r\n- Release: The patch that players are recommended to play on and generally considered the \"official\" version.\r\n- Pre-Release: Our snapshots for upcoming changes. Useful to modders and server operators.\r\n\r\nUsing Pre-Release modders can check if their mods need adjustments for upcoming release updates.'",
+    "mainText": "'It highly depends. Some internal modders have been trialing modding for 2 months and are still able to load their mods from day 1. Other things are breaking a bit faster. \nRight now as flux is high, mods may break. In the future  (3+ months into Early Access) we will adhere to a stronger deprecation policy to ensure that modders are more prepared.\nAdditionally we ship 2 patchlines:\n- Release: The patch that players are recommended to play on and generally considered the \"official\" version.\n- Pre-Release: Our snapshots for upcoming changes. Useful to modders and server operators.\n\nUsing Pre-Release modders can check if their mods need adjustments for upcoming release updates.'",
     "date": "12 30 2025",
     "tags": [
       "Slikey",
@@ -401,7 +401,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey, re: Account Bans",
-    "mainText": "'No, because that would not actually solve anything. If we did that, people would simply use multiple accounts instead of a single account. The result is that the problem is exactly the same for servers but now we have many accounts that are less secure and more easily compromised.\r\n\r\nUsually players have one \"main\" account with 2FA and proper security and then a bunch of alt account with email + simple password and overall bad security maintenance. \r\n\r\nWe make sure that players can create multiple profiles under one security umbrella and avoid that whole problem. If servers want to ban people rather than profiles, you need a different whitelist method - accounts vs profiles are not the solution you want.'",
+    "mainText": "'No, because that would not actually solve anything. If we did that, people would simply use multiple accounts instead of a single account. The result is that the problem is exactly the same for servers but now we have many accounts that are less secure and more easily compromised.\n\nUsually players have one \"main\" account with 2FA and proper security and then a bunch of alt account with email + simple password and overall bad security maintenance. \n\nWe make sure that players can create multiple profiles under one security umbrella and avoid that whole problem. If servers want to ban people rather than profiles, you need a different whitelist method - accounts vs profiles are not the solution you want.'",
     "date": "12 29 2025",
     "tags": [
       "Slikey",

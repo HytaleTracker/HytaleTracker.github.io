@@ -1,5 +1,54 @@
 [
     {
+        "mainPlatform": "Reddit",
+        "summary": "The Hytale Team talk fireworks, zones, and NPCs.",
+        "mainText": "<p class='mainTextParagraph'>Responding to KweebecCorner's question regarding the status of fireworks in Hytale, Simon provided a new image of Hytale's <i>Spawn Particle</i> menu, showcasing various firework particle effects while stating none are currently being used in-game.</p><p class='mainTextParagraph'>\n\nResponding to a user's question about Hytale's zones on r/Hytale, Amber explained that the four 'old' zones are available at Early Access launch, 'as well as a bit extra.' Amber continued by saying the team has 'big plans coming up for the world generator that we hope to address in [their] upcoming worldgen blog post,' and promised to try and include all the info they can.</p><p class='mainTextParagraph'>\n\nA separate user posted to r/HytaleInfo, asking how programmable NPCs will be with the in-game Creator Tools - specifically asking about different pathing depending on the time of day. In a reply to the original post, Slikey explained that while the OP's goal is technically possible, the way NPCs are configured isn't well supported by the asset editor, and is currently a lot of manual JSON. Slikey suggested the user investigate the way the game handles Kweebec and Trork camps in order to learn about the process.</p><p class='mainTextParagraph'>\n\nIn a separate reply, Amber stated that NPC Behavior is 'very configurable with our assets,' which supports Slikey's statement that it is indeed possible.</p>",
+        "date": "12 31 2025",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Reddit",
+            "Amber",
+            "Mewen",
+            "Slikey",
+            "Features",
+            "Modding",
+            "Tech"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Fireworks",
+                    "https://xcancel.com/Simon_Hypixel/status/2006420609920892961?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Amber - Zones",
+                    "https://www.reddit.com/r/hytale/comments/1q0pw36/comment/nx00dxf/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
+                ]
+            },
+            {
+                "3": [
+                    "Slikey - NPC programming possible",
+                    "https://www.reddit.com/r/HytaleInfo/comments/1q0pyqj/comment/nx038fp/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
+                ]
+            },
+            {
+                "4": [
+                    "Slikey - Suggesting user investigates Trork camps",
+                    "https://www.reddit.com/r/HytaleInfo/comments/1q0pyqj/comment/nx043p8/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
+                ]
+            },
+            {
+                "5": [
+                    "Amber - Configuring NPC Behavior",
+                    "https://www.reddit.com/r/HytaleInfo/comments/1q0pyqj/comment/nx049ko/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"
+                ]
+            }
+        ]
+    },
+    {
         "mainPlatform": "tweet",
         "summary": "The Hytale Team discusses remaining on the Legacy Engine, supporting mods while updating game, bringing Hytale to other platforms, and offline LAN.",
         "mainText": "<p class='mainTextParagraph'>Slikey released a short statement, settling the community's questions about a potential return to the 'New Engine' by saying the engine is '100% abandoned and archived,' with Simon explaining that the 'New' Engine is 'years behind' and 'no longer has any upsides.'</p><p class='mainTextParagraph'>\n\nWhen asked how Hytale will support mods while updating the game, Slikey explained that mods might break with each update early on, but after at least 3 months in Early Access, the team will adhere to a stronger deprecation policy, and ship pre-releases to help modders be prepared for changes.</p><p class='mainTextParagraph'>\n\nSlikey also discussed bringing Hytale to all platforms, stating that the team will eventually prioritize bringing multiplayer to all platforms before adding singleplayer, mentioning that UI / UX, Rendering, Controls, Gameplay, Networking, and Battery usage are just some of the challenges that are bigger than bringing singleplayer to other platforms.</p><p class='mainTextParagraph'>\n\nFinally, Slikey confirmed that Hytale does currently support offline LAN play, but lacks a 'good flow' for putting the server into offline mode, and isn't trivial.</p>",

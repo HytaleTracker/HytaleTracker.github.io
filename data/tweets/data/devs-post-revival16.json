@@ -1,6 +1,79 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Buddha, re: Lucent wishing a Happy New Year",
+    "mainText": "'GIF - Cat Flashing Heart'",
+    "date": "12 31 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2006520803794256116?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: user asking if Creator codes are case sensitive",
+    "mainText": "'Codes are not case sensitive :)'",
+    "date": "12 31 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2006516326609666221?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: KC wishing a Happy New Year",
+    "mainText": "'Happy New Year, my friend <3'",
+    "date": "12 31 2025",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2006516209114820912?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: KC questioning Oscar saying the theme is for the hero, or 'you.'",
+    "mainText": "'GIF - You and You and You!'",
+    "date": "12 31 2025",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2006475088015593571?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: KC asking if fireworks will be in the game",
     "mainText": "'In the Spawn Particle menu, you can find some firework effects; none are currently being used (we cleaned up a lot of old/broken items). \r\nReasonably easy to make a Firework Launcher, attach some particles to it!'\n\n((New Image showcasing Spawn Particle menu))",
     "date": "12 31 2025",

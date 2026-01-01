@@ -1,6 +1,100 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: KC asking if fireworks will be in the game",
+    "mainText": "'In the Spawn Particle menu, you can find some firework effects; none are currently being used (we cleaned up a lot of old/broken items). \r\nReasonably easy to make a Firework Launcher, attach some particles to it!'\n\n((New Image showcasing Spawn Particle menu))",
+    "date": "12 31 2025",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006420609920892961?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: MacOS support",
+    "mainText": "'No word from Apple. 😡'",
+    "date": "12 31 2025",
+    "tags": [
+      "Slikey",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006370988968325600?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: if the server source commits will cover the last seven years",
+    "mainText": "'No, we will squash it on release. We want to avoid speculation or discussion about historical code.'",
+    "date": "12 31 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Future stuff",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006360997809025064?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: changelogs",
+    "mainText": "'There are 2 things: The patch notes with release builds and when the server source is published you also get commits as part of the Github repository. So you will be able to see those changes come in.'",
+    "date": "12 31 2025",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006355790970642794?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Java having NativeAOT",
+    "mainText": "'It doesn't yet - it has a different AOT but given the time frame we are talking about we don't know what options we have then. It may be that there is a way to compile it down to native code by then and thus making the entire conversation redundant.'",
+    "date": "12 31 2025",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006337758290387448?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Ktar, re: tint brush feature",
     "mainText": "'Yup. Still in the game. There's a brush called the \"tint brush\" that allows you to paint tints. There's also commands.'",
     "date": "12 30 2025",

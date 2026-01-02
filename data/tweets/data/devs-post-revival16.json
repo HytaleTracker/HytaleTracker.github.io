@@ -1,6 +1,684 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: user hoping the team doesn't get caught up in the numbers at launch",
+    "mainText": "'numbers are the least of my worry, the most complex thing to balance is the actual counter plays, weaknesses of weapons etc\r\nend of day, players can have more than 1 weapon anyways, place blocks, take potions, use traps etc'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006938347911176248?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking if enchants/other improvements exist",
+    "mainText": "'not yet'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006937939071377631?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: daggers being strong",
+    "mainText": "'its currently kinda bugged atm, but they are supposed to be very weak at blocking\r\nsword and shield combo should counter daggers quite easily \r\ndaggers do double dmg in the back, never turn your back against daggers and you have a better chance\r\n\r\nIf you know these tricks its somewhat easy to counter'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006937809358028864?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: scythes, spears, glaives suggestion",
+    "mainText": "'Got all that! Just boring no special abilities so they are in creative mode only until we add cool stuff to it'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006937362228707674?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: if hits register on button press or weapon colliding with hitbox",
+    "mainText": "'collides, like real pvp games 😅'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006937107810632171?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user predicting huge launch for Hytale",
+    "mainText": "'My prediction is, it will do very well initially and then it will slow down until the modders / servers and us start to release some major content and then it will keep growing for years to come \r\nEspecially as we add more modding tools and options'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006936928026026273?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: adding new weapons eventually",
+    "mainText": "'Yes, we got lots of extra weapons ingame but no abilities just yet, 1h mace, 2h long sword, 1h axes (not hatchet) and some others'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006936432108241362?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: reaching the 'years' benchmark eventually",
+    "mainText": "'Yeah I dont think people realize how solid the game can become in 5+ years\r\n\r\nI will personally fund this game for a long while, been working with some of the devs for 10+ years and we are still having a blast'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006936078108995822?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Prowl's comment on balancing PVP",
+    "mainText": "'To put it simply, pvp will not be balanced for a while, our focus will be core game pve and living world.\r\n\r\nHowever, pvp servers will have full control of the combat json files and cna do whatever they want to balance. We might learn a lot from them!'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006935158885380474?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user appreciating decision to launch and develop using feedback",
+    "mainText": "'Yep, I would rather have a broken pvp combat and listen to feedback than try to make it perfect and mess it up and wasted ton of time.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006934870984110411?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: hiring more devs",
+    "mainText": "'After launch, can’t get distracted with onboarding just yet.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006934572622401824?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: dagger spam",
+    "mainText": "'Nothing is balanced rn, but its still fun and chaotic. \r\nWe will have proper counter/mechanics as we evolve the game'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006934426379485232?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: grave system",
+    "mainText": "'We had this feature before but removed it, it was a bit messy. Will probably try again in the future.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006934146720083984?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Winds making a meme out of PVP video",
+    "mainText": "'😅'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006933485039259689?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: all features being V1",
+    "mainText": "'Combat went through maybe 4 versions, I would argue that version 2 was good enough and the extra time could have been spent on gameplay features. \r\n\r\nEvery rework means other features are put on hold.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006933144205930831?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user questioning how the team supposedly did years of work in a few weeks",
+    "mainText": "'No meetings, trust the team, push to main and pray. Solid vision, no prototypes. \r\nCutting some corners, will pay some tech debt later. \r\n\r\nLower expectations means we don’t need to make 5 prototypes for a single feature to try to reach perfection.\r\n\r\nWe make all features V1 and then make it good later.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006932699810861388?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: parry system",
+    "mainText": "'We had a prototype but honestly it didn’t feel good. Probably will try something else in the future, dont want to over-engineer our combat and increase the skill cap too much though'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006931699310145769?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: exploration worlds becoming adventure worlds",
+    "mainText": "'I think so, no promises but so far yes there would be a way. Unless we hit some technical issue.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Future stuff",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006931380262089019?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: dynamic music",
+    "mainText": "'Planned for long term yep'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Future stuff",
+      "Music",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006931211063877855?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: arm64 linux",
+    "mainText": "'Too small audience, not worth for us to maintain another build pipeline and deal with the support effort+'",
+    "date": "1 1 2026",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006930071899271624?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: spears",
+    "mainText": "'It was in the early gameloop but felt kinda not fun enough, will leave it out from normal gameplay for now, will revisit later. Its in creative mode though.\r\nGot a few things to fix before we bring it back to main loop.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Community",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006903480942997818?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Pikaclicks feedback on PVP",
+    "mainText": "'Events will be peak when its all fixed up!'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006889347887354044?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: soft-collision prototype",
+    "mainText": "'we actually had a prototype somewhere, just need to see if its good enough for release'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Community",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006875526078824822?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: OST on streaming platforms",
+    "mainText": "'I can't say for certain at this point. There is a lot that needs to happen towards release. It's planned to happen eventually though! I will update as soon as I know when.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2006875108325892101?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: MCProHosting cofounder getting married",
+    "mainText": "'Congratulations homie! Wish you both all the best, and lots of happiness ❤️'",
+    "date": "1 1 2026",
+    "tags": [
+      "DevSlashNull",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2006874964809699712?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: user questioning 1.0 version number on the Launcher cert screenshot",
+    "mainText": "'It's the launcher not the game client'",
+    "date": "1 1 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2006871293233357004?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: soft-collision",
+    "mainText": "'Update on this: we have a soft-collision prototype working; we will see if we can deliver for launch.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes",
+      "Community",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006870288714313934?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Myne saying people will experience PVP and suggest tweaks",
+    "mainText": "'We did 0 balance pass, just having fun lol'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006864128527446167?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: knockback slowing combat",
+    "mainText": "'Yeah, collision and kb will help a lot.\r\n\r\nRight now it is what it is, we got no time. I told you guys about the whole 4 extra months would have made a big difference! Would rather release fast and fix later.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006863755272233086?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user desiring slower combat",
+    "mainText": "'This is a montage though, using high tier weapons and our armors were broken giving only 50% benefits.\nWe were not using food, potions or anything else that would make the fight lasts longer.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006863388421533718?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: Apple support",
+    "mainText": "'We got Windows certs good to go,  Apple is something we'd really like to get ready for launch but ultimately its out of our control. Hoping we hear back soon regarding this. See y'all very soon in game :)'\n\n(Image of Hytaler Launcher Windows certification)",
+    "date": "1 1 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2006858048644792628?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale, re: PVP video",
+    "mainText": "'Please bear in mind that this is very early PvP testing and subject to change as we move into early access. Many systems are still missing, but this is the foundation we are building upon.\r\n\r\nAfter early access launches on January 13, we will add many more features and work closely with PvPers to ensure combat feels right and continues to improve. We aim to bring a range of PvP minigames and support the community in creating their own PvP content.\r\n\r\nWe understand that PvP in block games is much more than just combat. We are the same team that brought you Hypixel PvP games for over 13 years and 40 million unique players!\r\n\r\nIf you're interested in helping shape Hytale, we would be honored to have you along for the ride!'",
+    "date": "1 1 2026",
+    "tags": [
+      "Hytale",
+      "Gameplay",
+      "Video"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/2006848372141941146?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale posts PVP video",
+    "mainText": "'We put together a quick and fun video featuring some early PvP footage! ⚔️'",
+    "date": "1 1 2026",
+    "tags": [
+      "Hytale",
+      "Gameplay",
+      "Video"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/2006848337790763266?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: Flash saying Propzsie was nerfed with thorium",
+    "mainText": "'Always blame your tools! Definitely not my fault.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Propzie",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/2006835127356359130?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Flash saying Propzsie was nerfed with thorium",
+    "mainText": "'true'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006834876201447610?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Propzie, re: PVP video",
     "mainText": "'@Simon_Hypixel exposing my awful PvP skills in 4k.🥲'",
     "date": "1 1 2026",
@@ -219,7 +897,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon gives notes on PVP video",
-    "mainText": "'The video is live on YouTube - go look it up!\r\n\r\nHere are some of my notes;\r\n\r\n1- We are missing knockback, player/NPC collision and other core features.\r\n2- You can adjust FoV.\r\n3- Lots of the weapons are \"op\" with mobility, but it's fine and fun for early access!\r\n4- None of the weapons are balanced yet, obviously!\r\n5- Player health bars can be turned off client-side; we will add an option for servers to force them off as well.\r\n6- Player health bars are rendering incorrectly and will be fixed after launch. They don't scale properly and appear too far away. They need a complete rework; they don't look great, and they should be more minimalist. \r\n7- Combat might feel a bit floaty at times, but it's getting better as we progress. Controls are feeling good, though.\r\n8- Blocking mechanisms are not done yet; you can block a full signature hit with low stam with daggers. \r\n\r\nAnd the list goes on and on and on! Told you guys this is early access! \r\n\r\nHowever, we are AWARE and will fix it all over time. Give us a couple of months, and you will get some very good PvP in Hytale. We love playing the game and will keep at it for years to come!'",
+    "mainText": "'The video is live on YouTube - go look it up!\n\nHere are some of my notes;\n\n1- We are missing knockback, player/NPC collision and other core features.\n2- You can adjust FoV.\n3- Lots of the weapons are \"op\" with mobility, but it's fine and fun for early access!\n4- None of the weapons are balanced yet, obviously!\n5- Player health bars can be turned off client-side; we will add an option for servers to force them off as well.\n6- Player health bars are rendering incorrectly and will be fixed after launch. They don't scale properly and appear too far away. They need a complete rework; they don't look great, and they should be more minimalist. \n7- Combat might feel a bit floaty at times, but it's getting better as we progress. Controls are feeling good, though.\n8- Blocking mechanisms are not done yet; you can block a full signature hit with low stam with daggers. \n\nAnd the list goes on and on and on! Told you guys this is early access! \n\nHowever, we are AWARE and will fix it all over time. Give us a couple of months, and you will get some very good PvP in Hytale. We love playing the game and will keep at it for years to come!'",
     "date": "1 1 2026",
     "tags": [
       "Simon",

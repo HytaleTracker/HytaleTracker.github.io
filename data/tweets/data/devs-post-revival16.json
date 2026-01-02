@@ -1,6 +1,590 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Propzie, re: PVP video",
+    "mainText": "'@Simon_Hypixel exposing my awful PvP skills in 4k.🥲'",
+    "date": "1 1 2026",
+    "tags": [
+      "Propzie",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/2006830695545815347?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: FOV feedback",
+    "mainText": "'We didn't follow the golden rule of increasing the FoV when recording a YouTube video! In-game, it didn't feel that bad, but I will keep this in mind for future videos.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006823530776940811?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Official Servers covering different regions",
+    "mainText": "'We will cover most regions'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Server",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006822931767418949?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user's concerns on blocking/movement",
+    "mainText": "'yeah, same concerns here, will fix over time 😎'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006822792336126348?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user happy Simon was enjoying the PVP",
+    "mainText": "'It's why I do it, I'm not getting paid lol'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006822275530858613?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: 1st person PVP feedback",
+    "mainText": "'Zum actually plays a lot more in 1st person than I do, with a higher FoV than shown in the video, it's better. \r\nLot's of improvements will be coming in the months and years to follow :)'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006821844050203123?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: particular feedback on a PVP move",
+    "mainText": "'Hell yeah!!!'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006821047669285158?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: stuns being in PVE",
+    "mainText": "'Yep, we will probably add a stagger system later on'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006818179990077670?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user desiring a CTF gamemode",
+    "mainText": "'Yeah, can't wait to see what game modes people come up with! \r\nWe also got a lot of minigame of our own in the works after launch :)'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006815843343282655?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: stuns in Hytale",
+    "mainText": "'No, we tried stuns at some point, and it felt terrible and frustrating.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006815630536921484?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: concerns over 1st-person combat",
+    "mainText": "'Honestly, 1st person PvP in melee range is always kinda tricky to balance visually - Overwatch might feel overwhelming for some, and for others it's fine.\r\n\r\nThe great thing is, for Hytale, the 3rd person view is actually fun and usable :)'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006815359681319364?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon gives notes on PVP video",
+    "mainText": "'The video is live on YouTube - go look it up!\r\n\r\nHere are some of my notes;\r\n\r\n1- We are missing knockback, player/NPC collision and other core features.\r\n2- You can adjust FoV.\r\n3- Lots of the weapons are \"op\" with mobility, but it's fine and fun for early access!\r\n4- None of the weapons are balanced yet, obviously!\r\n5- Player health bars can be turned off client-side; we will add an option for servers to force them off as well.\r\n6- Player health bars are rendering incorrectly and will be fixed after launch. They don't scale properly and appear too far away. They need a complete rework; they don't look great, and they should be more minimalist. \r\n7- Combat might feel a bit floaty at times, but it's getting better as we progress. Controls are feeling good, though.\r\n8- Blocking mechanisms are not done yet; you can block a full signature hit with low stam with daggers. \r\n\r\nAnd the list goes on and on and on! Told you guys this is early access! \r\n\r\nHowever, we are AWARE and will fix it all over time. Give us a couple of months, and you will get some very good PvP in Hytale. We love playing the game and will keep at it for years to come!'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006814867794128968?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Mosshorn appearing in the PVP video",
+    "mainText": "'Starting off 2026 with a Mosshorn Photo Bomb 💕'",
+    "date": "1 1 2026",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2006812901538148736?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: option to disable helmet visibility but keep protection",
+    "mainText": "'Long-term, I'd love it, but we want to consider the implications of PvP, though.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006812143698718821?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Olegro asking about death penalties",
+    "mainText": "'It can be configured; by default, you lose some materials/durability but keep your items. \r\n\r\nFor example, you might lose 50% of your ore and 10% of your durability on death. \r\n\r\nYou can turn it all off and have no downside to dying when you create your world (not sure if we can do that before launch).'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006811903113204061?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: blocks breaking in combat",
+    "mainText": "'It depends on the blocks; leaves, for example, can be broken with weapons. Bushes/vases etc. \r\n\r\nOtherwise, you would accidentally break your house lol.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006810784505147417?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Olegro asking if weapons have durability",
+    "mainText": "'We are not sure whether we will use durability for weapons, but in exploration mode, it doesn't matter much. \r\nServers can do whatever they want; it takes 1 line to change it.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006810504044724270?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user liking the weapon movements",
+    "mainText": "'It's really fun, just need to balance so it doesn't become a travel method lol'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006808695586598997?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking if health bars can be disabled",
+    "mainText": "'Client side, yes; server side, soon.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006809035522322523?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: feedback on PVP video",
+    "mainText": "'Player health bars are rendering incorrectly and not scaling properly. Also, servers will have the option to turn immersion on or off (maybe not for launch, we have too much urgent stuff to fix).'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006808695586598997?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Server Manual",
+    "mainText": "'It's not in the original file, I copied it over to notepad and it somehow added the escape during that lol'",
+    "date": "1 1 2026",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006807166397894985?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: feedback on PVP video",
+    "mainText": "'Knockback and collision are missing. This is SUPER early, guys.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006806848566182268?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying WoW Arena maps would be cool for Hytale",
+    "mainText": "'Zum (Hytale game designer) and I were WoW arena duo in WoW: TBC! Good old days!'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006799249242206394?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Server Manual",
+    "mainText": "'Writing that at the moment - it'll be available pretty soon but obviously not useful to actually get setup as you will need the game files to actually host the server.\r\nIt will allow you to familiarize yourself though.'\n\n(Image showcasing start of Manual)",
+    "date": "1 1 2026",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006799050134401080?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Linux",
+    "mainText": "'For now, you will download the flatpak from the Website - we are looking at flathub but we consider it QoL, so it has lower priority. Any steps we can skip, we skip 😅'",
+    "date": "1 1 2026",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006779559631532116?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user offering to edit the videos for Simon",
+    "mainText": "'I do it because I enjoy it though 😅'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006777843355889715?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Linux/MacOS Support",
+    "mainText": "'RE: Linux & Mac Support\r\n\r\n🐧Linux:\r\nWe are launching with Linux (x64, not ARM) support using flatpak. We are launching the native Linux and given the diversity of the Linux ecosystem, we are treating the Linux launch as \"experimental\".\r\nWe have programmers on the team who natively work on Hytale using Linux, so expect support to expand and improve.\r\nSystem requirements should be similar to Windows - RAM requirements may be lower due to Windows usually hogging more memory as an OS.\r\nSo all in all, you will be able to download Hytale for Linux, you will be able to install it and run it but chances are there may be some issues you run into that are super specific to your distro. We rely on reports to fix those issues. \r\nWe have not tried and won't try Proton. Given that we don't do any kernel-level anticheat, you will probably be able to run it via a compatibility layer too but that's for the community to find out.\r\nOne test was conducted on a Steamdeck with attached docking station (Monitor, Keyboard, Mouse) and got well playable results in local singleplayer. (Steamdeck is NOT officially recommended as there is NO CONTROLLER SUPPORT YET).\r\n\r\n🍎Mac: \r\nWe WOULD be ready to launch for native MacOS (Apple Silicon / M Chips) - however we are missing the signing certificate. The ticket keeps being reset in the queue and we have to keep calling them. \r\nSystem requirements are work in progress - we have tried it on M3+ at the moment and we are working our way back in time to find the lowest limit. We will NOT launch Hytale for Intel Macs as Apple themselves abandon them in the next MacOS version. We are a small team and there is no way we can support abandoned platforms.\r\nSo for Mac, we use it internally to play on and even work on it but ultimately we have no way to ship it without the certificate. As soon as we have it, we will update you.\r\n\r\nWe will update the requirements on blog & store in the coming days.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2006774600491827296?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: PVP video",
+    "mainText": "'I edited myself, and you will notice some audio is cut, muffled, or acting up because of the language we used. I did my best to clean it up!\r\n\r\nNote that we didn’t use potions, food, traps, totems, blocks or magic. We’re really just testing the fundamentals and getting a feel for the core combat. We’ll add many more features and work closely with PvPers to ensure combat feels right and continues to improve over the years. We aim to bring a range of PvP minigames and support the community in creating their own PvP content. \r\n\r\nWhat I'm really excited about is seeing the community revive classic PvP modes like Bed Wars, Survival Games, Skywars, UHC, Extractions and more. \r\n\r\nNot only am I working on the game, business, and partnerships, but I'm also learning DaVinci Resolve in my free time to deliver you guys some raw footage. I'm in the trenches, bois😅'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/KweebecCorner/status/2006758382443835507?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying he should rest",
+    "mainText": "'working on Hytale is my peace'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006624364561584612?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon reveals short PVP Test video premieres at 2 PM EST today!",
+    "mainText": "'Happy New Year!\r\n\r\nRecorded a short Hytale PVP test video, will publish at 2 PM EST, January 1st.'",
+    "date": "1 1 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2006616308956459351?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Buddha, re: Lucent wishing a Happy New Year",
     "mainText": "'GIF - Cat Flashing Heart'",
     "date": "12 31 2025",

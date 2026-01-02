@@ -1,1 +1,21 @@
-
+[
+    {
+        "mainPlatform": "Youtube",
+        "summary": "The Hytale Team release new PVP video",
+        "mainText": "<p class='mainTextParagraph'>The Hytale Team released a look at PVP in it's early stages. Notably, the gameplay did not use potions, food, traps, blocks, or magic, with the video noting that  this is simply serving as the foundation that the team is building on.</p>",
+        "date": "01 01 2026",
+        "tags": [
+            "Youtube",
+            "Gameplay",
+            "Video"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "YouTube -  Hytale | Early PvP Gameplay Duel/FFA",
+                    "https://www.youtube.com/watch?v=BAmnC-ZEaAM"
+                ]
+            }
+        ]
+    }
+]

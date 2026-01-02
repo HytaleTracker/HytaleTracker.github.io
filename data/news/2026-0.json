@@ -1,7 +1,90 @@
 [
     {
+        "mainPlatform": "tweet",
+        "summary": "The Hytale Team talk PVP.",
+        "mainText": "<p class='mainTextParagraph'>After releasing an early look at Hytale's PVP, Simon took to Twitter to answer questions and provide details.</p><p class='mainTextParagraph'>\n\nSimon began by noting that knockback and collision are currently missing in-game, noting rendering issues with health bars and confirming they can be disabled. Simon also noted that weapons don't currently use durability, though it can be enabled, and added that (by default) players will lose some materials and durability upon death.</p><p class='mainTextParagraph'>\n\nSimon noted that the armor broke during the video, and thus only offered 50% benefits.</p><p class='mainTextParagraph'>\n\nWhen asked about spears and other weapons, Simon confirmed many additional weapon types exist in the game, but only in creative mode as they require work/special abilities. The developer also confirmed that enchantments/other improvement options for gear do not currently exist, and mentioned that a parry system and a stagger system will probably be added later on, and a grave system will likely be re-attempted in the future.</p>",
+        "date": "01 01 2026",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Early Access",
+            "Features",
+            "Future Stuff",
+            "Gameplay",
+            "Simon Notes"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - General Notes on PVP video",
+                    "https://xcancel.com/Simon_Hypixel/status/2006814867794128968?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Knockback/Collision",
+                    "https://xcancel.com/Simon_Hypixel/status/2006806848566182268?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Health Bars",
+                    "https://xcancel.com/Simon_Hypixel/status/2006808695586598997?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Weapon Durability",
+                    "https://xcancel.com/Simon_Hypixel/status/2006810504044724270?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - Death Penalties",
+                    "https://xcancel.com/Simon_Hypixel/status/2006811903113204061?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Simon - Armor Broke",
+                    "https://xcancel.com/Simon_Hypixel/status/2006863388421533718?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Simon - Additional Weapons",
+                    "https://xcancel.com/Simon_Hypixel/status/2006936432108241362?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Simon - Enchantments/Improvements",
+                    "https://xcancel.com/Simon_Hypixel/status/2006937939071377631?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Simon - Stagger System",
+                    "https://xcancel.com/Simon_Hypixel/status/2006818179990077670?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Simon - Parry System",
+                    "https://xcancel.com/Simon_Hypixel/status/2006931699310145769?s=20"
+                ]
+            },
+            {
+                "11": [
+                    "Simon - Grave System",
+                    "https://xcancel.com/Simon_Hypixel/status/2006934146720083984?s=20"
+                ]
+            }
+        ]
+    },
+    {
         "mainPlatform": "Youtube",
-        "summary": "The Hytale Team release new PVP video",
+        "summary": "The Hytale Team release new PVP video.",
         "mainText": "<p class='mainTextParagraph'>The Hytale Team released a look at PVP in it's early stages. Notably, the gameplay did not use potions, food, traps, blocks, or magic, with the video noting that  this is simply serving as the foundation that the team is building on.</p>",
         "date": "01 01 2026",
         "tags": [

@@ -1,6 +1,44 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: knockback prototypes",
+    "mainText": "'Yeah, just running out of time tbh.\r\nWe will eventually get it done, but we have to wait after launch.'",
+    "date": "1 2 2026",
+    "tags": [
+      "Simon",
+      "Future stuff",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007267174659080519?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user saying Hytale will release and everything will go well",
+    "mainText": "'It doesn't even have to go all well. It just has to happen - the biggest factor of stress is uncertainty and anticipation. Once the launch happens, we deal with the problems and then normalize the situation.\r\n\r\nThis is a lesson I learned as a fire fighter: You can plan it perfect. No plan survives first contact. So what we need is mastery of our craft, trust in the team and the ability to move fast and adapt. We build new organization structure based on actual field experience.\r\n\r\nOnce the dust settles, we find ourselves in a new reality: Operating a live game. We will mess up and learn until the time between mess-ups increases to an acceptable level.\r\n\r\nNo matter what - we just need to launch now and be done with it. Then the marathon to make Hytale perfect begins.'",
+    "date": "1 2 2026",
+    "tags": [
+      "Slikey",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007258890270801979?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Buddha, re: Novasobored getting a Creator Code",
     "mainText": "'GIF - Cat Flashing Heart'",
     "date": "1 2 2026",

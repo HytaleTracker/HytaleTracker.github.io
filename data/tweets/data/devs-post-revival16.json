@@ -1,6 +1,154 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Buddha, re: Novasobored getting a Creator Code",
+    "mainText": "'GIF - Cat Flashing Heart'",
+    "date": "1 2 2026",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2007245454812295209?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: his updated PFP",
+    "mainText": "'Hitting the gym every day before launch to be ready to neglect it again after launch 🤣 Thanks!'",
+    "date": "1 2 2026",
+    "tags": [
+      "Slikey",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007209761817980973?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Hytale's performance on M3 Pro Macs",
+    "mainText": "'Generally it runs just fine like 100 fps+ - The major challenge is rather that Mac has super high resolutions, so we are dialing in some defaults to render scale to not render 5k on 13 inch displays (hyperbole lol)'",
+    "date": "1 2 2026",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007206113671033256?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: r/Hytale post about the 2578+ day wait for Hytale",
+    "mainText": "'Totally not stressed 😅'\n\n(Image of reddit post)",
+    "date": "1 2 2026",
+    "tags": [
+      "Slikey",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007203110624907545?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Dexerto post about Simon's statement on condensing years of work into weeks to get the game fun and playable",
+    "mainText": "'true'",
+    "date": "1 2 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007139253873193417?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user giving Simon advice on YouTube's premiere feature",
+    "mainText": "'never going to use premiere again, youtube is cooked'",
+    "date": "1 2 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007137969828966637?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user reassuring another user that the death screen is placeholder",
+    "mainText": "'Correct, we got 1000 of fires going on, polishing will be in many months if not years'",
+    "date": "1 2 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007137625090732125?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user noting a sound effect was missing in PVP video",
+    "mainText": "'Yeah some of this got lost in the process of merging ton of branches, will see what we can do.'",
+    "date": "1 2 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007011389064593438?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: user hoping the team doesn't get caught up in the numbers at launch",
     "mainText": "'numbers are the least of my worry, the most complex thing to balance is the actual counter plays, weaknesses of weapons etc\r\nend of day, players can have more than 1 weapon anyways, place blocks, take potions, use traps etc'",
     "date": "1 1 2026",

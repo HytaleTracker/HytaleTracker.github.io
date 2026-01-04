@@ -1,6 +1,299 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking if WGV2 will be in release",
+    "mainText": "'You can \"visit\" world gen 2.\r\nYou can also go in creative and try some of the biomes / tests we made.\r\nThe tools will be available to make your own stuff.'",
+    "date": "1 3 2026",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007601133091749965?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Hawkon asking if he saw the website along with Rea's gift",
+    "mainText": "'I did! <3'",
+    "date": "1 3 2026",
+    "tags": [
+      "BuddhaCat",
+      "Off Topic",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2007599572923887857?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking about official server day 1",
+    "mainText": "'No, there is some info on that in the modding blog post'",
+    "date": "1 3 2026",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007589274544418987?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking for cozy gameplay",
+    "mainText": "'I’m running out of time 😭'",
+    "date": "1 3 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007584028895899807?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking if the blog is coming",
+    "mainText": "'Finished my review. Since the post is relatively technical and example-driven rather than showing off big worlds, we’re making a few changes to add clearer, more illustrative screenshots to avoid confusion. \r\n\r\nPeople are expecting some insane screenshots with a crazy, perfect world. This is more about the technical achievement and who can use it.'",
+    "date": "1 3 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007576286269485212?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: expectations for WGV2 blogpost",
+    "mainText": "'I feel like I have to temper expectations after seeing some comments! \r\n\r\nThe World Gen V2 blog will focus mainly on the generation tech, tools and prototype examples to showcase what it can do and how. There isn’t much finished Orbis world content for it yet, so don't expect major screenshots/clips of the actual world! We only had time to make a few biomes, all of which are unfinished.\r\n\r\nThe good news is that it's designed to enable much faster content creation while giving us greater control. \r\n\r\nThere will be a lot of screenshots, clips and text. If you only look at the visuals, you will not understand the scope of why this is a big step. \r\n\r\nTo the untrained eye, it won't seem like a big deal. However, for those \"who get it\", it will be. \r\n\r\nI added my personal note at the end of the blogpost so that people can understand better.'",
+    "date": "1 3 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007575164188606611?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: gifting by launch",
+    "mainText": "'We won't. We will try to add it asap post launch but for now we work off the items that are required for launch itself.'",
+    "date": "1 3 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007558100363145533?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user reconfirming WGV2 will surpass  anything seen in the block game genre",
+    "mainText": "'Tech wise and usability, yes. \r\nYou will see why.'",
+    "date": "1 3 2026",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Tech",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007556755291836727?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "SImon, re: World Gen V2 Blogpost",
+    "mainText": "'We’re finishing up the World Gen V2 blog post now. It should be ready today or tomorrow, and will go live by Monday at the latest.\r\n\r\nWith the release coming up in 10 days, things are a bit hectic, so blog ETAs may shift slightly. Thanks for your patience!'",
+    "date": "1 3 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007541160672195018?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "SImon, re: World Gen V2 Blogpost",
+    "mainText": "'We're working on it right now; we will be done today or tomorrow. Posting Monday at the latest, probably. Keep in mind that we are a bit overwhelmed by the upcoming release, so it's getting harder for me to make timing predictions.'",
+    "date": "1 3 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007540355059564729?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying they have their biggest project ahead and telling Simon to not mess up",
+    "mainText": "'what lol'",
+    "date": "1 3 2026",
+    "tags": [
+      "Simon",
+      "Off Topic",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007539010177257644?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking if green skins are in Hytale",
+    "mainText": "'yeah'",
+    "date": "1 3 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007537102536487347?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: adding servers",
+    "mainText": "'For now it is like MC, servers have to be added manually by IP.\r\nNext item on roadmap is a server browser which allows searching in game and not use those third party server lists that try to extort server owners'",
+    "date": "1 3 2026",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007537017844801967?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Rea's secret gift",
+    "mainText": "'It’s now in my office right next to me!'\n\n(Video of the gift)",
+    "date": "1 3 2026",
+    "tags": [
+      "Simon",
+      "Off Topic",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007536123275301095?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Rea's secret gift to him",
+    "mainText": "'Thank you, Rea and the community, for this incredible gift!'",
+    "date": "1 3 2026",
+    "tags": [
+      "Simon",
+      "Off Topic",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007535622160855323?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: user jokingly asking if there's enough content for 478 episodes of a Lets Play",
     "mainText": "'We will keep updating the games for many years to come!'",
     "date": "1 3 2026",

@@ -1,6 +1,43 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talk upcoming World Gen V2.",
+        "mainText": "<p class='mainTextParagraph'>Answering questions on Twitter, Simon revealed that the World Gen V2 blog post will be live by Monday (January 5th) by the latest, and reconfirmed that the new world gen will surpass anything seen in the blog game genre in terms of tech and usability. While World Gen V2 won't be used on early access launch, Simon confirmed that players can 'visit' it, and try out some of the biomes/tests the team made.</p><p class='mainTextParagraph'>\n\nSimon made a follow-up tweet, intending to temper expectations after seeing comments by the community. Simon revealed that the blog will focus mainly on the tech, tools, and prototype examples to showcase what it can do and how, and won't have major screenshots/clips of the world itself. Simon revealed that only a few biomes have been made, which he says are unfinished, though he says the new world gen is designed to enable much faster creation while giving greater control.</p>",
+        "date": "01 03 2026",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "World Generation"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - WGV2 blog status",
+                    "https://xcancel.com/Simon_Hypixel/status/2007541160672195018?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Surpassing other games",
+                    "https://xcancel.com/Simon_Hypixel/status/2007556755291836727?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Visit/test V2",
+                    "https://xcancel.com/Simon_Hypixel/status/2007601133091749965?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Tempering Expectations",
+                    "https://xcancel.com/Simon_Hypixel/status/2007575164188606611?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talk PVP.",
         "mainText": "<p class='mainTextParagraph'>After releasing an early look at Hytale's PVP, Simon took to Twitter to answer questions and provide details.</p><p class='mainTextParagraph'>\n\nSimon began by noting that knockback and collision are currently missing in-game, noting rendering issues with health bars and confirming they can be disabled. Simon also noted that weapons don't currently use durability, though it can be enabled, and added that (by default) players will lose some materials and durability upon death.</p><p class='mainTextParagraph'>\n\nSimon noted that the armor broke during the video, and thus only offered 50% benefits.</p><p class='mainTextParagraph'>\n\nWhen asked about spears and other weapons, Simon confirmed many additional weapon types exist in the game, but only in creative mode as they require work/special abilities. The developer also confirmed that enchantments/other improvement options for gear do not currently exist, and mentioned that a parry system and a stagger system will probably be added later on, and a grave system will likely be re-attempted in the future.</p>",
         "date": "01 01 2026",

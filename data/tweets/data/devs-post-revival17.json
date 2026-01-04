@@ -1,6 +1,43 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Propzie, re: user making a Venator from Star Wars in NMS",
+    "mainText": "'Awesome work!! Thank you for following my tutorial!'",
+    "date": "1 3 2026",
+    "tags": [
+      "Propzie",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/2007648764409049416?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: user's new PFP in Hytale style",
+    "mainText": "'I love this!! Really love your art style <3'",
+    "date": "1 3 2026",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2007622260920856775?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: user asking if WGV2 will be in release",
     "mainText": "'You can \"visit\" world gen 2.\r\nYou can also go in creative and try some of the biomes / tests we made.\r\nThe tools will be available to make your own stuff.'",
     "date": "1 3 2026",
@@ -99,7 +136,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon, re: expectations for WGV2 blogpost",
-    "mainText": "'I feel like I have to temper expectations after seeing some comments! \r\n\r\nThe World Gen V2 blog will focus mainly on the generation tech, tools and prototype examples to showcase what it can do and how. There isn’t much finished Orbis world content for it yet, so don't expect major screenshots/clips of the actual world! We only had time to make a few biomes, all of which are unfinished.\r\n\r\nThe good news is that it's designed to enable much faster content creation while giving us greater control. \r\n\r\nThere will be a lot of screenshots, clips and text. If you only look at the visuals, you will not understand the scope of why this is a big step. \r\n\r\nTo the untrained eye, it won't seem like a big deal. However, for those \"who get it\", it will be. \r\n\r\nI added my personal note at the end of the blogpost so that people can understand better.'",
+    "mainText": "'I feel like I have to temper expectations after seeing some comments! \n\nThe World Gen V2 blog will focus mainly on the generation tech, tools and prototype examples to showcase what it can do and how. There isn’t much finished Orbis world content for it yet, so don't expect major screenshots/clips of the actual world! We only had time to make a few biomes, all of which are unfinished.\n\nThe good news is that it's designed to enable much faster content creation while giving us greater control. \n\nThere will be a lot of screenshots, clips and text. If you only look at the visuals, you will not understand the scope of why this is a big step. \n\nTo the untrained eye, it won't seem like a big deal. However, for those \"who get it\", it will be. \n\nI added my personal note at the end of the blogpost so that people can understand better.'",
     "date": "1 3 2026",
     "tags": [
       "Simon",
@@ -158,7 +195,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "SImon, re: World Gen V2 Blogpost",
-    "mainText": "'We’re finishing up the World Gen V2 blog post now. It should be ready today or tomorrow, and will go live by Monday at the latest.\r\n\r\nWith the release coming up in 10 days, things are a bit hectic, so blog ETAs may shift slightly. Thanks for your patience!'",
+    "mainText": "'We’re finishing up the World Gen V2 blog post now. It should be ready today or tomorrow, and will go live by Monday at the latest.\n\nWith the release coming up in 10 days, things are a bit hectic, so blog ETAs may shift slightly. Thanks for your patience!'",
     "date": "1 3 2026",
     "tags": [
       "Simon",

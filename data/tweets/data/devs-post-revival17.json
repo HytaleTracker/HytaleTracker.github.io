@@ -1,6 +1,366 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking if players can connect using DNS or just IP",
+    "mainText": "'Yes, but we haven't added SRV records yet as there isn't a great library for C# and we dont have the proper time to implement it now.'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007904561735094580?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking if Hytale supports IPv6",
+    "mainText": "'Yeah.'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007904369757556754?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking if moving blocks is the only thing preventing a Create-style mod",
+    "mainText": "'It's a lot more that is missing. We have work to do but modding has always been about beating limitations and finding creative workarounds. \r\nTogether with creative modders and our developers adding capabilities we got this.'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007900523148857731?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking what ISN'T possible in Hytale",
+    "mainText": "'I actually have a list of stuff that is critical for mods coming very soon. And it's only one of many lists. There are real limitations before we can look at mods like Create. I'll see if I can post something like that next week.'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007899018802958499?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: the mod video",
+    "mainText": "'The code for this mod can't be released in its current form as we would need to go through the usual legal process of making sure none of the code is licensed. Additionally we want to show some best practise and given how quickly it was whipped up, I am sure other community members will be able to show much better results with much cleaner code.\r\n\r\nWe will see what we can do, but we don't want to split focus from game launch and not get distracted by side quests. I can't wait to see what other genres we see being brought to Hytale or an actual survivor game MMO server 🤩'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007897875523797177?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon responds to the mod video",
+    "mainText": "'Our developers are having fun with Hytale in their spare time, I think it's a good sign of things to come :)'",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007893040804012200?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: InTheLittleWood saying the mod video shows a lot of potential",
+    "mainText": "'The struggle is not to get too distracted and make mods ourselves all the time😅'",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007890948660089138?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: KC saying the game is going to have so much content",
+    "mainText": "'We are a small team and there is a lot of work getting done, I can't keep up myself lol\r\nImagine with millions of players... oh boi'",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007889976802107855?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares video of server-side top-down wave shooter mod",
+    "mainText": "'The following video showcases a server-side Hytale mod created by a Hytale team member in their spare time. It’s intended purely as inspiration for how different genres could be realized within Hytale! \r\n\r\nThe gameplay shown represents only a small subset of our modding capabilities and was used to build a simple, survivor-like experience. \r\nThis mod is not planned for release as part of the game.'\n\n(Gameplay Video, akin to Vampire Survivors)",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Modding",
+      "Gameplay",
+      "Video"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007888131350212658?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "PXL_Panda, re: M4 Mac testing",
+    "mainText": "'I’m running Hytale on a M4 MacBook Pro :)'",
+    "date": "1 4 2026",
+    "tags": [
+      "PXL_Panda",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by PXL_Panda",
+          "https://xcancel.com/pxl_panda/status/2007876327253402049?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hytale on Mac",
+    "mainText": "'I tested 2 days ago on a used $200 USD M1 Mac Mini with 8GB of RAM and was getting around 60 fps at 1080p with a bit over 200 view distance, not bad for now! Playing on a friend's server would make it much faster and stable as well. \r\n\r\nWe still have a lot of performance fixes to do on the Mac version!'",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007873045029892398?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: MacOS support",
+    "mainText": "'Mac users rejoice! And now I don't have to switch between rigs to work anymore 😄'",
+    "date": "1 4 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2007869721212031244?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: getting Linux and Mac support on launch",
+    "mainText": "'Cat Furious Typing on Laptop - Gif'",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007869519608549630?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Blockbench plugin update",
+    "mainText": "'Nice!'",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007865275513754100?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: MacOS support",
+    "mainText": "'Update: We got the certificate. We are all green. Details 👇'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007858356984373395?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: MacOS Support ",
+    "mainText": "'We'll reflect those Linux and Mac specifications on the website in the coming days.'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007856631975993354?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: MacOS support",
+    "mainText": "'We're happy to announce we will be shipping Hytale with macOS support on the 13th. \r\n\r\nHytale will support any M-Series macs with the minimum requirements being: \r\n1080p @ 30 FPS @ 192 View Distance\r\n- Apple M1 (any variant) w/macOS Tahoe\r\n- 8 GB of RAM \r\n- At least 10 GB of free space on an SSD\r\n\r\nRecommended requirements: \r\n1080p @ 60 FPS @ 384 View Distance\r\n- Apple M2 (any variant) w/macOS Tahoe\r\n- 16 GB of RAM\r\n- At least 20 GB of free space on an SSD\r\n\r\nSee you in Orbis real soon!'",
+    "date": "1 4 2026",
+    "tags": [
+      "DevSlashNull",
+      "Early Access",
+      "Tech",
+      "Statement"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2007857668963074382?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Jannis (Blockbench) shares update to Hytale Blockbench Plugin",
+    "mainText": "'The Hytale Blockbench plugin now includes a Hytale preview scene and an optional player reference model. These should help visualize the size of your models in relation to the world of Hytale!\r\nBoth can be enabled from Preview Options.'",
+    "date": "1 4 2026",
+    "tags": [
+      "Blockbench",
+      "Art",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Blockbench",
+          "https://xcancel.com/JannisX11/status/2007842109995557087?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: not supporting Intel Macs",
+    "mainText": "'It's simply that it's another build pipeline that we would have to set up, maintain and support. It would be technically possible but tech is rarely the problem. We are only capturing the major platforms. \r\nAlso we couldn't find an M chip that wouldn't run it, so pretty much any M variant now.'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2007775820320784431?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Propzie, re: user making a Venator from Star Wars in NMS",
     "mainText": "'Awesome work!! Thank you for following my tutorial!'",
     "date": "1 3 2026",

@@ -1,6 +1,250 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: user planning to learn modding when Hytale releases",
+    "mainText": "'It will be difficult in the beginning but you will be able to learn a thing every day. As the experienced modders and us are paving the way, you will be able to follow and learn. The fact we fix the game while it's live will allow the community to build a deep understanding & guides.'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008031717953597623?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user wanting to make an RTS style camera setup template",
+    "mainText": "'Hand me your requirements documents when you run into limitations. I want to incorporate it all into our roadmaps. I think point-and-click stuff with custom cameras will be interesting aswell to really allow RTS mods.'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008021795388141655?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking if Hytale can do peer-to-peer custom lobbies",
+    "mainText": "'Not yet but interesting concept. For now, you'd have to use the Singleplayer Friend Join via UPNP but yeah.. It will probably be server networks - maybe we can make minigames easier to discover than having to join servers. Maybe a discovery specifically for games like this that server networks can register into.. Hmm need to think more'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008011247174721904?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user surprised he is German",
+    "mainText": "'Schleswig-Holstein reporting in 🫡'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008010511015870865?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking if he did WC3",
+    "mainText": "'Yep, I have played a lot of Angel Arena, Element TD, LTW, TLTW and then continued in SC2 later. I myself made a bunch of LTW and Hero Line Wars. Never never really go anywhere but I used the chance to learn JASS and eventually go to Minecraft.'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008009856293507098?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking if he modded in WC3",
+    "mainText": "'I did some warcraft 3, half life (Counter-Strike and Sven Co-op maps), neverwinter nights and some other games! Didn’t publish any of it though, just for my friends group'",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008007950275613029?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: comments comparing Hytale modding to Warcraft 3 Map Editor",
+    "mainText": "'My gamedev career started when I was around 10 years old and got my hands on the Warcraft 3 Map Editor. I made my own Line Tower Wars in it and it allowed me to understand how games are actually made. \nSeeing these comments compare our game to the thing that influenced me so much is giving me comfy boomer feelings... https://xcancel.com/Simon_Hypixel/status/2007888131350212658\n'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008005926356213974?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user reporting 'rate limited' error on login",
+    "mainText": "'Is this still happening?'",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007987657650094310?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user reporting 'rate limited' error on login",
+    "mainText": "'Will investigate'",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007985803625128416?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user stressing importance of base game being exceptional, not only modding elements",
+    "mainText": "'Yep, look tomorrow in the world gen v2 blog post, you will understand my commitment'",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007984720169333059?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: HytaleNewsYT asking who all is ready to play Hytale",
+    "mainText": "'Ive been playing for a couple months now!'",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007984543266115741?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon announces World Gen V2 Blog Post",
+    "mainText": "'Hytale | World Gen V2 blog post tomorrow!\r\nMonday, 10 AM EST'",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Blogpost",
+      "Statement",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007978748688368006?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying Hytale seems like a cross between Roblox and Minecraft, especially in the modding area.",
+    "mainText": "'Un peu comme le modding de Warcraft 3!'\n\n(A bit like the modding of Warcraft 3!)",
+    "date": "1 4 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2007968458919817392?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: user asking if players can connect using DNS or just IP",
     "mainText": "'Yes, but we haven't added SRV records yet as there isn't a great library for C# and we dont have the proper time to implement it now.'",
     "date": "1 4 2026",
@@ -78,7 +322,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey, re: the mod video",
-    "mainText": "'The code for this mod can't be released in its current form as we would need to go through the usual legal process of making sure none of the code is licensed. Additionally we want to show some best practise and given how quickly it was whipped up, I am sure other community members will be able to show much better results with much cleaner code.\r\n\r\nWe will see what we can do, but we don't want to split focus from game launch and not get distracted by side quests. I can't wait to see what other genres we see being brought to Hytale or an actual survivor game MMO server 🤩'",
+    "mainText": "'The code for this mod can't be released in its current form as we would need to go through the usual legal process of making sure none of the code is licensed. Additionally we want to show some best practise and given how quickly it was whipped up, I am sure other community members will be able to show much better results with much cleaner code.\n\nWe will see what we can do, but we don't want to split focus from game launch and not get distracted by side quests. I can't wait to see what other genres we see being brought to Hytale or an actual survivor game MMO server 🤩'",
     "date": "1 4 2026",
     "tags": [
       "Slikey",
@@ -195,7 +439,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Simon, re: Hytale on Mac",
-    "mainText": "'I tested 2 days ago on a used $200 USD M1 Mac Mini with 8GB of RAM and was getting around 60 fps at 1080p with a bit over 200 view distance, not bad for now! Playing on a friend's server would make it much faster and stable as well. \r\n\r\nWe still have a lot of performance fixes to do on the Mac version!'",
+    "mainText": "'I tested 2 days ago on a used $200 USD M1 Mac Mini with 8GB of RAM and was getting around 60 fps at 1080p with a bit over 200 view distance, not bad for now! Playing on a friend's server would make it much faster and stable as well. \n\nWe still have a lot of performance fixes to do on the Mac version!'",
     "date": "1 4 2026",
     "tags": [
       "Simon",
@@ -305,7 +549,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "DevSlashNull, re: MacOS support",
-    "mainText": "'We're happy to announce we will be shipping Hytale with macOS support on the 13th. \r\n\r\nHytale will support any M-Series macs with the minimum requirements being: \r\n1080p @ 30 FPS @ 192 View Distance\r\n- Apple M1 (any variant) w/macOS Tahoe\r\n- 8 GB of RAM \r\n- At least 10 GB of free space on an SSD\r\n\r\nRecommended requirements: \r\n1080p @ 60 FPS @ 384 View Distance\r\n- Apple M2 (any variant) w/macOS Tahoe\r\n- 16 GB of RAM\r\n- At least 20 GB of free space on an SSD\r\n\r\nSee you in Orbis real soon!'",
+    "mainText": "'We're happy to announce we will be shipping Hytale with macOS support on the 13th. \n\nHytale will support any M-Series macs with the minimum requirements being: \n1080p @ 30 FPS @ 192 View Distance\n- Apple M1 (any variant) w/macOS Tahoe\n- 8 GB of RAM \n- At least 10 GB of free space on an SSD\n\nRecommended requirements: \n1080p @ 60 FPS @ 384 View Distance\n- Apple M2 (any variant) w/macOS Tahoe\n- 16 GB of RAM\n- At least 20 GB of free space on an SSD\n\nSee you in Orbis real soon!'",
     "date": "1 4 2026",
     "tags": [
       "DevSlashNull",
@@ -344,7 +588,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Slikey, re: not supporting Intel Macs",
-    "mainText": "'It's simply that it's another build pipeline that we would have to set up, maintain and support. It would be technically possible but tech is rarely the problem. We are only capturing the major platforms. \r\nAlso we couldn't find an M chip that wouldn't run it, so pretty much any M variant now.'",
+    "mainText": "'It's simply that it's another build pipeline that we would have to set up, maintain and support. It would be technically possible but tech is rarely the problem. We are only capturing the major platforms. \nAlso we couldn't find an M chip that wouldn't run it, so pretty much any M variant now.'",
     "date": "1 4 2026",
     "tags": [
       "Slikey",

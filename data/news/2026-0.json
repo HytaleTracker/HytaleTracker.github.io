@@ -1,6 +1,78 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talk MacOS support, new mod video, new server information, and reveal World Gen V2 Blogpost release timing.",
+        "mainText": "<p class='mainTextParagraph'>The Hytale Team started the day off strong, with DevSlashNull (Hytale's Technical Producer) announcing that Hytale will ship with macOS support on January 13th, and will support any M-Series Macs. Simon revealed that he previously tested the game on a M1 Mac Mini with 8GB of RAM, and got ~60 FPS @ 1080P with a view distance a bit over 200 blocks. Separately, Slikey confirmed that Hytale will not support Intel Macs, as it would require separate maintenance and support.</p><p class='mainTextParagraph'>\n\nAround 11 AM CST, Simon shared a video showcasing a server-side mod created by a team member in their spare time, featuring top-down wave shooter style gameplay, akin to Vampire Survivors. Slikey later stated that he has a long list of limitations that are critical before mods like 'Create' can be... created, and stated he'd try to post the list some time in the next week.</p><p class='mainTextParagraph'>\n\nSlikey revealed new server information in a series of short tweets, confirming Hytale supports IPv6, does not yet have SRV records, and stated that Hytale does not currently have support for peer-to-peer custom lobbies 'yet.'</p><p class='mainTextParagraph'>\n\nPerhaps the most important news of the day came with Simon's announcement that Hytale's <b><i>World Gen V2</i></b> blog post would release tomorrow, January 5th, at 10 AM EST.</p>",
+        "date": "01 04 2026",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "DevSlashNull",
+            "Slikey",
+            "Modding",
+            "Servers",
+            "Tech",
+            "Video"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "DevSlashNull - MacOS Support/Requirements",
+                    "https://xcancel.com/DevSlashNulled/status/2007857668963074382?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - M1 Mac Mini test result",
+                    "https://xcancel.com/Simon_Hypixel/status/2007873045029892398?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Slikey - No support for Intel Macs",
+                    "https://xcancel.com/slikey/status/2007775820320784431?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Mod Gameplay Showcase",
+                    "https://xcancel.com/Simon_Hypixel/status/2007888131350212658?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Slikey - Mod Limitation List",
+                    "https://xcancel.com/slikey/status/2007899018802958499?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Slikey - IPv6 Support",
+                    "https://xcancel.com/slikey/status/2007904369757556754?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Slikey - No SRV records yet",
+                    "https://xcancel.com/slikey/status/2007904561735094580?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Slikey - No peer-to-peer custom lobbies yet",
+                    "https://xcancel.com/slikey/status/2008011247174721904?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Simon - World Gen V2 blog post release date",
+                    "https://xcancel.com/Simon_Hypixel/status/2007978748688368006?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talk upcoming World Gen V2.",
         "mainText": "<p class='mainTextParagraph'>Answering questions on Twitter, Simon revealed that the World Gen V2 blog post will be live by Monday (January 5th) by the latest, and reconfirmed that the new world gen will surpass anything seen in the blog game genre in terms of tech and usability. While World Gen V2 won't be used on early access launch, Simon confirmed that players can 'visit' it, and try out some of the biomes/tests the team made.</p><p class='mainTextParagraph'>\n\nSimon made a follow-up tweet, intending to temper expectations after seeing comments by the community. Simon revealed that the blog will focus mainly on the tech, tools, and prototype examples to showcase what it can do and how, and won't have major screenshots/clips of the world itself. Simon revealed that only a few biomes have been made, which he says are unfinished, though he says the new world gen is designed to enable much faster creation while giving greater control.</p>",
         "date": "01 03 2026",

@@ -288,7 +288,7 @@
     "mainText": "'Hytale support is here!\r\n\r\nIn this new blog post, Hytale Art Director @ThomasFrick explains how to use Blockbench to create models for the game!\r\nThe new Hytale Models plugin can be installed from inside Blockbench! (click File > Plugins)'",
     "date": "12 22 2025",
     "tags": [
-      "Blockbench",
+      "Third Party",
       "Devs",
       "Art",
       "Blogpost"
@@ -296,7 +296,7 @@
     "sources": [
       {
         "1": [
-          "tweet by Blockbench",
+          "tweet by Third Party",
           "https://xcancel.com/blockbench/status/2003149804873097392?s=20"
         ]
       }

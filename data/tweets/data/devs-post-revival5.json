@@ -663,14 +663,14 @@
     "mainText": "'Some tips if you want to make models for Hytale already before the tools release, to make it easier to convert later:\n\n1. Use the Generic format. Models are build from groups, cubes, and quads (flat cubes with only one side). Don't use meshes (including cuboid or plane meshes).\n2. Models face south (positive Z)\r\n3. Player and player attachment models are 64x, other models are 32x (pixels per block). It's best to leave the grid snapping and pixel density at default (16) and model at a larger scale, so that 1 pixel on the texture equals 1 unit on the model'",
     "date": "11 26 2025",
     "tags": [
-      "Blockbench",
+      "Third Party",
       "Art",
       "Tech"
     ],
     "sources": [
       {
         "1": [
-          "tweet by Blockbench",
+          "tweet by Third Party",
           "https://xcancel.com/blockbench/status/1993698717350645889?s=20"
         ]
       }

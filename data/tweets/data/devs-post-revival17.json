@@ -1,6 +1,769 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Pebble feeling like Hawkeye from Endgame about Hytale",
+    "mainText": "'Ted Lasso pointing at 'Believe' sign - Gif'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008213743730356385?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user making Twitter acct to follow Hytale news",
+    "mainText": "'I know, same for me, I rejoined for Hytale community.'",
+    "date": "1 5 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008205979536798203?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Thomas's joke about him upscaling the whale after art blogpost said to avoid it",
+    "mainText": "'HAHAHA'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008205543731835214?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Lynn saying Simon made them return to Twitter",
+    "mainText": "'Simon will come on the other side too eventually'",
+    "date": "1 5 2026",
+    "tags": [
+      "Thomas Frick",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008205166416470019?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas encourages users to move to BlueSky",
+    "mainText": "'Btw what are you still doing on X? Come join me on the place where the sky is bluer, it’s where I interact with people the most. Here, it smells.'\n\n(Screenshot of Thomas's BSKY account)",
+    "date": "1 5 2026",
+    "tags": [
+      "Thomas Frick",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008204662009389566?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user joking abt texture size of the upscaled Whale",
+    "mainText": "'A nice lightweight 64000 per 64000 pixels texture, I don’t see the issue 😂'",
+    "date": "1 5 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008203137442881698?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Flash liking Big Whales",
+    "mainText": "'I must admit this is a fun whale'",
+    "date": "1 5 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008200374822506952?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: ExodusAblaze excited for Skywhale",
+    "mainText": "'Time to be a sky pirate!'",
+    "date": "1 5 2026",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2008200154344743276?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Thomas' last tweet",
+    "mainText": "'lmao!'",
+    "date": "1 5 2026",
+    "tags": [
+      "BuddhaCat",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2008199998308278520?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: flying whale in the blog",
+    "mainText": "'I see, @Simon_Hypixel scaling the whale model 1000 times after I wrote in the art blogpost that we avoid doing this, I'm sure it's to trigger me!'",
+    "date": "1 5 2026",
+    "tags": [
+      "Thomas Frick",
+      "Modding",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008199828824797418?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Myne's continuous posting of 'wake up babe, new Hytale tweet' meme",
+    "mainText": "'If you wake up everytime there is new Hytale info:'\n\n(Sleep Deprived Cartoon Animal Blinking Oddly - Gif)",
+    "date": "1 5 2026",
+    "tags": [
+      "Slikey",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008199627129156045?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: World Gen V2 Blog",
+    "mainText": "'The crazy thing is that users will be able to use our tools to make worlds...'",
+    "date": "1 5 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008199270516830587?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Rea's gift to Simon",
+    "mainText": "'ooooh'\n\n(Loki 'Oooh' - Gif)",
+    "date": "1 5 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008196755066921072?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: user's ogre model",
+    "mainText": "'It looks like your avatar has captured a trork baby and tried to raise it yourself'",
+    "date": "1 5 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008196466020344184?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: CurseForge post",
+    "mainText": "'Oh Yeah, It's All Coming Together - Gif'",
+    "date": "1 5 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008196203754971145?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "CurseForge shares quotes from Mod Developers",
+    "mainText": "'💬 \"I never modded anything other than Minecraft, so I was quite scared of the learning curve. But to my surprise, everything that I wanted to do, I figured out very quickly... For mod makers who mostly add new assets, you are going to have a fun time.\" \n- @sketch_macaw'",
+    "date": "1 5 2026",
+    "tags": [
+      "Third Party",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Third Party",
+          "https://xcancel.com/CurseForge/status/2008181022408732855?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "CurseForge shares quotes from Mod Developers",
+    "mainText": "'💬\"The game's systems are very modular, which makes adding and modifying content feel intuitive. Creating new blocks and items only takes a few seconds, and it's great to get immediate in-game feedback as you iterate.\" \n- @DarkhaxDev'",
+    "date": "1 5 2026",
+    "tags": [
+      "Third Party",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Third Party",
+          "https://xcancel.com/CurseForge/status/2008180740631261493?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "CurseForge shares quotes from Mod Developers",
+    "mainText": "'We gave a few mod authors early access to the tools, and here's what they have to say about their experience so far:\n💬\"Modding Hytale really took me out of my comfort zone; it is a completely new and different game compared to games I've modded in the past. The component system is insanely powerful, and all assets being hot reloadable made prototyping mods super fast.\" — Jaredlll08'",
+    "date": "1 5 2026",
+    "tags": [
+      "Third Party",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Third Party",
+          "https://xcancel.com/CurseForge/status/2008180623177814085?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "CurseForge shares official launch of Hytale modding page",
+    "mainText": "'Hytale mods are COMING SOON👀\r\n\r\nWith Hytale’s launch right around the corner, we’re so excited to announce our partnership to support Hytale mods from Day 1!\r\n\r\nVisit here to learn more about all of the tools that will be available for modders to bring their ideas alive:\r\nhttp://hytale.curseforge.com'",
+    "date": "1 5 2026",
+    "tags": [
+      "Third Party",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Third Party",
+          "https://xcancel.com/CurseForge/status/2008177774255636830?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: World Gen V2 blog",
+    "mainText": "'Working with our level designers for over 10 years and they just keep innovating. The technical and workflow implications here are much bigger than they may appear on the surface! This is truly empowering for non-technical creative folks. Bright future ahead 🤩'",
+    "date": "1 5 2026",
+    "tags": [
+      "Slikey",
+      "Statement",
+      "World Generation",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008193157989900599?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: user asking if he's ready to be the next C418",
+    "mainText": "'haha I'm ready to be Oscar :D'",
+    "date": "1 5 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008192810894410105?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: WorldGen V2",
+    "mainText": "'As I mentioned publicly a few days ago, this new approach to world generation will redefine the block-game genre. For the first time, artists and game designers can take full ownership of world generation, with complete control over the final result. This is a fundamental shift away from a world shaped almost solely by programmers.\r\n\r\nWith that in mind, I'm pleased to announce that we're planning to expand the Hytale team with a new job role that, for the most part, has not existed in block-based games before: World Designer. Following the early access release, we plan to expand our team by hiring more than 15 World Designers. These roles will be filled primarily from the community, as artists and game designers learn and build using the same tools we use internally and choose to apply.\r\n\r\nHytale's vision is to feel carefully handcrafted while remaining infinitely procedural, with design always serving gameplay first!\r\n\r\nWe are intentionally expansive, just as we envisioned years ago. Beyond Orbis, we plan to explore alternate worlds, new dimensions, and entirely different spaces. These worlds give us room to introduce new blocks, items, prefabs, zones, regions, biomes, NPCs, quests, stories, and gameplay systems.'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Statement",
+      "World Generation"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008192428335849720?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares the World Gen V2 Blog",
+    "mainText": "'In today’s exciting new blog post, Dan and Amber dive deep into the future of Hytale’s world generation!\r\nDiscover the incredible new features, capabilities, and potential for both our players and creators. Screenshots, videos and more!\r\nhttps://hytale.com/news/2026/1/the-future-of-world-generation\r\n'",
+    "date": "1 5 2026",
+    "tags": [
+      "Hytale",
+      "Blogpost",
+      "World Generation",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/2008191999703421381?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Myne saying he'll be off on the 13th",
+    "mainText": "'good'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008189241227137102?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Myne being at work during Blog release",
+    "mainText": "'rare moment'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008181899177697338?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user's Ogre model",
+    "mainText": "'I'm scared'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008180896235704613?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Prowl asking when he got into CS",
+    "mainText": "'In the very early days! Can't remember the exact versions, but it didn't have many maps back then'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008177341344907649?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Flash wishing him a good morning",
+    "mainText": "'blog day'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008173070377476479?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user amazed by his management",
+    "mainText": "'Thank you, Pedro!\r\nOne thing for sure is we are putting a lot of care and passion in this game, hopefully we can get to a point in the future were we are happy with the result :)'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008167604322513240?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user being jealous that he likes his brothers models",
+    "mainText": "'I've been looking at all your models and they are awesome. Don't be jealous, it doesn't suit you ❤️'",
+    "date": "1 5 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008158288341287089?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Hytale Team",
+    "mainText": "'I've just been catching up on Slack after the holidays and man, I can confirm: the Hytale team is absolutely cracked'",
+    "date": "1 5 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008148483086463287?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: user asking if routing audio thru specific virtual cables is possible",
+    "mainText": "'I'm not entirely sure what you mean! You can turn the music off if that's what you're wondering'",
+    "date": "1 5 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008148101266317546?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Vampire Survivors type mod video from Simon",
+    "mainText": "'woooooah, I knew this was possible in Hytale, but not to this extent 😍 can't wait to see what awesome games the community makes with our tools'",
+    "date": "1 5 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008144667507134493?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Hytale OST",
+    "mainText": "'You will see almost all of the tracks from my portfolio in the Hytale files (that includes everything that isn't being used in the game), converted to ogg for use in mods etc at your leisure.'",
+    "date": "1 5 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Music",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008143873919635941?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user's brother's first model",
+    "mainText": "'Here. Commenting right bellow your tweet haha. I love this creature!'",
+    "date": "1 5 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008096089304621397?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen, re: user asking if Camera Shake & View Bobbing can be disabled",
+    "mainText": "'Heya! Yes, options for both are available! You can find more of the settings related to accessibility on this page: https://hytale.com/accessibility'",
+    "date": "1 5 2026",
+    "tags": [
+      "Mewen",
+      "Accessibility"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://xcancel.com/MewSoul/status/2008059051616456735?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking if Hytale's OST is DMCA free",
+    "mainText": "'You can freely use and monetize the Hytale OST for Hytale related videos!'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008056225347608681?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user's brother's first model for Hytale",
+    "mainText": "'This creature has some awesome vibes. Really cute and creepy at the same time, I love it'",
+    "date": "1 5 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008055884325503042?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: ARM64 support on Linux",
+    "mainText": "'For now, we will revisit this later but for launch we need to keep us stable. We don't even have a real CICD team, we are just making this work now and focus on complete coverage later.'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008045642137112868?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user suggesting Slikey talk to Hynergy",
+    "mainText": "'Got that on my radar, I will help them most by communicating our known limitations and saving them time trying to search for something that doesn't exist yet. There are some concepts I have seen we will need to provide some more capabilities to make it perfect.'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008039113858195875?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user saying MC modders are going to be faster/better for bugs",
+    "mainText": "'I have no doubt there will be some crazy 14 year olds with incredible skill making us all look like amateurs. \r\nGiven the state of things and how broken some things are, it'll take us a while to get \"clean\" ways to do the most anticipated things but I am sure modders find creative ways to overcome any temporary limitations.'",
+    "date": "1 4 2026",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008038269611549073?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: user planning to learn modding when Hytale releases",
     "mainText": "'It will be difficult in the beginning but you will be able to learn a thing every day. As the experienced modders and us are paving the way, you will be able to follow and learn. The fact we fix the game while it's live will allow the community to build a deep understanding & guides.'",
     "date": "1 4 2026",
@@ -572,14 +1335,14 @@
     "mainText": "'The Hytale Blockbench plugin now includes a Hytale preview scene and an optional player reference model. These should help visualize the size of your models in relation to the world of Hytale!\r\nBoth can be enabled from Preview Options.'",
     "date": "1 4 2026",
     "tags": [
-      "Blockbench",
+      "Third Party",
       "Art",
       "Tech"
     ],
     "sources": [
       {
         "1": [
-          "tweet by Blockbench",
+          "tweet by Third Party",
           "https://xcancel.com/JannisX11/status/2007842109995557087?s=20"
         ]
       }

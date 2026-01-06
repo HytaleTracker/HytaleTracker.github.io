@@ -1,6 +1,133 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Ktar, re: World Gen V2 blog",
+    "mainText": "'I've been working with Dan since even before Hytale back in the Minecraft community, and alongside Amber for over 5 years. These people are insanely talented, and I feel so lucky to get to support both of them with the features of the Asset Node Editor. 12 out of 10 blogpost!'",
+    "date": "1 5 2026",
+    "tags": [
+      "Ktar",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2008374481136328884?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user calling BSky a liberal echo-chamber",
+    "mainText": "'You're right bot, this place funded by a homophobic billionaire who allows AI to undress underaged girls and promotes hatred talks is so much less of an echo chamber 😂'",
+    "date": "1 5 2026",
+    "tags": [
+      "Thomas Frick",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008368275630039460?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: what Arcanite Games was working on prior to Hytale",
+    "mainText": "'Oh, that part was fun, I was not personally full-time on it though! We were making a roguelike on Unreal Engine 5'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Historical"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008364915011059907?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: user explaining Locked Account issue",
+    "mainText": "'Please open a ticket with support if you havent already, we're working on a process for resolution on this'",
+    "date": "1 5 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2008356503133016424?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hugo's old prediction for World Gen V2",
+    "mainText": "'big if true'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008345510130651572?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Myne saying the community slept over the years",
+    "mainText": "'I was bored when I was not working on Hytale'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008342805895069964?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: KC memeing about the 'looks like Minecraft' narrative dying when players see the world gen/flying whale",
+    "mainText": "'Jurassic Park dude taking off sunglasses - Gif'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008313425168875873?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Oscar, re: using Hytale OST",
     "mainText": "'You can use all the songs in my portfolio, it's property of Hypixel Studios, and you'll have access to the same songs in the game engine to use for mods.'",
     "date": "1 5 2026",
@@ -61,7 +188,6 @@
     "date": "1 5 2026",
     "tags": [
       "DevSlashNull",
-      "Off Topic",
       "Tech"
     ],
     "sources": [

@@ -1,6 +1,120 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Oscar, re: using Hytale OST",
+    "mainText": "'You can use all the songs in my portfolio, it's property of Hypixel Studios, and you'll have access to the same songs in the game engine to use for mods.'",
+    "date": "1 5 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008270024973144145?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: answering questions in Prowl's stream chat",
+    "mainText": "'After the community was there for us during #SaveHytale, the least I can do is spend some time per blogpost in streams. I am grateful for your support <3'",
+    "date": "1 5 2026",
+    "tags": [
+      "Slikey",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008257320107819135?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: Blockbench plugin update",
+    "mainText": "'Almost like playing hytale for real, even before release'",
+    "date": "1 5 2026",
+    "tags": [
+      "Polina",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://xcancel.com/LogadoPolina/status/2008256791466115400?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: user asking about Locked Account issue",
+    "mainText": "'Sorry not sure what you mean, could you elaborate? What is the locked account issue?'",
+    "date": "1 5 2026",
+    "tags": [
+      "DevSlashNull",
+      "Off Topic",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2008244728186499229?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user hoping for Modrinth to steal the Modding scene",
+    "mainText": "'They were and are still invited to join the Hytale modding scene!'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008243615194378248?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user's concern that Hytale is pushing massive world gen",
+    "mainText": "'The examples given are not representative of the final product! Will provide more details later on - we are aiming to be gameplay first and foremost.\r\n\r\nTo give you some reassurance: I don't really like enormous mountains/cliffs. They need to be interesting with NPCs / caverns / prefabs  / POI and interesting gameplay design. The lead designer and I completely understand this issue and will make sure the world designers do as well!'",
+    "date": "1 5 2026",
+    "tags": [
+      "Simon",
+      "Modding",
+      "World Generation",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008241298126549481?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: taking risks with updates",
     "mainText": "'I'm not afraid to launch the game, so updates are the least of my worries 😅'",
     "date": "1 5 2026",

@@ -1,5 +1,40 @@
 [
     {
+        "mainPlatform": "blog",
+        "summary": "The Hytale Team share The Future of World Generation (World Gen V2) blog post.",
+        "mainText": "<p class='mainTextParagraph'>Dan & Amber of the Hytale Team shared a glimpse into The Future of World Generation, or 'World Gen V2.' </p><p class='mainTextParagraph'>\n\nThe blog began with a brief explanation, covering the difference between World Gen V1 and World Gen V2, and briefly stating that V2 will be the primary world generator for Hytale once it is complete. The blog included many videos and screenshots showcasing World Gen V2, showcasing and explaining various features.</p><p class='mainTextParagraph'>\n\nA major 'selling point' of World Gen V2 is the node editor system, which allows <b>anyone</b> to create and modify world-gen without knowing how to code. Additionally, any world-gen edits are live-reloaded in-game to reflect any changes made, allowing creators to control terrain shape, biome transitions, materials, props, and other world generation factors.</p><p class='mainTextParagraph'>\n\nThe Team also committed to publishing first-party tutorials, guides, and documentation, and (soon enough) hire over 15 World Designers, primarily from the community.  Simon estimates that starting salaries for World Designers would be around $80K~$100K USD a year.</p>",
+        "date": "01 05 2026",
+        "tags": [
+            "Simon",
+            "Statement",
+            "Blog",
+            "Tweet",
+            "Amber",
+            "Dan",
+            "Early Access",
+            "Features",
+            "Future Stuff",
+            "Modding",
+            "Simon Notes",
+            "Tech",
+            "World Generation"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Blog - The Future of World Generation",
+                    "https://hytale.com/news/2026/1/the-future-of-world-generation"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Starting Salaries for World Designers",
+                    "https://xcancel.com/Simon_Hypixel/status/2008219318241423865?s=20"
+                ]
+            }
+        ]
+    },
+    {
         "mainPlatform": "tweet",
         "summary": "The Hytale Team talk MacOS support, new mod video, new server information, and reveal World Gen V2 Blogpost release timing.",
         "mainText": "<p class='mainTextParagraph'>The Hytale Team started the day off strong, with DevSlashNull (Hytale's Technical Producer) announcing that Hytale will ship with macOS support on January 13th, and will support any M-Series Macs. Simon revealed that he previously tested the game on a M1 Mac Mini with 8GB of RAM, and got ~60 FPS @ 1080P with a view distance a bit over 200 blocks. Separately, Slikey confirmed that Hytale will not support Intel Macs, as it would require separate maintenance and support.</p><p class='mainTextParagraph'>\n\nAround 11 AM CST, Simon shared a video showcasing a server-side mod created by a team member in their spare time, featuring top-down wave shooter style gameplay, akin to Vampire Survivors. Slikey later stated that he has a long list of limitations that are critical before mods like 'Create' can be... created, and stated he'd try to post the list some time in the next week.</p><p class='mainTextParagraph'>\n\nSlikey revealed new server information in a series of short tweets, confirming Hytale supports IPv6, does not yet have SRV records, and stated that Hytale does not currently have support for peer-to-peer custom lobbies 'yet.'</p><p class='mainTextParagraph'>\n\nPerhaps the most important news of the day came with Simon's announcement that Hytale's <b><i>World Gen V2</i></b> blog post would release tomorrow, January 5th, at 10 AM EST.</p>",

@@ -1,6 +1,340 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: swing direction not being mouse-based",
+    "mainText": "'it's like that for now but might change / add options later, got too much going on to do some changes like this atm'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008953698836418602?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: cozy/mining/crafting/building gameplay",
+    "mainText": "'Been trying to find some time to record this aspect of the game! I was planning a long video, but maybe something short is good enough. No promises, doing my best atm'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008949530755207302?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: if he's nervous",
+    "mainText": "'Not nervous about something in particular; whatever issues we have, I know we can fix. It will just take time as they come, and I hope the community understands we will be very busy.\n\nExcited about seeing what creative people do with the game, it offers a lot of options!\n\nOne thing I hope is that people are generally happy with how the game feels and see its long-term potential!'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Early Access",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008938649098789327?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: Shield slot function",
+    "mainText": "'The shield item in Z slot is only active with compatible gear, so it's just stored there when holding something 2h, like the Mace. If you hold Z it brings up a radial menu.\r\nA shield on its own or paired with compatible gear, like a sword, gives you a shield bash option on block.'",
+    "date": "1 7 2026",
+    "tags": [
+      "Propzie",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/2008937740692582546?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user being fond of midnight releases",
+    "mainText": "'the team would not be haha'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008933665993035792?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: official launch time",
+    "mainText": "'We are still figuring this out and will give answers in the coming days!'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Release",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008929702916882457?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user joking about not actually being able to report bugs since the game isn't out",
+    "mainText": "'TRUE, for now :P'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008928302564594088?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user commenting on how small Simon's cursor is in the bug reporting video",
+    "mainText": "'It's not about the size of the cursor but about how you use it!\r\nOn a serious note, I have a 32-inch 4K monitor, so the cursor on video looks small. We will add cursor size options in the near future. Thanks for the feedback!'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008926173850448262?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: Lynn asking how to attack with butt end of mace",
+    "mainText": "'Hold block with right click then left click while still blocking. You can time this so you can nearly press them at the same time. This is still all subject to change and balancing ofc; but it does feel pretty good right now!'",
+    "date": "1 7 2026",
+    "tags": [
+      "Propzie",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/2008926083777769622?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: ITLW asking about arrows around cursor during combat",
+    "mainText": "'It's next swing direction! It's controllable by holding movement direction; so for this example Simon is holding \"D\" on the keyboard to tell the next swing to be a left to right swing. If you hold \"S\" to go backwards, you do an uppercut :)'",
+    "date": "1 7 2026",
+    "tags": [
+      "Propzie",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/2008922558607815118?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon showcases bug reporting in-game",
+    "mainText": "'New feature: You can report bugs and give feedback in-game.'\n\n(Video)",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Feature"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008920885952925914?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Fan Music creator explaining their music background",
+    "mainText": "'Thanks for your support:)\r\n And that's great you produce and compose. I love sharing ideas and techinques with fellow creators, I'd be interested in seeing your process for these tracks!'",
+    "date": "1 7 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008917282899018031?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Machinima video announcement",
+    "mainText": "'Cat Nodding Rapidly - GIF'",
+    "date": "1 7 2026",
+    "tags": [
+      "BuddhaCat",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2008904218640281869?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: fan music",
+    "mainText": "'How did you make these?:)'",
+    "date": "1 7 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008896262670532720?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: 'A Difficult Update' image",
+    "mainText": "'Cartoon animal rocking back and forth - Gif'",
+    "date": "1 7 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008895298127442304?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Slamma excited for Hytale next week",
+    "mainText": "'yeah'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008791993129070878?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Breadley excited to see what Machinima mode can do",
+    "mainText": "'was able to do*\r\nIts half broken right now, slowly fixing it up! We want to rework the entire thing in the future, its super old and was not maintained.'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008791118067233205?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon announces Hytale Machinima video on Thursday",
+    "mainText": "'Hytale Machinima\r\nThursday 10 AM EST on Youtube'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Statement",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008789196635591049?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Slikey, re: Watch Together feature",
     "mainText": "'I brought it up a bunch of times on our Discord - basically the problem is that this feature was based on a proprietary library that has been EOL for 4 years and not received any updates. We had to remove it due to a whole collection of security issues. We will look at this again in the future but currently it's mostly seen as a vanity feature that gets trumped by gameplay improvements.'",
     "date": "1 6 2026",

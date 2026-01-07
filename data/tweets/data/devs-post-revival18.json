@@ -1,6 +1,417 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: user's suggestion to do community surveys to determine what gets added soonest",
+    "mainText": "'Honestly, we got a massive list of \"obvious\" issues/updates we need to do ASAP, and then we will explore how we can have fun with future updates and involve the community along the way.'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Early Access",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008660971221627281?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon reveals some team members are working on post-launch patches/updates",
+    "mainText": "'As we approach the Hytale early access launch, some team members are already focused on post-launch patches and updates!'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Simon Notes",
+      "Early Access"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008659495619289173?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user making a joke(?) about indie devs having more freedom to speak than the public face of Minecraft",
+    "mainText": "'baited'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008655351785418901?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hytale's post",
+    "mainText": "'$19.99 for Hytale. Extra dino nuggets not included.'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Early Access"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008634565149983064?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares screenshot - 7 Days until Early Access",
+    "mainText": "'✨ 7 DAYS ✨ until Early Access release!! #Hytale'\n\n(Screenshot of two dinosaurs amongst the foliage of Zone 4 caves)",
+    "date": "1 6 2026",
+    "tags": [
+      "Hytale",
+      "Screenshot",
+      "Early Access"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/2008631755033514348?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user disliking Mojang's politician-style communication, preferring Simon's openness",
+    "mainText": "'Yeah well it's because I own the company/game and am financially free to do whatever I want though😅\r\nThe only one that can \"fire me\" is the players by not playing the game!!'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008622734406795625?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: if a item/energy/fluid transfer system exists in Hytale, or if the community should agree on one",
+    "mainText": "'You should somehow align on a standard - anything we would provide would fall short. Unless we actively use it for exploration / adventure, we'd just end up building something half-baked and you'd still end up rolling your own.'",
+    "date": "1 6 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008621836490113311?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Prowl comparing Simon and Jeb's communication",
+    "mainText": "'To be fair to Jeb, he has responsibilities to a large company with shareholders and hundreds of employees depending on its decisions. Everything he says can be overanalyzed and turned into “news” by mainstream media.\r\n\r\nAs someone who also worked in the Minecraft community for 14+ years, I can say it takes a high tolerance for hate and harassment. I’ve had to hire security multiple times and work with law enforcement more than once.\r\n\r\nTransparency as a developer is a double-edged sword. You say something in good faith, and years later, you’re still being quoted even after you’ve changed your mind. It’s a tricky balance.\r\n\r\nPersonally, I’d rather say “I changed my mind, let’s move on” and deal with the downsides 😛'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008621599671435318?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: Olegro breaking down the exact amount of minutes/seconds until Hytale",
+    "mainText": "'Sweating Duck - Gif'",
+    "date": "1 6 2026",
+    "tags": [
+      "DevSlashNull",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2008617729956475228?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hytale being seven days away",
+    "mainText": "'Cat Looking Around - Gif'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008570394194989463?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: user saying some themes in OST resonate with the soul",
+    "mainText": "'I'm glad my music moves you!'\n\n(Mission: Accomplished! Tom Cruise - Gif)",
+    "date": "1 6 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008515644484972593?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: 'Snowfall' track still being in the game",
+    "mainText": "'It's in there:)'",
+    "date": "1 6 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2008514767577587963?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Arcanite's old game being abandoned",
+    "mainText": "'yeah, could be remade faster in Hytale though'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008455820661473723?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: inclusive hair styles from different cultures",
+    "mainText": "'Yes, we aim at being as inclusive as possible and will keep adding more and more options'",
+    "date": "1 6 2026",
+    "tags": [
+      "Thomas Frick",
+      "Gameplay",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008440665244303453?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user surprised he responded",
+    "mainText": "'Hey no worries, I try to answer when I have a moment. And it's a good question!'",
+    "date": "1 6 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008430369687683171?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: mixing two hair tints",
+    "mainText": "'At launch this won't be possible to mix two hair tints unfortunately 😢 But we are exploring tech to allow this in the future...❤️'",
+    "date": "1 6 2026",
+    "tags": [
+      "Thomas Frick",
+      "Gameplay",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008429760033014060?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: previous tweet",
+    "mainText": "'We will keep improving this this year, and adding more options.'",
+    "date": "1 6 2026",
+    "tags": [
+      "Thomas Frick",
+      "Gameplay",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008429155650601469?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user wanting longer hairstyles",
+    "mainText": "'We would love that too!  but it's mostly a tech issue : long haircuts tend to clip with body and cosmetics of the player veryyyy badly when moving around. This is because we don't have the tech to make hair flow naturally and collide with body, yet.'",
+    "date": "1 6 2026",
+    "tags": [
+      "Thomas Frick",
+      "Gameplay",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008429047932420167?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: haircuts in Hytale",
+    "mainText": "'Trying to improve as many outdated haircuts as I can before release, I feel more like a hairdresser than a 3D artist today ✂️💇 #hytale'",
+    "date": "1 6 2026",
+    "tags": [
+      "Thomas Frick",
+      "Gameplay",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008425087381184939?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: Account Locked Out issue",
+    "mainText": "'Please make a support ticket if you haven't already, https://support.hytale.com. Our support team is gearing up with new tools to be able to assist with this.'",
+    "date": "1 5 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2008387576411951112?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user asking if Hytale can have a BSky account",
+    "mainText": "'Hytale has a official account in there!'",
+    "date": "1 5 2026",
+    "tags": [
+      "Thomas Frick",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008386957101965774?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: BSky link in bio being broken",
+    "mainText": "'Ooooops fixed'",
+    "date": "1 5 2026",
+    "tags": [
+      "Thomas Frick",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2008385225349357668?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Ktar, re: World Gen V2 blog",
     "mainText": "'I've been working with Dan since even before Hytale back in the Minecraft community, and alongside Amber for over 5 years. These people are insanely talented, and I feel so lucky to get to support both of them with the features of the Asset Node Editor. 12 out of 10 blogpost!'",
     "date": "1 5 2026",

@@ -1,6 +1,274 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Slikey, re: Watch Together feature",
+    "mainText": "'I brought it up a bunch of times on our Discord - basically the problem is that this feature was based on a proprietary library that has been EOL for 4 years and not received any updates. We had to remove it due to a whole collection of security issues. We will look at this again in the future but currently it's mostly seen as a vanity feature that gets trumped by gameplay improvements.'",
+    "date": "1 6 2026",
+    "tags": [
+      "Slikey",
+      "Feature",
+      "Future stuff",
+      "Devs",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008754940991193257?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Myne's joke about hoping Hytale is delayed to be more polished",
+    "mainText": "'Alternative timeline of delay:'\n\n(A Difficult Update' Blog Post title - Image)",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008736188744822825?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: if the team plans to have the game translated into every language",
+    "mainText": "'sí'\n\n(Yeah)",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Accessibility",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008735831062966777?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Ocean content",
+    "mainText": "'not much to see (sea!) yet'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "World Generation",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008735298445045990?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: inviting friends",
+    "mainText": "'Generate a code and share it with friends so they can join your game. \r\nIt should work with no router configuration; if it doesn't, just follow a few easy steps.'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Social System",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008731210416373791?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Friends System",
+    "mainText": "'No friend list on launch, but we have a prototype in the works already - should be coming in the first few months hopefully'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Social System",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008730989397504417?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: opening worlds to friends on Day One",
+    "mainText": "'yea'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Social System",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008730553177305475?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: HP Bars",
+    "mainText": "'Added the ability for servers to turn off player HP bars.'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008730257067831424?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: PVP",
+    "mainText": "'Fixed knockback; balancing it a bit now, real quick, so don't expect proper balance at launch. \nAlready feels way more fun / satisfying to PvP.\n\nWill need to see if we can add soft collision in time; it is improbable, as we have 2 days before we prep the launch build for next week.'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008730081263493157?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying the dev team discovers updates other members made",
+    "mainText": "'Ca vient d'etre add ce matin :P'\n\n(It was just added this morning :P)",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008726178216210756?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Flash asking if he bookmarks tweets to return to and aura farm",
+    "mainText": "'yeah'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008720736446492905?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon replies to his post saying berry bushes exist, but fruit trees don't yet",
+    "mainText": "'actually'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008714029741871349?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking if the team will update the Hardware Requirements blog with Mac specs",
+    "mainText": "'Yes, we have an update to the website queued.'",
+    "date": "1 6 2026",
+    "tags": [
+      "Slikey",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2008706922539872539?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user joking about their purchase of Hytale costing $70",
+    "mainText": "'Mine cost a lot more 😭'",
+    "date": "1 6 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008703273117868256?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: user's suggestion to do community surveys to determine what gets added soonest",
     "mainText": "'Honestly, we got a massive list of \"obvious\" issues/updates we need to do ASAP, and then we will explore how we can have fun with future updates and involve the community along the way.'",
     "date": "1 6 2026",

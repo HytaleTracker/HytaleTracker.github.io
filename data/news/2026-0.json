@@ -1,5 +1,89 @@
 [
     {
+        "mainPlatform": "tweet",
+        "summary": "The Hytale Team talk hairstyles, PVP, and other content.",
+        "mainText": "<p class='mainTextParagraph'>Thomas Frick, Hytale's Art Director, shared on Twitter that he was working on improving as many 'outdated haircuts' as possible before release. Responding to community questions and requests stemming from that post, Thomas confirmed that the team aims at being as inclusive as possible, and will keep adding more and more inclusive hairstyles from different cultures. Additionally, Thomas stated that longer hairstyles are desired, though tech issues prevent their addition, as well as mixed hair tints - though the team is exploring tech solutions to both down the line.</p><p class='mainTextParagraph'>\n\nSimon provided an update on PVP, stating that knockback had been 'fixed,' though wouldn't be properly balanced at launch. Additionally, he revealed the addition of an Health Bar toggle for servers. Furthermore, Simon revealed the addition of fruit trees to Hytale - though it is unclear what type of fruit trees now exist.</p><p class='mainTextParagraph'>\n\nResponding to questions regarding playing with friends, Simon stated that, while a Friends List won't be in the game at launch, a prototype is in the works and should be implemented in the first few months. At the moment, playing with friends is done via an invite code system.</p><p class='mainTextParagraph'>\n\nFinally, Simon shared that a few dev team members are already focused on post-launch patches and updates, adding that the team has a massive list of 'obvious' issues/updates that need to be done ASAP.</p>",
+        "date": "01 06 2026",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Thomas Frick",
+            "Accessibility",
+            "Art",
+            "Early Access",
+            "Features",
+            "Social System"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Thomas Frick - Improving Hairstyles",
+                    "https://xcancel.com/ThomasFrick/status/2008425087381184939?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Thomas Frick - Inclusive Hairstyles",
+                    "https://xcancel.com/ThomasFrick/status/2008440665244303453?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Thomas Frick - Long Hairstyle Issues",
+                    "https://xcancel.com/ThomasFrick/status/2008429047932420167?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Thomas Frick - Mixing Hair Tints",
+                    "https://xcancel.com/ThomasFrick/status/2008429760033014060?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Simon - Knockback",
+                    "https://xcancel.com/Simon_Hypixel/status/2008730081263493157?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Simon - Health Bar toggle",
+                    "https://xcancel.com/Simon_Hypixel/status/2008730257067831424?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Simon - Fruit Trees",
+                    "https://xcancel.com/Simon_Hypixel/status/2008714029741871349?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Simon - Friends System",
+                    "https://xcancel.com/Simon_Hypixel/status/2008730989397504417?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Simon - Invite Code System",
+                    "https://xcancel.com/Simon_Hypixel/status/2008731210416373791?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Simon - Post-Launch Patches/Updates",
+                    "https://xcancel.com/Simon_Hypixel/status/2008659495619289173?s=20"
+                ]
+            },
+            {
+                "11": [
+                    "Simon - List of obvious work",
+                    "https://xcancel.com/Simon_Hypixel/status/2008660971221627281?s=20"
+                ]
+            }
+        ]
+    },
+    {
         "mainPlatform": "blog",
         "summary": "The Hytale Team share The Future of World Generation (World Gen V2) blog post.",
         "mainText": "<p class='mainTextParagraph'>Dan & Amber of the Hytale Team shared a glimpse into The Future of World Generation, or 'World Gen V2.' </p><p class='mainTextParagraph'>\n\nThe blog began with a brief explanation, covering the difference between World Gen V1 and World Gen V2, and briefly stating that V2 will be the primary world generator for Hytale once it is complete. The blog included many videos and screenshots showcasing World Gen V2, showcasing and explaining various features.</p><p class='mainTextParagraph'>\n\nA major 'selling point' of World Gen V2 is the node editor system, which allows <b>anyone</b> to create and modify world-gen without knowing how to code. Additionally, any world-gen edits are live-reloaded in-game to reflect any changes made, allowing creators to control terrain shape, biome transitions, materials, props, and other world generation factors.</p><p class='mainTextParagraph'>\n\nThe Team also committed to publishing first-party tutorials, guides, and documentation, and (soon enough) hire over 15 World Designers, primarily from the community.  Simon estimates that starting salaries for World Designers would be around $80K~$100K USD a year.</p>",

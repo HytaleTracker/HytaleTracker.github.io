@@ -288,7 +288,7 @@
   {
     "mainPlatform": "tweet",
     "summary": "Propzie, re: Shield slot function",
-    "mainText": "'The shield item in Z slot is only active with compatible gear, so it's just stored there when holding something 2h, like the Mace. If you hold Z it brings up a radial menu.\r\nA shield on its own or paired with compatible gear, like a sword, gives you a shield bash option on block.'",
+    "mainText": "'The shield item in Z slot is only active with compatible gear, so it's just stored there when holding something 2h, like the Mace. If you hold Z it brings up a radial menu.\nA shield on its own or paired with compatible gear, like a sword, gives you a shield bash option on block.'",
     "date": "1 7 2026",
     "tags": [
       "Propzie",
@@ -299,6 +299,102 @@
         "1": [
           "tweet by Propzie",
           "https://xcancel.com/Propzie/status/2008937740692582546?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: using GenAI",
+    "mainText": "'We can't prevent community of creators from using Gen AI, but in Hytale art team we really have strong ethics and feelings when it comes to it. We value tools that truly help artists being creative and improve their Workflow. As you know this isn't what Gen AI does, it hurts more than it helps.'",
+    "date": "1 7 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Devs",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://bsky.app/profile/thomasfrick.bsky.social/post/3mbtvcccmvk2y"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: how and when the Hytale logo was created",
+    "mainText": "'I created the original Hytale logo 7 years ago with Photoshop. For release, in 2025 it was cleaned up and improved by \r\n@tedartsel.bsky.social\r\n and \r\n@pierpier.bsky.social\r\n  - because previous one was unusable as a vector and was out of balance. I helped too'",
+    "date": "1 7 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Devs",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://bsky.app/profile/thomasfrick.bsky.social/post/3mbtv3iou3c2y"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user asking him to yell at Hytale to post to BSky more",
+    "mainText": "'Done.'",
+    "date": "1 7 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://bsky.app/profile/thomasfrick.bsky.social/post/3mbtuxhflis2y"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: player models having glowing effects",
+    "mainText": "'Glowing eyes and such is being considered (not for release) but we need to be careful how we implement it: everyone will want it and it might result as most players looking similar with shiny eyes. It needs to come with other options to outweigh the impact'",
+    "date": "1 7 2026",
+    "tags": [
+      "Thomas Frick",
+      "Gameplay",
+      "Cosmetics"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://bsky.app/profile/thomasfrick.bsky.social/post/3mbtuwabny22y"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user's old post about Hytale being canceled",
+    "mainText": "'Have you heard the news? Please sit down first...'",
+    "date": "1 7 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://bsky.app/profile/thomasfrick.bsky.social/post/3mbtuhcopc22y"
         ]
       }
     ]
@@ -501,6 +597,44 @@
         "1": [
           "tweet by Oscar Garvin",
           "https://xcancel.com/onpujam/status/2008895298127442304?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: dwarf-like bears",
+    "mainText": "'And by this I mean dwarvish style beards!'",
+    "date": "1 7 2026",
+    "tags": [
+      "Thomas Frick",
+      "Gameplay",
+      "Cosmetics"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://bsky.app/profile/thomasfrick.bsky.social/post/3mbtcj7d5u22e"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: dwarf-like beards in Hytale",
+    "mainText": "'There are some is all I can tell ☺️'",
+    "date": "1 7 2026",
+    "tags": [
+      "Thomas Frick",
+      "Gameplay",
+      "Cosmetics"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://bsky.app/profile/thomasfrick.bsky.social/post/3mbtcimcwxk2e"
         ]
       }
     ]

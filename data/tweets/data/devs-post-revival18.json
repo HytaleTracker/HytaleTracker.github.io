@@ -1,6 +1,235 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: ITLW being excited for lore",
+    "mainText": "'FYI there isn't any new lore in there, just a general reminder that lore is paused and slowly being built back up :)'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009027790356570374?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: joining friends",
+    "mainText": "'You can join your friend with a code they can generate.\r\nIn the future we will have friend lists, so you can easily join like that'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Social System",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009020210712596618?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: InTheLittleWood asking if the Machinima post will be last blog before release",
+    "mainText": "'Oh, tomorrow is just a video, not a blog!\r\nThere will be a short lore update blog by the weekend, followed by a release TLDR blog with patch notes.'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009019717353394551?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: quests",
+    "mainText": "'No quests right now, all removed until we fix them up.'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009017475955085447?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Chayzur asking if kill quests are in the game",
+    "mainText": "'No, removed from all prefabs for now; they had issues, and we will bring them back later.'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009016507205079503?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: user asking how he feels about Hytale launching soon",
+    "mainText": "'I'm overwhelmed, emotional - but I think above all else - I'm so grateful. I'm grateful for the team's unbelievably hard work and passion, and SO grateful for the community. Even when the community was told \"the game is cancelled\", you never gave up. \r\nI can't wait until Jan 13 ❤️'",
+    "date": "1 7 2026",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2008993382807560555?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user suggesting being able to attach YT videos to bug reports",
+    "mainText": "'You can put it in the description'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008989797860430161?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Mogswamp preordering Hytale, waiting to try it",
+    "mainText": "'Thanks, Mogswamp! Hopefully, we don't take too long to get it just right :)'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008988555629220130?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hytale's menu resembling Half-Life",
+    "mainText": "'coincidence, but I love the Half-Life series, one of the first games I made maps in'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008985635823231134?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Hytale screenshot",
+    "mainText": "'Gamers... less than one week to go 😭❤️'",
+    "date": "1 7 2026",
+    "tags": [
+      "BuddhaCat",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2008984545715187730?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares screenshot - 6 Days until Early Access",
+    "mainText": "'✨ 6 DAYS ✨ until Early Access release!! #Hytale'\n\n(Screenshot of skeleton mage in green robes w/ green potions)",
+    "date": "1 7 2026",
+    "tags": [
+      "Hytale",
+      "Screenshot",
+      "Early Access"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/2008982462463185201?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: old dagger dash",
+    "mainText": "'No idea where it is, will investigate after launch.'",
+    "date": "1 7 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2008979352940368137?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: swing direction not being mouse-based",
     "mainText": "'it's like that for now but might change / add options later, got too much going on to do some changes like this atm'",
     "date": "1 7 2026",

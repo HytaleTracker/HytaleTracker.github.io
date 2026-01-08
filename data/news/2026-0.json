@@ -1,6 +1,102 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talk machinima, cosmetics, combat, quests, and more.",
+        "mainText": "<p class='mainTextParagraph'>Simon started the day by announcing a Hytale 'Machinima' video will be posted on YouTube on Jan. 8th, at 10 AM EST. Simon cautioned that the Machinima tools are half broken right now, but are being slowly fixed.</p><p class='mainTextParagraph'>\n\nOver on BlueSky, Thomas Frick confirmed that dwarvish style beards exist in Hytale. As for glowing cosmetics, Thomas stated that there were being considered, adding that implementation must be carefully considered as to not have most players looking similar. When asked about eyelashes, Thomas stated that eyelashes and eyelids aren't separate at the moment, but are considered for the future.</p><p class='mainTextParagraph'>\n\nWhen asked about the arrow indicator around the in-game cursor (seen during some combat clips), Propzie explained that it indicates the next swing direction, and is controllable by holding movement direction, though Simon says it might be changed to mouse-based controls later.. As for how to attack with the butt end of a mace, Propzie explain it's done by attacking while holding block. Next, Propzie explained that the shield item is only active when used with compatible gear, and is stored otherwise.</p><p class='mainTextParagraph'>\n\nSimon also revealed that quests have been removed from the game, and that a short 'lore update blog' will be published by the weekend, followed by a release TLDR blog with patch notes by launch. Additionally, Simon stated that an exact launch time for January 13th would be determined soon.</p><p class='mainTextParagraph'>\n\nFinally, Simon shared a video showcasing Hytale's in-game bug reporting and feedback tool.</p>",
+        "date": "01 07 2026",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Hytale",
+            "Propzie",
+            "Thomas Frick",
+            "Community",
+            "Screenshot",
+            "Tech"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Machinima Announcement",
+                    "https://xcancel.com/Simon_Hypixel/status/2008789196635591049?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Half-Broken Machinima",
+                    "https://xcancel.com/Simon_Hypixel/status/2008791118067233205?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Thomas - Dwarven Beards",
+                    "https://bsky.app/profile/thomasfrick.bsky.social/post/3mbtcj7d5u22e"
+                ]
+            },
+            {
+                "4": [
+                    "Thomas - Glowing Cosmetics",
+                    "https://bsky.app/profile/thomasfrick.bsky.social/post/3mbtuwabny22y"
+                ]
+            },
+            {
+                "5": [
+                    "Thomas - Eyelash Cosmetics",
+                    "https://bsky.app/profile/thomasfrick.bsky.social/post/3mbutp62f722j"
+                ]
+            },
+            {
+                "6": [
+                    "Propzie - Swing Direction",
+                    "https://xcancel.com/Propzie/status/2008922558607815118?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Simon - Swing Direction",
+                    "https://xcancel.com/Simon_Hypixel/status/2008953698836418602?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Propzie - Attacking with butt-end of Mace",
+                    "https://xcancel.com/Propzie/status/2008926083777769622?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Propzie - Shield Slot",
+                    "https://xcancel.com/Propzie/status/2008937740692582546?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Simon - No Quests",
+                    "https://xcancel.com/Simon_Hypixel/status/2009017475955085447?s=20"
+                ]
+            },
+            {
+                "11": [
+                    "Simon - Lore and TLDR Blogs",
+                    "https://xcancel.com/Simon_Hypixel/status/2009019717353394551?s=20"
+                ]
+            },
+            {
+                "12": [
+                    "Simon - Exact Launch Time",
+                    "https://xcancel.com/Simon_Hypixel/status/2008929702916882457?s=20"
+                ]
+            },
+            {
+                "13": [
+                    "Simon - In-Game Bug Reporting",
+                    "https://xcancel.com/Simon_Hypixel/status/2008920885952925914?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talk hairstyles, PVP, and other content.",
         "mainText": "<p class='mainTextParagraph'>Thomas Frick, Hytale's Art Director, shared on Twitter that he was working on improving as many 'outdated haircuts' as possible before release. Responding to community questions and requests stemming from that post, Thomas confirmed that the team aims at being as inclusive as possible, and will keep adding more and more inclusive hairstyles from different cultures. Additionally, Thomas stated that longer hairstyles are desired, though tech issues prevent their addition, as well as mixed hair tints - though the team is exploring tech solutions to both down the line.</p><p class='mainTextParagraph'>\n\nSimon provided an update on PVP, stating that knockback had been 'fixed,' though wouldn't be properly balanced at launch. Additionally, he revealed the addition of an Health Bar toggle for servers. Furthermore, Simon revealed the addition of fruit trees to Hytale - though it is unclear what type of fruit trees now exist.</p><p class='mainTextParagraph'>\n\nResponding to questions regarding playing with friends, Simon stated that, while a Friends List won't be in the game at launch, a prototype is in the works and should be implemented in the first few months. At the moment, playing with friends is done via an invite code system.</p><p class='mainTextParagraph'>\n\nFinally, Simon shared that a few dev team members are already focused on post-launch patches and updates, adding that the team has a massive list of 'obvious' issues/updates that need to be done ASAP.</p>",
         "date": "01 06 2026",

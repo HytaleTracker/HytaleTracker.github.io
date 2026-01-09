@@ -1,6 +1,514 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: user asking why Hytale says it recommends removing password",
+    "mainText": "'Passwordless accounts are more secure than ones with passwords! We recommend people use SSO providers for auth only (Google, Discord, etc)'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/2009654844269941104?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: screenshots",
+    "mainText": "'@Prowl8413 as requested'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009652058807480533?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale - Screenshots of Gothic Build",
+    "mainText": "'Bonus: Here are some screenshots of the gothic castle build!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Hytale",
+      "Gameplay",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://vxtwitter.com/Hytale/status/2009650434382897390?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: follower",
+    "mainText": "'Ouiiiii I gained a follower'",
+    "date": "1 9 2026",
+    "tags": [
+      "Thomas Frick",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009647680902004824?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Build Showcase",
+    "mainText": "'We gave the team time to rest during the holidays, and they came back with mods/maps, so now we have lots to share! We are addicted to working on Hytale😅'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Video"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009642859335733319?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Hytale build video",
+    "mainText": "'Its so goooooood <3'",
+    "date": "1 9 2026",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Video"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/2009642651306364972?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale - Gothic Castle Build Showcase",
+    "mainText": "'A colossal gothic castle made by one of Hytale's level designers during their free time to demonstrate the capabilities of what builders can accomplish in-game. ⚒️ #Hytale https://youtu.be/SdUbnKnl45w'",
+    "date": "1 9 2026",
+    "tags": [
+      "Hytale",
+      "Gameplay",
+      "Video"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://vxtwitter.com/Hytale/status/2009641921401196824?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: glow in the dark sword mod",
+    "mainText": "'Good idea! gg'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009640563189198918?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: user liking OST",
+    "mainText": "'Glad you like it 😄 Looking forward to all of you getting to experience the music in-game on Tuesday!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/2009633413205049494?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Chayzur having never expected to keep up with Hytale gameplay",
+    "mainText": "'I got more coming'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009627427966959900?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user complaining abt their feed",
+    "mainText": "'This is just X being horrible. You need find a community or join bluesky my friend.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Thomas Frick",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009625317166748145?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Palworld's feature of Pals making craft timer go down rapidly being cool",
+    "mainText": "'I love Palworld and Schedule 1 😅'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009625257699910105?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: crafting timer advancing with UI closed",
+    "mainText": "'For processing ores / leather yes. For armor no because your character is « working » on it, like 3 seconds or so'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009624666126864659?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking why it takes so long to break a bed",
+    "mainText": "'because he didn't a proper tool to do so lol, also a simple json file change to make it faster'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009624373309923724?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: purpose of timed crafting",
+    "mainText": "'yeah, thats why we want to keep crafting times, upgrading the bench increase the speed and other things, its intentional game design\r\nlater on we could add NPCs that could assist with your processing benches to speed it up as well'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009624072205066637?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: crafting bench upgrades",
+    "mainText": "'yeah, we want to incentive players to build houses/villages and take care of their homes'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009621961052217758?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying a lot of mods could be in base game",
+    "mainText": "'of course, but needs proper time and design :)'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009620652068630596?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: crafting benches",
+    "mainText": "'There are other types of benches; I'll try to record some clips. Builders bench is different, for example.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009616099948544393?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: ITLW saying crafting timers can be tedious",
+    "mainText": "'Crafting basic items takes no time, such as building materials/survival gear/traps!\r\nCrafting time is mostly for armour or upgrading the bench, which takes a few seconds.  \r\n\r\nI strongly suggest people experience the vanilla version of crafting first; it builds excitement to craft something big you worked for!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009612340115763615?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Acorn asking for an exclusive clip of an acorn in Hytale",
+    "mainText": "'The best I can do is a pinecone'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009597102536704166?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: ThirtyVirus' Bedwars map mod",
+    "mainText": "'Disgruntled Cat - Gif'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009595466858848488?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: mod stability",
+    "mainText": "'In early access, it might break a bit more frequently, but it shouldn't be too bad, honestly.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009587342601036230?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: future-proofing mods",
+    "mainText": "'Our ongoing updates should not break mods unless we make changes to that specific part of the game. We have a strategy to give modders some time before it goes live if we do plan to break it.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009587238141886806?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: possibility for dev's hobby mods to make it into game officially",
+    "mainText": "'In the past, many of our features were \"fun\" side projects features ended up in the game'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009583333500707080?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user commenting on the early morning post",
+    "mainText": "'There is so much coming, had to wake early 😅'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009580237240332520?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares ThinkOfName's factory mod",
+    "mainText": "'Our developer Thinkofname made a Hytale factory mod in his free time during the holidays, featuring Inserter and Factory storage! The team has made so many mods/maps and content during their free time, I will share more later!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009579590713549287?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: NoCube's skeleton mod for Hytale",
+    "mainText": "'Awesome!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009559384536342611?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Sketch Macaw saying their team will update models and textures for their Hytale mods",
     "mainText": "'And we plan to support you along the way 😎'",
     "date": "1 8 2026",

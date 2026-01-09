@@ -1,6 +1,200 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Sketch Macaw saying their team will update models and textures for their Hytale mods",
+    "mainText": "'And we plan to support you along the way 😎'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009431805548450019?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Vippori's Hytale mod suite",
+    "mainText": "'So good!!! Code VIOLET to support her work 💜'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009423534007717972?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: AdminUI mod by Buuz135",
+    "mainText": "'I love this mod'",
+    "date": "1 8 2026",
+    "tags": [
+      "Ktar",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2009421441905906007?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: pickaxe ultimate skill",
+    "mainText": "'Nah that's just a mod I made before xmas, but it was fun and we will explore that idea later on'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009418133120143654?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: his mining mod with AOE skill",
+    "mainText": "'boom boom\r\nThe first version had x10 the AOE time; it was crazy to dig through mountains!'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009417376618643799?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: visual bug",
+    "mainText": "'It's already fixed, was a bug, this video could be old'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009408941160108361?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: immersive melodies mod",
+    "mainText": "'haha I knew this would happen'",
+    "date": "1 8 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2009407085440532821?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: craft time being modded out",
+    "mainText": "'me: spends few hours balancing it only for Jared to mod it out 😅😅'\n\n(Disgruntled Cat - Gif)",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009404787868238211?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: craft time",
+    "mainText": "'Its configurable, pocket crafting has no craft time for example atm\r\nPvP servers can just make everything 0s if they desire'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009403930909004069?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Immersive Melodies mod",
+    "mainText": "'They did it before we could Oscar 😅'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009403529321120106?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "DevSlashNull, re: Controller Support",
     "mainText": "'This is something we're looking to add in the future, however no ETA'",
     "date": "1 8 2026",
@@ -13,7 +207,7 @@
       {
         "1": [
           "tweet by DevSlashNull",
-          "https://vxtwitter.com/DevSlashNulled/status/2009403309472534924?s=20"
+          "https://xcancel.com/DevSlashNulled/status/2009403309472534924?s=20"
         ]
       }
     ]
@@ -32,7 +226,7 @@
       {
         "1": [
           "tweet by ZeaBot",
-          "https://vxtwitter.com/ZeaBotLVL/status/2009391558462783836?s=20"
+          "https://xcancel.com/ZeaBotLVL/status/2009391558462783836?s=20"
         ]
       }
     ]
@@ -51,7 +245,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/2009386072912929254?s=20"
+          "https://xcancel.com/MewSoul/status/2009386072912929254?s=20"
         ]
       }
     ]
@@ -70,7 +264,7 @@
       {
         "1": [
           "tweet by Mewen",
-          "https://vxtwitter.com/MewSoul/status/2009385808189395307?s=20"
+          "https://xcancel.com/MewSoul/status/2009385808189395307?s=20"
         ]
       }
     ]

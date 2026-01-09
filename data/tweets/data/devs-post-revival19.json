@@ -1,6 +1,1687 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Mewen, re: accessibility features",
+    "mainText": "'Mostly finished planning the main features that we'll focus on in the coming months. Currently, I still have to care a lot about 3C systems (character, camera, controls) to ensure they feel right and are bug-free for release! Post-release we'll start making bigger progress!'",
+    "date": "1 8 2026",
+    "tags": [
+      "Mewen",
+      "Devs",
+      "Accessibility"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/2009385342164451699?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: Mewen tweet",
+    "mainText": "'👀'",
+    "date": "1 8 2026",
+    "tags": [
+      "Polina",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/2009383375241400339?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen, re: Polina tweet",
+    "mainText": "'Didn't know I was observed 👀'",
+    "date": "1 8 2026",
+    "tags": [
+      "Mewen",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/2009383318219813012?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: Mewen grinding",
+    "mainText": "'The past few days were like: I log in at 8am, Mew is already there, I log out at 10pm, Mew still there'",
+    "date": "1 8 2026",
+    "tags": [
+      "Polina",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/2009381658139537458?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: KC's thread of mod showcases",
+    "mainText": "'Thanks for compiling a list! So much fun to see all of this happening!\r\n\r\nBTW, I DM'd you a video of a mining mod I made! I was jealous of them making mods few weeks ago, so I couldn't resist.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009380936832422012?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen, re: the grind",
+    "mainText": "'This week so far has been pretty much: eat, sleep, add features and fix bugs in Hytale, repeat. Just stepped outside for the first time this week to grab takeaway, hectic week!\n\nAside from that, gonna share news soon about the localization in Hytale and how you can get involved!'",
+    "date": "1 8 2026",
+    "tags": [
+      "Mewen",
+      "Devs",
+      "Accessibility"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/2009380166359826799?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user thanking him for saving Hytale",
+    "mainText": "'np'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009371666049061333?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares 5 Days countdown image",
+    "mainText": "'✨ 5 DAYS ✨ until Early Access release!! #Hytale'",
+    "date": "1 8 2026",
+    "tags": [
+      "Hytale",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://vxtwitter.com/Hytale/status/2009370236466696420?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: user saying HyClash logo feels unfinished",
+    "mainText": "'It would be the rendering/shading'",
+    "date": "1 8 2026",
+    "tags": [
+      "Paris",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://vxtwitter.com/OctrDev/status/2009361642866266140?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Flash saying Macaw's blinds mod is insane",
+    "mainText": "'true'",
+    "date": "1 8 2026",
+    "tags": [
+      "Paris",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://vxtwitter.com/OctrDev/status/2009359590643605523?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: KC having a poster of an image from the blog",
+    "mainText": "'When we get some time to get to it, some merch would go hard.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009356230121410971?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: user's excitement over 'Cursebreaker' mention in lore blog",
+    "mainText": "'ready to break the curse? 👀'",
+    "date": "1 8 2026",
+    "tags": [
+      "Polina",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/2009354129265840508?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Polina's joke",
+    "mainText": "'I took a 1h30 nap, leave me alone'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009354080729354706?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: Chayzur asking what the biggest main issue is with Hytale",
+    "mainText": "'how to convince Simon to sleep at least once before launch'",
+    "date": "1 8 2026",
+    "tags": [
+      "Polina",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/2009353929264648471?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: Lore Blogpost",
+    "mainText": "'A blogpost touching on our approach to lore!'",
+    "date": "1 8 2026",
+    "tags": [
+      "Polina",
+      "Lore"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/2009351704563839238?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: Slikey's thread on working with modders/business partners",
+    "mainText": "'We've learned a lot from this period, and I am incredibly proud of the team with the speed and passion behind getting this as iron clad as we can before the 13th.\r\n\r\nThat being said please be aware we're going to have bumps, there will be things that will need work, but we will learn from these things and continue to improve.\r\n\r\nTogether we're going to make this an amazing experience for you to sink countless hours into❤️'\n\n(Links to Slikey's thread)",
+    "date": "1 8 2026",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/2009351304393683354?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking who built the build being showcased tomorrow",
+    "mainText": "'@_fudgiethewhale'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009351232687874077?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: user joking about not being able to play Hytale due to whitelist",
+    "mainText": "'Nice Try - SNL - Gif'",
+    "date": "1 8 2026",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/2009349124970463261?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: lore blogpost",
+    "mainText": "'The day is not over yet! Here's a blog post about lore.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Lore",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009348884880118271?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares lore blogpost",
+    "mainText": "'In today's blog post, Joe talks about our approach to narrative and lore! 📖\r\nRevisiting Hytale's lore after the reacquisition, setting expectations surrounding Exploration Mode's storytelling, and discussing the overall philosophy to our narrative design. #Hytale\r\nhttps://hytale.com/news/2026/1/a-look-at-hytale-s-lore-and-philosophy\r\n'",
+    "date": "1 8 2026",
+    "tags": [
+      "Hytale",
+      "Lore",
+      "Blogpost"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://vxtwitter.com/Hytale/status/2009348581816164617?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Immerse Melodies mod",
+    "mainText": "'Shocked Pikachu - Gif'",
+    "date": "1 8 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Modding",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/2009340904876941418?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Immerse Melodies mod",
+    "mainText": "'😲'",
+    "date": "1 8 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Modding",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/2009340812451303840?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking if only one license is needed to host servers",
+    "mainText": "'Correct, you need one game license for all your game servers. You don't need multiple game licenses for multiple servers - a single one will be sufficient to get your downloader and servers authenticated. Extra details very soon.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009339062495400372?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: giving Game Service Providers Hytale 1-2 days before release to prepare hosting",
+    "mainText": "'It won't be functional before launch as it requires authentication. Sorry. We don't have a way to give GSPs early access to production patchlines.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009337371624644959?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user wondering why more companies don't do what Hytale is",
+    "mainText": "'It's because it leads to a high stress environment with live operations that means you need customer support, legal, business, accounting, etc. etc. So many moving parts that is very hard to learn and maintain.\r\nWe have done this for 14 years, so it's not new.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009336803690729798?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Chayzur saying the Team giving modders access early was good",
+    "mainText": "'I am sure that we will also see a lot of third-party documentation arise from this. Those mods will be available as examples that other modders can look at. It is a great kickstart to modding in Hytale.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009329598207807613?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares Slikey's thread on working with community to prepare Hytale",
+    "mainText": "'Read 🧵 👇'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009327548522745998?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Mod Stability",
+    "mainText": "'I hope some modders can give more details about how mod stability is for them. @Buuz135mods maybe? \n\nGenerally right now mod stability was not a goal we indexed on as we wanted to make fast progress. However my understanding is that mods still rarely broke.\n\nI even heard of mods that were started at the very beginning and remained functional even until today despite all the work going on.\n\nOnce we actually put effort into proper deprecation and more abstracted / easy to use APIs we should see some mods that won't require updates for years.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009327189934907633?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user thanking everyone involved for getting Hytale ready to launch in a couple of months",
+    "mainText": "'> game ready to launch\r\nNothing is every ready to launch :D That's why its important to just launch.'\n\n(Links to Simon's June 28th, 2025 statement where he stated the goal was 'Just Launch.')",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009325424304910524?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: at what point Vanilla Hytale would be unlikely to be seen in the wild",
+    "mainText": "'Up to our designers. This isn't some committee decision. Strong game direction is done by a strongly opinionated game designer who knows the game and is open to feedback.\r\nI think that too many games fail as they try to follow a cookbook to make a good game. There is no recipe.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009324684261900352?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Modders and Business Partners",
+    "mainText": "'And just so much more.. Hundreds of small features / fixes and improvements were handled this way.\r\n\r\nThis is who we are. We work with feedback. When we select Early Access as our release strategy, we don't just do it to finally give players access, but because we need it to stay efficient and on target. \r\n\r\nIt also makes rolling over into the post-launch much easier. We already have the live mindset and our workflows have users in them. \r\n\r\nIt's far from relaxing but it's the way to actually make progress. This is easy for many small projects with few users but we are doing this at viral scale. You will have a front-row seat to transparent development that you will rarely see at such scale.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009323908680261713?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Modders and Business Partners",
+    "mainText": "'Builders: We used Hypixel internal and external builders to validate that our creative tools are actually usable. Usually we play the game in exploration mode but without skilled builders we wouldn't have been able to reach our EA goals in our creative tools'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009323906637983844?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Modders and Business Partners",
+    "mainText": "'Everyone: We needed to stand up an authentication & account system in record time. Having so many people involved, we could discover any weird edge-case that would have worked internally. We didn't get away with any impact to auth as users would start complaining.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009323904708563362?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Modders and Business Partners",
+    "mainText": "'Dedicated Servers / GSPs: We initially made the launcher and downloaded updates that way. GSPs brought up that they can't really use the launcher to download server updates automatically. So we made a headless CLI \"hytale-downloader\" that will deal with server & asset updates. Allowing self-hosters to automate their server updates.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009323902816678014?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Modders and Business Partners",
+    "mainText": "'Modders: We worked with our \"asset directory\" which worked fine for us. When modders got their hands on the game, they started modding. However now when we updated the game, the patcher crashed as they had local changes. So we just made a good mods workflow.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009323900749111311?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Modders and Business Partners",
+    "mainText": "'I am so grateful for the modders and business partners we worked with during the past few months. Without them we wouldn't be able to release next week.\r\n\r\nWhy is that? This team is a team that works best in a live environment. We needed to emulate that as fast as possible. How we do that? We actually get users. \r\n\r\nIt was too early to open the game to the public but we asked some brave companies and individuals to sign up for the most ambitious launch they will ever experience. Some brave souls embarked on this journey with us and and offered us incredible support. \r\n\r\nWe are getting immediate feedback and work on actual pain. Every work item is automatically validated to be (1) valuable and (2) correct. \r\n\r\nGiving some examples for some actual things:'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Modding",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009323898924380412?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: HPMoo saying he is badass IRL",
+    "mainText": "'Spongebob flexing, muscles say 'Thank You' - Gif'",
+    "date": "1 8 2026",
+    "tags": [
+      "BuddhaCat",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/2009316003570962823?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: opinions that devs are shortchanging Russian community",
+    "mainText": "'На официальном дискорде язык английский, чтобы всем было понятно. Но если есть какое-то официальное русскоязычное комьюнити, link it here for me to see! 🥰'\n\n(On the official Discord, the language is English so that everyone can understand. But if there's some official Russian-language community, link it here for me to see! 🥰)",
+    "date": "1 8 2026",
+    "tags": [
+      "Polina",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/2009312265967677804?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: last post",
+    "mainText": "'I'm the dinosaur top left'",
+    "date": "1 8 2026",
+    "tags": [
+      "Thomas Frick",
+      "Art",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009299757894615449?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: ArtVSArtist2025",
+    "mainText": "'Am I still on time for #artvsartist2025 ? \r\n\r\nAnyway, this is me, Thomas.\r\nThanks for following me 🦖💘 #artvsartist'",
+    "date": "1 8 2026",
+    "tags": [
+      "Thomas Frick",
+      "Art",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009295922660815250?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: installing mods",
+    "mainText": "'Yeah exactly, manual installation is done by putting them in the mods folder. The same is true when hosting a dedicated server.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Modding",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009292844092039366?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: CurseForge saying mods are only available on Windows",
+    "mainText": "'The mod files will work on all platforms (.zip or .jar). This may be a non-engine limitation in the automated installation.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Modding",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009290006641123567?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Bad Apple recreated in Hytale",
+    "mainText": "'hytale modding was a mistake'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009289584211800399?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: mod documentation",
+    "mainText": "'Definitely after release from us. That's where we will need more time to roll this out.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009289413579194666?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Hatsuya asking if it's possible to render a fishing line",
+    "mainText": "'Not yet, we did discover that dynamic meshes are going to be needed. There is a whole list of things missing we will need to add capabilities for.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009288884878705129?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: fanart of Spring Festival Attire",
+    "mainText": "'Woah! That's gorgeous!'",
+    "date": "1 8 2026",
+    "tags": [
+      "Propzie",
+      "Devs",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://vxtwitter.com/Propzie/status/2009286582520410551?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Prowl's excitement for video showcasing building",
+    "mainText": "'Not building, just a showcase of an epic build!\r\nShort video. Will try to get us some recordings of the building this weekend, though. Placing roofs, basic building, etc.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009285251898433991?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: modders sharing their work",
+    "mainText": "'We worked with some modders to help us figure out the \"first days\" of modding in order to get the basics right. There were so many issues in the workflow they discovered and we fixed. They paved the way for everyone to have a much easier time to start modding on day 1.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009284944384663610?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon announces new build video",
+    "mainText": "'Tomorrow, a new video at 10 AM EST on YouTube.\r\n\r\nWill feature a gothic build that one of our level designer did during the holidays in their free time, solo. Figured I would just share on YouTube for all to enjoy!'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009284675013857657?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Machinima video",
+    "mainText": "'Are you wondering who's behind the recording/animation of this beauty? It's ofc @NinjaCharlieT, a beast, follow him plz.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009284116542349447?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: sharing the modder's content",
+    "mainText": "'I'll wait for them all to post and see if someone can make a list and post'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009284105167388947?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Machinima video",
+    "mainText": "'Let's scrap the entire Lore and embrace the \"Skeleton versus Dinoutlanders\" metaverse 🦖'",
+    "date": "1 8 2026",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009283957460783374?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: returning Machinima to the state that it used to be",
+    "mainText": "'We will need to, going to use it for in-game cinematics to tell the story of Hytale!'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009283814275666255?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: modders sharing their work",
+    "mainText": "'Gave the go-ahead to some Hytale modders who were testing with us over the past few weeks to post; you will see a lot of screenshots/videos pop up in the coming hours and days.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009283464969757167?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: Buddha's tweet",
+    "mainText": "'The modesty. This guy right here is an absolute BADASS IRL.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Propzie",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://vxtwitter.com/Propzie/status/2009282479744491663?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: Machinima video",
+    "mainText": "'Professional skeleton removal at your service🤠! All credits to @NinjaCharlieT for animating this epic scene!!'",
+    "date": "1 8 2026",
+    "tags": [
+      "Propzie",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://vxtwitter.com/Propzie/status/2009281780851814449?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Machinima video",
+    "mainText": "'If only I was this badass IRL 😂'",
+    "date": "1 8 2026",
+    "tags": [
+      "BuddhaCat",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/2009281577046450393?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Propzie tweet",
+    "mainText": "'Two Men Gripping Other's Hand - Gif'",
+    "date": "1 8 2026",
+    "tags": [
+      "BuddhaCat",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/2009281156919775547?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: Machinima video",
+    "mainText": "'ITS THE DREAM TEAM! @ItsBuddhaCat and I, with some Dinos, kinda OP ngl.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Propzie",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://vxtwitter.com/Propzie/status/2009280947653329027?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares Machinima video",
+    "mainText": "'Hytale Animation | In-Game Machinima Experimentation - now live!! 📽️\nhttps://youtu.be/emNCLx_WCTo\n\nA snapshot demonstrating Hytale’s future goals and vision for Machinima Tools.\n\nPlease note! This Hytale Machinima was created several years ago using in-game machinima tools during experimental development. It is a creative piece and not a reflection of current gameplay or present state of development. #Hytale'",
+    "date": "1 8 2026",
+    "tags": [
+      "Hytale",
+      "Gameplay",
+      "Video"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://vxtwitter.com/Hytale/status/2009279274818080816?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: OST on Spotify",
+    "mainText": "'after launch we will look into it, right now we are just trying to release the game and survive lol'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Off Topic",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009276801361518903?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: OST on Spotify",
+    "mainText": "'I wish for the same! But it's currently out of my hands.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/2009276591147254209?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: user feeling like devs are deliberately ignoring Russian community",
+    "mainText": "'нет, это совсем не так. мы даже добавляем русский язык в локализацию!'\n\n(No, that's not the case at all. We're even adding Russian to the localization!)",
+    "date": "1 8 2026",
+    "tags": [
+      "Polina",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/2009273736608825809?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: wearing Outlander armor",
+    "mainText": "'you actually can't, it's part of  the machinima, but should be fairly easy to mod lol'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009269516144939501?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: taming dinos",
+    "mainText": "'im sure this will be a popular mod'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009260278806908945?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Flash mentioning custom Hytale themed countdown",
+    "mainText": "'bro I dont even see my kids nor sleep, not gonna make a countdown 😂'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009260176667230549?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Flash reminding Simon he said he'd never do YT Premiere again",
+    "mainText": "'one last try, using default + 1 min 😅'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009258706668486970?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Panda's history with Hypixel and Hytale",
+    "mainText": "'This day 11 years ago I started working for the Hypixel Minecraft server and eventually Hytale when development began. After having seen day one of development and everything in between, now shipping this game in 5 days is such a crazy feeling. What a wild ride it’s been so far'",
+    "date": "1 8 2026",
+    "tags": [
+      "PXL_Panda",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by PXL_Panda",
+          "https://vxtwitter.com/pxl_panda/status/2009231546679742526?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: user asking about wheat sprig cosmetic",
+    "mainText": "'Yes! it's in! Anyone will be able to use it!'",
+    "date": "1 8 2026",
+    "tags": [
+      "Propzie",
+      "Devs",
+      "Cosmetics"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://vxtwitter.com/Propzie/status/2009230249066942716?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Panda, re: Thomas' frequent commits tweet",
+    "mainText": "'Always trying to fight who can push first now 😬'",
+    "date": "1 8 2026",
+    "tags": [
+      "PXL_Panda",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by PXL_Panda",
+          "https://vxtwitter.com/pxl_panda/status/2009230007974154576?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Panda, re: user asking if we get both mac and windows with purchase",
+    "mainText": "'Your account won’t be tied to any specific OS, so yeah'",
+    "date": "1 8 2026",
+    "tags": [
+      "PXL_Panda",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by PXL_Panda",
+          "https://vxtwitter.com/pxl_panda/status/2009229165669793817?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: Haircuts",
+    "mainText": "'I grabbed some haircut work too, yall are gona look fabulous on launch. We are giving you some very fresh cuts🤩'\n\n(Cow with wig blowing in wind - GIf)",
+    "date": "1 8 2026",
+    "tags": [
+      "Propzie",
+      "Devs",
+      "Cosmetics"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://vxtwitter.com/Propzie/status/2009228475266216327?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Thomas' tweet",
+    "mainText": "'Its 6am after a 20hrs work day and now I cant sleep so I’m debating if I should just sleep « tomorrow » 😅'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009221339899678985?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Simon's tweet",
+    "mainText": "'and someone brings a coffee to @Simon_Hypixel\r\n'",
+    "date": "1 8 2026",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009220980598841447?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Thomas' previous tweet",
+    "mainText": "'Bleary Eyed Cat - Gif'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009220710657609819?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Hytale updates",
+    "mainText": "'It's nuts, every 30 minutes there are like 20 new commits in Main #Hytale 👨‍🚒'",
+    "date": "1 8 2026",
+    "tags": [
+      "Thomas Frick",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009220480612618705?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar is locked in",
+    "mainText": "'Top Gun Maverick - Gif'",
+    "date": "1 8 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/2009199220428030169?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina isn't nervous",
+    "mainText": "'I am totally not nervous or excited'\n\n(Jordan Peele Sweating Heavily - Gif)",
+    "date": "1 8 2026",
+    "tags": [
+      "Polina",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://vxtwitter.com/LogadoPolina/status/2009169722697281901?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Machinima tool",
+    "mainText": "'The plan is to use it to create in-game cinematics for future quests and dungeons to tell stories, and these tools will be available to players as well! \r\nThis will x100 the content on YouTube and market the game as well, everyone wins!'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009152208621928613?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user asking why post Machinima video if it's not representative of current state",
+    "mainText": "'I think when you'll see it you'll know why we post it haha'",
+    "date": "1 8 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009151407107264902?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking why post the Machinima video if it's not representative of current state",
+    "mainText": "'It's still a great in-game animation, very fun. I figured I would share what the tools were once capable of. No reason to vault it; people put time and effort into it.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Simon Notes",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009151159244828829?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: potentially adding a user's fishing mod",
+    "mainText": "'It's def something to consider'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009149762180927594?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: fishing",
+    "mainText": "'Just added trap fishing to buy some time, one day we will get to proper fishing... one day.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Feature",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009149070737330653?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon releases disclaimer for Machinima video",
+    "mainText": "'DISCLAIMER for the Hytale machinima at 10 AM EST\r\n\r\nRecorded in-game. Not a representation of actual gameplay, lore and no longer a representation of what the current state of machinima tools can do. It was created and recorded a few years ago.\r\n\r\nThe good news is that we plan to rebuild the machinima tools after the early access launch! I strongly believe it is critical that we achieve great machinima tools accessible to everyone.\r\n\r\nIt's a fun one, see you all at 10 AM EST.'",
+    "date": "1 8 2026",
+    "tags": [
+      "Simon",
+      "Video",
+      "Simon Notes",
+      "Feature",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009147774223208909?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user asking if creepy/scary creatures will exist",
+    "mainText": "'Yes, huge fan of scary things myself hehe'",
+    "date": "1 8 2026",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Art",
+      "Gameplay"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009146245064061020?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: if all creatures will have a purpose eventually",
+    "mainText": "'Some wildlife will be more for flavor, like cute birds or insects 😌'",
+    "date": "1 8 2026",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Art",
+      "Gameplay"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009146146262786368?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: last tweet",
+    "mainText": "'How do we come up with this : we research, explore, concept, discuss ideas, Come up with prototypes and decide to give it a chance. In the past 10years many creatures have been added anyway without proper game design goal but this will change'",
+    "date": "1 7 2026",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009121061086912924?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: creature design",
+    "mainText": "'Yes art team \"mostly\" decided how creatures look like, but it's also a conversation with design and Simon depending on game design needs. Some creatures are outdated and lack a bit of oompf, but we will keep improving them so don't get tooooo attached to some oldies haha'",
+    "date": "1 7 2026",
+    "tags": [
+      "Thomas Frick",
+      "Devs",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009120759088865410?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Thomas, re: chaos",
     "mainText": "'I wouldn't say that chaos is my comfort tho haha. It's only sustainable for a short amount of time'",
     "date": "1 7 2026",

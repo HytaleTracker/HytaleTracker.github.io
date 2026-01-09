@@ -1,6 +1,73 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talk Machinima, mods, and lore.",
+        "mainText": "<p class='mainTextParagraph'>Simon began the day by revealing a short cinematic made with an old version of Machinima, which Simon stated was recorded a few years ago, and confirmed the plan is to rebuild the Machinima tools after launch.</p><p class='mainTextParagraph'>\n\nAdditionally, Simon stated he gave permission for Hytale modders to release their early-access mods. Afterwards, Slikey revealed the team has a 'whole list of things missing [they] will need to add capabilities for.' Slikey then shared a thread detailing how modders and business partners enabled the team to be in a position to release Early Access next week.</p><p class='mainTextParagraph'>\n\nFinally, the Hytale Team shadow dropped a fresh blog post detailing the team's approach to narrative and lore, and how lore changed during Riot's ownership of the game, and must now be revisited -- ultimately returning to an earlier draft, while integrating some of the new with the old. One specific example is including both the New and Old Scarak designs, and including Tessa and Kyros! The blog states that lore in Exploration Mode will be uncovered almost exclusively through archaeology and discovery, and will only be light at first.</p><p class='mainTextParagraph'>\n\nFinally, a community member made a list of all the Hytale mods videos and screenshots that were shared today (final source link).</p>",
+        "date": "01 08 2026",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Youtube",
+            "Slikey",
+            "Blogpost",
+            "Early Access",
+            "Modding",
+            "Simon Notes",
+            "Video"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Hytale - Machinima Video",
+                    "https://www.youtube.com/watch?v=emNCLx_WCTo"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Machinima Disclaimer",
+                    "https://xcancel.com/Simon_Hypixel/status/2009147774223208909?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Simon - Plans to use Machinima for in-game cinematics",
+                    "https://xcancel.com/Simon_Hypixel/status/2009283814275666255?s=20"
+                ]
+            },
+            {
+                "4": [
+                    "Simon - Modders Sharing Work",
+                    "https://xcancel.com/Simon_Hypixel/status/2009283464969757167?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Slikey - List of missing things for modding",
+                    "https://xcancel.com/slikey/status/2009288884878705129?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Slikey - Thread - Modders/Business Partners",
+                    "https://xcancel.com/slikey/status/2009323898924380412?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Blog - Hytale's Lore and Philosophy",
+                    "https://hytale.com/news/2026/1/a-look-at-hytale-s-lore-and-philosophy"
+                ]
+            },
+            {
+                "8": [
+                    "Community - Thread of Mod videos and images",
+                    "https://xcancel.com/Zeusley/status/2009286224561803397?s=20"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talk machinima, cosmetics, combat, quests, and more.",
         "mainText": "<p class='mainTextParagraph'>Simon started the day by announcing a Hytale 'Machinima' video will be posted on YouTube on Jan. 8th, at 10 AM EST. Simon cautioned that the Machinima tools are half broken right now, but are being slowly fixed.</p><p class='mainTextParagraph'>\n\nOver on BlueSky, Thomas Frick confirmed that dwarvish style beards exist in Hytale. As for glowing cosmetics, Thomas stated that there were being considered, adding that implementation must be carefully considered as to not have most players looking similar. When asked about eyelashes, Thomas stated that eyelashes and eyelids aren't separate at the moment, but are considered for the future.</p><p class='mainTextParagraph'>\n\nWhen asked about the arrow indicator around the in-game cursor (seen during some combat clips), Propzie explained that it indicates the next swing direction, and is controllable by holding movement direction, though Simon says it might be changed to mouse-based controls later.. As for how to attack with the butt end of a mace, Propzie explain it's done by attacking while holding block. Next, Propzie explained that the shield item is only active when used with compatible gear, and is stored otherwise.</p><p class='mainTextParagraph'>\n\nSimon also revealed that quests have been removed from the game, and that a short 'lore update blog' will be published by the weekend, followed by a release TLDR blog with patch notes by launch. Additionally, Simon stated that an exact launch time for January 13th would be determined soon.</p><p class='mainTextParagraph'>\n\nFinally, Simon shared a video showcasing Hytale's in-game bug reporting and feedback tool.</p>",
         "date": "01 07 2026",

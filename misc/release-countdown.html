@@ -259,6 +259,11 @@
                             <div id="extrasReleasePlankSeconds" class="flexExtrasNumber"></div>
                             <div class="flexExtrasLabel">Planck Seconds</div>
                         </div>
+                        <h1>Days since trailer</h1>
+                        <div class="flexExtras" style="border: 2px solid #60512B; width: fit-content; margin-right: auto; margin-left: auto; padding: 5px; border-radius: 5px;">
+                            <div id="extrasTrailer" class="flexExtrasNumber"></div>
+                            <div class="flexExtrasLabel">Days</div>
+                        </div>
                         <h1>Bounce Hy Score</h1>
                         <div class="flexExtras" style="border: 2px solid #60512B; width: fit-content; margin-right: auto; margin-left: auto; padding: 5px; border-radius: 5px;">
                             <div id="extrasBounces" class="flexExtrasNumber"></div>
@@ -314,6 +319,7 @@
 
             const releaseDate = new Date(Date.UTC(2026, 0, 13, 15));
             const preOrderDate = new Date(Date.UTC(2025, 11, 13, 15));
+            const trailerDate = new Date(Date.UTC(2018, 11, 13, 16));
 
             let daysRelease;
             let daysPreOrder;
@@ -350,6 +356,7 @@
             const extrasReleaseSeconds = document.getElementById("extrasReleaseSeconds");
             const extrasReleaseMilliseconds = document.getElementById("extrasReleaseMilliseconds");
             const extrasReleasePlankSeconds = document.getElementById("extrasReleasePlankSeconds");
+            const extrasTrailer = document.getElementById("extrasTrailer");
 
             setInterval(() => {
                 const time = new Date();
@@ -382,6 +389,7 @@
                     extrasReleaseHour.textContent = `${daysRelease * 24 + hoursRelease}`;
                     extrasReleaseMinutes.textContent = `${daysRelease * 24 * 60 + hoursRelease * 60 + minutesRelease}`;
                     extrasReleaseSeconds.textContent = `${daysRelease * 24 * 60 * 60 + hoursRelease * 60 * 60 + minutesRelease * 60 + secondsRelease}`;
+                    extrasTrailer.textContent = `${Math.trunc((time-trailerDate) / 86400000)}`;
                 }
                 
                 

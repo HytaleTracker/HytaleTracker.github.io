@@ -1,17 +1,999 @@
 [
   {
     "mainPlatform": "tweet",
-    "summary": "DevSlashNull, re: user asking why Hytale says it recommends removing password",
-    "mainText": "'Passwordless accounts are more secure than ones with passwords! We recommend people use SSO providers for auth only (Google, Discord, etc)'",
+    "summary": "Simon, re: Chayzur hoping Hytale eventually has lots of ocean content",
+    "mainText": "'that’s the dream'",
     "date": "1 9 2026",
     "tags": [
-      "DevSlashNull"
+      "Simon",
+      "Community",
+      "Future stuff",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009774873061507484?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: VioletWorkshop",
+    "mainText": "'We're So Kweeback - Gif'",
+    "date": "1 9 2026",
+    "tags": [
+      "Paris",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2009770427120263646?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: user preferring to have Buddha in the game",
+    "mainText": "'Cat Flashing Heart - Gif'",
+    "date": "1 9 2026",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2009768797209563477?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: TourneVis' mech model",
+    "mainText": "'GET AWAY FROM HER YOU B**CH!!!!'",
+    "date": "1 9 2026",
+    "tags": [
+      "HPMoo",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://xcancel.com/HPmooTV/status/2009768335555055971?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: user wanting Kweeanu Leaves in the game",
+    "mainText": "'i'm sure someone will end up modding it 😅'",
+    "date": "1 9 2026",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2009768332166123571?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: casual adventure video",
+    "mainText": "'Cooking up another video about this, will post before launch'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Video",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009762723135988026?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Syprus asking for hints",
+    "mainText": "'Latest Hytale tweet has a few!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Hints"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009761773373497830?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Creative Mode reveal",
+    "mainText": "'Saturday 2PM EST, new YouTube video!\r\n\r\nCreative mode enjoyers, this one is for you! Very fun feature showcase!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Creative Mode",
+      "Video",
+      "Hints"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009759884292583441?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Paris",
+    "mainText": "'Happy to have you part of the team! Thank you for all the amazing features :D'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009758865013764251?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Hytale 4 Days screenshot",
+    "mainText": "'This is just early access / no mods.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Paris",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2009758596221772114?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Hytale 4 Days screenshot",
+    "mainText": "'I made this little scene fairly quickly, I wanted to try and convey the magical themes Hytale offers in a way that feels cosy.\r\n\r\nI started building little scenes like this to identify gameplay needs for building in non-creative modes.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Paris",
+      "Gameplay",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2009753641876345051?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: VioletWorkshop asking what users want to see from her mods",
+    "mainText": "'Whale Shark Plushie for my fiancée @chlolulaa  🥰'",
+    "date": "1 9 2026",
+    "tags": [
+      "Paris",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2009751469390504084?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen, re: Likaos calling him \"Mister\"",
+    "mainText": "'*\"master\"'",
+    "date": "1 9 2026",
+    "tags": [
+      "Mewen",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://xcancel.com/MewSoul/status/2009741477870452783?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar teases creative mode reveal",
+    "mainText": "'Something big comes tomorrow for Hytale creative mode building'",
+    "date": "1 9 2026",
+    "tags": [
+      "Ktar",
+      "Creative Mode",
+      "Hints"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2009741421423780246?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen, re: Polina's last tweet",
+    "mainText": "'We're doing some intense gameplay research in-game with @LikaosMC!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Mewen",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://xcancel.com/MewSoul/status/2009736126634795317?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: mod-sharing potentially working like Steam Workshop",
+    "mainText": "'That'd be feasible if the mod was on the modding discovery backlog just like steam workshop. Anything outside that. I think there is some work for us to explore the \"threat model\" and do risk analysis for all possible paths.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2009735100154495032?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: Mewen being observed tweet",
+    "mainText": "'almost 10pm again 👀'",
+    "date": "1 9 2026",
+    "tags": [
+      "Polina",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://xcancel.com/LogadoPolina/status/2009729156477501489?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Hytale's default port",
+    "mainText": "'5520 UDP'",
+    "date": "1 9 2026",
+    "tags": [
+      "Slikey",
+      "Tech",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2009727939781280114?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: sharing mods in-game",
+    "mainText": "'I don't really want to deal with the headache of P2P file transfers, so.. No. I think with modding discovery we can make those easily linkable in DMs etc.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Slikey",
+      "Modding",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2009727625384661042?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Hytale-inspired fitness playlist",
+    "mainText": "'Gym is my temple :D Not mixing work and my religion 🤣 I am sure @onpujam can select the highest energy Hytale songs for you.\nNice build btw, shoulders are popping!💪'",
+    "date": "1 9 2026",
+    "tags": [
+      "Slikey",
+      "Off Topic",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2009724593452335564?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale - 4 Days until Early Access",
+    "mainText": "'✨ 4 DAYS ✨ until Early Access release!! #Hytale'\n\n((Image of magical area in Hytale))",
+    "date": "1 9 2026",
+    "tags": [
+      "Hytale",
+      "Gameplay",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/2009723185038492148?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: user saying they forgot to add futuristic flying vehicles",
+    "mainText": "'It was a very short game jam. But we would have done that with a bit more time for sure!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Propzie",
+      "Devs",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/2009722664282206538?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Violet (Vippori) showcasing her upcoming mods",
+    "mainText": "'😭It's finally happening, thank you for making all these adorable assets!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Paris",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2009710912186528090?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Flash saying it's insane",
+    "mainText": "'I'm not done yet 😂'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009695555078013189?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: Cyberpunk map",
+    "mainText": "'It was super fun to build in a completely different style to what we normally do in Hytale. It's incredible flexible and you really can just make what is in your imagination!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Propzie",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/2009693353726939603?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Cyberpunk map",
+    "mainText": "'2 people in 5 days.\r\nNow imagine what players will do in the next few years.\r\n\r\nBy players, for players.\r\nBy modders, for modders.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009693316078813198?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: Cyberpunk map",
+    "mainText": "'This was really fun to build with @ThomasFrick we had both been dreaming of using the game to make stuff like this cause we knew it was possible. Hytale is SO flexible you really can make anything from your imagination.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Propzie",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/2009692220937712071?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Hytale",
+    "mainText": "'omg hytale soon'",
+    "date": "1 9 2026",
+    "tags": [
+      "Ktar",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2009691766237343899?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Cyberpunk map",
+    "mainText": "'Kweeanu Leaves def would live here.'\n\n(Kweebec that looks like Keanu Reeves - Image)",
+    "date": "1 9 2026",
+    "tags": [
+      "BuddhaCat",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2009691253991166239?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Cyberpunk map",
+    "mainText": "'Cybertale is real.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009690389981053196?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale showcases old custom Cyberpunk map",
+    "mainText": "'This Hytale custom map was built by 2 team members during an internal mod jam a few years ago!\r\nThey created new blocks, weather, and furniture, and built this map. All in 5 days!\r\n\r\nAfter release, we will make these blocks, furniture, and items available for players to use in Creative mode. Maybe someone will create a Cybertale adventure map or even an MMORPG server...\r\n\r\nPlease note that this video doesn't feature our lighting fixes and other improvements we have been doing in the past few weeks. #Hytale'",
+    "date": "1 9 2026",
+    "tags": [
+      "Hytale",
+      "Gameplay",
+      "Video",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/2009690277678649680?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: passkeys",
+    "mainText": "'We will be rolling these out in the future'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
     ],
     "sources": [
       {
         "1": [
           "tweet by DevSlashNull",
-          "https://vxtwitter.com/DevSlashNulled/status/2009654844269941104?s=20"
+          "https://xcancel.com/DevSlashNulled/status/2009681415957348760?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: NoCube's mods",
+    "mainText": "'Really great looking mod by @NoCube_Mods can't wait to see more!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009677855832355183?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: why it's recommended to remove password",
+    "mainText": "'Passwordless accounts are more secure than ones with passwords! We recommend people use SSO providers for auth only (Google, Discord, etc)'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009675460381385071?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: staying logged in on Hytale.com",
+    "mainText": "'This will be rolling out in the future, at the moment the main page and back end systems are on 2 separate tech stacks'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009673727500583388?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: user questioning wording on 2FA popup",
+    "mainText": "'Good catch, we'll clean up the wording to be more clear! Thanks'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009673256459219030?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: accounts page stuck loading",
+    "mainText": "'This should be resolved now'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009671098053665275?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: 'getting started' screen stuck loading",
+    "mainText": "'This should be resolved now'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009671035969560741?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: 'getting started' screen stuck loading",
+    "mainText": "'We're taking a look into this now'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009669815775219843?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Tourne_Vis' Hytale mech model",
+    "mainText": "'This is crazy good!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009669332645884334?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user wanting to see raw game without mods",
+    "mainText": "'Working on non-modded content as well, but being careful not to spoil too much, especially the Forgotten Temple :)'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009666847399190539?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: KC joking about all the news and mod showcases",
+    "mainText": "'I got more coming boys'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2009666677626290510?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: using yubikeys",
+    "mainText": "'As a lover of them, yes that is the plan'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009665075523567865?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: adding Security Keys",
+    "mainText": "'We had some test implementations but we want to make sure we get the flows right. Some people want sec keys as a 2fa methods, some want it for passwordless auth. \r\n\r\nWe will look to enable this in the future for sure, but we're still working out the details.'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009664758601957700?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: user not being able to login to website",
+    "mainText": "'Please have him reach out to support at https://support.hytale.com'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009664370893365349?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: user being confused with OIDC term",
+    "mainText": "'Yes sorry, I should stick to SSO its a lot clearer :P'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009664113895461018?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: disconnecting Hytale account from Gmail account",
+    "mainText": "'This is something we will explore, for now you can add a new SSO method and it should allow you to remove the other.'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009663491599122612?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: user not a fan of Login With Discord",
+    "mainText": "'We are working to add additional security checks in cases of token theft, these would trigger additional security checks to be passed before allowing auth'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009662896536801746?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: user saying 2FA is best",
+    "mainText": "'Passwordless doesn't mean no 2fa, OIDC + 2fa is the preferred setup'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009662116706582899?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: updates to Hytale account manager",
+    "mainText": "'We've rolled out security updates to the Hytale account manager ahead of launch:\r\n\r\n-Email 2FA codes for email+password accounts\r\n\r\n- Session invalidation across website, game, launcher & servers\r\n\r\n-Extra security checks on critical flows (email changes, passwords, etc.)\r\n\r\n-Passwordless option (remove password) for SSO accounts (Google, Discord)'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009661943158554951?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: seeing which sessions are logged in",
+    "mainText": "'This is planned for V2'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009660369229549754?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: why using email as verification code is an option",
+    "mainText": "'This is a limitation of the accounts system back end at the moment, this is a by product of us enabling 2fa email codes for password+email accounts, we're working to give more granular control of 2fa methods.'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009659846182973591?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DevSlashNull, re: user asking why Hytale says it recommends removing password",
+    "mainText": "'Passwordless accounts are more secure than ones with passwords! We recommend people use SSO providers for auth only (Google, Discord, etc)'",
+    "date": "1 9 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2009654844269941104?s=20"
         ]
       }
     ]
@@ -29,7 +1011,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009652058807480533?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009652058807480533?s=20"
         ]
       }
     ]
@@ -48,7 +1030,7 @@
       {
         "1": [
           "tweet by Hytale",
-          "https://vxtwitter.com/Hytale/status/2009650434382897390?s=20"
+          "https://xcancel.com/Hytale/status/2009650434382897390?s=20"
         ]
       }
     ]
@@ -66,7 +1048,7 @@
       {
         "1": [
           "tweet by Thomas Frick",
-          "https://vxtwitter.com/ThomasFrick/status/2009647680902004824?s=20"
+          "https://xcancel.com/ThomasFrick/status/2009647680902004824?s=20"
         ]
       }
     ]
@@ -85,7 +1067,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009642859335733319?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009642859335733319?s=20"
         ]
       }
     ]
@@ -104,7 +1086,7 @@
       {
         "1": [
           "tweet by BuddhaCat",
-          "https://vxtwitter.com/ItsBuddhaCat/status/2009642651306364972?s=20"
+          "https://xcancel.com/ItsBuddhaCat/status/2009642651306364972?s=20"
         ]
       }
     ]
@@ -123,7 +1105,7 @@
       {
         "1": [
           "tweet by Hytale",
-          "https://vxtwitter.com/Hytale/status/2009641921401196824?s=20"
+          "https://xcancel.com/Hytale/status/2009641921401196824?s=20"
         ]
       }
     ]
@@ -143,7 +1125,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009640563189198918?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009640563189198918?s=20"
         ]
       }
     ]
@@ -161,7 +1143,7 @@
       {
         "1": [
           "tweet by Oscar Garvin",
-          "https://vxtwitter.com/onpujam/status/2009633413205049494?s=20"
+          "https://xcancel.com/onpujam/status/2009633413205049494?s=20"
         ]
       }
     ]
@@ -180,7 +1162,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009627427966959900?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009627427966959900?s=20"
         ]
       }
     ]
@@ -198,7 +1180,7 @@
       {
         "1": [
           "tweet by Thomas Frick",
-          "https://vxtwitter.com/ThomasFrick/status/2009625317166748145?s=20"
+          "https://xcancel.com/ThomasFrick/status/2009625317166748145?s=20"
         ]
       }
     ]
@@ -216,7 +1198,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009625257699910105?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009625257699910105?s=20"
         ]
       }
     ]
@@ -235,7 +1217,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009624666126864659?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009624666126864659?s=20"
         ]
       }
     ]
@@ -255,7 +1237,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009624373309923724?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009624373309923724?s=20"
         ]
       }
     ]
@@ -274,7 +1256,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009624072205066637?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009624072205066637?s=20"
         ]
       }
     ]
@@ -293,7 +1275,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009621961052217758?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009621961052217758?s=20"
         ]
       }
     ]
@@ -313,7 +1295,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009620652068630596?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009620652068630596?s=20"
         ]
       }
     ]
@@ -332,7 +1314,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009616099948544393?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009616099948544393?s=20"
         ]
       }
     ]
@@ -351,7 +1333,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009612340115763615?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009612340115763615?s=20"
         ]
       }
     ]
@@ -369,7 +1351,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009597102536704166?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009597102536704166?s=20"
         ]
       }
     ]
@@ -389,7 +1371,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009595466858848488?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009595466858848488?s=20"
         ]
       }
     ]
@@ -408,7 +1390,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009587342601036230?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009587342601036230?s=20"
         ]
       }
     ]
@@ -427,7 +1409,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009587238141886806?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009587238141886806?s=20"
         ]
       }
     ]
@@ -446,7 +1428,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009583333500707080?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009583333500707080?s=20"
         ]
       }
     ]
@@ -464,7 +1446,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009580237240332520?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009580237240332520?s=20"
         ]
       }
     ]
@@ -483,7 +1465,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009579590713549287?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009579590713549287?s=20"
         ]
       }
     ]
@@ -502,7 +1484,7 @@
       {
         "1": [
           "tweet by Simon",
-          "https://vxtwitter.com/Simon_Hypixel/status/2009559384536342611?s=20"
+          "https://xcancel.com/Simon_Hypixel/status/2009559384536342611?s=20"
         ]
       }
     ]

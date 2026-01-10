@@ -1,6 +1,133 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon shares World Settings screen",
+    "mainText": "'Added world settings just in time for launch. Will add more options later. Yes, you will also see your installed mods in there!'\n\n(Image)",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009832793153646816?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: YT removing sorting by upload date",
+    "mainText": "'This was how I discovered really small channels the past few weeks to leave comments and engage with. Well RIP..\r\nUsually sorted by upload date to make sure I discover independent of any algorithm bias.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Slikey",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009831713204023303?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: his old 'the calm before the storm' tweet",
+    "mainText": "'yeah'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009817352582365543?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Hero's of Orbis being good music for workouts",
+    "mainText": "'That's lovely☺️I can't do pushups or yoga without my daughter climbing or crawling under😂 so it usually becomes demon hunters dance workout. You could try Kweebec Summer Party in a workout playlist🎵 I'm tempted to make all kinds of alternative Hytale albums though'",
+    "date": "1 9 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Music"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/2009801498104860873?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: moving mouse out of window in fullscreen",
+    "mainText": "'It is an older tech which has been deprecated in Windows 11. The reason is that previously displaying graphics in a window (even if borderless) was much slower than the game writing directly to the Monitor.\r\nWhen you tabbed out the game had to return control of the screen back to windows. \r\nWe are using a modern library SDL3 which doesn't have that problem and you should have a good time tabbing in and out of the game.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009788336995545126?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: returning to Hytale",
+    "mainText": "'Good. Bring the Thunder.'",
+    "date": "1 9 2026",
+    "tags": [
+      "HPMoo",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://vxtwitter.com/HPmooTV/status/2009785672291496146?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: returning to Hytale",
+    "mainText": "'If I could bottle how I feel now....\r\n\r\nI am back in a role I belong in. I couldn't be happier. Thanks lad and thanks team for bringing me home.\r\n\r\nNow.\r\nGet flipping ready. \r\nI hear the thunder in the distance getting ever closer. ARE YOU READY????'",
+    "date": "1 9 2026",
+    "tags": [
+      "HPMoo",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://vxtwitter.com/HPmooTV/status/2009783956116251092?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Chayzur hoping Hytale eventually has lots of ocean content",
     "mainText": "'that’s the dream'",
     "date": "1 9 2026",

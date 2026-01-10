@@ -1,0 +1,847 @@
+[
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user saying they can test downloading the actual game, promise they won't play until 13th",
+    "mainText": "'Press X to Doubt - Gif'",
+    "date": "1 10 2026",
+    "tags": [
+      "Slikey",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2010022472691904718?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: issues with launcher",
+    "mainText": "'This is because you're already logged into the website, we use SSO for the launcher.'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/2010021788743586120?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: issues with launcher",
+    "mainText": "'Can you please send a report with the launcher log here https://accounts.hytale.com/feedback \r\n\r\nThe log file will be in the folder you installed the game files to, typically  C:\\Users\\youruser\\AppData\\Roaming\\Hytale'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/2010021207530525104?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: early release of Launcher",
+    "mainText": "'The goal here is that we are testing: \r\n- Stress authentication services with real traffic\r\n- Launcher installation itself on Windows, Mac and Linux\r\n- CDN connection and file access\r\n- Bug / Feedback report pipeline\r\n- Provider users with confirmation that they will be able to play\r\n- Rehearsal of our launch strike team to ensure our roles are clear and we operate well\r\n\r\nAnd at the same time we take stress off our services on launch day as now people are signed in and ready to receive the first \"patch\" which will be roughly 1.5 GB for the full game download.'",
+    "date": "1 10 2026",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2010020996364022212?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: issues with launcher",
+    "mainText": "'Can you please send a report with the launcher log here https://accounts.hytale.com/feedback\r\n\r\nThe log file will be in the folder you installed the game files to, typically  C:\\Users\\youruser\\AppData\\Roaming\\Hytale'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/2010019334920544718?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: issues with launcher",
+    "mainText": "'The log file will be in the folder you installed the game files to, typically \r\nC:\\Users\\youruser\\AppData\\Roaming\\Hytale'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/2010019099582369953?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: issues with launcher",
+    "mainText": "'Could you please send us a copy of your log file and a brief summary of the issue?\r\n\r\nhttps://accounts.hytale.com/feedback'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/2010018501826916444?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: user asking question via DMs",
+    "mainText": "'Thumbs Up - Gif'",
+    "date": "1 10 2026",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://vxtwitter.com/ItsBuddhaCat/status/2010018415814275487?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: issues with launcher",
+    "mainText": "'We believe we found the issue, please uninstall the launcher and reinstall a fresh copy from the website https://accounts.hytale.com/download'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/2010018313364222017?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: issues with launcher",
+    "mainText": "'We believe we found the issue, please uninstall the launcher and reinstall a fresh copy from the website https://accounts.hytale.com/download'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/2010016773257805833?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: issues with launcher",
+    "mainText": "'We believe we found the issue, please uninstall the launcher and reinstall a fresh copy from the website https://accounts.hytale.com/download'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/2010016738029777299?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: issues with launcher",
+    "mainText": "'We're rolling a fix for that now'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/2010016099874799920?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: issues with launcher",
+    "mainText": "'Can you please send a report with the launcher log here https://accounts.hytale.com/feedback'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://vxtwitter.com/DevSlashNulled/status/2010014649929085057?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Mewen shares meme",
+    "mainText": "'Dawn of The First Day - 72 Hours Remain - Image'",
+    "date": "1 10 2026",
+    "tags": [
+      "Mewen",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Mewen",
+          "https://vxtwitter.com/MewSoul/status/2010010024312262675?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: 3 days till Hytale",
+    "mainText": "'72 hours...\r\nBut you can help NOW...\r\n\r\nHelp us stress test by heading over to\r\nhttps://accounts.hytale.com/download\r\n\r\nSign in and get ready!\r\n\r\nPS I know I am late with the clock :('",
+    "date": "1 10 2026",
+    "tags": [
+      "HPMoo",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://vxtwitter.com/HPmooTV/status/2010009528381899222?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale shares launcher early, citing stress testing of systems",
+    "mainText": "'We need your help! To stress test our back end systems and get ready for the 13th we enabled downloads of the launcher. You can download and sign in to get ready now!\r\n\r\nhttps://accounts.hytale.com/download\r\n\r\nThank you, and we look forward to having you in game soon! #Hytale'",
+    "date": "1 10 2026",
+    "tags": [
+      "Hytale",
+      "Website",
+      "Early Access"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://vxtwitter.com/Hytale/status/2010003893787472017?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Simon's tease from earlier",
+    "mainText": "'👀'",
+    "date": "1 10 2026",
+    "tags": [
+      "Slikey",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/DevSlashNulled/status/2010003049377607891?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Bakehouse mod by NoCube",
+    "mainText": "'Awesome cozy atmosphere in this picture'",
+    "date": "1 10 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009999420608393284?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Zeusley's girlfriend's response to him",
+    "mainText": "'It's so kind of her! Also, Art is a very subjective thing and no art style can be universally liked by everyone on this planet. There will always be someone who prefer X or Y. Respecting affinities and preferences is so important. ☺️'",
+    "date": "1 10 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009991656658104798?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: YT removing sorting by upload date",
+    "mainText": "'Just commenting for the ratio, please don't.'",
+    "date": "1 10 2026",
+    "tags": [
+      "Slikey",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://vxtwitter.com/slikey/status/2009984926813417873?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "PXL_Panda, re: NopeUI asking if UI elements can be made using NoesisGUI Studio",
+    "mainText": "'You will be able to create custom in-game UI menus and HUD, however we aren't using NoesisGUI just yet but instead a custom UI framework'",
+    "date": "1 10 2026",
+    "tags": [
+      "PXL_Panda",
+      "Tech",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by PXL_Panda",
+          "https://vxtwitter.com/pxl_panda/status/2009979844990566575?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas explains his GGJ tweet",
+    "mainText": "'Hytale can be used for game jams like global game jam #GGJ'",
+    "date": "1 10 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009976937486426328?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user joking",
+    "mainText": "'What I told you that I could tell you that right now right here and you'd be very happy??'",
+    "date": "1 10 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009976698658607275?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: GlobalGameJam",
+    "mainText": "'What if I told you... That there will be a very cool new game engine for \r\n@globalgamejam #GGJ2026 #GGJ26 called #Hytale engine'",
+    "date": "1 10 2026",
+    "tags": [
+      "Thomas Frick",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009975917498798134?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Simon's modjam tweet",
+    "mainText": "'Yes please!'",
+    "date": "1 10 2026",
+    "tags": [
+      "Paris",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://vxtwitter.com/OctrDev/status/2009974082448830782?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: 1973 Sony High Fidelity Headphone DR-11",
+    "mainText": "'😍 wish I had these'",
+    "date": "1 10 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/2009973296427675965?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user's girlfriend not liking Hytale's art style",
+    "mainText": "'I can have a conversation with your girlfriend if it helps'",
+    "date": "1 10 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009973153951559947?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Outlander car",
+    "mainText": "'Turns out they are real, and among us 😳'\n\n(Image of car)",
+    "date": "1 10 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://vxtwitter.com/onpujam/status/2009972112203579498?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: Flash liking 'from the ashes' stories",
+    "mainText": "'Pure Cinema LOL'",
+    "date": "1 10 2026",
+    "tags": [
+      "HPMoo",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://vxtwitter.com/HPmooTV/status/2009960062627000811?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: Flash liking endless possibilities",
+    "mainText": "'And I love second chances.'",
+    "date": "1 10 2026",
+    "tags": [
+      "HPMoo",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://vxtwitter.com/HPmooTV/status/2009959069692359094?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: Flash greeting him",
+    "mainText": "'Possibilities. They are about to become... Endless.'",
+    "date": "1 10 2026",
+    "tags": [
+      "HPMoo",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://vxtwitter.com/HPmooTV/status/2009953010915668176?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: sitting in Hytale",
+    "mainText": "'Cat sitting like human - gif'",
+    "date": "1 10 2026",
+    "tags": [
+      "Paris",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://vxtwitter.com/OctrDev/status/2009951561334829238?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user thanking him for his work",
+    "mainText": "'Thank you 😭'",
+    "date": "1 10 2026",
+    "tags": [
+      "Thomas Frick",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009946747645354089?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: if infinite procedural backrooms-style map is possible",
+    "mainText": "'Yes'",
+    "date": "1 10 2026",
+    "tags": [
+      "Thomas Frick",
+      "General"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009946606641307907?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Lynn wondering if there's a 10 AM EST blog",
+    "mainText": "'👀'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009940694560059820?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Thomas' tweet",
+    "mainText": "'Dont get me too hyped about future internal mod jams! Or public ones themed where the Hytale team also participates hmm'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009940444822811073?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Cyberpunk map",
+    "mainText": "'We made this map and a few assets with @Propzie in a couple of day. Imagine what it could be in a few weeks. Buildings could be procedurally generated on a gigantic city map. You could create a cyber metaverse in Hytale'",
+    "date": "1 10 2026",
+    "tags": [
+      "Thomas Frick",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://vxtwitter.com/ThomasFrick/status/2009926392251822246?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user enjoying discoverability of games at launch",
+    "mainText": "'Exploration Mode is discoverability indeed!'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009853961088684127?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: if 'loss' refers to dropped items or vanished items",
+    "mainText": "'drop'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009839387945636171?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user asking how long it'd take to finish the game",
+    "mainText": "'There is no ending, so it depends on what you aspire to do. Playing with friends, building a village, exploring, etc.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009838564486365522?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: world settings",
+    "mainText": "'Actually, correction: Resource Loss is 50%'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009838044506210641?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: creators getting early access",
+    "mainText": "'No content creators were granted access to the full playthrough for recording; only a few were granted access for testing and/or modding. No recording or posting allowed on day 1 of older playthrough recordings.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009837471551435125?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: world settings",
+    "mainText": "'Yeah will update UI later, but this requires to click extra time to get to this menu'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009834837935296868?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: world settings",
+    "mainText": "'Fall Damage is on when the checkmark is there :P'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009834085607452883?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: world settings",
+    "mainText": "'Yeah, to get to these settings, it's an extra click, so technically 90% of the people will get the designed and recommended experience.'",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009833949682635004?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: default World Settings ",
+    "mainText": "'Nah, I changed some to show an example.\r\n\r\nDefault and recommended are:'\n\n(Image)",
+    "date": "1 9 2026",
+    "tags": [
+      "Simon",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://vxtwitter.com/Simon_Hypixel/status/2009833295039578179?s=20"
+        ]
+      }
+    ]
+  }
+]

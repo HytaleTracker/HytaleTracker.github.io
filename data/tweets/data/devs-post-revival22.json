@@ -1,6 +1,209 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon, re: Flash asking 'how many memories are we going to have to restore'",
+    "mainText": "'yes'\n\n((Flash's image is of a Hytale screenshot, showing an Unknown Item with the description 'Find the Forgotten Temple and restore 100 Memories to unlock this recipe!'))",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010202135645024596?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey thinks about Bob Ross",
+    "mainText": "'I wonder if we will see a Bob Ross of Hytale builds.. The possibilities for creative builders are extensive and I am looking forward to watching relaxing building videos while we make the game good. 🤩'",
+    "date": "1 10 2026",
+    "tags": [
+      "Slikey",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2010199703942730195?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: server manual",
+    "mainText": "'Let me post the server manual on Sunday. I think I left everyone waiting enough now and it should answer your questions :)'",
+    "date": "1 10 2026",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2010194383170351146?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: launcher issues",
+    "mainText": "'Please uninstall the launcher and reinstall it. Ensure that you are not getting a cached file from your browser. This issue was fixed but requires a manual reinstallation.'",
+    "date": "1 10 2026",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2010193435266044065?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: launcher updates",
+    "mainText": "'We had to fix some issues and continue fixing issues in the future. Launcher patches may come at irregular intervals but will slow down over time. Just wait for how much we will have to patch the game in the first few weeks.. 😭'",
+    "date": "1 10 2026",
+    "tags": [
+      "Slikey",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2010192775292301401?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hytale's Early Access",
+    "mainText": "'We are almost home.'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010167265338241177?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user asking if they can use Hytale to create games and submit to gamejams",
+    "mainText": "'To clarify, Hytale is a moddable game more than a proper engine. Which means your players need to own Hytale to play your game.Yes it is a barrier to entry which unity/unreal don't have. But you can totally come to a game jam, make a Hytale game mod, and submit it/present it.  🙂'",
+    "date": "1 10 2026",
+    "tags": [
+      "Thomas Frick",
+      "Modding",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas Frick",
+          "https://xcancel.com/ThomasFrick/status/2010164275260862842?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: possibility of skipping nights",
+    "mainText": "'yes'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010157921037090913?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: user fearing Hytale might consume their life",
+    "mainText": "'same'",
+    "date": "1 10 2026",
+    "tags": [
+      "Paris",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2010156673273606289?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Myne saying the lantern pet mod video might be the best gameplay video of Hytale",
+    "mainText": "'this is where the creatives will shine'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010153779224834337?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: fast travel",
+    "mainText": "'Im not a « big » fan of fast travel, but it was a necessity given the state of the game until we have proper features to compensate and push it a bit further in the gameloop.\r\n\r\nI think its also important to create a sense of « village/home » so having ways to return home is critical to push players much further away from home'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010150880507462054?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Paris, re: Acorn joking NoCube spoiled the essence of life",
     "mainText": "'oops'",
     "date": "1 10 2026",

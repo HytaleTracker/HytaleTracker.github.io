@@ -1,0 +1,264 @@
+[
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Acorn joking NoCube spoiled the essence of life",
+    "mainText": "'oops'",
+    "date": "1 10 2026",
+    "tags": [
+      "Paris",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2010144902253101152?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Prowl making a statement on teleportation in Hytale",
+    "mainText": "'I would like for people to play the game before making up their minds about this decision and making suggestions! There is a reason it was added: we played the game many times and noticed major issues caused by the lack of transportation. \r\n\r\nIt plays differently from other block games, and it's still in very early access, so it's missing many travel features.'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010142867608535423?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Prowl and Chayzur writing document for traveling methods",
+    "mainText": "'Perfect, will be watching and listening to feedback!'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010126067374403705?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Myne's 'wake up babe, new Hytale tweet' meme",
+    "mainText": "'You gotta make one that says \"wake up babe, Hytale release\" for Tuesday'",
+    "date": "1 10 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2010115682038600029?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: user saying the team should explain how to install on Linux",
+    "mainText": "'We’re looking at adding this and will have support articles with instructions added as well'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2010110499833463111?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: hot air balloons at launch",
+    "mainText": "'nope'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010110275614318613?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: hooks not being at launch",
+    "mainText": "'Not enough time, it required proper implementation into main branch and was acting up, will add after launch'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010109486934176256?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: Hytale being unplayable",
+    "mainText": "'Still true'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2010109154925691198?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: hookshot, glider being in the game at launch",
+    "mainText": "'Hook no. Glider is currently disabled in crafting because it's a super bad experience (available in creative, though). A patch coming after launch will enable it with \"ok\" configs. I tried to do a late-night fix on it, but I had too much going on and ended up just delaying it.'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010108919755223094?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: being logged out of the launcher before release",
+    "mainText": "'If you invalidate sessions on the account website it would, so long as you don’t do that you’re all set'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2010108569467732228?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: grid crafting",
+    "mainText": "'We have no plans to ever include grid crafting, as it would go against the game's entire design!'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010108299262492945?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: stress testing today",
+    "mainText": "'Thank you to everyone who participated and helped stress our systems before launch with Hytales launcher release. \r\n\r\nWe got a lot of great data and are busy making adjustments to make Tuesdays launch as smooth as possible. \r\n\r\nIf you haven’t already check out http://accounts.hytale.com/download to get logged in and be ready for launch!'",
+    "date": "1 10 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2010108152457695267?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user being a fan of Waystone mod in MC",
+    "mainText": "'Yeah, we made simple teleporters (they need to be connected + are limited) for now. We wanted to do waypoints at some point too, but we ran out of time to do it properly.'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010107823846257146?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Zero, re: Zeusley saying 'Ok?'",
+    "mainText": "'Ok!'",
+    "date": "1 10 2026",
+    "tags": [
+      "Zero",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Zero",
+          "https://xcancel.com/ZeroErrors/status/2010106348600439279?s=20"
+        ]
+      }
+    ]
+  }
+]

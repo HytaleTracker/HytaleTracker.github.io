@@ -1,6 +1,137 @@
 [
     {
         "mainPlatform": "tweet",
+        "summary": "The Hytale Team talk crafting, new Entity Tool, transportation, and more.",
+        "mainText": "<p class='mainTextParagraph'>After a mod showcase video displayed crafting taking time, Simon took to Twitter to provide additional information on the topic, stating basic items (like material/survival gear/traps) take no time to craft, while armor and crafting bench upgrades take a few seconds. Simon further clarified that upgrading a crafting bench increases the speed at which the player crafts, as well as other things, with NPCs increasing speed being a potential future feature.</p><p class='mainTextParagraph'>\n\nThe Hytale Team also unveiled a new Creative Mode tool - '<b><i>Entity Tools.</i></b>' The new feature was explained by Ktar in a tweet, stating it allows players to 'spawn NPCs, items, blocks, and models in [their] world to create beautiful scenes with more detail than ever before.' In a follow-up tweet, Ktar confirmed the tool is planned for adventure mode in the future, and stated it needs support for meshing as part of the world instead of entities and tweaks for use outside of Creative Mode. For final clarification, Ktar stated that the user who places the items can decide if they're interactable, and that players can control the light color and radius.</p><p class='mainTextParagraph'>\n\nWhen a mod showcase video revealed the existence of craftable portals in Hytale, Simon noted that they aren't 'OP,' and that there aren't many other transportation methods in Hytale at the moment - and the game's design requires exploration, which necessitates a method to return home. Simon also revealed that the launch of Hytale won't have the grappling hook or hot air balloon at all, and the glider being a Creative-only item due to it being a bad experience (something that will be made 'ok' in a post-launch patch).</p><p class='mainTextParagraph'>\n\nIn other Hytale news, the Hytale Team shared various videos and screenshots; a Gothic Castle Build Showcase, an old custom Cyberpunk map/mod, and countdown screenshots for 4 Days and 3 Days milestones. The team also launched Hytale's launcher early in order to stress test their back end systems, fixing many bugs along the way.</p><p class='mainTextParagraph'>\n\nGoing off topic, the Hytracker.net team has decided to <b><u>move away from daily posts</u></b> in favor of <b><u>weekly recap posts</u></b>, and additional unscheduled posts as necessary. This decision was made in order to provide more detailed and note-worthy posts to Hytale fans, and to lighten the workload for the Hytracker.net team. Currently, we have decided to make a weekly recap post every Sunday. If you want to stay updated, we recommend subscribing to our RSS feed in the bottom right of your window, or following Hytracker on Twitter @Hytracker.</p>",
+        "date": "01 11 2026",
+        "tags": [
+            "Simon",
+            "Tweet",
+            "Hytale",
+            "Ktar",
+            "Creative Mode",
+            "Early Access",
+            "Gameplay",
+            "Modding",
+            "Screenshot",
+            "Simon Notes",
+            "Tech",
+            "Video",
+            "Website"
+        ],
+        "sources": [
+            {
+                "1": [
+                    "Simon - Timed Crafting mechanic",
+                    "https://xcancel.com/Simon_Hypixel/status/2009612340115763615?s=20"
+                ]
+            },
+            {
+                "2": [
+                    "Simon - Increasing speed of crafting",
+                    "https://xcancel.com/Simon_Hypixel/status/2009624072205066637?s=20"
+                ]
+            },
+            {
+                "3": [
+                    "Hytale - Entity Tools video",
+                    "https://www.youtube.com/watch?v=_NNh6Dz7YpA"
+                ]
+            },
+            {
+                "4": [
+                    "Ktar - Entity Tools explanation",
+                    "https://xcancel.com/Ktar5/status/2010068604851716289?s=20"
+                ]
+            },
+            {
+                "5": [
+                    "Ktar - Entity Tools in Adventure Mode",
+                    "https://xcancel.com/Ktar5/status/2010069091265171772?s=20"
+                ]
+            },
+            {
+                "6": [
+                    "Ktar - Work Needed",
+                    "https://xcancel.com/Ktar5/status/2010070547057856850?s=20"
+                ]
+            },
+            {
+                "7": [
+                    "Ktar - Interacting with placed items",
+                    "https://xcancel.com/Ktar5/status/2010074323781132315?s=20"
+                ]
+            },
+            {
+                "8": [
+                    "Ktar - Light control",
+                    "https://xcancel.com/Ktar5/status/2010074789680120068?s=20"
+                ]
+            },
+            {
+                "9": [
+                    "Simon - Teleporter notes",
+                    "https://xcancel.com/Simon_Hypixel/status/2010102333242519991?s=20"
+                ]
+            },
+            {
+                "10": [
+                    "Simon - Necessary for game design",
+                    "https://xcancel.com/Simon_Hypixel/status/2010104148898000967?s=20"
+                ]
+            },
+            {
+                "11": [
+                    "Simon - Status of Hook and Glider",
+                    "https://xcancel.com/Simon_Hypixel/status/2010108919755223094?s=20"
+                ]
+            },
+            {
+                "12": [
+                    "Simon - Status of hot air balloon",
+                    "https://xcancel.com/Simon_Hypixel/status/2010110275614318613?s=20"
+                ]
+            },
+            {
+                "13": [
+                    "Hytale - Gothic Castle Build Showcase",
+                    "https://xcancel.com/Hytale/status/2009641921401196824?s=20"
+                ]
+            },
+            {
+                "14": [
+                    "Hytale - Old Cyberpunk Map/Mod",
+                    "https://xcancel.com/Hytale/status/2009690277678649680?s=20"
+                ]
+            },
+            {
+                "15": [
+                    "Hytale - 4 Days until Hytale Screenshot",
+                    "https://xcancel.com/Hytale/status/2009723185038492148?s=20"
+                ]
+            },
+            {
+                "16": [
+                    "Hytale - 3 Days until Hytale Screenshot",
+                    "https://xcancel.com/Hytale/status/2010102996299059465?s=20"
+                ]
+            },
+            {
+                "17": [
+                    "Hytale - Launcher Test",
+                    "https://xcancel.com/Hytale/status/2010003893787472017?s=20"
+                ]
+            },
+            {
+                "18": [
+                    "Follow Hytracker on Twitter",
+                    "https://x.com/hytracker"
+                ]
+            }
+        ]
+    },
+    {
+        "mainPlatform": "tweet",
         "summary": "The Hytale Team talk Machinima, mods, and lore.",
         "mainText": "<p class='mainTextParagraph'>Simon began the day by revealing a short cinematic made with an old version of Machinima, which Simon stated was recorded a few years ago, and confirmed the plan is to rebuild the Machinima tools after launch.</p><p class='mainTextParagraph'>\n\nAdditionally, Simon stated he gave permission for Hytale modders to release their early-access mods. Afterwards, Slikey revealed the team has a 'whole list of things missing [they] will need to add capabilities for.' Slikey then shared a thread detailing how modders and business partners enabled the team to be in a position to release Early Access next week.</p><p class='mainTextParagraph'>\n\nFinally, the Hytale Team shadow dropped a fresh blog post detailing the team's approach to narrative and lore, and how lore changed during Riot's ownership of the game, and must now be revisited -- ultimately returning to an earlier draft, while integrating some of the new with the old. One specific example is including both the New and Old Scarak designs, and including Tessa and Kyros! The blog states that lore in Exploration Mode will be uncovered almost exclusively through archaeology and discovery, and will only be light at first.</p><p class='mainTextParagraph'>\n\nFinally, a community member made a list of all the Hytale mods videos and screenshots that were shared today (final source link).</p>",
         "date": "01 08 2026",

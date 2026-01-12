@@ -1,6 +1,1338 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "ZeaBot, re: animation error in Simon's prefab video",
+    "mainText": "'The innkeeper’s  just vibing, his dance moves are solid!'",
+    "date": "1 11 2026",
+    "tags": [
+      "ZeaBot",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by ZeaBot",
+          "https://xcancel.com/ZeaBotLVL/status/2010509043186483330?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: animation bugs in video",
+    "mainText": "'The animations of the entities were bugged, but were funny enough to leave it in for this video, is fixed or will be fixed soon😅'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010504968969626010?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares update on prefab editor",
+    "mainText": "'The in-game Hytale prefabs editor can now support entities. \r\nYou can now easily build massive immersive worlds with tons of details!'\n\n(Video)",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Feature",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010504726215868860?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Myne saying the sheep faces need changing",
+    "mainText": "'they scare me bro'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010496002332012829?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Camels popping into their shell ",
+    "mainText": "'one of my fav haha'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010493662593958381?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: Doom in Hytale",
+    "mainText": "'Doom Guy Face - GIf'",
+    "date": "1 11 2026",
+    "tags": [
+      "HPMoo",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://xcancel.com/HPmooTV/status/2010483287668515239?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: Tebex issues",
+    "mainText": "'Please reach out to our payment processor, sadly this is something that is out of our control :( https://t.co/tJgWwfSenM'",
+    "date": "1 11 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech",
+      "Business"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2010476851064377530?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: Launcher issues",
+    "mainText": "'Glad you’re all sorted!'",
+    "date": "1 11 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2010476564182396965?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: launcher issues",
+    "mainText": "'Clear your browser cache, then fetch the latest version, uninstall and then reinstall, should resolve!'",
+    "date": "1 11 2026",
+    "tags": [
+      "DevSlashNull",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2010469825869680881?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Pebble wondering if they can make mods for Hytale",
+    "mainText": "'Hi Pebble! Miss ya buddy. This is all Java code and JSON assets. You'd be surprised how much of it can be done in just JSON.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Ktar",
+      "Modding",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2010465528943661299?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: DOOM in Hytale",
+    "mainText": "'Amazing! :D'",
+    "date": "1 11 2026",
+    "tags": [
+      "Ktar",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2010464855439090033?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares important statement regarding launch-day stress",
+    "mainText": "'IMPORTANT\r\n\r\nWe expect over 1 million players on the early access release day for Hytale (January 13). Please download the launcher today and log in now to help us significantly reduce launch-day stress. Let us know if you are having any issues.\r\n\r\nDownload now: https://hytale.com/download'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Website",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010458001455640636?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares TR7ZW.dev's mod",
+    "mainText": "'DOOM running in Hytale'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010447669060420059?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "ZeaBot, re: user comparing side-scrolling mod to Blasphemous game",
+    "mainText": "'Love blasphemous! The mountain peak was a big inspiration for this style of build :)'",
+    "date": "1 11 2026",
+    "tags": [
+      "ZeaBot",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by ZeaBot",
+          "https://xcancel.com/ZeaBotLVL/status/2010435134760337589?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Violet's Workshop mods",
+    "mainText": "'This Is The Good Stuff - Gif'",
+    "date": "1 11 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2010431711847526650?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Flash saying he'd probably break the game",
+    "mainText": "'You Learn More From Failure Than You Do Success - Gif'",
+    "date": "1 11 2026",
+    "tags": [
+      "Paris",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2010427361649656007?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Flash realizing he can try modding the game",
+    "mainText": "'Do it'",
+    "date": "1 11 2026",
+    "tags": [
+      "Paris",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2010423805437706361?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user thinking Simon's policy on adding mods to the game is good",
+    "mainText": "'💯'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010417776662630515?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Zeusley imagining a side-scrolling MMO in Hytale",
+    "mainText": "'yep'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010416849096433802?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Flash asking how much Simon paid",
+    "mainText": "'Cat HUH - Gif'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Business",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010415662213300406?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "ZeaBot, re: keeping Simon busy",
+    "mainText": "'having too much fun 🕺'",
+    "date": "1 11 2026",
+    "tags": [
+      "ZeaBot",
+      "Devs",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by ZeaBot",
+          "https://xcancel.com/ZeaBotLVL/status/2010415342804472168?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Myne saying there's so many possibilities with Hytale",
+    "mainText": "'$19.99 btw'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Business",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010414416932831488?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: ZeaBot's mods",
+    "mainText": "'You keeping me busy with all this content😅'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010414213467079087?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "ZeaBot, re: side-scrolling battle mod",
+    "mainText": "'Enjoyed making this small section, hopefully in my free time will get to expand and make it into a short metroidvania!\n\nHytale isn’t just a sandbox, it’s an engine. Really excited to see what people create 👀'\n\n(Later corrects wording to 'almost an engine' )",
+    "date": "1 11 2026",
+    "tags": [
+      "ZeaBot",
+      "Devs",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by ZeaBot",
+          "https://xcancel.com/ZeaBotLVL/status/2010414000555835486?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: large enemy in the video",
+    "mainText": "'Yeah, it's a big boi'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010413920796934159?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares Hytale Team mod",
+    "mainText": "'One of our level designers (not a programmer!) did a quick side-scroller for fun in Hytale!'\n\n(Video showing side-scrolling battle with large armored enemy)",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010412549486063673?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hytale Team mods",
+    "mainText": "'The team keep sending me mods while I'm trying to review the release branch, help'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010393438278361494?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: user counting down till they can start modding",
+    "mainText": "'you can already do new models in blockbench! in preparation'",
+    "date": "1 11 2026",
+    "tags": [
+      "Paris",
+      "Devs",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/LogadoPolina/status/2010393215669833735?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: skeleton summoning mod video",
+    "mainText": "'Cant wait till community goes wild on modding, it is quite accessible and fun!'",
+    "date": "1 11 2026",
+    "tags": [
+      "Paris",
+      "Devs",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/LogadoPolina/status/2010391680139346061?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie, re: Hytale fancam",
+    "mainText": "'Ron Swanson Smiling, Clapping Hands Above Head - GIf'",
+    "date": "1 11 2026",
+    "tags": [
+      "Propzie",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/2010390872936906861?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Google Trends showing Hytale is more popular than at announcement",
+    "mainText": "'DO NOT PANIC\r\n\r\nok panic'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010389436782219574?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Hytale approaching",
+    "mainText": "'Cat HUH - Gif'",
+    "date": "1 11 2026",
+    "tags": [
+      "Paris",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2010386391449079914?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Hytale approaching",
+    "mainText": "'I got my dream job, got engaged to the most wonderful woman, lost my dream job, got re-hired for my dream job - except under far better circumstances.\r\nAnd now my first ever shipped game as a professional game developer will be... Hytale?😭'",
+    "date": "1 11 2026",
+    "tags": [
+      "Paris",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2010386381793636715?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: Hytale approaching",
+    "mainText": "'Doesn't quite feel real yet does it?\r\nIt never has to me, didn't 2 years ago, and still doesn't now.\r\n\r\nIf I could only show a glimpse of the present to my past self, I would have been so much more hopeful for the future, I would have been a happier person.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Paris",
+      "Devs",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2010386379763548598?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: Hatsuya appreciating how easy it seems to be to make mods/world gen alterations",
+    "mainText": "'I hope that - even if things are still too difficult in the beginning - people will pick it up again and try again in a year. There will be many improvements and documentation available to lower the barrier of entry.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2010384266199454022?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: user asking about roadmap",
+    "mainText": "'Once everything calms down a bit, we will talk about the many roadmaps very openly. There is a lot of work to do and we will make sure that we don't leave the community wondering if we are aware of a shortcoming and in which order we would address them. \r\nIt will be quite difficult to keep an overview in the beginning and we need to find a good format on how to communicate the roadmaps without it becoming too bureaucratic.\r\nWe won't be able to tell you on what date a feature / improvement lands but I want the community to understand what our order of operation is to manage expectations.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Community",
+      "Future stuff"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2010383012685353081?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: creator/modding vision being understood more now",
+    "mainText": "'Very happy to see how the creator / modding vision became more and more understood after everything we have shown. Saw this great video by @EmberwulfZ. \nNow that the vision is better understood, we can work together to fix the shortcomings and talk about roadmaps. \nObviously what we said before is still true: Our priority remains our adventure mode but given what you have seen, you can also see how that doesn't mean that progress is mutually exclusive.\n\nhttps://www.youtube.com/watch?v=fR-hdc-Hjcw'",
+    "date": "1 11 2026",
+    "tags": [
+      "Slikey",
+      "Devs",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2010381151043543370?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Hugo saying NPCs are still a bit goofy, looking forward to improvements",
+    "mainText": "'NPC will get so much better over time, some are properly configured and quite smart already, we have blogpost coming up'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010374706486993332?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: summoning kweebecs",
+    "mainText": "'It should be seeds you throw around'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Devs",
+      "Modding",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010373788094157026?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: KC asking where the Kweebec Necromancers are",
+    "mainText": "'oh wait, imagine we do a book that spawn’s kweebecs fighters!!!! omg'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Modding",
+      "Simon Notes",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010373130976411837?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon shares Hytale Team mod video",
+    "mainText": "'Another Hytale mod from the team!\r\n\r\nI think this one needs to be part of the game!\r\n\r\nI swear at this point they are just pitching ideas in form of mods 😅'\n\n(Video showing player summon skeleton warriors to fight Trorks)",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Modding",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010372558198018181?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Propzie shares NoMine turning their dog into a Hytale Model video",
+    "mainText": "'Absolutely incredible model made by Nomine, they really nailed the hytale style! https://youtu.be/T7xzSual24I?si=In-ujQXymtzqZJKy via \r\n@YouTube'",
+    "date": "1 11 2026",
+    "tags": [
+      "Propzie",
+      "Community",
+      "Art",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Propzie",
+          "https://xcancel.com/Propzie/status/2010370611852308759?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: timed crafting",
+    "mainText": "'Most of the crafting is instant btw, people are over analyzing'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010367306833056017?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user saying it's a terrible mistake to not launch on mobile and console",
+    "mainText": "'Its the same thinking that had the game delayed though 😂\r\nPC first 😎'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010366831186579560?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user describing Hytale's crafting as 'mobile game crafting.'",
+    "mainText": "'Mobile game crafting? 😂\r\nWhat about Rust/Valheim/Satisfactory which uses similar crafting? \r\nbtw there are other crafting bench types in-game, you’ll see\r\n\r\nAlso, I don’t play mobile games and never will.\r\n\r\nWe are having fun with Hytale, not going to try to please everyone!'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Gameplay",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010365462111015394?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: 'Hytale it out of there' pun",
+    "mainText": "'Every Hytale pun delays 1.0 by another day'",
+    "date": "1 11 2026",
+    "tags": [
+      "Slikey",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2010360937941762454?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: Hytale fanart of WH40K character (alt)",
+    "mainText": "'Holy Terra!!!'",
+    "date": "1 11 2026",
+    "tags": [
+      "HPMoo",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://xcancel.com/HPmooTV/status/2010339469992280425?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: Hytale fanart of WH40K character",
+    "mainText": "'Proportions are great. Nice work!'",
+    "date": "1 11 2026",
+    "tags": [
+      "HPMoo",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://xcancel.com/HPmooTV/status/2010339245119189344?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: Hytale fanart of WH40K character",
+    "mainText": "'Yup. Following.'",
+    "date": "1 11 2026",
+    "tags": [
+      "HPMoo",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://xcancel.com/HPmooTV/status/2010339043293135291?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: Hytale fanart of WH40K character",
+    "mainText": "'Sweet and Holy Emperor!!! This is amazing!!!!'",
+    "date": "1 11 2026",
+    "tags": [
+      "HPMoo",
+      "Community",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://xcancel.com/HPmooTV/status/2010338319738253714?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: playtime tracking",
+    "mainText": "'Based on community demand, we did in fact add this - for now we only gather that data but we will definitely make sure that you will be able to see it. For now it was important that we make sure it's captured from day 1.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Slikey",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2010322352337490015?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Hytale Font",
+    "mainText": "'We recently started using Lexend because it is free for community, clean, and comes in 533 languages https://t.co/r9Yd3oSS57'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Off Topic",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010319836300333428?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: Slikey's Bob Ross post",
+    "mainText": "'And happy little accidents.'",
+    "date": "1 11 2026",
+    "tags": [
+      "HPMoo",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://xcancel.com/HPmooTV/status/2010318583205962122?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "HPMoo, re: Violet's Workshop asking what users would like to see in a mod",
+    "mainText": "'A dwarf.'",
+    "date": "1 11 2026",
+    "tags": [
+      "HPMoo",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by HPMoo",
+          "https://xcancel.com/HPmooTV/status/2010315982783574391?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user saying ferans look dangerous in art, adorable in-game",
+    "mainText": "'When you look that cute, no one takes you seriously. So you wear a mask ;)'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010307254843830560?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas shares Feran art from blog",
+    "mainText": "'Here is the original Feran art from blogpost I made a few years ago! It is a vertical format...Could be a good phone wallpaper? IDK...🦊🦴 #Hytale'\n\n(Image)",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010306536757973075?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: AI art being made with model trained on legally licensed content",
+    "mainText": "'I think if gen AI was made to help artists, it would be a different story. If artists had given their consent and would gain something in return, then it would be more ethical. Then remains the question of the disastrous impact data centers have on our planet...'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Off Topic",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010302383310713023?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: AI Slop",
+    "mainText": "'\"Gen AI is just a tool, you need to embrace it\". No - A paintbrush, a Computer, Procreate, Zbrush, Blender are tools. Gen AI is like someone entering your home, stealing your drawings, cuting them with cissors, mashing it up together, and selling it as if it was theirs'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Off Topic",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010301075589652848?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: AI Slop",
+    "mainText": "'And without all those human talents who built the databases that were robbed - there wouldn't be any of your favorite movies, games, songs or books. There wouldn't be anything to steal from, and AI bros would be playing with their poop, figuring out how to make money elsewhere😘'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Off Topic",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010299027649364356?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: AI Slop",
+    "mainText": "'Gentle reminder that what \"AI slop\" people are creating actually comes from millions of stolen images, made by real people who worked their asses off to gain skill, talent and mastery in their respective fields - and, no, self proclaimed AI artists aren't Artists, just scammers'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Off Topic",
+      "Art"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010299025468330018?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Paris, re: gathering foliage",
+    "mainText": "'It depends on the context of the item but for most decorative foliage you will optionally utilise a tool, to avoid accidentally cluttering the inventory with decorative blocks! :)'",
+    "date": "1 11 2026",
+    "tags": [
+      "Paris",
+      "Gameplay"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Paris",
+          "https://xcancel.com/OctrDev/status/2010277994020151546?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: server binaries",
+    "mainText": "'We will release a downloader tool on launch day, it will be for downloading just the server binaries and assets. \r\n\r\nThese will also come bundled in your installation of the game as they're required for single player.'",
+    "date": "1 11 2026",
+    "tags": [
+      "DevSlashNull",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2010251957295063235?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon gives statement on the work the team has been putting in",
+    "mainText": "'As we get closer to the Hytale release, I think of all the sacrifices made to get here. From the team, the community and myself.\r\n\r\nThe past few months have been incredibly difficult for my family as I have been away, reviving the game and rebuilding the team. 7 days a week.\r\n\r\nMy kids have not seen much of me in the past few months, I have missed milestones, events, precious moments and most importantly, the time we could have been together can’t be brought back. Yet, they are still overjoyed to see me for the small moments we share, as I worry I could become a stranger to them.\r\n\r\nMy only hope is for my sons to be inspired the passion and wish for them to find the same joy in their lives. I will spend more time with them when the game is stabilized after launch, as I will feel relieved from the burden of this curse.\r\n\r\nNo sacrifices, no Hytale.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010249341038928066?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: account locked after switching emails",
+    "mainText": "'Took a look into this and it should be resolved now'",
+    "date": "1 11 2026",
+    "tags": [
+      "DevSlashNull",
+      "Website"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2010249183593111948?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: LAN play",
+    "mainText": "'Yes you can LAN play :)'",
+    "date": "1 11 2026",
+    "tags": [
+      "DevSlashNull",
+      "Server"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2010245793983402398?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: number of haircuts updated before release",
+    "mainText": "'La Art team a update 22 haircuts en quelques jours. D'autres seront améliorées dans les prochaines maj'\n\n(The Art team has updated 22 haircuts in just a few days. Others will be improved in the next updates.)",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Cosmetics"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010238309155344599?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user finding it annoying to use MFA every login",
+    "mainText": "'It will get better after launch; it's to avoid a bunch of other issues.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Website",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010233120038236179?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user wanting a way to find mods by the Hytale Team",
+    "mainText": "'We are discussing where to put our own mods. We will probably test our in-game download with this, we will see!'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Modding",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010228564927623535?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Tweet Sheet",
+    "mainText": "'That is insane! GG on tracking all of this, Sophie ❤️🫡'",
+    "date": "1 10 2026",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2010220595854885229?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: Whoopie cushion mod",
+    "mainText": "'why'",
+    "date": "1 10 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010218522396467667?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Simon, re: Flash asking 'how many memories are we going to have to restore'",
     "mainText": "'yes'\n\n((Flash's image is of a Hytale screenshot, showing an Unknown Item with the description 'Find the Forgotten Temple and restore 100 Memories to unlock this recipe!'))",
     "date": "1 10 2026",
@@ -115,7 +1447,7 @@
     "mainText": "'To clarify, Hytale is a moddable game more than a proper engine. Which means your players need to own Hytale to play your game.Yes it is a barrier to entry which unity/unreal don't have. But you can totally come to a game jam, make a Hytale game mod, and submit it/present it.  🙂'",
     "date": "1 10 2026",
     "tags": [
-      "Thomas Frick",
+      "Thomas",
       "Modding",
       "Devs",
       "Community"
@@ -123,7 +1455,7 @@
     "sources": [
       {
         "1": [
-          "tweet by Thomas Frick",
+          "tweet by Thomas",
           "https://xcancel.com/ThomasFrick/status/2010164275260862842?s=20"
         ]
       }

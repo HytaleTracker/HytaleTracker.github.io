@@ -1,6 +1,103 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "DSN, re: Myne saying sheep faces are scary",
+    "mainText": "'Zoomed in photo of Hytale Sheep Face - Image'",
+    "date": "1 11 2026",
+    "tags": [
+      "DevSlashNull",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2010541386362241153?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Hytale sheep faces being scary",
+    "mainText": "'It's the emptyness of their brain that you are looking at. And yes it is scary.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Gameplay",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010540092230603003?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: ChimkenFingers asking how the team decides a camel should have a turtle shell and be able to hide in it",
+    "mainText": "'We are as passionate about the game as you, and we just have fun when imagining the creatures. Sometimes we just make our goofy ideas happen for real. Also we draw a lot beforehand, we sketch and concept :D'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Gameplay",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010539019633856952?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: why server providers need to request a token to have more than 100 servers",
+    "mainText": "'Because in the case of abuse, we need to be able to contact them and give them time to take action on that specific server. Otherwise we could only revoke all sessions from every customer and that would be bad for their business. Trying to make sure that GSPs can run a reliable business.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2010532184180838768?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: goat-like creature",
+    "mainText": "'It's a Mouflon'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Gameplay",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010523312456421809?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "ZeaBot, re: animation error in Simon's prefab video",
     "mainText": "'The innkeeper’s  just vibing, his dance moves are solid!'",
     "date": "1 11 2026",

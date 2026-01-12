@@ -1,6 +1,666 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Simon thanks SynthPotato for supporting Hytale",
+    "mainText": "'Thank you!'",
+    "date": "1 12 2026",
+    "tags": [
+      "Simon",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010745011189563430?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Hytale - 24 hours remain",
+    "mainText": "'Less than 24 hours until Early Access release... we are almost home ❤️ #Hytale'\n\n(Timer Countdown - Image)",
+    "date": "1 12 2026",
+    "tags": [
+      "Hytale",
+      "Early Access",
+      "Release",
+      "Screenshot"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Hytale",
+          "https://xcancel.com/Hytale/status/2010732038295621761?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user being surprised he speaks French",
+    "mainText": "'Je suis français!'\n\n(I am French!)",
+    "date": "1 12 2026",
+    "tags": [
+      "Thomas",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010730208228528363?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user asking what happened to make adult Hytale sheep traumatized",
+    "mainText": "'Adulthood does that'",
+    "date": "1 12 2026",
+    "tags": [
+      "Thomas",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010729780652699944?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Cyberpunk Hytale mod",
+    "mainText": "'Initially, Cybertale was a \"joke\": I quickly sketched a minigame idea as a poster for fun.\r\nHere is the image I made (very rough!).\r\n\r\nBut we thought it would be really interesting to prove \r\n@Hytale\r\n  style could work outside medieval fantasy, so we made a proof of concept ingame!'",
+    "date": "1 12 2026",
+    "tags": [
+      "Thomas",
+      "Devs",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010714428577091659?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: KC's Thankmas recap",
+    "mainText": "'This made me almost cryyyy 😭💚'",
+    "date": "1 12 2026",
+    "tags": [
+      "BuddhaCat",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2010712613307433380?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Hatsuya's message thanking the team",
+    "mainText": "'❤️'",
+    "date": "1 12 2026",
+    "tags": [
+      "Thomas",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010694786370675100?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user being excited for Hytale",
+    "mainText": "'On se voit demain sur le jeu!'\n\n(See you tomorrow on the game!)",
+    "date": "1 12 2026",
+    "tags": [
+      "Thomas",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010694364440498440?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: size of dev team",
+    "mainText": "'50+ or so'",
+    "date": "1 12 2026",
+    "tags": [
+      "Simon",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010692405377273876?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon gives statement on Hytale funding",
+    "mainText": "'Pleased to announce that we have officially secured the next two years of development costs through pre-purchases. Combined with my personal commitment of ten years, we are looking very strong for the future ❤️\r\n\r\nThank you all for the support.\r\n\r\nHytale is saved.\r\nWe are almost home.'",
+    "date": "1 12 2026",
+    "tags": [
+      "Simon",
+      "Statement",
+      "Business",
+      "Simon Notes"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010691717637222614?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Buddha, re: Slamma wanting a specific creature in the game",
+    "mainText": "'Slamma Creature Mod when?'",
+    "date": "1 12 2026",
+    "tags": [
+      "BuddhaCat",
+      "Community",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by BuddhaCat",
+          "https://xcancel.com/ItsBuddhaCat/status/2010687725792325771?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: user commenting on others being negative about small details of Hytale",
+    "mainText": "'Ce qui est important c’est le future du jeu, et ça, je suis très confiant! L’équipe est top 😎'\n\n(What's important is the future of the game, and that, I'm very confident about! The team is top-notch 😎)",
+    "date": "1 12 2026",
+    "tags": [
+      "Simon",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010685319578808450?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Polina's recent posts",
+    "mainText": "'Karma is back on your side. The curse is lifted. You did sooooo much for the art of this game, people will realize soon. ❤️'",
+    "date": "1 12 2026",
+    "tags": [
+      "Thomas",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010677669621281187?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: Arabic language support",
+    "mainText": "'I believe we are using some communautary tool that allows people from everywhere in the world to contribute to the translation of the game. I think we will post more informations soon, but yes there should be arabic too at some point!'",
+    "date": "1 12 2026",
+    "tags": [
+      "Thomas",
+      "Accessibility"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010665239801639421?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user feeling bad for spawning discourse around avatar art style",
+    "mainText": "'Hey don't worry, you seem to be a very kind person, thanks for your message ❤️'",
+    "date": "1 12 2026",
+    "tags": [
+      "Thomas",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010632534493905358?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: user being happy for them",
+    "mainText": "'Eléa 😭'",
+    "date": "1 12 2026",
+    "tags": [
+      "Polina",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://xcancel.com/LogadoPolina/status/2010631466078838981?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: time slowing as launch approaches",
+    "mainText": "'Yeah, gonna kill some time waiting by playing Hytale 😏 (for testing! not for fun, fun is for tomorrow)'",
+    "date": "1 12 2026",
+    "tags": [
+      "Polina",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://xcancel.com/LogadoPolina/status/2010628143816872315?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: Slamma not emotionally comprehending Hytale launching tomorrow",
+    "mainText": "'same, I started on this project more than 10 years ago and went through, one might say, some cursed times 🤣'",
+    "date": "1 12 2026",
+    "tags": [
+      "Polina",
+      "Devs",
+      "Community"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://xcancel.com/LogadoPolina/status/2010627832125497700?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Polina, re: Hytale launch",
+    "mainText": "'So, Hytale tomorrow, huh?'",
+    "date": "1 12 2026",
+    "tags": [
+      "Polina",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Polina",
+          "https://xcancel.com/LogadoPolina/status/2010624284096422092?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Ktar, re: Find the Kweebec",
+    "mainText": "'Filter blocks contain a list of a lot of block types from a category. Mostly used for masking a brush to a category of block type. You can also put them in a brush, but why would you. QA asked that, they crashed, I fixed it 😂'",
+    "date": "1 12 2026",
+    "tags": [
+      "Ktar",
+      "Gameplay",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Ktar",
+          "https://xcancel.com/Ktar5/status/2010612303272554712?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "PXL_Panda, re: Hytale launch",
+    "mainText": "'just one more day 🤯'",
+    "date": "1 12 2026",
+    "tags": [
+      "PXL_Panda",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by PXL_Panda",
+          "https://xcancel.com/pxl_panda/status/2010609535631888727?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user saying to adapt to AI 'art'",
+    "mainText": "'Yeah in France we had a tendency to cut King's heads when they weren't respecting our rights, this is our way of adapting. 👍'",
+    "date": "1 12 2026",
+    "tags": [
+      "Thomas",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010606695542927575?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: non-human playable races",
+    "mainText": "'It doesn't affect gameplay tho'",
+    "date": "1 12 2026",
+    "tags": [
+      "Thomas",
+      "Cosmetics"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010599622809395556?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: non-human playable races",
+    "mainText": "'It's not scrapped, the avatar body is a humanoid body, you can make human looking characters but you can also have fantasy skin colors, ears and features. We will add more body attachments in the future'",
+    "date": "1 12 2026",
+    "tags": [
+      "Thomas",
+      "Cosmetics"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010599502147620941?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user asking him NOT to change avatars",
+    "mainText": "'It is one of the reasons why the game stands out, it is true. Thanks for the kind words'",
+    "date": "1 12 2026",
+    "tags": [
+      "Thomas",
+      "Cosmetics"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010598955940565392?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: avatars looking uncanny without noses",
+    "mainText": "'I'm sure someone will make a nose mod haha'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Modding"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010592448079384927?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user asking if the avatar art style will be reworked in the future",
+    "mainText": "'We will ofc keep improving characters over time but therr won't be any changes on resolution for example. This isn't Hytale art style :). I'm proud of the work art team has done on characters, and some people won't like. It's OK'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Cosmetics"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010587589703811552?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas, re: user asking if the avatar art style will be reworked in the future",
+    "mainText": "'It's OK for people to make fun of things. Some people are very used to Minecraft art style, but Hytale this isn't Minecraft and characters will be more detailed for many important reasons (emotions, animations, close up). I would advise them to try the game first.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Cosmetics"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010587197125365996?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas shares his feelings before launch",
+    "mainText": "'I also think a lot about the team, past and present members who contributed at various level and went through the same things. Love you all ❤️'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010585567323730322?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas shares his feelings before launch",
+    "mainText": "'I really want to thank @Simon_Hypixel for saving the project. And collateraly, saving my sanity. I trust him and his vision for the game. The guy is working day and night with the team to get this game out ❤️'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010582539166265832?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas shares his feelings before launch",
+    "mainText": "'Hytale won't be perfect when it releases, we have ton of things to fix, but at least it exists and we will fix it overtime.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010582534644707492?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas shares his feelings before launch",
+    "mainText": "'I was lucky to have in my life some people i love, who supported me no matter what, and helped me power through difficult time. And the community too: they don't realize how much they helped. I feel really grateful.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010582526805647702?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas shares his feelings before launch",
+    "mainText": "'I for sure feel frustration for the years we lost due to \"the multiple events\", but right now I mostly feel relief. It was so hard to see this collapse past years...so many times I thought about giving up when looking at where project was going. Idk how many times I collapsed.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010582519943737504?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas shares his feelings before launch",
+    "mainText": "'To me it was not just a job, my life and brain was organized around Hytale. I went through a lot of creative \"fights\" to protect the original vision. It took so much space in my life that sometimes it was hard to disconnect and enjoy other things. I learnt to do better with time.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010582513773895748?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas shares his feelings before launch",
+    "mainText": "'Going from working 10 years, being fired, not being able to show the result of your work on your passion project, to the resurrection of it, feels pretty crazy. I have fresh scars due to how past years unfolded. I am still recovering.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010582507671191831?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Thomas shares his feelings before launch",
+    "mainText": "'Not sure how I will react when it goes live, but I will for sure have a tissue box for my eyes next to me.'",
+    "date": "1 11 2026",
+    "tags": [
+      "Thomas",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010582504558969134?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Ktar, re: Find the Kweebec",
     "mainText": "'First ^ Congratulations.'",
     "date": "1 11 2026",

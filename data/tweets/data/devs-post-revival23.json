@@ -1,6 +1,158 @@
 [
   {
     "mainPlatform": "tweet",
+    "summary": "Thomas, re: Hytale trends",
+    "mainText": "'We got this, team!\r\nHowever still not in Twitter trends?\r\nLet's go harder!\r\n@Hytale #GoogleTrend'\n\n(Labeled image of Google Trends view of Hytale)",
+    "date": "1 12 2026",
+    "tags": [
+      "Thomas",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Thomas",
+          "https://xcancel.com/ThomasFrick/status/2010915357587120400?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: user calling Hytale their 'dreamland' and 'atlantis'",
+    "mainText": "'Neverending Story - GIF'",
+    "date": "1 12 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2010901610495357365?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: release tomorrow",
+    "mainText": "'I can't sleep🌚 Hytale is releasing. The views keep increasing🌝 On Feb 1st I'll have worked on Hytale for 10 years, together with many of my talented colleagues. It's difficult to find the words right now, but I'm excited. And I know you are too. Have fun and enjoy our game😁🎵'",
+    "date": "1 12 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2010898422539436445?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: launch tomorrow",
+    "mainText": "'Going to bed knowing tomorrow we get to press the button we've waited 10 years to push, we can't wait to see you all in game tomorrow 💗'",
+    "date": "1 12 2026",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2010896085766783161?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Oscar, re: Mewen's bug fixing post",
+    "mainText": "'I feel partly responsible for these bug reports🌝'",
+    "date": "1 12 2026",
+    "tags": [
+      "Oscar Garvin",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Oscar Garvin",
+          "https://xcancel.com/onpujam/status/2010895347229606006?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Simon, re: launch tomorrow",
+    "mainText": "'As we prepare for launch, please get the launcher and log in before tomorrow!'",
+    "date": "1 12 2026",
+    "tags": [
+      "Simon",
+      "Community",
+      "Devs"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Simon",
+          "https://xcancel.com/Simon_Hypixel/status/2010888291630145614?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "DSN, re: chanting meme",
+    "mainText": "'This is what it will look like before we hit the button to go live tomorrow'",
+    "date": "1 12 2026",
+    "tags": [
+      "DevSlashNull",
+      "Community",
+      "Off Topic"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by DevSlashNull",
+          "https://xcancel.com/DevSlashNulled/status/2010884524226621460?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
+    "summary": "Slikey, re: CLI downloader not containing ARM version",
+    "mainText": "'Sorry, the downloader hasn't been compiled for arm64 yet - the server will run on arm64 but we couldn't finish the arm64 build action for the downloader itself.'",
+    "date": "1 12 2026",
+    "tags": [
+      "Slikey",
+      "Server",
+      "Tech"
+    ],
+    "sources": [
+      {
+        "1": [
+          "tweet by Slikey",
+          "https://xcancel.com/slikey/status/2010869532454510999?s=20"
+        ]
+      }
+    ]
+  },
+  {
+    "mainPlatform": "tweet",
     "summary": "Paris, re: Prowl saying he'll hunt down dream with daggers in a manhunt",
     "mainText": "'Daggers are my fav'",
     "date": "1 12 2026",
